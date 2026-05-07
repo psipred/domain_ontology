@@ -1,0 +1,2 @@
+reference_pathway	target_pathway	schema_reuse_rate	n_shared_columns	n_ref_only_columns	n_target_only_columns	vocab_reuse_rate	n_ref_cv_tokens	n_target_cv_tokens	n_shared_cv_tokens	n_target_only_tokens	rule_portability_rate	n_testable_rules	n_total_rules	mapping_completeness	n_target_tokens_total	n_target_tokens_mapped	n_reused_terms	n_new_terms_required	n_registry_terms_unused
+cAMP	otherPathway	0.9595	71	3	0	0.3571	140	83	50	33	0.7143	5	7	1.0	1824	1824	22	51	775

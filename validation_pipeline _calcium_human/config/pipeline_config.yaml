@@ -1,0 +1,243 @@
+# ═══════════════════════════════════════════════════════════════════════════
+# pipeline_config.yaml
+# cAMP Pathway Domain Ontology Testing Pipeline — Configuration
+# ═══════════════════════════════════════════════════════════════════════════
+
+project_name: "cAMP_pathway_domain_ontology"
+species: "Homo sapiens"
+pathway: "cAMP"
+random_seed: 42
+
+validation:
+  namespace_check_exclude_columns:
+    - occurrence_id
+    - cooccurring_domain_occurrences
+
+input_dir:  "input"
+output_dir: "output"
+log_dir:    "logs"
+query_dir:  "queries"
+
+
+# ── Input files (relative to input_dir) ─────────────────────────────────────
+
+# ── OWL / RDF files ──────────────────────────────────────────────────────────
+core_ontology:  "core_new.ttl"           # core ontology schema
+instance_data:  "calcium_population.ttl"    # OWL population (stage 4 output)
+shacl_shapes:   "shapes.ttl"             # SHACL validation shapes (stage 3)
+
+# ── Main tabular inputs ───────────────────────────────────────────────────────
+# Primary occurrence table — WITH ontology IDs injected (used by most stages)
+domain_occurrence_table:  "calcium_signaling_pathway_human_MERGED_domain_occurrences_WITH_IDS.tsv"
+
+# Domain type summary — per-domain statistics (n_proteins, n_occurrences etc.)
+# NOTE: two domain-type files exist; use cAMP_human_MERGED_domain_types.tsv
+# which has source_db, accession, description needed by stages 1 and 5.
+domain_type_summary:      "calcium_signaling_pathway_human_MERGED_domain_types.tsv"
+
+# Annotation controlled-vocabulary table (stage 1, 2, 5)
+annotation_table:         "Annotation_table_expanded.xlsx"
+
+# Background — all reviewed human proteins + InterPro domains (stage 7, 10, 15)
+protein_metadata:         "background_protein_domains.tsv"
+background_protein_domains: "background_protein_domains.tsv"
+
+# External cross-reference mapping: GO / Reactome / KEGG per protein (stage 14)
+ontology_vs_external_mapping: "ontology_vs_external_mapping.tsv"
+external_mappings:            "ontology_vs_external_mapping.tsv"
+
+# ── Biological benchmarking inputs ────────────────────────────────────────────
+# Known-biology benchmark (stage 12)
+gold_standard_relationships: "gold_standard_relationships.tsv"
+
+# Foreground proteins + domains for enrichment (stage 7, 10, 15)
+foreground_protein_domains: "foreground_protein_domains.tsv"
+
+# Protein family labels — manually curated biological groups (stage 10, 13)
+protein_group_labels: "calcium_protein_group_labels.tsv"
+
+# Protein family labels — sequence-based clusters from MMseqs2 (stage 13, 16)
+# protein_group_labels_sequencing.tsv currently has a parsing issue
+# (header row was read as data). Regenerate with convert_toolkit_output.py
+# using mmseqs2_3981626.tsv, then uncomment the line below.
+# protein_group_labels_sequencing: "protein_group_labels_sequencing.tsv"
+
+# ── MMseqs2 sequence clustering (stage 16) ───────────────────────────────────
+mmseqs2_clusters: "calcium_family_cluster_ids.tsv"
+# mmseqs2_search_results: "pairwise_identity.tsv"  # not available from web toolkit
+
+# ── Stage 4: OWL Population Builder ─────────────────────────────────────────
+owl_population_iri: "http://www.semanticweb.org/32045/ontologies/2026/0/camp_population"
+owl_core_ns:        "http://www.semanticweb.org/32045/ontologies/2026/0/core_ontology#"
+owl_import_iri:     "http://www.semanticweb.org/32045/ontologies/2026/0/core_ontology"
+owl_occurrence_function_tags: false
+owl_no_cooccurrence:          false
+owl_no_domain_order:          false
+
+# ── Column name aliases ───────────────────────────────────────────────────────
+column_aliases:
+  domain_type_id:        ["domain_type_id", "DomainTypeID", "domain_id"]
+  domain_occurrence_id:  ["domain_occurrence_id", "occurrence_id", "occ_id"]
+  protein_accession:     ["protein_accession", "uniprot_id"]
+  start:                 ["start", "start_pos", "seq_start", "start_position"]
+  end:                   ["end", "end_pos", "seq_end", "end_position"]
+  function_tags:         ["function_tags", "function_tag", "func_tags"]
+  binding_partner:       ["binding_parnter", "binding_partner", "bind_target"]
+  positional_category:   ["positional_category", "positional_cat"]
+  copy_number_property:  ["copy_number_property", "copy_number_cat", "copy_number"]
+  topology_context:      ["topology_context", "topology"]
+  proximity_categories:  ["proximity_categories", "proximity_cat"]
+  process:               ["process", "biological_process"]
+  protein_group:         ["protein_group", "group", "protein_family"]
+
+# ── Multi-value delimiters ────────────────────────────────────────────────────
+multi_value_columns:
+  default_delimiter: ";"
+  column_overrides:
+    binding_parnter:          ";"
+    binding_partner:          ";"
+    function_tags:            ";"
+    topology_context:         ";"
+    proximity_categories:     ";"
+    go_terms_all:             ";"
+    cooccurring_domain_types: ";"
+
+# ── Namespace / ID format patterns ───────────────────────────────────────────
+namespace_patterns:
+  DOP:      '^DOP:\d{6}$'
+  DOF:      '^DOF:\d{6}$'
+  DOT:      '^DOT:\d{6}$'
+  GO:       '^GO:\d{7}$'
+  IPR:      '^IPR\d{6}$'
+  CHEBI:    '^CHEBI:\d+$'
+  REACTOME: '^R-[A-Z]{3}-\d+$'
+  KEGG:     '^[a-z]{2,5}:\d+$'
+  UNIPROT:  '^[A-Z][0-9][A-Z0-9]{3}[0-9]([A-Z][0-9][A-Z0-9]{3}[0-9])?$'
+
+# ── Required columns ──────────────────────────────────────────────────────────
+required_columns:
+  domain_type_summary:
+    - domain_type_id
+    - source_db
+    - accession
+    - name
+  domain_occurrence_table:
+    - occurrence_id
+    - protein_accession
+    - domain_type_id
+    - start
+    - end
+    - positional_category
+    - topology_context
+    - function_tags
+    - domain_evidence_level
+  annotation_table:
+    - ID
+    - namespace
+    - term_type
+    - Name
+    - status
+
+# ── CV column → annotation table term_type ───────────────────────────────────
+cv_column_to_term_type:
+  positional_category:  "positional_or_topology_term"
+  copy_number_property: "CopyNumberCategory"
+  topology_context:     "positional_or_topology_term"
+  proximity_categories: "positional_or_topology_term"
+  function_tags:        "functional_term"
+  binding_parnter:      "binding_target_term"
+  binding_partner:      "binding_target_term"
+
+# ── Source DB vocabulary ──────────────────────────────────────────────────────
+valid_source_db:
+  - CDD
+  - INTERPRO
+  - PFAM
+  - PROFILE
+  - SMART
+  - PRINTS
+  - NCBIFAM
+
+# ── Biological group labels ───────────────────────────────────────────────────
+biological_groups:
+  receptor:           ["GPCR", "receptor", "Receptor"]
+  cyclase:            ["adenylyl_cyclase", "cyclase", "Cyclase"]
+  kinase:             ["PKA", "kinase", "Kinase"]
+  phosphodiesterase:  ["PDE", "phosphodiesterase"]
+  scaffold:           ["AKAP", "scaffold", "Scaffold"]
+  regulator:          ["regulator", "Regulator", "GEF", "GAP"]
+
+# ── Cross-column rules ────────────────────────────────────────────────────────
+cross_column_rules:
+  - rule_id: "R001"
+    name: "topology_not_in_function"
+    description: "topology terms must not appear in function_tags column"
+    source_col: "topology_context"
+    forbidden_in: "function_tags"
+  - rule_id: "R002"
+    name: "function_not_in_topology"
+    description: "function tags must not appear in topology_context column"
+    source_col: "function_tags"
+    forbidden_in: "topology_context"
+  - rule_id: "R003"
+    name: "binding_not_in_function"
+    description: "binding-target terms must not appear in function_tags"
+    source_col: "binding_parnter"
+    forbidden_in: "function_tags"
+
+# ── Enrichment analysis ───────────────────────────────────────────────────────
+enrichment:
+  fdr_threshold: 0.05
+  odds_ratio_min: 1.5
+  min_foreground_count: 2
+  top_n_plot: 20
+
+# ── Robustness testing ────────────────────────────────────────────────────────
+robustness:
+  bootstrap_iterations: 100
+  bootstrap_fraction: 0.8
+  shuffles: 100
+
+# ── Clustering ────────────────────────────────────────────────────────────────
+clustering:
+  n_clusters: 6
+  auto_select_k: true
+  max_clusters: 12
+  linkage_method: "ward"
+  feature_types:
+    - domain_types
+    - function_tags
+    - topology_context
+    - binding_partner
+
+# ── Plotting ──────────────────────────────────────────────────────────────────
+plotting:
+  figure_dpi: 150
+  figure_format: "png"
+  colormap_heatmap: "YlOrRd"
+  colormap_network: "tab10"
+  max_heatmap_rows: 40
+  max_heatmap_cols: 30
+  network_min_degree: 2
+  font_size: 9
+  title_font_size: 11
+
+# ── Stages to run ─────────────────────────────────────────────────────────────
+stages:
+  stage1_table_validation:              true
+  stage2_rule_conformance:              true
+  stage3_shacl:                         true
+  stage4_owl_population:                true
+  stage4b_owl_reasoning:                true
+  stage5_summary_metrics:               true
+  stage6_competency_questions:          true
+  stage7_enrichment:                    true
+  stage8_heatmaps:                      true
+  stage9_network:                       true
+  stage10_robustness:                   true
+  stage11_jena_queries:                 false
+  stage12_benchmark:                    true
+  stage13_protein_modules:              true
+  stage14_external_agreement:           true
+  stage15_negative_controls:            true
+  stage16_sequence_ontology_validation: true

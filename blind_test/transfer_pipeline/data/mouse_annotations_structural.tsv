@@ -1,0 +1,1004 @@
+protein_accession	gene_symbol	species	annotation_category	predicate	term_value	source_column
+A2ARP1	Vip	mouse	domain_type	hasDomainType	INTERPRO:IPR040557	domain_type_id
+A2ARP1	Vip	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	positional_category
+A2ARP1	Vip	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	proximity_categories
+A2ARP1	Vip	mouse	topology	hasTopologyContext	DOP:000012 unknown	topology_context
+B2RWS6	Ep300	mouse	domain_type	hasDomainType	INTERPRO:IPR000197	domain_type_id
+B2RWS6	Ep300	mouse	domain_type	hasDomainType	INTERPRO:IPR000433	domain_type_id
+B2RWS6	Ep300	mouse	domain_type	hasDomainType	INTERPRO:IPR001487	domain_type_id
+B2RWS6	Ep300	mouse	domain_type	hasDomainType	INTERPRO:IPR003101	domain_type_id
+B2RWS6	Ep300	mouse	domain_type	hasDomainType	INTERPRO:IPR010303	domain_type_id
+B2RWS6	Ep300	mouse	domain_type	hasDomainType	INTERPRO:IPR014744	domain_type_id
+B2RWS6	Ep300	mouse	domain_type	hasDomainType	INTERPRO:IPR031162	domain_type_id
+B2RWS6	Ep300	mouse	domain_type	hasDomainType	INTERPRO:IPR056484	domain_type_id
+B2RWS6	Ep300	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	positional_category
+B2RWS6	Ep300	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	positional_category
+B2RWS6	Ep300	mouse	position	hasPositionalCategory	DOP:000005 Internal	positional_category
+B2RWS6	Ep300	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	proximity_categories
+B2RWS6	Ep300	mouse	topology	hasTopologyContext	DOP:000012 unknown	topology_context
+E1AZ71	Cngb1	mouse	domain_type	hasDomainType	INTERPRO:IPR000595	domain_type_id
+E1AZ71	Cngb1	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	positional_category
+E1AZ71	Cngb1	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	proximity_categories
+E1AZ71	Cngb1	mouse	topology	hasTopologyContext	DOP:000006 cytoplasmic	topology_context
+E9Q236	Abcc4	mouse	domain_type	hasDomainType	INTERPRO:IPR003439	domain_type_id
+E9Q236	Abcc4	mouse	domain_type	hasDomainType	INTERPRO:IPR003593	domain_type_id
+E9Q236	Abcc4	mouse	domain_type	hasDomainType	INTERPRO:IPR011527	domain_type_id
+E9Q236	Abcc4	mouse	domain_type	hasDomainType	INTERPRO:IPR030240	domain_type_id
+E9Q236	Abcc4	mouse	domain_type	hasDomainType	INTERPRO:IPR047083	domain_type_id
+E9Q236	Abcc4	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	positional_category
+E9Q236	Abcc4	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	positional_category
+E9Q236	Abcc4	mouse	position	hasPositionalCategory	DOP:000005 Internal	positional_category
+E9Q236	Abcc4	mouse	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	proximity_categories
+E9Q236	Abcc4	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	proximity_categories
+E9Q236	Abcc4	mouse	topology	hasTopologyContext	DOP:000006 cytoplasmic	topology_context
+E9Q236	Abcc4	mouse	topology	hasTopologyContext	DOP:000007 extracellular	topology_context
+E9Q236	Abcc4	mouse	topology	hasTopologyContext	DOP:000008 transmembrane	topology_context
+E9Q401	Ryr2	mouse	domain_type	hasDomainType	INTERPRO:IPR000699	domain_type_id
+E9Q401	Ryr2	mouse	domain_type	hasDomainType	INTERPRO:IPR001870	domain_type_id
+E9Q401	Ryr2	mouse	domain_type	hasDomainType	INTERPRO:IPR002048	domain_type_id
+E9Q401	Ryr2	mouse	domain_type	hasDomainType	INTERPRO:IPR003032	domain_type_id
+E9Q401	Ryr2	mouse	domain_type	hasDomainType	INTERPRO:IPR003877	domain_type_id
+E9Q401	Ryr2	mouse	domain_type	hasDomainType	INTERPRO:IPR005821	domain_type_id
+E9Q401	Ryr2	mouse	domain_type	hasDomainType	INTERPRO:IPR009460	domain_type_id
+E9Q401	Ryr2	mouse	domain_type	hasDomainType	INTERPRO:IPR013662	domain_type_id
+E9Q401	Ryr2	mouse	domain_type	hasDomainType	INTERPRO:IPR014821	domain_type_id
+E9Q401	Ryr2	mouse	domain_type	hasDomainType	INTERPRO:IPR016093	domain_type_id
+E9Q401	Ryr2	mouse	domain_type	hasDomainType	INTERPRO:IPR035761	domain_type_id
+E9Q401	Ryr2	mouse	domain_type	hasDomainType	INTERPRO:IPR035762	domain_type_id
+E9Q401	Ryr2	mouse	domain_type	hasDomainType	INTERPRO:IPR035764	domain_type_id
+E9Q401	Ryr2	mouse	domain_type	hasDomainType	INTERPRO:IPR048581	domain_type_id
+E9Q401	Ryr2	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	positional_category
+E9Q401	Ryr2	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	positional_category
+E9Q401	Ryr2	mouse	position	hasPositionalCategory	DOP:000005 Internal	positional_category
+E9Q401	Ryr2	mouse	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	proximity_categories
+E9Q401	Ryr2	mouse	topology	hasTopologyContext	DOP:000006 cytoplasmic	topology_context
+E9Q401	Ryr2	mouse	topology	hasTopologyContext	DOP:000008 transmembrane	topology_context
+G5E829	Atp2b1	mouse	domain_type	hasDomainType	INTERPRO:IPR004014	domain_type_id
+G5E829	Atp2b1	mouse	domain_type	hasDomainType	INTERPRO:IPR006068	domain_type_id
+G5E829	Atp2b1	mouse	domain_type	hasDomainType	INTERPRO:IPR022141	domain_type_id
+G5E829	Atp2b1	mouse	domain_type	hasDomainType	INTERPRO:IPR044492	domain_type_id
+G5E829	Atp2b1	mouse	domain_type	hasDomainType	INTERPRO:IPR059000	domain_type_id
+G5E829	Atp2b1	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	positional_category
+G5E829	Atp2b1	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	positional_category
+G5E829	Atp2b1	mouse	position	hasPositionalCategory	DOP:000005 Internal	positional_category
+G5E829	Atp2b1	mouse	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	proximity_categories
+G5E829	Atp2b1	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	proximity_categories
+G5E829	Atp2b1	mouse	topology	hasTopologyContext	DOP:000006 cytoplasmic	topology_context
+G5E829	Atp2b1	mouse	topology	hasTopologyContext	DOP:000007 extracellular	topology_context
+G5E829	Atp2b1	mouse	topology	hasTopologyContext	DOP:000008 transmembrane	topology_context
+O08858	Sstr5	mouse	domain_type	hasDomainType	INTERPRO:IPR017452	domain_type_id
+O08858	Sstr5	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	positional_category
+O08858	Sstr5	mouse	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	proximity_categories
+O08858	Sstr5	mouse	topology	hasTopologyContext	DOP:000006 cytoplasmic	topology_context
+O08858	Sstr5	mouse	topology	hasTopologyContext	DOP:000007 extracellular	topology_context
+O08858	Sstr5	mouse	topology	hasTopologyContext	DOP:000008 transmembrane	topology_context
+O08908	Pik3r2	mouse	domain_type	hasDomainType	INTERPRO:IPR000198	domain_type_id
+O08908	Pik3r2	mouse	domain_type	hasDomainType	INTERPRO:IPR000980	domain_type_id
+O08908	Pik3r2	mouse	domain_type	hasDomainType	INTERPRO:IPR001452	domain_type_id
+O08908	Pik3r2	mouse	domain_type	hasDomainType	INTERPRO:IPR032498	domain_type_id
+O08908	Pik3r2	mouse	domain_type	hasDomainType	INTERPRO:IPR035020	domain_type_id
+O08908	Pik3r2	mouse	domain_type	hasDomainType	INTERPRO:IPR035022	domain_type_id
+O08908	Pik3r2	mouse	domain_type	hasDomainType	INTERPRO:IPR035586	domain_type_id
+O08908	Pik3r2	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	positional_category
+O08908	Pik3r2	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	positional_category
+O08908	Pik3r2	mouse	position	hasPositionalCategory	DOP:000005 Internal	positional_category
+O08908	Pik3r2	mouse	topology	hasTopologyContext	DOP:000012 unknown	topology_context
+O08911	Mapk1	mouse	domain_type	hasDomainType	INTERPRO:IPR000719	domain_type_id
+O08911	Mapk1	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	positional_category
+O08911	Mapk1	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	proximity_categories
+O08911	Mapk1	mouse	topology	hasTopologyContext	DOP:000012 unknown	topology_context
+O09000	Rac3	mouse	domain_type	hasDomainType	INTERPRO:IPR000014	domain_type_id
+O09000	Rac3	mouse	domain_type	hasDomainType	INTERPRO:IPR010011	domain_type_id
+O09000	Rac3	mouse	domain_type	hasDomainType	INTERPRO:IPR011598	domain_type_id
+O09000	Rac3	mouse	domain_type	hasDomainType	INTERPRO:IPR013767	domain_type_id
+O09000	Rac3	mouse	domain_type	hasDomainType	INTERPRO:IPR014920	domain_type_id
+O09000	Rac3	mouse	domain_type	hasDomainType	INTERPRO:IPR014935	domain_type_id
+O09000	Rac3	mouse	domain_type	hasDomainType	INTERPRO:IPR032565	domain_type_id
+O09000	Rac3	mouse	domain_type	hasDomainType	INTERPRO:IPR056193	domain_type_id
+O09000	Rac3	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	positional_category
+O09000	Rac3	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	positional_category
+O09000	Rac3	mouse	position	hasPositionalCategory	DOP:000005 Internal	positional_category
+O09000	Rac3	mouse	topology	hasTopologyContext	DOP:000012 unknown	topology_context
+O35904	Pik3cd	mouse	domain_type	hasDomainType	INTERPRO:IPR000341	domain_type_id
+O35904	Pik3cd	mouse	domain_type	hasDomainType	INTERPRO:IPR000403	domain_type_id
+O35904	Pik3cd	mouse	domain_type	hasDomainType	INTERPRO:IPR001263	domain_type_id
+O35904	Pik3cd	mouse	domain_type	hasDomainType	INTERPRO:IPR002420	domain_type_id
+O35904	Pik3cd	mouse	domain_type	hasDomainType	INTERPRO:IPR003113	domain_type_id
+O35904	Pik3cd	mouse	domain_type	hasDomainType	INTERPRO:IPR037703	domain_type_id
+O35904	Pik3cd	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	positional_category
+O35904	Pik3cd	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	positional_category
+O35904	Pik3cd	mouse	position	hasPositionalCategory	DOP:000005 Internal	positional_category
+O35904	Pik3cd	mouse	topology	hasTopologyContext	DOP:000012 unknown	topology_context
+O70176	Adcyap1	mouse	domain_type	hasDomainType	INTERPRO:IPR000532	domain_type_id
+O70176	Adcyap1	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	positional_category
+O70176	Adcyap1	mouse	position	hasPositionalCategory	DOP:000005 Internal	positional_category
+O70176	Adcyap1	mouse	topology	hasTopologyContext	DOP:000012 unknown	topology_context
+O70507	Hcn4	mouse	domain_type	hasDomainType	INTERPRO:IPR000595	domain_type_id
+O70507	Hcn4	mouse	domain_type	hasDomainType	INTERPRO:IPR005821	domain_type_id
+O70507	Hcn4	mouse	domain_type	hasDomainType	INTERPRO:IPR013621	domain_type_id
+O70507	Hcn4	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	positional_category
+O70507	Hcn4	mouse	position	hasPositionalCategory	DOP:000005 Internal	positional_category
+O70507	Hcn4	mouse	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	proximity_categories
+O70507	Hcn4	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	proximity_categories
+O70507	Hcn4	mouse	topology	hasTopologyContext	DOP:000006 cytoplasmic	topology_context
+O70507	Hcn4	mouse	topology	hasTopologyContext	DOP:000007 extracellular	topology_context
+O70507	Hcn4	mouse	topology	hasTopologyContext	DOP:000008 transmembrane	topology_context
+O88444	Adcy1	mouse	domain_type	hasDomainType	INTERPRO:IPR001054	domain_type_id
+O88444	Adcy1	mouse	domain_type	hasDomainType	INTERPRO:IPR032628	domain_type_id
+O88444	Adcy1	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	positional_category
+O88444	Adcy1	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	positional_category
+O88444	Adcy1	mouse	position	hasPositionalCategory	DOP:000005 Internal	positional_category
+O88444	Adcy1	mouse	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	proximity_categories
+O88444	Adcy1	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	proximity_categories
+O88444	Adcy1	mouse	topology	hasTopologyContext	DOP:000006 cytoplasmic	topology_context
+O88444	Adcy1	mouse	topology	hasTopologyContext	DOP:000008 transmembrane	topology_context
+O88643	Pak1	mouse	domain_type	hasDomainType	INTERPRO:IPR000095	domain_type_id
+O88643	Pak1	mouse	domain_type	hasDomainType	INTERPRO:IPR000719	domain_type_id
+O88643	Pak1	mouse	domain_type	hasDomainType	INTERPRO:IPR033923	domain_type_id
+O88643	Pak1	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	positional_category
+O88643	Pak1	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	positional_category
+O88643	Pak1	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	proximity_categories
+O88643	Pak1	mouse	topology	hasTopologyContext	DOP:000012 unknown	topology_context
+O88703	Hcn2	mouse	domain_type	hasDomainType	INTERPRO:IPR000595	domain_type_id
+O88703	Hcn2	mouse	domain_type	hasDomainType	INTERPRO:IPR005821	domain_type_id
+O88703	Hcn2	mouse	domain_type	hasDomainType	INTERPRO:IPR013621	domain_type_id
+O88703	Hcn2	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	positional_category
+O88703	Hcn2	mouse	position	hasPositionalCategory	DOP:000005 Internal	positional_category
+O88703	Hcn2	mouse	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	proximity_categories
+O88703	Hcn2	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	proximity_categories
+O88703	Hcn2	mouse	topology	hasTopologyContext	DOP:000006 cytoplasmic	topology_context
+O88703	Hcn2	mouse	topology	hasTopologyContext	DOP:000007 extracellular	topology_context
+O88703	Hcn2	mouse	topology	hasTopologyContext	DOP:000008 transmembrane	topology_context
+O89084	Pde4a	mouse	domain_type	hasDomainType	INTERPRO:IPR002073	domain_type_id
+O89084	Pde4a	mouse	domain_type	hasDomainType	INTERPRO:IPR003607	domain_type_id
+O89084	Pde4a	mouse	domain_type	hasDomainType	INTERPRO:IPR040844	domain_type_id
+O89084	Pde4a	mouse	position	hasPositionalCategory	DOP:000005 Internal	positional_category
+O89084	Pde4a	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	proximity_categories
+O89084	Pde4a	mouse	topology	hasTopologyContext	DOP:000012 unknown	topology_context
+P05132	Prkaca	mouse	domain_type	hasDomainType	INTERPRO:IPR000719	domain_type_id
+P05132	Prkaca	mouse	domain_type	hasDomainType	INTERPRO:IPR000961	domain_type_id
+P05132	Prkaca	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	positional_category
+P05132	Prkaca	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	positional_category
+P05132	Prkaca	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	proximity_categories
+P05132	Prkaca	mouse	topology	hasTopologyContext	DOP:000012 unknown	topology_context
+P08414	Camk4	mouse	domain_type	hasDomainType	INTERPRO:IPR000719	domain_type_id
+P08414	Camk4	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	positional_category
+P08414	Camk4	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	proximity_categories
+P08414	Camk4	mouse	topology	hasTopologyContext	DOP:000012 unknown	topology_context
+P0DP26	Calm1	mouse	domain_type	hasDomainType	INTERPRO:IPR002048	domain_type_id
+P0DP26	Calm1	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	positional_category
+P0DP26	Calm1	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	positional_category
+P0DP26	Calm1	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	proximity_categories
+P0DP26	Calm1	mouse	topology	hasTopologyContext	DOP:000012 unknown	topology_context
+P0DP27	Calm2	mouse	domain_type	hasDomainType	INTERPRO:IPR002048	domain_type_id
+P0DP27	Calm2	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	positional_category
+P0DP27	Calm2	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	positional_category
+P0DP27	Calm2	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	proximity_categories
+P0DP27	Calm2	mouse	topology	hasTopologyContext	DOP:000012 unknown	topology_context
+P0DP28	Calm3	mouse	domain_type	hasDomainType	INTERPRO:IPR002048	domain_type_id
+P0DP28	Calm3	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	positional_category
+P0DP28	Calm3	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	positional_category
+P0DP28	Calm3	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	proximity_categories
+P0DP28	Calm3	mouse	topology	hasTopologyContext	DOP:000012 unknown	topology_context
+P12657	Chrm1	mouse	domain_type	hasDomainType	INTERPRO:IPR017452	domain_type_id
+P12657	Chrm1	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	positional_category
+P12657	Chrm1	mouse	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	proximity_categories
+P12657	Chrm1	mouse	topology	hasTopologyContext	DOP:000006 cytoplasmic	topology_context
+P12657	Chrm1	mouse	topology	hasTopologyContext	DOP:000007 extracellular	topology_context
+P12657	Chrm1	mouse	topology	hasTopologyContext	DOP:000008 transmembrane	topology_context
+P18762	Adrb2	mouse	domain_type	hasDomainType	INTERPRO:IPR017452	domain_type_id
+P18762	Adrb2	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	positional_category
+P18762	Adrb2	mouse	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	proximity_categories
+P18762	Adrb2	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	proximity_categories
+P18762	Adrb2	mouse	topology	hasTopologyContext	DOP:000006 cytoplasmic	topology_context
+P18762	Adrb2	mouse	topology	hasTopologyContext	DOP:000007 extracellular	topology_context
+P18762	Adrb2	mouse	topology	hasTopologyContext	DOP:000008 transmembrane	topology_context
+P21237	Bdnf	mouse	domain_type	hasDomainType	INTERPRO:IPR002072	domain_type_id
+P21237	Bdnf	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	positional_category
+P21237	Bdnf	mouse	topology	hasTopologyContext	DOP:000012 unknown	topology_context
+P22387	Edn1	mouse	domain_type	hasDomainType	INTERPRO:IPR001928	domain_type_id
+P22387	Edn1	mouse	position	hasPositionalCategory	DOP:000005 Internal	positional_category
+P22387	Edn1	mouse	topology	hasTopologyContext	DOP:000012 unknown	topology_context
+P22389	Edn2	mouse	domain_type	hasDomainType	INTERPRO:IPR001928	domain_type_id
+P22389	Edn2	mouse	position	hasPositionalCategory	DOP:000005 Internal	positional_category
+P22389	Edn2	mouse	topology	hasTopologyContext	DOP:000012 unknown	topology_context
+P26361	Cftr	mouse	domain_type	hasDomainType	INTERPRO:IPR003439	domain_type_id
+P26361	Cftr	mouse	domain_type	hasDomainType	INTERPRO:IPR003593	domain_type_id
+P26361	Cftr	mouse	domain_type	hasDomainType	INTERPRO:IPR011527	domain_type_id
+P26361	Cftr	mouse	domain_type	hasDomainType	INTERPRO:IPR025837	domain_type_id
+P26361	Cftr	mouse	domain_type	hasDomainType	INTERPRO:IPR047082	domain_type_id
+P26361	Cftr	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	positional_category
+P26361	Cftr	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	positional_category
+P26361	Cftr	mouse	position	hasPositionalCategory	DOP:000005 Internal	positional_category
+P26361	Cftr	mouse	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	proximity_categories
+P26361	Cftr	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	proximity_categories
+P26361	Cftr	mouse	topology	hasTopologyContext	DOP:000006 cytoplasmic	topology_context
+P26361	Cftr	mouse	topology	hasTopologyContext	DOP:000007 extracellular	topology_context
+P26361	Cftr	mouse	topology	hasTopologyContext	DOP:000008 transmembrane	topology_context
+P26450	Pik3r1	mouse	domain_type	hasDomainType	INTERPRO:IPR000198	domain_type_id
+P26450	Pik3r1	mouse	domain_type	hasDomainType	INTERPRO:IPR000980	domain_type_id
+P26450	Pik3r1	mouse	domain_type	hasDomainType	INTERPRO:IPR001452	domain_type_id
+P26450	Pik3r1	mouse	domain_type	hasDomainType	INTERPRO:IPR032498	domain_type_id
+P26450	Pik3r1	mouse	domain_type	hasDomainType	INTERPRO:IPR035020	domain_type_id
+P26450	Pik3r1	mouse	domain_type	hasDomainType	INTERPRO:IPR035022	domain_type_id
+P26450	Pik3r1	mouse	domain_type	hasDomainType	INTERPRO:IPR035591	domain_type_id
+P26450	Pik3r1	mouse	domain_type	hasDomainType	INTERPRO:IPR044124	domain_type_id
+P26450	Pik3r1	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	positional_category
+P26450	Pik3r1	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	positional_category
+P26450	Pik3r1	mouse	position	hasPositionalCategory	DOP:000005 Internal	positional_category
+P26450	Pik3r1	mouse	topology	hasTopologyContext	DOP:000012 unknown	topology_context
+P27870	Vav1	mouse	domain_type	hasDomainType	INTERPRO:IPR000219	domain_type_id
+P27870	Vav1	mouse	domain_type	hasDomainType	INTERPRO:IPR000980	domain_type_id
+P27870	Vav1	mouse	domain_type	hasDomainType	INTERPRO:IPR001452	domain_type_id
+P27870	Vav1	mouse	domain_type	hasDomainType	INTERPRO:IPR001715	domain_type_id
+P27870	Vav1	mouse	domain_type	hasDomainType	INTERPRO:IPR001849	domain_type_id
+P27870	Vav1	mouse	domain_type	hasDomainType	INTERPRO:IPR002219	domain_type_id
+P27870	Vav1	mouse	domain_type	hasDomainType	INTERPRO:IPR022613	domain_type_id
+P27870	Vav1	mouse	domain_type	hasDomainType	INTERPRO:IPR035729	domain_type_id
+P27870	Vav1	mouse	domain_type	hasDomainType	INTERPRO:IPR035730	domain_type_id
+P27870	Vav1	mouse	domain_type	hasDomainType	INTERPRO:IPR035879	domain_type_id
+P27870	Vav1	mouse	domain_type	hasDomainType	INTERPRO:IPR037832	domain_type_id
+P27870	Vav1	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	positional_category
+P27870	Vav1	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	positional_category
+P27870	Vav1	mouse	position	hasPositionalCategory	DOP:000005 Internal	positional_category
+P27870	Vav1	mouse	topology	hasTopologyContext	DOP:000012 unknown	topology_context
+P29974	Cnga1	mouse	domain_type	hasDomainType	INTERPRO:IPR000595	domain_type_id
+P29974	Cnga1	mouse	domain_type	hasDomainType	INTERPRO:IPR005821	domain_type_id
+P29974	Cnga1	mouse	domain_type	hasDomainType	INTERPRO:IPR032406	domain_type_id
+P29974	Cnga1	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	positional_category
+P29974	Cnga1	mouse	position	hasPositionalCategory	DOP:000005 Internal	positional_category
+P29974	Cnga1	mouse	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	proximity_categories
+P29974	Cnga1	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	proximity_categories
+P29974	Cnga1	mouse	topology	hasTopologyContext	DOP:000006 cytoplasmic	topology_context
+P29974	Cnga1	mouse	topology	hasTopologyContext	DOP:000007 extracellular	topology_context
+P29974	Cnga1	mouse	topology	hasTopologyContext	DOP:000008 transmembrane	topology_context
+P30557	Ptger3	mouse	domain_type	hasDomainType	INTERPRO:IPR017452	domain_type_id
+P30557	Ptger3	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	positional_category
+P30557	Ptger3	mouse	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	proximity_categories
+P30557	Ptger3	mouse	topology	hasTopologyContext	DOP:000006 cytoplasmic	topology_context
+P30557	Ptger3	mouse	topology	hasTopologyContext	DOP:000007 extracellular	topology_context
+P30557	Ptger3	mouse	topology	hasTopologyContext	DOP:000008 transmembrane	topology_context
+P30873	Sstr1	mouse	domain_type	hasDomainType	INTERPRO:IPR017452	domain_type_id
+P30873	Sstr1	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	positional_category
+P30873	Sstr1	mouse	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	proximity_categories
+P30873	Sstr1	mouse	topology	hasTopologyContext	DOP:000006 cytoplasmic	topology_context
+P30873	Sstr1	mouse	topology	hasTopologyContext	DOP:000007 extracellular	topology_context
+P30873	Sstr1	mouse	topology	hasTopologyContext	DOP:000008 transmembrane	topology_context
+P30875	Sstr2	mouse	domain_type	hasDomainType	INTERPRO:IPR017452	domain_type_id
+P30875	Sstr2	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	positional_category
+P30875	Sstr2	mouse	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	proximity_categories
+P30875	Sstr2	mouse	topology	hasTopologyContext	DOP:000006 cytoplasmic	topology_context
+P30875	Sstr2	mouse	topology	hasTopologyContext	DOP:000007 extracellular	topology_context
+P30875	Sstr2	mouse	topology	hasTopologyContext	DOP:000008 transmembrane	topology_context
+P31938	Map2k1	mouse	domain_type	hasDomainType	INTERPRO:IPR000719	domain_type_id
+P31938	Map2k1	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	positional_category
+P31938	Map2k1	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	proximity_categories
+P31938	Map2k1	mouse	topology	hasTopologyContext	DOP:000012 unknown	topology_context
+P32648	Vip	mouse	domain_type	hasDomainType	INTERPRO:IPR000532	domain_type_id
+P32648	Vip	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	positional_category
+P32648	Vip	mouse	position	hasPositionalCategory	DOP:000005 Internal	positional_category
+P32648	Vip	mouse	topology	hasTopologyContext	DOP:000012 unknown	topology_context
+P34971	Adrb1	mouse	domain_type	hasDomainType	INTERPRO:IPR017452	domain_type_id
+P34971	Adrb1	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	positional_category
+P34971	Adrb1	mouse	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	proximity_categories
+P34971	Adrb1	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	proximity_categories
+P34971	Adrb1	mouse	topology	hasTopologyContext	DOP:000006 cytoplasmic	topology_context
+P34971	Adrb1	mouse	topology	hasTopologyContext	DOP:000007 extracellular	topology_context
+P34971	Adrb1	mouse	topology	hasTopologyContext	DOP:000008 transmembrane	topology_context
+P35347	Crhr1	mouse	domain_type	hasDomainType	INTERPRO:IPR001879	domain_type_id
+P35347	Crhr1	mouse	domain_type	hasDomainType	INTERPRO:IPR017981	domain_type_id
+P35347	Crhr1	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	positional_category
+P35347	Crhr1	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	positional_category
+P35347	Crhr1	mouse	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	proximity_categories
+P35347	Crhr1	mouse	proximity	hasProximityCategory	DOP:000009 NearSignalPeptideCleavage	proximity_categories
+P35347	Crhr1	mouse	topology	hasTopologyContext	DOP:000006 cytoplasmic	topology_context
+P35347	Crhr1	mouse	topology	hasTopologyContext	DOP:000007 extracellular	topology_context
+P35347	Crhr1	mouse	topology	hasTopologyContext	DOP:000008 transmembrane	topology_context
+P41588	Vipr2	mouse	domain_type	hasDomainType	INTERPRO:IPR001879	domain_type_id
+P41588	Vip	mouse	domain_type	hasDomainType	INTERPRO:IPR017981	domain_type_id
+P41588	Vip	mouse	domain_type	hasDomainType	INTERPRO:IPR047035	domain_type_id
+P41588	Vip	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	positional_category
+P41588	Vipr2	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	positional_category
+P41588	Vipr2	mouse	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	proximity_categories
+P41588	Vip	mouse	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	proximity_categories
+P41588	Vipr2	mouse	proximity	hasProximityCategory	DOP:000009 NearSignalPeptideCleavage	proximity_categories
+P41588	Vip	mouse	topology	hasTopologyContext	DOP:000006 cytoplasmic	topology_context
+P41588	Vipr2	mouse	topology	hasTopologyContext	DOP:000007 extracellular	topology_context
+P41588	Vip	mouse	topology	hasTopologyContext	DOP:000007 extracellular	topology_context
+P41588	Vip	mouse	topology	hasTopologyContext	DOP:000008 transmembrane	topology_context
+P42337	Pik3ca	mouse	domain_type	hasDomainType	INTERPRO:IPR000341	domain_type_id
+P42337	Pik3ca	mouse	domain_type	hasDomainType	INTERPRO:IPR000403	domain_type_id
+P42337	Pik3ca	mouse	domain_type	hasDomainType	INTERPRO:IPR001263	domain_type_id
+P42337	Pik3ca	mouse	domain_type	hasDomainType	INTERPRO:IPR002420	domain_type_id
+P42337	Pik3ca	mouse	domain_type	hasDomainType	INTERPRO:IPR003113	domain_type_id
+P42337	Pik3ca	mouse	domain_type	hasDomainType	INTERPRO:IPR037704	domain_type_id
+P42337	Pik3ca	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	positional_category
+P42337	Pik3ca	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	positional_category
+P42337	Pik3ca	mouse	position	hasPositionalCategory	DOP:000005 Internal	positional_category
+P42337	Pik3ca	mouse	topology	hasTopologyContext	DOP:000012 unknown	topology_context
+P45481	Crebbp	mouse	domain_type	hasDomainType	INTERPRO:IPR000197	domain_type_id
+P45481	Crebbp	mouse	domain_type	hasDomainType	INTERPRO:IPR000433	domain_type_id
+P45481	Crebbp	mouse	domain_type	hasDomainType	INTERPRO:IPR001487	domain_type_id
+P45481	Crebbp	mouse	domain_type	hasDomainType	INTERPRO:IPR003101	domain_type_id
+P45481	Crebbp	mouse	domain_type	hasDomainType	INTERPRO:IPR010303	domain_type_id
+P45481	Crebbp	mouse	domain_type	hasDomainType	INTERPRO:IPR014744	domain_type_id
+P45481	Crebbp	mouse	domain_type	hasDomainType	INTERPRO:IPR031162	domain_type_id
+P45481	Crebbp	mouse	domain_type	hasDomainType	INTERPRO:IPR056484	domain_type_id
+P45481	Crebbp	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	positional_category
+P45481	Crebbp	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	positional_category
+P45481	Crebbp	mouse	position	hasPositionalCategory	DOP:000005 Internal	positional_category
+P45481	Crebbp	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	proximity_categories
+P45481	Crebbp	mouse	topology	hasTopologyContext	DOP:000012 unknown	topology_context
+P47811	Mapk1	mouse	domain_type	hasDomainType	INTERPRO:IPR000719	domain_type_id
+P47811	Mapk1	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	positional_category
+P47811	Mapk1	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	proximity_categories
+P47811	Mapk1	mouse	topology	hasTopologyContext	DOP:000012 unknown	topology_context
+P48299	Edn3	mouse	domain_type	hasDomainType	INTERPRO:IPR001928	domain_type_id
+P48299	Edn3	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	positional_category
+P48299	Edn3	mouse	position	hasPositionalCategory	DOP:000005 Internal	positional_category
+P48299	Edn3	mouse	topology	hasTopologyContext	DOP:000012 unknown	topology_context
+P51829	Adcy7	mouse	domain_type	hasDomainType	INTERPRO:IPR001054	domain_type_id
+P51829	Adcy7	mouse	domain_type	hasDomainType	INTERPRO:IPR009398	domain_type_id
+P51829	Adcy7	mouse	domain_type	hasDomainType	INTERPRO:IPR032628	domain_type_id
+P51829	Adcy7	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	positional_category
+P51829	Adcy7	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	positional_category
+P51829	Adcy7	mouse	position	hasPositionalCategory	DOP:000005 Internal	positional_category
+P51829	Adcy7	mouse	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	proximity_categories
+P51829	Adcy7	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	proximity_categories
+P51829	Adcy7	mouse	topology	hasTopologyContext	DOP:000006 cytoplasmic	topology_context
+P51829	Adcy7	mouse	topology	hasTopologyContext	DOP:000008 transmembrane	topology_context
+P51830	Adcy9	mouse	domain_type	hasDomainType	INTERPRO:IPR001054	domain_type_id
+P51830	Adcy9	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	positional_category
+P51830	Adcy9	mouse	position	hasPositionalCategory	DOP:000005 Internal	positional_category
+P51830	Adcy9	mouse	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	proximity_categories
+P51830	Adcy9	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	proximity_categories
+P51830	Adcy9	mouse	topology	hasTopologyContext	DOP:000006 cytoplasmic	topology_context
+P60764	Rac3	mouse	domain_type	hasDomainType	INTERPRO:IPR005225	domain_type_id
+P60764	Rac3	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	positional_category
+P60764	Rac3	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	proximity_categories
+P60764	Rac3	mouse	topology	hasTopologyContext	DOP:000012 unknown	topology_context
+P61168	Drd2	mouse	domain_type	hasDomainType	INTERPRO:IPR017452	domain_type_id
+P61168	Drd2	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	positional_category
+P61168	Drd2	mouse	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	proximity_categories
+P61168	Drd2	mouse	topology	hasTopologyContext	DOP:000006 cytoplasmic	topology_context
+P61168	Drd2	mouse	topology	hasTopologyContext	DOP:000007 extracellular	topology_context
+P61168	Drd2	mouse	topology	hasTopologyContext	DOP:000008 transmembrane	topology_context
+P62137	Ppp1ca	mouse	domain_type	hasDomainType	INTERPRO:IPR004843	domain_type_id
+P62137	Ppp1ca	mouse	domain_type	hasDomainType	INTERPRO:IPR006186	domain_type_id
+P62137	Ppp1ca	mouse	domain_type	hasDomainType	INTERPRO:IPR031675	domain_type_id
+P62137	Ppp1ca	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	positional_category
+P62137	Ppp1ca	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	proximity_categories
+P62137	Ppp1ca	mouse	topology	hasTopologyContext	DOP:000012 unknown	topology_context
+P62141	Ppp1cb	mouse	domain_type	hasDomainType	INTERPRO:IPR004843	domain_type_id
+P62141	Ppp1cb	mouse	domain_type	hasDomainType	INTERPRO:IPR006186	domain_type_id
+P62141	Ppp1cb	mouse	domain_type	hasDomainType	INTERPRO:IPR031675	domain_type_id
+P62141	Ppp1cb	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	positional_category
+P62141	Ppp1cb	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	proximity_categories
+P62141	Ppp1cb	mouse	topology	hasTopologyContext	DOP:000012 unknown	topology_context
+P62835	Rap1a	mouse	domain_type	hasDomainType	INTERPRO:IPR005225	domain_type_id
+P62835	Rap1a	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	positional_category
+P62835	Rap1a	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	proximity_categories
+P62835	Rap1a	mouse	topology	hasTopologyContext	DOP:000012 unknown	topology_context
+P63001	Rac1	mouse	domain_type	hasDomainType	INTERPRO:IPR005225	domain_type_id
+P63001	Rac1	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	positional_category
+P63001	Rac1	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	proximity_categories
+P63001	Rac1	mouse	topology	hasTopologyContext	DOP:000012 unknown	topology_context
+P63085	Mapk1	mouse	domain_type	hasDomainType	INTERPRO:IPR000719	domain_type_id
+P63085	Mapk1	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	positional_category
+P63085	Mapk1	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	proximity_categories
+P63085	Mapk1	mouse	topology	hasTopologyContext	DOP:000012 unknown	topology_context
+P63087	Ppp1cc	mouse	domain_type	hasDomainType	INTERPRO:IPR004843	domain_type_id
+P63087	Ppp1cc	mouse	domain_type	hasDomainType	INTERPRO:IPR006186	domain_type_id
+P63087	Ppp1cc	mouse	domain_type	hasDomainType	INTERPRO:IPR031675	domain_type_id
+P63087	Ppp1cc	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	positional_category
+P63087	Ppp1cc	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	proximity_categories
+P63087	Ppp1cc	mouse	topology	hasTopologyContext	DOP:000012 unknown	topology_context
+P68181	Prkacb	mouse	domain_type	hasDomainType	INTERPRO:IPR000719	domain_type_id
+P68181	Prkacb	mouse	domain_type	hasDomainType	INTERPRO:IPR000961	domain_type_id
+P68181	Prkacb	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	positional_category
+P68181	Prkacb	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	positional_category
+P68181	Prkacb	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	proximity_categories
+P68181	Prkacb	mouse	topology	hasTopologyContext	DOP:000012 unknown	topology_context
+P70205	Adcyap1	mouse	domain_type	hasDomainType	INTERPRO:IPR001879	domain_type_id
+P70205	Adcyap1r1	mouse	domain_type	hasDomainType	INTERPRO:IPR017981	domain_type_id
+P70205	Adcyap1r1	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	positional_category
+P70205	Adcyap1	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	positional_category
+P70205	Adcyap1	mouse	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	proximity_categories
+P70205	Adcyap1r1	mouse	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	proximity_categories
+P70205	Adcyap1	mouse	proximity	hasProximityCategory	DOP:000009 NearSignalPeptideCleavage	proximity_categories
+P70205	Adcyap1r1	mouse	topology	hasTopologyContext	DOP:000006 cytoplasmic	topology_context
+P70205	Adcyap1	mouse	topology	hasTopologyContext	DOP:000007 extracellular	topology_context
+P70205	Adcyap1r1	mouse	topology	hasTopologyContext	DOP:000007 extracellular	topology_context
+P70205	Adcyap1r1	mouse	topology	hasTopologyContext	DOP:000008 transmembrane	topology_context
+P70335	Rock1	mouse	domain_type	hasDomainType	INTERPRO:IPR000719	domain_type_id
+P70335	Rock1	mouse	domain_type	hasDomainType	INTERPRO:IPR000961	domain_type_id
+P70335	Rock1	mouse	domain_type	hasDomainType	INTERPRO:IPR001849	domain_type_id
+P70335	Rock1	mouse	domain_type	hasDomainType	INTERPRO:IPR002219	domain_type_id
+P70335	Rock1	mouse	domain_type	hasDomainType	INTERPRO:IPR011072	domain_type_id
+P70335	Rock1	mouse	domain_type	hasDomainType	INTERPRO:IPR015008	domain_type_id
+P70335	Rock1	mouse	domain_type	hasDomainType	INTERPRO:IPR037310	domain_type_id
+P70335	Rock1	mouse	domain_type	hasDomainType	INTERPRO:IPR057529	domain_type_id
+P70335	Rock1	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	positional_category
+P70335	Rock1	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	positional_category
+P70335	Rock1	mouse	position	hasPositionalCategory	DOP:000005 Internal	positional_category
+P70335	Rock1	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	proximity_categories
+P70335	Rock1	mouse	topology	hasTopologyContext	DOP:000012 unknown	topology_context
+P70336	Rock2	mouse	domain_type	hasDomainType	INTERPRO:IPR000719	domain_type_id
+P70336	Rock2	mouse	domain_type	hasDomainType	INTERPRO:IPR000961	domain_type_id
+P70336	Rock2	mouse	domain_type	hasDomainType	INTERPRO:IPR001849	domain_type_id
+P70336	Rock2	mouse	domain_type	hasDomainType	INTERPRO:IPR002219	domain_type_id
+P70336	Rock2	mouse	domain_type	hasDomainType	INTERPRO:IPR011072	domain_type_id
+P70336	Rock2	mouse	domain_type	hasDomainType	INTERPRO:IPR015008	domain_type_id
+P70336	Rock2	mouse	domain_type	hasDomainType	INTERPRO:IPR029878	domain_type_id
+P70336	Rock2	mouse	domain_type	hasDomainType	INTERPRO:IPR037311	domain_type_id
+P70336	Rock2	mouse	domain_type	hasDomainType	INTERPRO:IPR057529	domain_type_id
+P70336	Rock2	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	positional_category
+P70336	Rock2	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	positional_category
+P70336	Rock2	mouse	position	hasPositionalCategory	DOP:000005 Internal	positional_category
+P70336	Rock2	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	proximity_categories
+P70336	Rock2	mouse	topology	hasTopologyContext	DOP:000012 unknown	topology_context
+P84309	Adcy5	mouse	domain_type	hasDomainType	INTERPRO:IPR001054	domain_type_id
+P84309	Adcy5	mouse	domain_type	hasDomainType	INTERPRO:IPR009398	domain_type_id
+P84309	Adcy5	mouse	domain_type	hasDomainType	INTERPRO:IPR032628	domain_type_id
+P84309	Adcy5	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	positional_category
+P84309	Adcy5	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	positional_category
+P84309	Adcy5	mouse	position	hasPositionalCategory	DOP:000005 Internal	positional_category
+P84309	Adcy5	mouse	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	proximity_categories
+P84309	Adcy5	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	proximity_categories
+P84309	Adcy5	mouse	topology	hasTopologyContext	DOP:000006 cytoplasmic	topology_context
+P84309	Adcy5	mouse	topology	hasTopologyContext	DOP:000008 transmembrane	topology_context
+P97490	Adcy8	mouse	domain_type	hasDomainType	INTERPRO:IPR001054	domain_type_id
+P97490	Adcy8	mouse	domain_type	hasDomainType	INTERPRO:IPR009398	domain_type_id
+P97490	Adcy8	mouse	domain_type	hasDomainType	INTERPRO:IPR032628	domain_type_id
+P97490	Adcy8	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	positional_category
+P97490	Adcy8	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	positional_category
+P97490	Adcy8	mouse	position	hasPositionalCategory	DOP:000005 Internal	positional_category
+P97490	Adcy8	mouse	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	proximity_categories
+P97490	Adcy8	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	proximity_categories
+P97490	Adcy8	mouse	topology	hasTopologyContext	DOP:000006 cytoplasmic	topology_context
+P97490	Adcy8	mouse	topology	hasTopologyContext	DOP:000008 transmembrane	topology_context
+P97751	Vip	mouse	domain_type	hasDomainType	INTERPRO:IPR001879	domain_type_id
+P97751	Vip	mouse	domain_type	hasDomainType	INTERPRO:IPR017981	domain_type_id
+P97751	Vip	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	positional_category
+P97751	Vip	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	positional_category
+P97751	Vip	mouse	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	proximity_categories
+P97751	Vip	mouse	proximity	hasProximityCategory	DOP:000009 NearSignalPeptideCleavage	proximity_categories
+P97751	Vip	mouse	topology	hasTopologyContext	DOP:000006 cytoplasmic	topology_context
+P97751	Vip	mouse	topology	hasTopologyContext	DOP:000007 extracellular	topology_context
+P97751	Vip	mouse	topology	hasTopologyContext	DOP:000008 transmembrane	topology_context
+P97813	Pld2	mouse	domain_type	hasDomainType	INTERPRO:IPR001683	domain_type_id
+P97813	Pld2	mouse	domain_type	hasDomainType	INTERPRO:IPR001736	domain_type_id
+P97813	Pld2	mouse	domain_type	hasDomainType	INTERPRO:IPR001849	domain_type_id
+P97813	Pld2	mouse	domain_type	hasDomainType	INTERPRO:IPR025202	domain_type_id
+P97813	Pld2	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	positional_category
+P97813	Pld2	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	positional_category
+P97813	Pld2	mouse	position	hasPositionalCategory	DOP:000005 Internal	positional_category
+P97813	Pld2	mouse	topology	hasTopologyContext	DOP:000012 unknown	topology_context
+P97926	Oxt	mouse	domain_type	hasDomainType	INTERPRO:IPR017452	domain_type_id
+P97926	Oxt	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	positional_category
+P97926	Oxt	mouse	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	proximity_categories
+P97926	Oxt	mouse	topology	hasTopologyContext	DOP:000006 cytoplasmic	topology_context
+P97926	Oxt	mouse	topology	hasTopologyContext	DOP:000007 extracellular	topology_context
+P97926	Oxt	mouse	topology	hasTopologyContext	DOP:000008 transmembrane	topology_context
+Q01063	Pde4d	mouse	domain_type	hasDomainType	INTERPRO:IPR002073	domain_type_id
+Q01063	Pde4d	mouse	domain_type	hasDomainType	INTERPRO:IPR040844	domain_type_id
+Q01063	Pde4d	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	positional_category
+Q01063	Pde4d	mouse	position	hasPositionalCategory	DOP:000005 Internal	positional_category
+Q01063	Pde4d	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	proximity_categories
+Q01063	Pde4d	mouse	topology	hasTopologyContext	DOP:000012 unknown	topology_context
+Q01147	Creb1	mouse	domain_type	hasDomainType	INTERPRO:IPR003102	domain_type_id
+Q01147	Creb1	mouse	domain_type	hasDomainType	INTERPRO:IPR004827	domain_type_id
+Q01147	Creb1	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	positional_category
+Q01147	Creb1	mouse	position	hasPositionalCategory	DOP:000005 Internal	positional_category
+Q01147	Creb1	mouse	topology	hasTopologyContext	DOP:000012 unknown	topology_context
+Q01341	Adcy6	mouse	domain_type	hasDomainType	INTERPRO:IPR001054	domain_type_id
+Q01341	Adcy6	mouse	domain_type	hasDomainType	INTERPRO:IPR009398	domain_type_id
+Q01341	Adcy6	mouse	domain_type	hasDomainType	INTERPRO:IPR032628	domain_type_id
+Q01341	Adcy6	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	positional_category
+Q01341	Adcy6	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	positional_category
+Q01341	Adcy6	mouse	position	hasPositionalCategory	DOP:000005 Internal	positional_category
+Q01341	Adcy6	mouse	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	proximity_categories
+Q01341	Adcy6	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	proximity_categories
+Q01341	Adcy6	mouse	topology	hasTopologyContext	DOP:000006 cytoplasmic	topology_context
+Q01341	Adcy6	mouse	topology	hasTopologyContext	DOP:000008 transmembrane	topology_context
+Q01815	Cacna1c	mouse	domain_type	hasDomainType	INTERPRO:IPR005821	domain_type_id
+Q01815	Cacna1c	mouse	domain_type	hasDomainType	INTERPRO:IPR014873	domain_type_id
+Q01815	Cacna1c	mouse	domain_type	hasDomainType	INTERPRO:IPR031649	domain_type_id
+Q01815	Cacna1c	mouse	domain_type	hasDomainType	INTERPRO:IPR031688	domain_type_id
+Q01815	Cacna1c	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	positional_category
+Q01815	Cacna1c	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	positional_category
+Q01815	Cacna1c	mouse	position	hasPositionalCategory	DOP:000005 Internal	positional_category
+Q01815	Cacna1c	mouse	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	proximity_categories
+Q01815	Cacna1c	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	proximity_categories
+Q01815	Cacna1c	mouse	topology	hasTopologyContext	DOP:000006 cytoplasmic	topology_context
+Q01815	Cacna1c	mouse	topology	hasTopologyContext	DOP:000007 extracellular	topology_context
+Q01815	Cacna1c	mouse	topology	hasTopologyContext	DOP:000008 transmembrane	topology_context
+Q02789	Cacna1s	mouse	domain_type	hasDomainType	INTERPRO:IPR005821	domain_type_id
+Q02789	Cacna1s	mouse	domain_type	hasDomainType	INTERPRO:IPR014873	domain_type_id
+Q02789	Cacna1s	mouse	domain_type	hasDomainType	INTERPRO:IPR031649	domain_type_id
+Q02789	Cacna1s	mouse	domain_type	hasDomainType	INTERPRO:IPR031688	domain_type_id
+Q02789	Cacna1s	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	positional_category
+Q02789	Cacna1s	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	positional_category
+Q02789	Cacna1s	mouse	position	hasPositionalCategory	DOP:000005 Internal	positional_category
+Q02789	Cacna1s	mouse	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	proximity_categories
+Q02789	Cacna1s	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	proximity_categories
+Q02789	Cacna1s	mouse	topology	hasTopologyContext	DOP:000006 cytoplasmic	topology_context
+Q02789	Cacna1s	mouse	topology	hasTopologyContext	DOP:000007 extracellular	topology_context
+Q02789	Cacna1s	mouse	topology	hasTopologyContext	DOP:000008 transmembrane	topology_context
+Q04573	Npy1r	mouse	domain_type	hasDomainType	INTERPRO:IPR017452	domain_type_id
+Q04573	Npy1r	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	positional_category
+Q04573	Npy1r	mouse	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	proximity_categories
+Q04573	Npy1r	mouse	topology	hasTopologyContext	DOP:000006 cytoplasmic	topology_context
+Q04573	Npy1r	mouse	topology	hasTopologyContext	DOP:000007 extracellular	topology_context
+Q04573	Npy1r	mouse	topology	hasTopologyContext	DOP:000008 transmembrane	topology_context
+Q05144	Rac2	mouse	domain_type	hasDomainType	INTERPRO:IPR005225	domain_type_id
+Q05144	Rac2	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	positional_category
+Q05144	Rac2	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	proximity_categories
+Q05144	Rac2	mouse	topology	hasTopologyContext	DOP:000012 unknown	topology_context
+Q0P543	Gipr	mouse	domain_type	hasDomainType	INTERPRO:IPR001879	domain_type_id
+Q0P543	Gipr	mouse	domain_type	hasDomainType	INTERPRO:IPR017981	domain_type_id
+Q0P543	Gipr	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	positional_category
+Q0P543	Gipr	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	positional_category
+Q0P543	Gipr	mouse	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	proximity_categories
+Q0P543	Gipr	mouse	topology	hasTopologyContext	DOP:000006 cytoplasmic	topology_context
+Q0P543	Gipr	mouse	topology	hasTopologyContext	DOP:000007 extracellular	topology_context
+Q0P543	Gipr	mouse	topology	hasTopologyContext	DOP:000008 transmembrane	topology_context
+Q3UEI1	Pde4c	mouse	domain_type	hasDomainType	INTERPRO:IPR002073	domain_type_id
+Q3UEI1	Pde4c	mouse	domain_type	hasDomainType	INTERPRO:IPR003607	domain_type_id
+Q3UEI1	Pde4c	mouse	domain_type	hasDomainType	INTERPRO:IPR040844	domain_type_id
+Q3UEI1	Pde4c	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	positional_category
+Q3UEI1	Pde4c	mouse	position	hasPositionalCategory	DOP:000005 Internal	positional_category
+Q3UEI1	Pde4c	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	proximity_categories
+Q3UEI1	Pde4c	mouse	topology	hasTopologyContext	DOP:000012 unknown	topology_context
+Q3UW12	Cnga4	mouse	domain_type	hasDomainType	INTERPRO:IPR000595	domain_type_id
+Q3UW12	Cnga4	mouse	domain_type	hasDomainType	INTERPRO:IPR005821	domain_type_id
+Q3UW12	Cnga4	mouse	domain_type	hasDomainType	INTERPRO:IPR032406	domain_type_id
+Q3UW12	Cnga4	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	positional_category
+Q3UW12	Cnga4	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	positional_category
+Q3UW12	Cnga4	mouse	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	proximity_categories
+Q3UW12	Cnga4	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	proximity_categories
+Q3UW12	Cnga4	mouse	topology	hasTopologyContext	DOP:000006 cytoplasmic	topology_context
+Q3UW12	Cnga4	mouse	topology	hasTopologyContext	DOP:000007 extracellular	topology_context
+Q3UW12	Cnga4	mouse	topology	hasTopologyContext	DOP:000008 transmembrane	topology_context
+Q58A65	Mapk8	mouse	domain_type	hasDomainType	INTERPRO:IPR032486	domain_type_id
+Q58A65	Mapk8	mouse	domain_type	hasDomainType	INTERPRO:IPR034743	domain_type_id
+Q58A65	Mapk8	mouse	domain_type	hasDomainType	INTERPRO:IPR034744	domain_type_id
+Q58A65	Mapk8	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	positional_category
+Q58A65	Mapk8	mouse	position	hasPositionalCategory	DOP:000005 Internal	positional_category
+Q58A65	Mapk8	mouse	topology	hasTopologyContext	DOP:000012 unknown	topology_context
+Q60571	Crh	mouse	domain_type	hasDomainType	INTERPRO:IPR056177	domain_type_id
+Q60571	Crh	mouse	domain_type	hasDomainType	INTERPRO:IPR056178	domain_type_id
+Q60571	Crh	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	positional_category
+Q60571	Crh	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	positional_category
+Q60571	Crh	mouse	topology	hasTopologyContext	DOP:000012 unknown	topology_context
+Q60612	Adora1	mouse	domain_type	hasDomainType	INTERPRO:IPR017452	domain_type_id
+Q60612	Adora1	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	positional_category
+Q60612	Adora1	mouse	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	proximity_categories
+Q60612	Adora1	mouse	topology	hasTopologyContext	DOP:000006 cytoplasmic	topology_context
+Q60612	Adora1	mouse	topology	hasTopologyContext	DOP:000007 extracellular	topology_context
+Q60612	Adora1	mouse	topology	hasTopologyContext	DOP:000008 transmembrane	topology_context
+Q60613	Adora2a	mouse	domain_type	hasDomainType	INTERPRO:IPR017452	domain_type_id
+Q60613	Adora2a	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	positional_category
+Q60613	Adora2a	mouse	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	proximity_categories
+Q60613	Adora2a	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	proximity_categories
+Q60613	Adora2a	mouse	topology	hasTopologyContext	DOP:000006 cytoplasmic	topology_context
+Q60613	Adora2a	mouse	topology	hasTopologyContext	DOP:000007 extracellular	topology_context
+Q60613	Adora2a	mouse	topology	hasTopologyContext	DOP:000008 transmembrane	topology_context
+Q60748	Crhr2	mouse	domain_type	hasDomainType	INTERPRO:IPR001879	domain_type_id
+Q60748	Crhr2	mouse	domain_type	hasDomainType	INTERPRO:IPR017981	domain_type_id
+Q60748	Crhr2	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	positional_category
+Q60748	Crhr2	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	positional_category
+Q60748	Crhr2	mouse	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	proximity_categories
+Q60748	Crhr2	mouse	proximity	hasProximityCategory	DOP:000009 NearSignalPeptideCleavage	proximity_categories
+Q60748	Crhr2	mouse	topology	hasTopologyContext	DOP:000006 cytoplasmic	topology_context
+Q60748	Crhr2	mouse	topology	hasTopologyContext	DOP:000007 extracellular	topology_context
+Q60748	Crhr2	mouse	topology	hasTopologyContext	DOP:000008 transmembrane	topology_context
+Q60748	Crhr2	mouse	topology	hasTopologyContext	signal_peptide	topology_context
+Q60992	Vav2	mouse	domain_type	hasDomainType	INTERPRO:IPR000219	domain_type_id
+Q60992	Vav2	mouse	domain_type	hasDomainType	INTERPRO:IPR000980	domain_type_id
+Q60992	Vav2	mouse	domain_type	hasDomainType	INTERPRO:IPR001452	domain_type_id
+Q60992	Vav2	mouse	domain_type	hasDomainType	INTERPRO:IPR001715	domain_type_id
+Q60992	Vav2	mouse	domain_type	hasDomainType	INTERPRO:IPR001849	domain_type_id
+Q60992	Vav2	mouse	domain_type	hasDomainType	INTERPRO:IPR002219	domain_type_id
+Q60992	Vav2	mouse	domain_type	hasDomainType	INTERPRO:IPR022613	domain_type_id
+Q60992	Vav2	mouse	domain_type	hasDomainType	INTERPRO:IPR035732	domain_type_id
+Q60992	Vav2	mouse	domain_type	hasDomainType	INTERPRO:IPR035733	domain_type_id
+Q60992	Vav2	mouse	domain_type	hasDomainType	INTERPRO:IPR035880	domain_type_id
+Q60992	Vav2	mouse	domain_type	hasDomainType	INTERPRO:IPR037832	domain_type_id
+Q60992	Vav2	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	positional_category
+Q60992	Vav2	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	positional_category
+Q60992	Vav2	mouse	position	hasPositionalCategory	DOP:000005 Internal	positional_category
+Q60992	Vav2	mouse	topology	hasTopologyContext	DOP:000012 unknown	topology_context
+Q61409	Pde3b	mouse	domain_type	hasDomainType	INTERPRO:IPR002073	domain_type_id
+Q61409	Pde3b	mouse	domain_type	hasDomainType	INTERPRO:IPR003607	domain_type_id
+Q61409	Pde3b	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	positional_category
+Q61409	Pde3b	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	proximity_categories
+Q61409	Pde3b	mouse	topology	hasTopologyContext	DOP:000012 unknown	topology_context
+Q61614	Ednra	mouse	domain_type	hasDomainType	INTERPRO:IPR017452	domain_type_id
+Q61614	Ednra	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	positional_category
+Q61614	Ednra	mouse	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	proximity_categories
+Q61614	Ednra	mouse	topology	hasTopologyContext	DOP:000006 cytoplasmic	topology_context
+Q61614	Ednra	mouse	topology	hasTopologyContext	DOP:000007 extracellular	topology_context
+Q61614	Ednra	mouse	topology	hasTopologyContext	DOP:000008 transmembrane	topology_context
+Q61616	Drd1	mouse	domain_type	hasDomainType	INTERPRO:IPR017452	domain_type_id
+Q61616	Drd1	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	positional_category
+Q61616	Drd1	mouse	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	proximity_categories
+Q61616	Drd1	mouse	topology	hasTopologyContext	DOP:000006 cytoplasmic	topology_context
+Q61616	Drd1	mouse	topology	hasTopologyContext	DOP:000007 extracellular	topology_context
+Q61616	Drd1	mouse	topology	hasTopologyContext	DOP:000008 transmembrane	topology_context
+Q61817	Creb3	mouse	domain_type	hasDomainType	INTERPRO:IPR004827	domain_type_id
+Q61817	Creb3	mouse	position	hasPositionalCategory	DOP:000005 Internal	positional_category
+Q61817	Creb3	mouse	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	proximity_categories
+Q61817	Creb3	mouse	topology	hasTopologyContext	DOP:000006 cytoplasmic	topology_context
+Q61831	Mapk10	mouse	domain_type	hasDomainType	INTERPRO:IPR000719	domain_type_id
+Q61831	Mapk10	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	positional_category
+Q61831	Mapk10	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	proximity_categories
+Q61831	Mapk10	mouse	topology	hasTopologyContext	DOP:000012 unknown	topology_context
+Q62053	Ptger2	mouse	domain_type	hasDomainType	INTERPRO:IPR017452	domain_type_id
+Q62053	Ptger2	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	positional_category
+Q62053	Ptger2	mouse	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	proximity_categories
+Q62053	Ptger2	mouse	topology	hasTopologyContext	DOP:000006 cytoplasmic	topology_context
+Q62053	Ptger2	mouse	topology	hasTopologyContext	DOP:000007 extracellular	topology_context
+Q62053	Ptger2	mouse	topology	hasTopologyContext	DOP:000008 transmembrane	topology_context
+Q62398	Cnga2	mouse	domain_type	hasDomainType	INTERPRO:IPR000595	domain_type_id
+Q62398	Cnga2	mouse	domain_type	hasDomainType	INTERPRO:IPR005821	domain_type_id
+Q62398	Cnga2	mouse	domain_type	hasDomainType	INTERPRO:IPR032406	domain_type_id
+Q62398	Cnga2	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	positional_category
+Q62398	Cnga2	mouse	position	hasPositionalCategory	DOP:000005 Internal	positional_category
+Q62398	Cnga2	mouse	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	proximity_categories
+Q62398	Cnga2	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	proximity_categories
+Q62398	Cnga2	mouse	topology	hasTopologyContext	DOP:000006 cytoplasmic	topology_context
+Q62398	Cnga2	mouse	topology	hasTopologyContext	DOP:000007 extracellular	topology_context
+Q62398	Cnga2	mouse	topology	hasTopologyContext	DOP:000008 transmembrane	topology_context
+Q63844	Mapk3	mouse	domain_type	hasDomainType	INTERPRO:IPR000719	domain_type_id
+Q63844	Mapk3	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	positional_category
+Q63844	Mapk3	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	proximity_categories
+Q63844	Mapk3	mouse	topology	hasTopologyContext	DOP:000012 unknown	topology_context
+Q63932	Map2k2	mouse	domain_type	hasDomainType	INTERPRO:IPR000719	domain_type_id
+Q63932	Map2k2	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	positional_category
+Q63932	Map2k2	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	proximity_categories
+Q63932	Map2k2	mouse	topology	hasTopologyContext	DOP:000012 unknown	topology_context
+Q64518	Atp2a3	mouse	domain_type	hasDomainType	INTERPRO:IPR004014	domain_type_id
+Q64518	Atp2a3	mouse	domain_type	hasDomainType	INTERPRO:IPR006068	domain_type_id
+Q64518	Atp2a3	mouse	domain_type	hasDomainType	INTERPRO:IPR044492	domain_type_id
+Q64518	Atp2a3	mouse	domain_type	hasDomainType	INTERPRO:IPR059000	domain_type_id
+Q64518	Atp2a3	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	positional_category
+Q64518	Atp2a3	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	positional_category
+Q64518	Atp2a3	mouse	position	hasPositionalCategory	DOP:000005 Internal	positional_category
+Q64518	Atp2a3	mouse	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	proximity_categories
+Q64518	Atp2a3	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	proximity_categories
+Q64518	Atp2a3	mouse	topology	hasTopologyContext	DOP:000006 cytoplasmic	topology_context
+Q64518	Atp2a3	mouse	topology	hasTopologyContext	DOP:000008 transmembrane	topology_context
+Q64518	Atp2a3	mouse	topology	hasTopologyContext	DOP:000010 luminal	topology_context
+Q6Q477	Atp2b4	mouse	domain_type	hasDomainType	INTERPRO:IPR004014	domain_type_id
+Q6Q477	Atp2b4	mouse	domain_type	hasDomainType	INTERPRO:IPR006068	domain_type_id
+Q6Q477	Atp2b4	mouse	domain_type	hasDomainType	INTERPRO:IPR022141	domain_type_id
+Q6Q477	Atp2b4	mouse	domain_type	hasDomainType	INTERPRO:IPR044492	domain_type_id
+Q6Q477	Atp2b4	mouse	domain_type	hasDomainType	INTERPRO:IPR059000	domain_type_id
+Q6Q477	Atp2b4	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	positional_category
+Q6Q477	Atp2b4	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	positional_category
+Q6Q477	Atp2b4	mouse	position	hasPositionalCategory	DOP:000005 Internal	positional_category
+Q6Q477	Atp2b4	mouse	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	proximity_categories
+Q6Q477	Atp2b4	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	proximity_categories
+Q6Q477	Atp2b4	mouse	topology	hasTopologyContext	DOP:000006 cytoplasmic	topology_context
+Q6Q477	Atp2b4	mouse	topology	hasTopologyContext	DOP:000007 extracellular	topology_context
+Q6Q477	Atp2b4	mouse	topology	hasTopologyContext	DOP:000008 transmembrane	topology_context
+Q6ZQB6	Vip	mouse	domain_type	hasDomainType	INTERPRO:IPR040557	domain_type_id
+Q6ZQB6	Vip	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	positional_category
+Q6ZQB6	Vip	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	proximity_categories
+Q6ZQB6	Vip	mouse	topology	hasTopologyContext	DOP:000012 unknown	topology_context
+Q7TQP3	Gpr119	mouse	domain_type	hasDomainType	INTERPRO:IPR017452	domain_type_id
+Q7TQP3	Gpr119	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	positional_category
+Q7TQP3	Gpr119	mouse	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	proximity_categories
+Q7TQP3	Gpr119	mouse	topology	hasTopologyContext	DOP:000006 cytoplasmic	topology_context
+Q7TQP3	Gpr119	mouse	topology	hasTopologyContext	DOP:000007 extracellular	topology_context
+Q7TQP3	Gpr119	mouse	topology	hasTopologyContext	DOP:000008 transmembrane	topology_context
+Q80T41	Gabbr2	mouse	domain_type	hasDomainType	INTERPRO:IPR001828	domain_type_id
+Q80T41	Gabbr2	mouse	domain_type	hasDomainType	INTERPRO:IPR017978	domain_type_id
+Q80T41	Gabbr2	mouse	domain_type	hasDomainType	INTERPRO:IPR041689	domain_type_id
+Q80T41	Gabbr2	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	positional_category
+Q80T41	Gabbr2	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	positional_category
+Q80T41	Gabbr2	mouse	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	proximity_categories
+Q80T41	Gabbr2	mouse	topology	hasTopologyContext	DOP:000006 cytoplasmic	topology_context
+Q80T41	Gabbr2	mouse	topology	hasTopologyContext	DOP:000007 extracellular	topology_context
+Q80T41	Gabbr2	mouse	topology	hasTopologyContext	DOP:000008 transmembrane	topology_context
+Q80TL1	Adcy2	mouse	domain_type	hasDomainType	INTERPRO:IPR001054	domain_type_id
+Q80TL1	Adcy2	mouse	domain_type	hasDomainType	INTERPRO:IPR009398	domain_type_id
+Q80TL1	Adcy2	mouse	domain_type	hasDomainType	INTERPRO:IPR032628	domain_type_id
+Q80TL1	Adcy2	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	positional_category
+Q80TL1	Adcy2	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	positional_category
+Q80TL1	Adcy2	mouse	position	hasPositionalCategory	DOP:000005 Internal	positional_category
+Q80TL1	Adcy2	mouse	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	proximity_categories
+Q80TL1	Adcy2	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	proximity_categories
+Q80TL1	Adcy2	mouse	topology	hasTopologyContext	DOP:000006 cytoplasmic	topology_context
+Q80TL1	Adcy2	mouse	topology	hasTopologyContext	DOP:000008 transmembrane	topology_context
+Q80Y86	Mapk1	mouse	domain_type	hasDomainType	INTERPRO:IPR000719	domain_type_id
+Q80Y86	Mapk1	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	positional_category
+Q80Y86	Mapk1	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	proximity_categories
+Q80Y86	Mapk1	mouse	topology	hasTopologyContext	DOP:000012 unknown	topology_context
+Q80YT7	Pde4d	mouse	domain_type	hasDomainType	INTERPRO:IPR010630	domain_type_id
+Q80YT7	Pde4d	mouse	domain_type	hasDomainType	INTERPRO:IPR012943	domain_type_id
+Q80YT7	Pde4d	mouse	domain_type	hasDomainType	INTERPRO:IPR056273	domain_type_id
+Q80YT7	Pde4d	mouse	domain_type	hasDomainType	INTERPRO:IPR060527	domain_type_id
+Q80YT7	Pde4d	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	positional_category
+Q80YT7	Pde4d	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	positional_category
+Q80YT7	Pde4d	mouse	position	hasPositionalCategory	DOP:000005 Internal	positional_category
+Q80YT7	Pde4d	mouse	topology	hasTopologyContext	DOP:000012 unknown	topology_context
+Q8BGQ1	Vip	mouse	domain_type	hasDomainType	INTERPRO:IPR006925	domain_type_id
+Q8BGQ1	Vip	mouse	position	hasPositionalCategory	DOP:000005 Internal	positional_category
+Q8BGQ1	Vip	mouse	topology	hasTopologyContext	DOP:000012 unknown	topology_context
+Q8BLD9	Drd5	mouse	domain_type	hasDomainType	INTERPRO:IPR017452	domain_type_id
+Q8BLD9	Drd5	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	positional_category
+Q8BLD9	Drd5	mouse	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	proximity_categories
+Q8BLD9	Drd5	mouse	topology	hasTopologyContext	DOP:000006 cytoplasmic	topology_context
+Q8BLD9	Drd5	mouse	topology	hasTopologyContext	DOP:000007 extracellular	topology_context
+Q8BLD9	Drd5	mouse	topology	hasTopologyContext	DOP:000008 transmembrane	topology_context
+Q8BTI9	Pik3cb	mouse	domain_type	hasDomainType	INTERPRO:IPR000341	domain_type_id
+Q8BTI9	Pik3cb	mouse	domain_type	hasDomainType	INTERPRO:IPR000403	domain_type_id
+Q8BTI9	Pik3cb	mouse	domain_type	hasDomainType	INTERPRO:IPR001263	domain_type_id
+Q8BTI9	Pik3cb	mouse	domain_type	hasDomainType	INTERPRO:IPR002420	domain_type_id
+Q8BTI9	Pik3cb	mouse	domain_type	hasDomainType	INTERPRO:IPR003113	domain_type_id
+Q8BTI9	Pik3cb	mouse	domain_type	hasDomainType	INTERPRO:IPR037702	domain_type_id
+Q8BTI9	Pik3cb	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	positional_category
+Q8BTI9	Pik3cb	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	positional_category
+Q8BTI9	Pik3cb	mouse	position	hasPositionalCategory	DOP:000005 Internal	positional_category
+Q8BTI9	Pik3cb	mouse	topology	hasTopologyContext	DOP:000012 unknown	topology_context
+Q8C0T9	Adcy10	mouse	domain_type	hasDomainType	INTERPRO:IPR001054	domain_type_id
+Q8C0T9	Adcy10	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	positional_category
+Q8C0T9	Adcy10	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	proximity_categories
+Q8C0T9	Adcy10	mouse	topology	hasTopologyContext	DOP:000012 unknown	topology_context
+Q8C131	Hcar1	mouse	domain_type	hasDomainType	INTERPRO:IPR017452	domain_type_id
+Q8C131	Hcar1	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	positional_category
+Q8C131	Hcar1	mouse	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	proximity_categories
+Q8C131	Hcar1	mouse	topology	hasTopologyContext	DOP:000006 cytoplasmic	topology_context
+Q8C131	Hcar1	mouse	topology	hasTopologyContext	DOP:000007 extracellular	topology_context
+Q8C131	Hcar1	mouse	topology	hasTopologyContext	DOP:000008 transmembrane	topology_context
+Q8CA95	Pde10a	mouse	domain_type	hasDomainType	INTERPRO:IPR002073	domain_type_id
+Q8CA95	Pde10a	mouse	domain_type	hasDomainType	INTERPRO:IPR003018	domain_type_id
+Q8CA95	Pde10a	mouse	domain_type	hasDomainType	INTERPRO:IPR003607	domain_type_id
+Q8CA95	Pde10a	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	positional_category
+Q8CA95	Pde10a	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	positional_category
+Q8CA95	Pde10a	mouse	position	hasPositionalCategory	DOP:000005 Internal	positional_category
+Q8CA95	Pde10a	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	proximity_categories
+Q8CA95	Pde10a	mouse	topology	hasTopologyContext	DOP:000012 unknown	topology_context
+Q8CIT0	Crh	mouse	domain_type	hasDomainType	INTERPRO:IPR000187	domain_type_id
+Q8CIT0	Crh	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	positional_category
+Q8CIT0	Crh	mouse	topology	hasTopologyContext	DOP:000012 unknown	topology_context
+Q8K1L0	Creb5	mouse	domain_type	hasDomainType	INTERPRO:IPR004827	domain_type_id
+Q8K1L0	Creb5	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	positional_category
+Q8K1L0	Creb5	mouse	topology	hasTopologyContext	DOP:000012 unknown	topology_context
+Q8K4S1	Plce1	mouse	domain_type	hasDomainType	INTERPRO:IPR000008	domain_type_id
+Q8K4S1	Plce1	mouse	domain_type	hasDomainType	INTERPRO:IPR000159	domain_type_id
+Q8K4S1	Plce1	mouse	domain_type	hasDomainType	INTERPRO:IPR000909	domain_type_id
+Q8K4S1	Plce1	mouse	domain_type	hasDomainType	INTERPRO:IPR001711	domain_type_id
+Q8K4S1	Plce1	mouse	domain_type	hasDomainType	INTERPRO:IPR001895	domain_type_id
+Q8K4S1	Plce1	mouse	domain_type	hasDomainType	INTERPRO:IPR015359	domain_type_id
+Q8K4S1	Plce1	mouse	domain_type	hasDomainType	INTERPRO:IPR028398	domain_type_id
+Q8K4S1	Plce1	mouse	domain_type	hasDomainType	INTERPRO:IPR046973	domain_type_id
+Q8K4S1	Plce1	mouse	domain_type	hasDomainType	INTERPRO:IPR046974	domain_type_id
+Q8K4S1	Plce1	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	positional_category
+Q8K4S1	Plce1	mouse	position	hasPositionalCategory	DOP:000005 Internal	positional_category
+Q8K4S1	Plce1	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	proximity_categories
+Q8K4S1	Plce1	mouse	topology	hasTopologyContext	DOP:000012 unknown	topology_context
+Q8VCC8	Rapgef3	mouse	domain_type	hasDomainType	INTERPRO:IPR000591	domain_type_id
+Q8VCC8	Rapgef3	mouse	domain_type	hasDomainType	INTERPRO:IPR000595	domain_type_id
+Q8VCC8	Rapgef3	mouse	domain_type	hasDomainType	INTERPRO:IPR000651	domain_type_id
+Q8VCC8	Rapgef3	mouse	domain_type	hasDomainType	INTERPRO:IPR001895	domain_type_id
+Q8VCC8	Rapgef3	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	positional_category
+Q8VCC8	Rapgef3	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	positional_category
+Q8VCC8	Rapgef3	mouse	position	hasPositionalCategory	DOP:000005 Internal	positional_category
+Q8VCC8	Rapgef3	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	proximity_categories
+Q8VCC8	Rapgef3	mouse	topology	hasTopologyContext	DOP:000012 unknown	topology_context
+Q8VCK6	Ffar2	mouse	domain_type	hasDomainType	INTERPRO:IPR017452	domain_type_id
+Q8VCK6	Ffar2	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	positional_category
+Q8VCK6	Ffar2	mouse	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	proximity_categories
+Q8VCK6	Ffar2	mouse	topology	hasTopologyContext	DOP:000006 cytoplasmic	topology_context
+Q8VCK6	Ffar2	mouse	topology	hasTopologyContext	DOP:000007 extracellular	topology_context
+Q8VCK6	Ffar2	mouse	topology	hasTopologyContext	DOP:000008 transmembrane	topology_context
+Q8VHH7	Adcy3	mouse	domain_type	hasDomainType	INTERPRO:IPR001054	domain_type_id
+Q8VHH7	Adcy3	mouse	domain_type	hasDomainType	INTERPRO:IPR032628	domain_type_id
+Q8VHH7	Adcy3	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	positional_category
+Q8VHH7	Adcy3	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	positional_category
+Q8VHH7	Adcy3	mouse	position	hasPositionalCategory	DOP:000005 Internal	positional_category
+Q8VHH7	Adcy3	mouse	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	proximity_categories
+Q8VHH7	Adcy3	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	proximity_categories
+Q8VHH7	Adcy3	mouse	topology	hasTopologyContext	DOP:000006 cytoplasmic	topology_context
+Q8VHH7	Adcy3	mouse	topology	hasTopologyContext	DOP:000008 transmembrane	topology_context
+Q91WF3	Adcy4	mouse	domain_type	hasDomainType	INTERPRO:IPR001054	domain_type_id
+Q91WF3	Adcy4	mouse	domain_type	hasDomainType	INTERPRO:IPR009398	domain_type_id
+Q91WF3	Adcy4	mouse	domain_type	hasDomainType	INTERPRO:IPR032628	domain_type_id
+Q91WF3	Adcy4	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	positional_category
+Q91WF3	Adcy4	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	positional_category
+Q91WF3	Adcy4	mouse	position	hasPositionalCategory	DOP:000005 Internal	positional_category
+Q91WF3	Adcy4	mouse	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	proximity_categories
+Q91WF3	Adcy4	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	proximity_categories
+Q91WF3	Adcy4	mouse	topology	hasTopologyContext	DOP:000006 cytoplasmic	topology_context
+Q91WF3	Adcy4	mouse	topology	hasTopologyContext	DOP:000008 transmembrane	topology_context
+Q91Y86	Mapk8	mouse	domain_type	hasDomainType	INTERPRO:IPR000719	domain_type_id
+Q91Y86	Mapk8	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	positional_category
+Q91Y86	Mapk8	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	proximity_categories
+Q91Y86	Mapk8	mouse	topology	hasTopologyContext	DOP:000012 unknown	topology_context
+Q99246	Cacna1d	mouse	domain_type	hasDomainType	INTERPRO:IPR005821	domain_type_id
+Q99246	Cacna1d	mouse	domain_type	hasDomainType	INTERPRO:IPR014873	domain_type_id
+Q99246	Cacna1d	mouse	domain_type	hasDomainType	INTERPRO:IPR031649	domain_type_id
+Q99246	Cacna1d	mouse	domain_type	hasDomainType	INTERPRO:IPR031688	domain_type_id
+Q99246	Cacna1d	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	positional_category
+Q99246	Cacna1d	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	positional_category
+Q99246	Cacna1d	mouse	position	hasPositionalCategory	DOP:000005 Internal	positional_category
+Q99246	Cacna1d	mouse	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	proximity_categories
+Q99246	Cacna1d	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	proximity_categories
+Q99246	Cacna1d	mouse	topology	hasTopologyContext	DOP:000006 cytoplasmic	topology_context
+Q99246	Cacna1d	mouse	topology	hasTopologyContext	DOP:000007 extracellular	topology_context
+Q99246	Cacna1d	mouse	topology	hasTopologyContext	DOP:000008 transmembrane	topology_context
+Q99JI6	Rap1b	mouse	domain_type	hasDomainType	INTERPRO:IPR005225	domain_type_id
+Q99JI6	Rap1b	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	positional_category
+Q99JI6	Rap1b	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	proximity_categories
+Q99JI6	Rap1b	mouse	topology	hasTopologyContext	DOP:000012 unknown	topology_context
+Q99MT6	Sucnr1	mouse	domain_type	hasDomainType	INTERPRO:IPR017452	domain_type_id
+Q99MT6	Sucnr1	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	positional_category
+Q99MT6	Sucnr1	mouse	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	proximity_categories
+Q99MT6	Sucnr1	mouse	topology	hasTopologyContext	DOP:000006 cytoplasmic	topology_context
+Q99MT6	Sucnr1	mouse	topology	hasTopologyContext	DOP:000007 extracellular	topology_context
+Q99MT6	Sucnr1	mouse	topology	hasTopologyContext	DOP:000008 transmembrane	topology_context
+Q99N57	Raf1	mouse	domain_type	hasDomainType	INTERPRO:IPR000719	domain_type_id
+Q99N57	Raf1	mouse	domain_type	hasDomainType	INTERPRO:IPR001245	domain_type_id
+Q99N57	Raf1	mouse	domain_type	hasDomainType	INTERPRO:IPR002219	domain_type_id
+Q99N57	Raf1	mouse	domain_type	hasDomainType	INTERPRO:IPR003116	domain_type_id
+Q99N57	Raf1	mouse	domain_type	hasDomainType	INTERPRO:IPR020454	domain_type_id
+Q99N57	Raf1	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	positional_category
+Q99N57	Raf1	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	positional_category
+Q99N57	Raf1	mouse	position	hasPositionalCategory	DOP:000005 Internal	positional_category
+Q99N57	Raf1	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	proximity_categories
+Q99N57	Raf1	mouse	topology	hasTopologyContext	DOP:000012 unknown	topology_context
+Q9CQ19	Myl9	mouse	domain_type	hasDomainType	INTERPRO:IPR002048	domain_type_id
+Q9CQ19	Myl9	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	positional_category
+Q9CQ19	Myl9	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	positional_category
+Q9CQ19	Myl9	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	proximity_categories
+Q9CQ19	Myl9	mouse	topology	hasTopologyContext	DOP:000012 unknown	topology_context
+Q9EQX0	Ghrl	mouse	domain_type	hasDomainType	INTERPRO:IPR006737	domain_type_id
+Q9EQX0	Ghrl	mouse	domain_type	hasDomainType	INTERPRO:IPR006738	domain_type_id
+Q9EQX0	Ghrl	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	positional_category
+Q9EQX0	Ghrl	mouse	position	hasPositionalCategory	DOP:000005 Internal	positional_category
+Q9EQX0	Ghrl	mouse	proximity	hasProximityCategory	DOP:000009 NearSignalPeptideCleavage	proximity_categories
+Q9EQX0	Ghrl	mouse	topology	hasTopologyContext	DOP:000012 unknown	topology_context
+Q9EQZ6	Rapgef4	mouse	domain_type	hasDomainType	INTERPRO:IPR000591	domain_type_id
+Q9EQZ6	Rapgef4	mouse	domain_type	hasDomainType	INTERPRO:IPR000595	domain_type_id
+Q9EQZ6	Rapgef4	mouse	domain_type	hasDomainType	INTERPRO:IPR000651	domain_type_id
+Q9EQZ6	Rapgef4	mouse	domain_type	hasDomainType	INTERPRO:IPR001895	domain_type_id
+Q9EQZ6	Rapgef4	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	positional_category
+Q9EQZ6	Rapgef4	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	positional_category
+Q9EQZ6	Rapgef4	mouse	position	hasPositionalCategory	DOP:000005 Internal	positional_category
+Q9EQZ6	Rapgef4	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	proximity_categories
+Q9EQZ6	Rapgef4	mouse	topology	hasTopologyContext	DOP:000012 unknown	topology_context
+Q9ERE9	Mapk8	mouse	domain_type	hasDomainType	INTERPRO:IPR001452	domain_type_id
+Q9ERE9	Mapk8	mouse	domain_type	hasDomainType	INTERPRO:IPR006020	domain_type_id
+Q9ERE9	Mapk8	mouse	domain_type	hasDomainType	INTERPRO:IPR035637	domain_type_id
+Q9ERE9	Mapk8	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	positional_category
+Q9ERE9	Mapk8	mouse	topology	hasTopologyContext	DOP:000012 unknown	topology_context
+Q9ERZ4	Chrm2	mouse	domain_type	hasDomainType	INTERPRO:IPR017452	domain_type_id
+Q9ERZ4	Chrm2	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	positional_category
+Q9ERZ4	Chrm2	mouse	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	proximity_categories
+Q9ERZ4	Chrm2	mouse	topology	hasTopologyContext	DOP:000006 cytoplasmic	topology_context
+Q9ERZ4	Chrm2	mouse	topology	hasTopologyContext	DOP:000007 extracellular	topology_context
+Q9ERZ4	Chrm2	mouse	topology	hasTopologyContext	DOP:000008 transmembrane	topology_context
+Q9ES81	Popdc3	mouse	domain_type	hasDomainType	INTERPRO:IPR055272	domain_type_id
+Q9ES81	Popdc3	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	positional_category
+Q9ES81	Popdc3	mouse	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	proximity_categories
+Q9ES81	Popdc3	mouse	topology	hasTopologyContext	DOP:000008 transmembrane	topology_context
+Q9ES82	Popdc2	mouse	domain_type	hasDomainType	INTERPRO:IPR055272	domain_type_id
+Q9ES82	Popdc2	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	positional_category
+Q9ES82	Popdc2	mouse	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	proximity_categories
+Q9ES82	Popdc2	mouse	topology	hasTopologyContext	DOP:000008 transmembrane	topology_context
+Q9ES83	Bves	mouse	domain_type	hasDomainType	INTERPRO:IPR055272	domain_type_id
+Q9ES83	Bves	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	positional_category
+Q9ES83	Bves	mouse	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	proximity_categories
+Q9ES83	Bves	mouse	topology	hasTopologyContext	DOP:000006 cytoplasmic	topology_context
+Q9ES83	Bves	mouse	topology	hasTopologyContext	DOP:000007 extracellular	topology_context
+Q9ES83	Bves	mouse	topology	hasTopologyContext	DOP:000008 transmembrane	topology_context
+Q9ESN9	Mapk8	mouse	domain_type	hasDomainType	INTERPRO:IPR032486	domain_type_id
+Q9ESN9	Mapk8	mouse	domain_type	hasDomainType	INTERPRO:IPR034743	domain_type_id
+Q9ESN9	Mapk8	mouse	domain_type	hasDomainType	INTERPRO:IPR034744	domain_type_id
+Q9ESN9	Mapk8	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	positional_category
+Q9ESN9	Mapk8	mouse	position	hasPositionalCategory	DOP:000005 Internal	positional_category
+Q9ESN9	Mapk8	mouse	topology	hasTopologyContext	DOP:000012 unknown	topology_context
+Q9JIS7	Cacna1f	mouse	domain_type	hasDomainType	INTERPRO:IPR005821	domain_type_id
+Q9JIS7	Cacna1f	mouse	domain_type	hasDomainType	INTERPRO:IPR014873	domain_type_id
+Q9JIS7	Cacna1f	mouse	domain_type	hasDomainType	INTERPRO:IPR031649	domain_type_id
+Q9JIS7	Cacna1f	mouse	domain_type	hasDomainType	INTERPRO:IPR031688	domain_type_id
+Q9JIS7	Cacna1f	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	positional_category
+Q9JIS7	Cacna1f	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	positional_category
+Q9JIS7	Cacna1f	mouse	position	hasPositionalCategory	DOP:000005 Internal	positional_category
+Q9JIS7	Cacna1f	mouse	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	proximity_categories
+Q9JIS7	Cacna1f	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	proximity_categories
+Q9JIS7	Cacna1f	mouse	topology	hasTopologyContext	DOP:000006 cytoplasmic	topology_context
+Q9JIS7	Cacna1f	mouse	topology	hasTopologyContext	DOP:000007 extracellular	topology_context
+Q9JIS7	Cacna1f	mouse	topology	hasTopologyContext	DOP:000008 transmembrane	topology_context
+Q9JJZ8	Cnga3	mouse	domain_type	hasDomainType	INTERPRO:IPR000595	domain_type_id
+Q9JJZ8	Cnga3	mouse	domain_type	hasDomainType	INTERPRO:IPR005821	domain_type_id
+Q9JJZ8	Cnga3	mouse	domain_type	hasDomainType	INTERPRO:IPR032406	domain_type_id
+Q9JJZ8	Cnga3	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	positional_category
+Q9JJZ8	Cnga3	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	positional_category
+Q9JJZ8	Cnga3	mouse	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	proximity_categories
+Q9JJZ8	Cnga3	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	proximity_categories
+Q9JJZ8	Cnga3	mouse	topology	hasTopologyContext	DOP:000006 cytoplasmic	topology_context
+Q9JJZ8	Cnga3	mouse	topology	hasTopologyContext	DOP:000007 extracellular	topology_context
+Q9JJZ8	Cnga3	mouse	topology	hasTopologyContext	DOP:000008 transmembrane	topology_context
+Q9JJZ9	Cngb3	mouse	domain_type	hasDomainType	INTERPRO:IPR000595	domain_type_id
+Q9JJZ9	Cngb3	mouse	domain_type	hasDomainType	INTERPRO:IPR005821	domain_type_id
+Q9JJZ9	Cngb3	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	positional_category
+Q9JJZ9	Cngb3	mouse	position	hasPositionalCategory	DOP:000005 Internal	positional_category
+Q9JJZ9	Cngb3	mouse	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	proximity_categories
+Q9JJZ9	Cngb3	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	proximity_categories
+Q9JJZ9	Cngb3	mouse	topology	hasTopologyContext	DOP:000006 cytoplasmic	topology_context
+Q9JJZ9	Cngb3	mouse	topology	hasTopologyContext	DOP:000007 extracellular	topology_context
+Q9JJZ9	Cngb3	mouse	topology	hasTopologyContext	DOP:000008 transmembrane	topology_context
+Q9R0C8	Vav3	mouse	domain_type	hasDomainType	INTERPRO:IPR000219	domain_type_id
+Q9R0C8	Vav3	mouse	domain_type	hasDomainType	INTERPRO:IPR000980	domain_type_id
+Q9R0C8	Vav3	mouse	domain_type	hasDomainType	INTERPRO:IPR001452	domain_type_id
+Q9R0C8	Vav3	mouse	domain_type	hasDomainType	INTERPRO:IPR001715	domain_type_id
+Q9R0C8	Vav3	mouse	domain_type	hasDomainType	INTERPRO:IPR001849	domain_type_id
+Q9R0C8	Vav3	mouse	domain_type	hasDomainType	INTERPRO:IPR002219	domain_type_id
+Q9R0C8	Vav3	mouse	domain_type	hasDomainType	INTERPRO:IPR022613	domain_type_id
+Q9R0C8	Vav3	mouse	domain_type	hasDomainType	INTERPRO:IPR035734	domain_type_id
+Q9R0C8	Vav3	mouse	domain_type	hasDomainType	INTERPRO:IPR035881	domain_type_id
+Q9R0C8	Vav3	mouse	domain_type	hasDomainType	INTERPRO:IPR037832	domain_type_id
+Q9R0C8	Vav3	mouse	domain_type	hasDomainType	INTERPRO:IPR047015	domain_type_id
+Q9R0C8	Vav3	mouse	domain_type	hasDomainType	INTERPRO:IPR055251	domain_type_id
+Q9R0C8	Vav3	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	positional_category
+Q9R0C8	Vav3	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	positional_category
+Q9R0C8	Vav3	mouse	position	hasPositionalCategory	DOP:000005 Internal	positional_category
+Q9R0C8	Vav3	mouse	topology	hasTopologyContext	DOP:000012 unknown	topology_context
+Q9R0K7	Atp2b2	mouse	domain_type	hasDomainType	INTERPRO:IPR004014	domain_type_id
+Q9R0K7	Atp2b2	mouse	domain_type	hasDomainType	INTERPRO:IPR006068	domain_type_id
+Q9R0K7	Atp2b2	mouse	domain_type	hasDomainType	INTERPRO:IPR022141	domain_type_id
+Q9R0K7	Atp2b2	mouse	domain_type	hasDomainType	INTERPRO:IPR044492	domain_type_id
+Q9R0K7	Atp2b2	mouse	domain_type	hasDomainType	INTERPRO:IPR059000	domain_type_id
+Q9R0K7	Atp2b2	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	positional_category
+Q9R0K7	Atp2b2	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	positional_category
+Q9R0K7	Atp2b2	mouse	position	hasPositionalCategory	DOP:000005 Internal	positional_category
+Q9R0K7	Atp2b2	mouse	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	proximity_categories
+Q9R0K7	Atp2b2	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	proximity_categories
+Q9R0K7	Atp2b2	mouse	topology	hasTopologyContext	DOP:000006 cytoplasmic	topology_context
+Q9R0K7	Atp2b2	mouse	topology	hasTopologyContext	DOP:000007 extracellular	topology_context
+Q9R0K7	Atp2b2	mouse	topology	hasTopologyContext	DOP:000008 transmembrane	topology_context
+Q9WTU6	Mapk9	mouse	domain_type	hasDomainType	INTERPRO:IPR000719	domain_type_id
+Q9WTU6	Mapk9	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	positional_category
+Q9WTU6	Mapk9	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	proximity_categories
+Q9WTU6	Mapk9	mouse	topology	hasTopologyContext	DOP:000012 unknown	topology_context
+Q9WUA6	Akt3	mouse	domain_type	hasDomainType	INTERPRO:IPR000719	domain_type_id
+Q9WUA6	Akt3	mouse	domain_type	hasDomainType	INTERPRO:IPR000961	domain_type_id
+Q9WUA6	Akt3	mouse	domain_type	hasDomainType	INTERPRO:IPR001849	domain_type_id
+Q9WUA6	Akt3	mouse	domain_type	hasDomainType	INTERPRO:IPR017892	domain_type_id
+Q9WUA6	Akt3	mouse	domain_type	hasDomainType	INTERPRO:IPR034675	domain_type_id
+Q9WUA6	Akt3	mouse	domain_type	hasDomainType	INTERPRO:IPR039026	domain_type_id
+Q9WUA6	Akt3	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	positional_category
+Q9WUA6	Akt3	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	positional_category
+Q9WUA6	Akt3	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	proximity_categories
+Q9WUA6	Akt3	mouse	topology	hasTopologyContext	DOP:000012 unknown	topology_context
+Q9WUI1	Mapk1	mouse	domain_type	hasDomainType	INTERPRO:IPR000719	domain_type_id
+Q9WUI1	Mapk1	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	positional_category
+Q9WUI1	Mapk1	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	proximity_categories
+Q9WUI1	Mapk1	mouse	topology	hasTopologyContext	DOP:000012 unknown	topology_context
+Q9WVI9	Mapk8	mouse	domain_type	hasDomainType	INTERPRO:IPR001452	domain_type_id
+Q9WVI9	Mapk8	mouse	domain_type	hasDomainType	INTERPRO:IPR006020	domain_type_id
+Q9WVI9	Mapk8	mouse	domain_type	hasDomainType	INTERPRO:IPR035638	domain_type_id
+Q9WVI9	Mapk8	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	positional_category
+Q9WVI9	Mapk8	mouse	position	hasPositionalCategory	DOP:000005 Internal	positional_category
+Q9WVI9	Mapk8	mouse	topology	hasTopologyContext	DOP:000012 unknown	topology_context
+Q9Z0X4	Pde3a	mouse	domain_type	hasDomainType	INTERPRO:IPR002073	domain_type_id
+Q9Z0X4	Pde3a	mouse	domain_type	hasDomainType	INTERPRO:IPR003607	domain_type_id
+Q9Z0X4	Pde3a	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	positional_category
+Q9Z0X4	Pde3a	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	proximity_categories
+Q9Z0X4	Pde3a	mouse	topology	hasTopologyContext	DOP:000012 unknown	topology_context
+Q9Z1B7	Mapk1	mouse	domain_type	hasDomainType	INTERPRO:IPR000719	domain_type_id
+Q9Z1B7	Mapk1	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	positional_category
+Q9Z1B7	Mapk1	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	proximity_categories
+Q9Z1B7	Mapk1	mouse	topology	hasTopologyContext	DOP:000012 unknown	topology_context
+Q9Z280	Pld1	mouse	domain_type	hasDomainType	INTERPRO:IPR001683	domain_type_id
+Q9Z280	Pld1	mouse	domain_type	hasDomainType	INTERPRO:IPR001736	domain_type_id
+Q9Z280	Pld1	mouse	domain_type	hasDomainType	INTERPRO:IPR001849	domain_type_id
+Q9Z280	Pld1	mouse	domain_type	hasDomainType	INTERPRO:IPR025202	domain_type_id
+Q9Z280	Pld1	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	positional_category
+Q9Z280	Pld1	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	positional_category
+Q9Z280	Pld1	mouse	position	hasPositionalCategory	DOP:000005 Internal	positional_category
+Q9Z280	Pld1	mouse	topology	hasTopologyContext	DOP:000012 unknown	topology_context

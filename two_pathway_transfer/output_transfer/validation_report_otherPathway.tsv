@@ -1,0 +1,19 @@
+pathway	check_id	description	table_rows	table_cols	status	n_issues	detail
+otherPathway	C1	Required columns present	269	71	FAIL	1	copy_number_property
+otherPathway	C2	Blank occurrence_id	269	71	PASS	0	
+otherPathway	C3a	Duplicate occurrence_id (strict key)	269	71	PASS	0	Genuine key violation
+otherPathway	C3b	Full-row duplicate excl. batch_gene	269	71	PASS	0	Expected for batch_gene split rows
+otherPathway	C4	protein_accession UniProtKB format	269	71	PASS	0	Expected 6-char UniProtKB e.g. P06850
+otherPathway	C5	domain_type_id format	269	71	PASS	0	e.g. PFAM:PF00001 / INTERPRO:IPR000001
+otherPathway	C6	start/end valid positive integers (start < end)	269	71	PASS	0	
+otherPathway	C7	GO term format (GO:nnnnnnn)	269	71	PASS	0	
+otherPathway	C8	binding_target_chebi format (CHEBI:nnnnn)	269	71	PASS	0	Known issue: CHEBI:CHEBI:nnnnn double-prefix
+otherPathway	C9	Reactome ID format	269	71	WARN	0	Column absent
+otherPathway	C10	KEGG ID format	269	71	WARN	0	Column absent
+otherPathway	C11	positional_category CV-backed (positional_or_topology_term)	269	71	PASS	0	0 rows with unmatched tokens
+otherPathway	C12	copy_number_property CV-backed (CopyNumberCategory)	269	71	WARN	0	Column 'copy_number_property' absent
+otherPathway	C13	topology_context CV-backed (positional_or_topology_term)	269	71	PASS	0	0 rows with unmatched tokens
+otherPathway	C14	proximity_categories CV-backed (positional_or_topology_term)	269	71	PASS	0	0 rows with unmatched tokens
+otherPathway	C15	function_tags CV-backed (functional_term)	269	71	PASS	0	0 rows with unmatched tokens
+otherPathway	C16	binding_partner CV-backed (binding_target_term)	269	71	PASS	0	0 rows with unmatched tokens
+otherPathway	C17	Relation-to-namespace rules (DOP/DOF/DOT in correct column)	269	71	PASS	0	e.g. DOF functional term placed in positional_category

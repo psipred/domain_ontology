@@ -1,0 +1,10 @@
+method	category	observed_f1	null_mean	null_std	p_value
+A_direct_transfer	GO_component	0.5714	0.5714	0.0	1.0
+A_direct_transfer	GO_function	0.8102	0.1855	0.0546	0.0
+A_direct_transfer	GO_process	0.4571	0.4571	0.0	1.0
+A_direct_transfer	binding_target	0.0	0.0	0.0	1.0
+A_direct_transfer	domain_type	0.7989	0.0918	0.0423	0.0
+A_direct_transfer	function	0.804	0.2157	0.0566	0.0
+A_direct_transfer	position	0.8838	0.5835	0.048	0.0
+A_direct_transfer	proximity	0.8429	0.3671	0.069	0.0
+A_direct_transfer	topology	0.9086	0.5538	0.0682	0.0

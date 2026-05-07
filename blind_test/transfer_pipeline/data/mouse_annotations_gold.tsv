@@ -1,0 +1,2166 @@
+protein_accession	gene_symbol	species	annotation_category	predicate	term_value	is_transferable
+A2ARP1	Vip	mouse	domain_type	hasDomainType	INTERPRO:IPR040557	True
+A2ARP1	Vip	mouse	function	hasFunctionTag	DOF:000043 ligand	True
+A2ARP1	Vip	mouse	function	hasFunctionTag	DOF:000038 receptor-binding	True
+A2ARP1	Vip	mouse	topology	hasTopologyContext	DOP:000012 unknown	True
+A2ARP1	Vip	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	True
+A2ARP1	Vip	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+A2ARP1	Vip	mouse	binding_target	hasBindingTarget	DOT:000289 VIP/PACAP receptor ectodomain	False
+B2RWS6	Ep300	mouse	domain_type	hasDomainType	INTERPRO:IPR000197	True
+B2RWS6	Ep300	mouse	function	hasFunctionTag	DOF:000009 Binding	True
+B2RWS6	Ep300	mouse	function	hasFunctionTag	DOF:000040 structural	True
+B2RWS6	Ep300	mouse	function	hasFunctionTag	DOF:000034 metal-binding	True
+B2RWS6	Ep300	mouse	topology	hasTopologyContext	DOP:000012 unknown	True
+B2RWS6	Ep300	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	True
+B2RWS6	Ep300	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+B2RWS6	Ep300	mouse	binding_target	hasBindingTarget	DOT:000084 Zn2+	False
+B2RWS6	Ep300	mouse	domain_type	hasDomainType	INTERPRO:IPR003101	True
+B2RWS6	Ep300	mouse	function	hasFunctionTag	DOF:000017 PPI	True
+B2RWS6	Ep300	mouse	function	hasFunctionTag	DOF:000028 coactivator	True
+B2RWS6	Ep300	mouse	position	hasPositionalCategory	DOP:000005 Internal	True
+B2RWS6	Ep300	mouse	binding_target	hasBindingTarget	DOT:000108 phosphorylated CREB pKID	False
+B2RWS6	Ep300	mouse	GO_function	hasGOTermMF	GO:0003712	True
+B2RWS6	Ep300	mouse	GO_process	hasGOTermBP	GO:0006355	False
+B2RWS6	Ep300	mouse	domain_type	hasDomainType	INTERPRO:IPR001487	True
+B2RWS6	Ep300	mouse	function	hasFunctionTag	DOF:000037 reader	True
+B2RWS6	Ep300	mouse	function	hasFunctionTag	DOF:000027 chromatin-binding	True
+B2RWS6	Ep300	mouse	binding_target	hasBindingTarget	DOT:000085 acetyl-lysine histone tail	False
+B2RWS6	Ep300	mouse	GO_function	hasGOTermMF	GO:0005515	True
+B2RWS6	Ep300	mouse	domain_type	hasDomainType	INTERPRO:IPR010303	True
+B2RWS6	Ep300	mouse	function	hasFunctionTag	DOF:000016 scaffold	True
+B2RWS6	Ep300	mouse	binding_target	hasBindingTarget	DOT:000025 Protein	False
+B2RWS6	Ep300	mouse	domain_type	hasDomainType	INTERPRO:IPR056484	True
+B2RWS6	Ep300	mouse	function	hasFunctionTag	DOF:000010 catalytic	True
+B2RWS6	Ep300	mouse	binding_target	hasBindingTarget	DOT:000053 AcetylCoA	False
+B2RWS6	Ep300	mouse	binding_target	hasBindingTarget	DOT:000094 histone/non-histone lysine substrate	False
+B2RWS6	Ep300	mouse	domain_type	hasDomainType	INTERPRO:IPR031162	True
+B2RWS6	Ep300	mouse	GO_function	hasGOTermMF	GO:0004402	True
+B2RWS6	Ep300	mouse	domain_type	hasDomainType	INTERPRO:IPR000433	True
+B2RWS6	Ep300	mouse	GO_function	hasGOTermMF	GO:0008270	True
+B2RWS6	Ep300	mouse	domain_type	hasDomainType	INTERPRO:IPR014744	True
+B2RWS6	Ep300	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	True
+B2RWS6	Ep300	mouse	binding_target	hasBindingTarget	DOT:000088 coactivator core proteins	False
+B2RWS6	Ep300	mouse	GO_function	hasGOTermMF	GO:0003713	True
+B2RWS6	Ep300	mouse	GO_component	hasGOTermCC	GO:0000123	False
+B2RWS6	Ep300	mouse	GO_component	hasGOTermCC	GO:0005634	False
+E1AZ71	Cngb1	mouse	domain_type	hasDomainType	INTERPRO:IPR000595	True
+E1AZ71	Cngb1	mouse	function	hasFunctionTag	DOF:000014 regulator	True
+E1AZ71	Cngb1	mouse	function	hasFunctionTag	DOF:000029 cyclic-nucleotide-sensor	True
+E1AZ71	Cngb1	mouse	topology	hasTopologyContext	DOP:000006 cytoplasmic	True
+E1AZ71	Cngb1	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	True
+E1AZ71	Cngb1	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+E1AZ71	Cngb1	mouse	binding_target	hasBindingTarget	DOT:000283 cAMP/cGMP	False
+E9Q236	Abcc4	mouse	domain_type	hasDomainType	INTERPRO:IPR011527	True
+E9Q236	Abcc4	mouse	function	hasFunctionTag	DOF:000013 transporter	True
+E9Q236	Abcc4	mouse	function	hasFunctionTag	DOF:000012 membrane-anchor	True
+E9Q236	Abcc4	mouse	topology	hasTopologyContext	DOP:000006 cytoplasmic	True
+E9Q236	Abcc4	mouse	topology	hasTopologyContext	DOP:000007 extracellular	True
+E9Q236	Abcc4	mouse	topology	hasTopologyContext	DOP:000008 transmembrane	True
+E9Q236	Abcc4	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	True
+E9Q236	Abcc4	mouse	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	True
+E9Q236	Abcc4	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+E9Q236	Abcc4	mouse	binding_target	hasBindingTarget	DOT:000118 transported substrate	False
+E9Q236	Abcc4	mouse	binding_target	hasBindingTarget	DOT:000096 membrane bilayer	False
+E9Q236	Abcc4	mouse	GO_function	hasGOTermMF	GO:0005524	True
+E9Q236	Abcc4	mouse	GO_function	hasGOTermMF	GO:0140359	True
+E9Q236	Abcc4	mouse	GO_process	hasGOTermBP	GO:0055085	False
+E9Q236	Abcc4	mouse	GO_component	hasGOTermCC	GO:0016020	False
+E9Q236	Abcc4	mouse	domain_type	hasDomainType	INTERPRO:IPR030240	True
+E9Q236	Abcc4	mouse	GO_function	hasGOTermMF	GO:0042626	True
+E9Q236	Abcc4	mouse	domain_type	hasDomainType	INTERPRO:IPR003439	True
+E9Q236	Abcc4	mouse	function	hasFunctionTag	DOF:000020 ATPase	True
+E9Q236	Abcc4	mouse	position	hasPositionalCategory	DOP:000005 Internal	True
+E9Q236	Abcc4	mouse	binding_target	hasBindingTarget	DOT:000026 ATP	False
+E9Q236	Abcc4	mouse	binding_target	hasBindingTarget	DOT:000079 Mg2+	False
+E9Q236	Abcc4	mouse	GO_function	hasGOTermMF	GO:0016887	True
+E9Q236	Abcc4	mouse	domain_type	hasDomainType	INTERPRO:IPR003593	True
+E9Q236	Abcc4	mouse	function	hasFunctionTag	DOF:000018 sensor	True
+E9Q236	Abcc4	mouse	function	hasFunctionTag	DOF:000016 scaffold	True
+E9Q236	Abcc4	mouse	binding_target	hasBindingTarget	DOT:000281 protein partner or small-molecule signal	False
+E9Q236	Abcc4	mouse	domain_type	hasDomainType	INTERPRO:IPR047083	True
+E9Q236	Abcc4	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	True
+E9Q401	Ryr2	mouse	domain_type	hasDomainType	INTERPRO:IPR014821	True
+E9Q401	Ryr2	mouse	function	hasFunctionTag	DOF:000026 channel	True
+E9Q401	Ryr2	mouse	function	hasFunctionTag	DOF:000014 regulator	True
+E9Q401	Ryr2	mouse	function	hasFunctionTag	DOF:000016 scaffold	True
+E9Q401	Ryr2	mouse	topology	hasTopologyContext	DOP:000006 cytoplasmic	True
+E9Q401	Ryr2	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	True
+E9Q401	Ryr2	mouse	binding_target	hasBindingTarget	DOT:000069 Ca2+	False
+E9Q401	Ryr2	mouse	binding_target	hasBindingTarget	DOT:000057 Channel Regulatory Proteins	False
+E9Q401	Ryr2	mouse	domain_type	hasDomainType	INTERPRO:IPR016093	True
+E9Q401	Ryr2	mouse	domain_type	hasDomainType	INTERPRO:IPR000699	True
+E9Q401	Ryr2	mouse	GO_function	hasGOTermMF	GO:0005262	True
+E9Q401	Ryr2	mouse	GO_process	hasGOTermBP	GO:0070588	False
+E9Q401	Ryr2	mouse	GO_component	hasGOTermCC	GO:0016020	False
+E9Q401	Ryr2	mouse	domain_type	hasDomainType	INTERPRO:IPR001870	True
+E9Q401	Ryr2	mouse	function	hasFunctionTag	DOF:000017 PPI	True
+E9Q401	Ryr2	mouse	binding_target	hasBindingTarget	DOT:000113 protein regulators of RyR/IP3R	False
+E9Q401	Ryr2	mouse	domain_type	hasDomainType	INTERPRO:IPR035761	True
+E9Q401	Ryr2	mouse	domain_type	hasDomainType	INTERPRO:IPR003877	True
+E9Q401	Ryr2	mouse	GO_function	hasGOTermMF	GO:0005515	True
+E9Q401	Ryr2	mouse	domain_type	hasDomainType	INTERPRO:IPR003032	True
+E9Q401	Ryr2	mouse	position	hasPositionalCategory	DOP:000005 Internal	True
+E9Q401	Ryr2	mouse	domain_type	hasDomainType	INTERPRO:IPR035764	True
+E9Q401	Ryr2	mouse	domain_type	hasDomainType	INTERPRO:IPR035762	True
+E9Q401	Ryr2	mouse	domain_type	hasDomainType	INTERPRO:IPR048581	True
+E9Q401	Ryr2	mouse	domain_type	hasDomainType	INTERPRO:IPR013662	True
+E9Q401	Ryr2	mouse	domain_type	hasDomainType	INTERPRO:IPR002048	True
+E9Q401	Ryr2	mouse	function	hasFunctionTag	DOF:000009 Binding	True
+E9Q401	Ryr2	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	True
+E9Q401	Ryr2	mouse	GO_function	hasGOTermMF	GO:0005509	True
+E9Q401	Ryr2	mouse	domain_type	hasDomainType	INTERPRO:IPR009460	True
+E9Q401	Ryr2	mouse	function	hasFunctionTag	DOF:000013 transporter	True
+E9Q401	Ryr2	mouse	topology	hasTopologyContext	DOP:000008 transmembrane	True
+E9Q401	Ryr2	mouse	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	True
+E9Q401	Ryr2	mouse	binding_target	hasBindingTarget	DOT:000282 Ca2+/Na+/K+ or permeant ion	False
+E9Q401	Ryr2	mouse	GO_function	hasGOTermMF	GO:0005219	True
+E9Q401	Ryr2	mouse	GO_process	hasGOTermBP	GO:0006874	False
+E9Q401	Ryr2	mouse	domain_type	hasDomainType	INTERPRO:IPR005821	True
+E9Q401	Ryr2	mouse	GO_function	hasGOTermMF	GO:0005216	True
+E9Q401	Ryr2	mouse	GO_process	hasGOTermBP	GO:0006811	False
+E9Q401	Ryr2	mouse	GO_process	hasGOTermBP	GO:0055085	False
+G5E829	Atp2b1	mouse	domain_type	hasDomainType	INTERPRO:IPR004014	True
+G5E829	Atp2b1	mouse	function	hasFunctionTag	DOF:000018 sensor	True
+G5E829	Atp2b1	mouse	function	hasFunctionTag	DOF:000016 scaffold	True
+G5E829	Atp2b1	mouse	topology	hasTopologyContext	DOP:000006 cytoplasmic	True
+G5E829	Atp2b1	mouse	topology	hasTopologyContext	DOP:000008 transmembrane	True
+G5E829	Atp2b1	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	True
+G5E829	Atp2b1	mouse	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	True
+G5E829	Atp2b1	mouse	binding_target	hasBindingTarget	DOT:000281 protein partner or small-molecule signal	False
+G5E829	Atp2b1	mouse	domain_type	hasDomainType	INTERPRO:IPR059000	True
+G5E829	Atp2b1	mouse	domain_type	hasDomainType	INTERPRO:IPR044492	True
+G5E829	Atp2b1	mouse	position	hasPositionalCategory	DOP:000005 Internal	True
+G5E829	Atp2b1	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+G5E829	Atp2b1	mouse	domain_type	hasDomainType	INTERPRO:IPR006068	True
+G5E829	Atp2b1	mouse	topology	hasTopologyContext	DOP:000007 extracellular	True
+G5E829	Atp2b1	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	True
+G5E829	Atp2b1	mouse	domain_type	hasDomainType	INTERPRO:IPR022141	True
+G5E829	Atp2b1	mouse	GO_function	hasGOTermMF	GO:0005388	True
+O08858	Sstr5	mouse	domain_type	hasDomainType	INTERPRO:IPR017452	True
+O08858	Sstr5	mouse	function	hasFunctionTag	DOF:000011 receptor	True
+O08858	Sstr5	mouse	function	hasFunctionTag	DOF:000012 membrane-anchor	True
+O08858	Sstr5	mouse	function	hasFunctionTag	DOF:000039 signal-transducer	True
+O08858	Sstr5	mouse	topology	hasTopologyContext	DOP:000006 cytoplasmic	True
+O08858	Sstr5	mouse	topology	hasTopologyContext	DOP:000007 extracellular	True
+O08858	Sstr5	mouse	topology	hasTopologyContext	DOP:000008 transmembrane	True
+O08858	Sstr5	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	True
+O08858	Sstr5	mouse	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	True
+O08858	Sstr5	mouse	binding_target	hasBindingTarget	DOT:000092 extracellular ligand	False
+O08858	Sstr5	mouse	binding_target	hasBindingTarget	DOT:000093 heterotrimeric G protein	False
+O08858	Sstr5	mouse	GO_component	hasGOTermCC	GO:0016020	False
+O08908	Pik3r2	mouse	domain_type	hasDomainType	INTERPRO:IPR001452	True
+O08908	Pik3r2	mouse	function	hasFunctionTag	DOF:000017 PPI	True
+O08908	Pik3r2	mouse	function	hasFunctionTag	DOF:000024 adaptor	True
+O08908	Pik3r2	mouse	topology	hasTopologyContext	DOP:000012 unknown	True
+O08908	Pik3r2	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	True
+O08908	Pik3r2	mouse	binding_target	hasBindingTarget	DOT:000110 proline-rich motif-containing proteins	False
+O08908	Pik3r2	mouse	GO_function	hasGOTermMF	GO:0005515	True
+O08908	Pik3r2	mouse	domain_type	hasDomainType	INTERPRO:IPR035586	True
+O08908	Pik3r2	mouse	domain_type	hasDomainType	INTERPRO:IPR000198	True
+O08908	Pik3r2	mouse	function	hasFunctionTag	DOF:000014 regulator	True
+O08908	Pik3r2	mouse	function	hasFunctionTag	DOF:000044 GAP	True
+O08908	Pik3r2	mouse	binding_target	hasBindingTarget	DOT:000288 Rho family small GTPase	False
+O08908	Pik3r2	mouse	GO_process	hasGOTermBP	GO:0007165	False
+O08908	Pik3r2	mouse	domain_type	hasDomainType	INTERPRO:IPR035022	True
+O08908	Pik3r2	mouse	position	hasPositionalCategory	DOP:000005 Internal	True
+O08908	Pik3r2	mouse	binding_target	hasBindingTarget	DOT:000109 phosphotyrosine-containing proteins	False
+O08908	Pik3r2	mouse	domain_type	hasDomainType	INTERPRO:IPR000980	True
+O08908	Pik3r2	mouse	domain_type	hasDomainType	INTERPRO:IPR032498	True
+O08908	Pik3r2	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	True
+O08908	Pik3r2	mouse	domain_type	hasDomainType	INTERPRO:IPR035020	True
+O08911	Mapk1	mouse	domain_type	hasDomainType	INTERPRO:IPR000719	True
+O08911	Mapk1	mouse	function	hasFunctionTag	DOF:000009 Binding	True
+O08911	Mapk1	mouse	function	hasFunctionTag	DOF:000010 catalytic	True
+O08911	Mapk1	mouse	topology	hasTopologyContext	DOP:000012 unknown	True
+O08911	Mapk1	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	True
+O08911	Mapk1	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+O08911	Mapk1	mouse	binding_target	hasBindingTarget	DOT:000026 ATP	False
+O08911	Mapk1	mouse	binding_target	hasBindingTarget	DOT:000079 Mg2+	False
+O08911	Mapk1	mouse	binding_target	hasBindingTarget	DOT:000114 protein substrate	False
+O08911	Mapk1	mouse	GO_function	hasGOTermMF	GO:0004672	True
+O08911	Mapk1	mouse	GO_function	hasGOTermMF	GO:0005524	True
+O08911	Mapk1	mouse	GO_process	hasGOTermBP	GO:0006468	False
+O09000	Rac3	mouse	domain_type	hasDomainType	INTERPRO:IPR056193	True
+O09000	Rac3	mouse	function	hasFunctionTag	DOF:000021 DNA-binding	True
+O09000	Rac3	mouse	function	hasFunctionTag	DOF:000030 dimerization	True
+O09000	Rac3	mouse	topology	hasTopologyContext	DOP:000012 unknown	True
+O09000	Rac3	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	True
+O09000	Rac3	mouse	binding_target	hasBindingTarget	DOT:000072 DNA response element	False
+O09000	Rac3	mouse	binding_target	hasBindingTarget	DOT:000090 dimerization partner	False
+O09000	Rac3	mouse	domain_type	hasDomainType	INTERPRO:IPR011598	True
+O09000	Rac3	mouse	GO_function	hasGOTermMF	GO:0046983	True
+O09000	Rac3	mouse	domain_type	hasDomainType	INTERPRO:IPR000014	True
+O09000	Rac3	mouse	function	hasFunctionTag	DOF:000018 sensor	True
+O09000	Rac3	mouse	function	hasFunctionTag	DOF:000016 scaffold	True
+O09000	Rac3	mouse	binding_target	hasBindingTarget	DOT:000281 protein partner or small-molecule signal	False
+O09000	Rac3	mouse	domain_type	hasDomainType	INTERPRO:IPR013767	True
+O09000	Rac3	mouse	GO_process	hasGOTermBP	GO:0006355	False
+O09000	Rac3	mouse	domain_type	hasDomainType	INTERPRO:IPR014935	True
+O09000	Rac3	mouse	function	hasFunctionTag	DOF:000017 PPI	True
+O09000	Rac3	mouse	function	hasFunctionTag	DOF:000028 coactivator	True
+O09000	Rac3	mouse	position	hasPositionalCategory	DOP:000005 Internal	True
+O09000	Rac3	mouse	binding_target	hasBindingTarget	DOT:000101 nuclear receptor ligand-binding domain	False
+O09000	Rac3	mouse	domain_type	hasDomainType	INTERPRO:IPR032565	True
+O09000	Rac3	mouse	binding_target	hasBindingTarget	DOT:000088 coactivator core proteins	False
+O09000	Rac3	mouse	domain_type	hasDomainType	INTERPRO:IPR014920	True
+O09000	Rac3	mouse	GO_function	hasGOTermMF	GO:0003713	True
+O09000	Rac3	mouse	GO_function	hasGOTermMF	GO:0016922	True
+O09000	Rac3	mouse	GO_component	hasGOTermCC	GO:0005634	False
+O09000	Rac3	mouse	domain_type	hasDomainType	INTERPRO:IPR010011	True
+O09000	Rac3	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	True
+O35904	Pik3cd	mouse	domain_type	hasDomainType	INTERPRO:IPR003113	True
+O35904	Pik3cd	mouse	function	hasFunctionTag	DOF:000016 scaffold	True
+O35904	Pik3cd	mouse	function	hasFunctionTag	DOF:000014 regulator	True
+O35904	Pik3cd	mouse	topology	hasTopologyContext	DOP:000012 unknown	True
+O35904	Pik3cd	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	True
+O35904	Pik3cd	mouse	binding_target	hasBindingTarget	DOT:000082 PI3K regulatory/catalytic subunit partner	False
+O35904	Pik3cd	mouse	domain_type	hasDomainType	INTERPRO:IPR000341	True
+O35904	Pik3cd	mouse	function	hasFunctionTag	DOF:000009 Binding	True
+O35904	Pik3cd	mouse	binding_target	hasBindingTarget	DOT:000287 Ras family small GTPase	False
+O35904	Pik3cd	mouse	domain_type	hasDomainType	INTERPRO:IPR002420	True
+O35904	Pik3cd	mouse	function	hasFunctionTag	DOF:000033 membrane-targeting	True
+O35904	Pik3cd	mouse	position	hasPositionalCategory	DOP:000005 Internal	True
+O35904	Pik3cd	mouse	binding_target	hasBindingTarget	DOT:000098 membrane phospholipid	False
+O35904	Pik3cd	mouse	domain_type	hasDomainType	INTERPRO:IPR001263	True
+O35904	Pik3cd	mouse	binding_target	hasBindingTarget	DOT:000112 protein partner	False
+O35904	Pik3cd	mouse	domain_type	hasDomainType	INTERPRO:IPR037703	True
+O35904	Pik3cd	mouse	function	hasFunctionTag	DOF:000010 catalytic	True
+O35904	Pik3cd	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	True
+O35904	Pik3cd	mouse	binding_target	hasBindingTarget	DOT:000026 ATP	False
+O35904	Pik3cd	mouse	binding_target	hasBindingTarget	DOT:000079 Mg2+	False
+O35904	Pik3cd	mouse	binding_target	hasBindingTarget	DOT:000114 protein substrate	False
+O35904	Pik3cd	mouse	GO_function	hasGOTermMF	GO:0016303	True
+O35904	Pik3cd	mouse	GO_process	hasGOTermBP	GO:0043491	False
+O35904	Pik3cd	mouse	domain_type	hasDomainType	INTERPRO:IPR000403	True
+O70176	Adcyap1	mouse	domain_type	hasDomainType	INTERPRO:IPR000532	True
+O70176	Adcyap1	mouse	function	hasFunctionTag	DOF:000043 ligand	True
+O70176	Adcyap1	mouse	function	hasFunctionTag	DOF:000038 receptor-binding	True
+O70176	Adcyap1	mouse	topology	hasTopologyContext	DOP:000012 unknown	True
+O70176	Adcyap1	mouse	position	hasPositionalCategory	DOP:000005 Internal	True
+O70176	Adcyap1	mouse	binding_target	hasBindingTarget	DOT:000284 cognate GPCR or receptor	False
+O70176	Adcyap1	mouse	GO_function	hasGOTermMF	GO:0005179	True
+O70176	Adcyap1	mouse	GO_component	hasGOTermCC	GO:0005576	False
+O70176	Adcyap1	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	True
+O70507	Hcn4	mouse	domain_type	hasDomainType	INTERPRO:IPR013621	True
+O70507	Hcn4	mouse	function	hasFunctionTag	DOF:000013 transporter	True
+O70507	Hcn4	mouse	function	hasFunctionTag	DOF:000026 channel	True
+O70507	Hcn4	mouse	topology	hasTopologyContext	DOP:000006 cytoplasmic	True
+O70507	Hcn4	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	True
+O70507	Hcn4	mouse	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	True
+O70507	Hcn4	mouse	binding_target	hasBindingTarget	DOT:000282 Ca2+/Na+/K+ or permeant ion	False
+O70507	Hcn4	mouse	domain_type	hasDomainType	INTERPRO:IPR005821	True
+O70507	Hcn4	mouse	topology	hasTopologyContext	DOP:000007 extracellular	True
+O70507	Hcn4	mouse	topology	hasTopologyContext	DOP:000008 transmembrane	True
+O70507	Hcn4	mouse	position	hasPositionalCategory	DOP:000005 Internal	True
+O70507	Hcn4	mouse	GO_function	hasGOTermMF	GO:0005216	True
+O70507	Hcn4	mouse	GO_process	hasGOTermBP	GO:0006811	False
+O70507	Hcn4	mouse	GO_process	hasGOTermBP	GO:0055085	False
+O70507	Hcn4	mouse	GO_component	hasGOTermCC	GO:0016020	False
+O70507	Hcn4	mouse	domain_type	hasDomainType	INTERPRO:IPR000595	True
+O70507	Hcn4	mouse	function	hasFunctionTag	DOF:000014 regulator	True
+O70507	Hcn4	mouse	function	hasFunctionTag	DOF:000029 cyclic-nucleotide-sensor	True
+O70507	Hcn4	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+O70507	Hcn4	mouse	binding_target	hasBindingTarget	DOT:000283 cAMP/cGMP	False
+O88444	Adcy1	mouse	domain_type	hasDomainType	INTERPRO:IPR032628	True
+O88444	Adcy1	mouse	function	hasFunctionTag	DOF:000012 membrane-anchor	True
+O88444	Adcy1	mouse	function	hasFunctionTag	DOF:000014 regulator	True
+O88444	Adcy1	mouse	topology	hasTopologyContext	DOP:000006 cytoplasmic	True
+O88444	Adcy1	mouse	topology	hasTopologyContext	DOP:000008 transmembrane	True
+O88444	Adcy1	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	True
+O88444	Adcy1	mouse	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	True
+O88444	Adcy1	mouse	binding_target	hasBindingTarget	DOT:000074 G protein inputs	False
+O88444	Adcy1	mouse	binding_target	hasBindingTarget	DOT:000097 membrane environment	False
+O88444	Adcy1	mouse	domain_type	hasDomainType	INTERPRO:IPR001054	True
+O88444	Adcy1	mouse	function	hasFunctionTag	DOF:000010 catalytic	True
+O88444	Adcy1	mouse	position	hasPositionalCategory	DOP:000005 Internal	True
+O88444	Adcy1	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+O88444	Adcy1	mouse	binding_target	hasBindingTarget	DOT:000026 ATP	False
+O88444	Adcy1	mouse	binding_target	hasBindingTarget	DOT:000079 Mg2+	False
+O88444	Adcy1	mouse	binding_target	hasBindingTarget	DOT:000080 Mn2+	False
+O88444	Adcy1	mouse	GO_process	hasGOTermBP	GO:0009190	False
+O88444	Adcy1	mouse	GO_process	hasGOTermBP	GO:0035556	False
+O88444	Adcy1	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	True
+O88643	Pak1	mouse	domain_type	hasDomainType	INTERPRO:IPR033923	True
+O88643	Pak1	mouse	function	hasFunctionTag	DOF:000009 Binding	True
+O88643	Pak1	mouse	function	hasFunctionTag	DOF:000014 regulator	True
+O88643	Pak1	mouse	topology	hasTopologyContext	DOP:000012 unknown	True
+O88643	Pak1	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	True
+O88643	Pak1	mouse	binding_target	hasBindingTarget	DOT:000071 Cdc42	False
+O88643	Pak1	mouse	binding_target	hasBindingTarget	DOT:000083 Rac1	False
+O88643	Pak1	mouse	GO_function	hasGOTermMF	GO:0004674	True
+O88643	Pak1	mouse	domain_type	hasDomainType	INTERPRO:IPR000095	True
+O88643	Pak1	mouse	domain_type	hasDomainType	INTERPRO:IPR000719	True
+O88643	Pak1	mouse	function	hasFunctionTag	DOF:000010 catalytic	True
+O88643	Pak1	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	True
+O88643	Pak1	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+O88643	Pak1	mouse	binding_target	hasBindingTarget	DOT:000026 ATP	False
+O88643	Pak1	mouse	binding_target	hasBindingTarget	DOT:000079 Mg2+	False
+O88643	Pak1	mouse	binding_target	hasBindingTarget	DOT:000114 protein substrate	False
+O88643	Pak1	mouse	GO_function	hasGOTermMF	GO:0004672	True
+O88643	Pak1	mouse	GO_function	hasGOTermMF	GO:0005524	True
+O88643	Pak1	mouse	GO_process	hasGOTermBP	GO:0006468	False
+O88703	Hcn2	mouse	domain_type	hasDomainType	INTERPRO:IPR013621	True
+O88703	Hcn2	mouse	function	hasFunctionTag	DOF:000013 transporter	True
+O88703	Hcn2	mouse	function	hasFunctionTag	DOF:000026 channel	True
+O88703	Hcn2	mouse	topology	hasTopologyContext	DOP:000006 cytoplasmic	True
+O88703	Hcn2	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	True
+O88703	Hcn2	mouse	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	True
+O88703	Hcn2	mouse	binding_target	hasBindingTarget	DOT:000282 Ca2+/Na+/K+ or permeant ion	False
+O88703	Hcn2	mouse	domain_type	hasDomainType	INTERPRO:IPR005821	True
+O88703	Hcn2	mouse	topology	hasTopologyContext	DOP:000007 extracellular	True
+O88703	Hcn2	mouse	topology	hasTopologyContext	DOP:000008 transmembrane	True
+O88703	Hcn2	mouse	position	hasPositionalCategory	DOP:000005 Internal	True
+O88703	Hcn2	mouse	GO_function	hasGOTermMF	GO:0005216	True
+O88703	Hcn2	mouse	GO_process	hasGOTermBP	GO:0006811	False
+O88703	Hcn2	mouse	GO_process	hasGOTermBP	GO:0055085	False
+O88703	Hcn2	mouse	GO_component	hasGOTermCC	GO:0016020	False
+O88703	Hcn2	mouse	domain_type	hasDomainType	INTERPRO:IPR000595	True
+O88703	Hcn2	mouse	function	hasFunctionTag	DOF:000014 regulator	True
+O88703	Hcn2	mouse	function	hasFunctionTag	DOF:000029 cyclic-nucleotide-sensor	True
+O88703	Hcn2	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+O88703	Hcn2	mouse	binding_target	hasBindingTarget	DOT:000283 cAMP/cGMP	False
+O89084	Pde4a	mouse	domain_type	hasDomainType	INTERPRO:IPR040844	True
+O89084	Pde4a	mouse	function	hasFunctionTag	DOF:000014 regulator	True
+O89084	Pde4a	mouse	topology	hasTopologyContext	DOP:000012 unknown	True
+O89084	Pde4a	mouse	position	hasPositionalCategory	DOP:000005 Internal	True
+O89084	Pde4a	mouse	binding_target	hasBindingTarget	DOT:000095 intramolecular PDE regulatory contacts	False
+O89084	Pde4a	mouse	domain_type	hasDomainType	INTERPRO:IPR002073	True
+O89084	Pde4a	mouse	function	hasFunctionTag	DOF:000010 catalytic	True
+O89084	Pde4a	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+O89084	Pde4a	mouse	binding_target	hasBindingTarget	DOT:000283 cAMP/cGMP	False
+O89084	Pde4a	mouse	binding_target	hasBindingTarget	DOT:000084 Zn2+	False
+O89084	Pde4a	mouse	binding_target	hasBindingTarget	DOT:000079 Mg2+	False
+O89084	Pde4a	mouse	GO_function	hasGOTermMF	GO:0004114	True
+O89084	Pde4a	mouse	GO_process	hasGOTermBP	GO:0007165	False
+O89084	Pde4a	mouse	domain_type	hasDomainType	INTERPRO:IPR003607	True
+P05132	Prkaca	mouse	domain_type	hasDomainType	INTERPRO:IPR000719	True
+P05132	Prkaca	mouse	function	hasFunctionTag	DOF:000009 Binding	True
+P05132	Prkaca	mouse	function	hasFunctionTag	DOF:000010 catalytic	True
+P05132	Prkaca	mouse	topology	hasTopologyContext	DOP:000012 unknown	True
+P05132	Prkaca	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	True
+P05132	Prkaca	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+P05132	Prkaca	mouse	binding_target	hasBindingTarget	DOT:000026 ATP	False
+P05132	Prkaca	mouse	binding_target	hasBindingTarget	DOT:000079 Mg2+	False
+P05132	Prkaca	mouse	binding_target	hasBindingTarget	DOT:000114 protein substrate	False
+P05132	Prkaca	mouse	GO_function	hasGOTermMF	GO:0004672	True
+P05132	Prkaca	mouse	GO_function	hasGOTermMF	GO:0005524	True
+P05132	Prkaca	mouse	GO_process	hasGOTermBP	GO:0006468	False
+P05132	Prkaca	mouse	domain_type	hasDomainType	INTERPRO:IPR000961	True
+P05132	Prkaca	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	True
+P05132	Prkaca	mouse	GO_function	hasGOTermMF	GO:0004674	True
+P08414	Camk4	mouse	domain_type	hasDomainType	INTERPRO:IPR000719	True
+P08414	Camk4	mouse	function	hasFunctionTag	DOF:000009 Binding	True
+P08414	Camk4	mouse	function	hasFunctionTag	DOF:000010 catalytic	True
+P08414	Camk4	mouse	topology	hasTopologyContext	DOP:000012 unknown	True
+P08414	Camk4	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	True
+P08414	Camk4	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+P08414	Camk4	mouse	binding_target	hasBindingTarget	DOT:000026 ATP	False
+P08414	Camk4	mouse	binding_target	hasBindingTarget	DOT:000079 Mg2+	False
+P08414	Camk4	mouse	binding_target	hasBindingTarget	DOT:000114 protein substrate	False
+P08414	Camk4	mouse	GO_function	hasGOTermMF	GO:0004672	True
+P08414	Camk4	mouse	GO_function	hasGOTermMF	GO:0005524	True
+P08414	Camk4	mouse	GO_process	hasGOTermBP	GO:0006468	False
+P0DP26	Calm1	mouse	domain_type	hasDomainType	INTERPRO:IPR002048	True
+P0DP26	Calm1	mouse	function	hasFunctionTag	DOF:000009 Binding	True
+P0DP26	Calm1	mouse	function	hasFunctionTag	DOF:000014 regulator	True
+P0DP26	Calm1	mouse	topology	hasTopologyContext	DOP:000012 unknown	True
+P0DP26	Calm1	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	True
+P0DP26	Calm1	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+P0DP26	Calm1	mouse	binding_target	hasBindingTarget	DOT:000069 Ca2+	False
+P0DP26	Calm1	mouse	GO_function	hasGOTermMF	GO:0005509	True
+P0DP26	Calm1	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	True
+P0DP27	Calm2	mouse	domain_type	hasDomainType	INTERPRO:IPR002048	True
+P0DP27	Calm2	mouse	function	hasFunctionTag	DOF:000009 Binding	True
+P0DP27	Calm2	mouse	function	hasFunctionTag	DOF:000014 regulator	True
+P0DP27	Calm2	mouse	topology	hasTopologyContext	DOP:000012 unknown	True
+P0DP27	Calm2	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	True
+P0DP27	Calm2	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+P0DP27	Calm2	mouse	binding_target	hasBindingTarget	DOT:000069 Ca2+	False
+P0DP27	Calm2	mouse	GO_function	hasGOTermMF	GO:0005509	True
+P0DP27	Calm2	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	True
+P0DP28	Calm3	mouse	domain_type	hasDomainType	INTERPRO:IPR002048	True
+P0DP28	Calm3	mouse	function	hasFunctionTag	DOF:000009 Binding	True
+P0DP28	Calm3	mouse	function	hasFunctionTag	DOF:000014 regulator	True
+P0DP28	Calm3	mouse	topology	hasTopologyContext	DOP:000012 unknown	True
+P0DP28	Calm3	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	True
+P0DP28	Calm3	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+P0DP28	Calm3	mouse	binding_target	hasBindingTarget	DOT:000069 Ca2+	False
+P0DP28	Calm3	mouse	GO_function	hasGOTermMF	GO:0005509	True
+P0DP28	Calm3	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	True
+P12657	Chrm1	mouse	domain_type	hasDomainType	INTERPRO:IPR017452	True
+P12657	Chrm1	mouse	function	hasFunctionTag	DOF:000011 receptor	True
+P12657	Chrm1	mouse	function	hasFunctionTag	DOF:000012 membrane-anchor	True
+P12657	Chrm1	mouse	function	hasFunctionTag	DOF:000039 signal-transducer	True
+P12657	Chrm1	mouse	topology	hasTopologyContext	DOP:000006 cytoplasmic	True
+P12657	Chrm1	mouse	topology	hasTopologyContext	DOP:000007 extracellular	True
+P12657	Chrm1	mouse	topology	hasTopologyContext	DOP:000008 transmembrane	True
+P12657	Chrm1	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	True
+P12657	Chrm1	mouse	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	True
+P12657	Chrm1	mouse	binding_target	hasBindingTarget	DOT:000092 extracellular ligand	False
+P12657	Chrm1	mouse	binding_target	hasBindingTarget	DOT:000093 heterotrimeric G protein	False
+P12657	Chrm1	mouse	GO_component	hasGOTermCC	GO:0016020	False
+P18762	Adrb2	mouse	domain_type	hasDomainType	INTERPRO:IPR017452	True
+P18762	Adrb2	mouse	function	hasFunctionTag	DOF:000011 receptor	True
+P18762	Adrb2	mouse	function	hasFunctionTag	DOF:000012 membrane-anchor	True
+P18762	Adrb2	mouse	function	hasFunctionTag	DOF:000039 signal-transducer	True
+P18762	Adrb2	mouse	topology	hasTopologyContext	DOP:000006 cytoplasmic	True
+P18762	Adrb2	mouse	topology	hasTopologyContext	DOP:000007 extracellular	True
+P18762	Adrb2	mouse	topology	hasTopologyContext	DOP:000008 transmembrane	True
+P18762	Adrb2	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	True
+P18762	Adrb2	mouse	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	True
+P18762	Adrb2	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+P18762	Adrb2	mouse	binding_target	hasBindingTarget	DOT:000092 extracellular ligand	False
+P18762	Adrb2	mouse	binding_target	hasBindingTarget	DOT:000093 heterotrimeric G protein	False
+P18762	Adrb2	mouse	GO_component	hasGOTermCC	GO:0016020	False
+P21237	Bdnf	mouse	domain_type	hasDomainType	INTERPRO:IPR002072	True
+P21237	Bdnf	mouse	function	hasFunctionTag	DOF:000043 ligand	True
+P21237	Bdnf	mouse	function	hasFunctionTag	DOF:000038 receptor-binding	True
+P21237	Bdnf	mouse	topology	hasTopologyContext	DOP:000012 unknown	True
+P21237	Bdnf	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	True
+P21237	Bdnf	mouse	binding_target	hasBindingTarget	DOT:000284 cognate GPCR or receptor	False
+P21237	Bdnf	mouse	GO_function	hasGOTermMF	GO:0005102	True
+P22387	Edn1	mouse	domain_type	hasDomainType	INTERPRO:IPR001928	True
+P22387	Edn1	mouse	function	hasFunctionTag	DOF:000043 ligand	True
+P22387	Edn1	mouse	function	hasFunctionTag	DOF:000038 receptor-binding	True
+P22387	Edn1	mouse	topology	hasTopologyContext	DOP:000012 unknown	True
+P22387	Edn1	mouse	position	hasPositionalCategory	DOP:000005 Internal	True
+P22387	Edn1	mouse	binding_target	hasBindingTarget	DOT:000284 cognate GPCR or receptor	False
+P22387	Edn1	mouse	GO_process	hasGOTermBP	GO:0019229	False
+P22387	Edn1	mouse	GO_component	hasGOTermCC	GO:0005576	False
+P22389	Edn2	mouse	domain_type	hasDomainType	INTERPRO:IPR001928	True
+P22389	Edn2	mouse	function	hasFunctionTag	DOF:000043 ligand	True
+P22389	Edn2	mouse	function	hasFunctionTag	DOF:000038 receptor-binding	True
+P22389	Edn2	mouse	topology	hasTopologyContext	DOP:000012 unknown	True
+P22389	Edn2	mouse	position	hasPositionalCategory	DOP:000005 Internal	True
+P22389	Edn2	mouse	binding_target	hasBindingTarget	DOT:000284 cognate GPCR or receptor	False
+P22389	Edn2	mouse	GO_process	hasGOTermBP	GO:0019229	False
+P22389	Edn2	mouse	GO_component	hasGOTermCC	GO:0005576	False
+P26361	Cftr	mouse	domain_type	hasDomainType	INTERPRO:IPR011527	True
+P26361	Cftr	mouse	function	hasFunctionTag	DOF:000013 transporter	True
+P26361	Cftr	mouse	function	hasFunctionTag	DOF:000012 membrane-anchor	True
+P26361	Cftr	mouse	topology	hasTopologyContext	DOP:000006 cytoplasmic	True
+P26361	Cftr	mouse	topology	hasTopologyContext	DOP:000007 extracellular	True
+P26361	Cftr	mouse	topology	hasTopologyContext	DOP:000008 transmembrane	True
+P26361	Cftr	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	True
+P26361	Cftr	mouse	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	True
+P26361	Cftr	mouse	binding_target	hasBindingTarget	DOT:000118 transported substrate	False
+P26361	Cftr	mouse	binding_target	hasBindingTarget	DOT:000096 membrane bilayer	False
+P26361	Cftr	mouse	GO_function	hasGOTermMF	GO:0005524	True
+P26361	Cftr	mouse	GO_function	hasGOTermMF	GO:0140359	True
+P26361	Cftr	mouse	GO_process	hasGOTermBP	GO:0055085	False
+P26361	Cftr	mouse	GO_component	hasGOTermCC	GO:0016020	False
+P26361	Cftr	mouse	domain_type	hasDomainType	INTERPRO:IPR047082	True
+P26361	Cftr	mouse	position	hasPositionalCategory	DOP:000005 Internal	True
+P26361	Cftr	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+P26361	Cftr	mouse	domain_type	hasDomainType	INTERPRO:IPR003439	True
+P26361	Cftr	mouse	function	hasFunctionTag	DOF:000020 ATPase	True
+P26361	Cftr	mouse	binding_target	hasBindingTarget	DOT:000026 ATP	False
+P26361	Cftr	mouse	binding_target	hasBindingTarget	DOT:000079 Mg2+	False
+P26361	Cftr	mouse	GO_function	hasGOTermMF	GO:0016887	True
+P26361	Cftr	mouse	domain_type	hasDomainType	INTERPRO:IPR003593	True
+P26361	Cftr	mouse	function	hasFunctionTag	DOF:000018 sensor	True
+P26361	Cftr	mouse	function	hasFunctionTag	DOF:000016 scaffold	True
+P26361	Cftr	mouse	binding_target	hasBindingTarget	DOT:000281 protein partner or small-molecule signal	False
+P26361	Cftr	mouse	domain_type	hasDomainType	INTERPRO:IPR025837	True
+P26361	Cftr	mouse	function	hasFunctionTag	DOF:000014 regulator	True
+P26361	Cftr	mouse	binding_target	hasBindingTarget	DOT:000111 protein kinase A	False
+P26361	Cftr	mouse	binding_target	hasBindingTarget	DOT:000087 channel regulatory partners	False
+P26361	Cftr	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	True
+P26450	Pik3r1	mouse	domain_type	hasDomainType	INTERPRO:IPR001452	True
+P26450	Pik3r1	mouse	function	hasFunctionTag	DOF:000017 PPI	True
+P26450	Pik3r1	mouse	function	hasFunctionTag	DOF:000024 adaptor	True
+P26450	Pik3r1	mouse	topology	hasTopologyContext	DOP:000012 unknown	True
+P26450	Pik3r1	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	True
+P26450	Pik3r1	mouse	binding_target	hasBindingTarget	DOT:000110 proline-rich motif-containing proteins	False
+P26450	Pik3r1	mouse	GO_function	hasGOTermMF	GO:0005515	True
+P26450	Pik3r1	mouse	domain_type	hasDomainType	INTERPRO:IPR035591	True
+P26450	Pik3r1	mouse	domain_type	hasDomainType	INTERPRO:IPR000198	True
+P26450	Pik3r1	mouse	function	hasFunctionTag	DOF:000014 regulator	True
+P26450	Pik3r1	mouse	function	hasFunctionTag	DOF:000044 GAP	True
+P26450	Pik3r1	mouse	binding_target	hasBindingTarget	DOT:000288 Rho family small GTPase	False
+P26450	Pik3r1	mouse	GO_process	hasGOTermBP	GO:0007165	False
+P26450	Pik3r1	mouse	domain_type	hasDomainType	INTERPRO:IPR035022	True
+P26450	Pik3r1	mouse	position	hasPositionalCategory	DOP:000005 Internal	True
+P26450	Pik3r1	mouse	binding_target	hasBindingTarget	DOT:000109 phosphotyrosine-containing proteins	False
+P26450	Pik3r1	mouse	domain_type	hasDomainType	INTERPRO:IPR000980	True
+P26450	Pik3r1	mouse	domain_type	hasDomainType	INTERPRO:IPR032498	True
+P26450	Pik3r1	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	True
+P26450	Pik3r1	mouse	domain_type	hasDomainType	INTERPRO:IPR044124	True
+P26450	Pik3r1	mouse	domain_type	hasDomainType	INTERPRO:IPR035020	True
+P27870	Vav1	mouse	domain_type	hasDomainType	INTERPRO:IPR001715	True
+P27870	Vav1	mouse	function	hasFunctionTag	DOF:000009 Binding	True
+P27870	Vav1	mouse	function	hasFunctionTag	DOF:000016 scaffold	True
+P27870	Vav1	mouse	topology	hasTopologyContext	DOP:000012 unknown	True
+P27870	Vav1	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	True
+P27870	Vav1	mouse	binding_target	hasBindingTarget	DOT:000086 actin	False
+P27870	Vav1	mouse	GO_function	hasGOTermMF	GO:0005515	True
+P27870	Vav1	mouse	domain_type	hasDomainType	INTERPRO:IPR022613	True
+P27870	Vav1	mouse	function	hasFunctionTag	DOF:000014 regulator	True
+P27870	Vav1	mouse	binding_target	hasBindingTarget	DOT:000112 protein partner	False
+P27870	Vav1	mouse	domain_type	hasDomainType	INTERPRO:IPR000219	True
+P27870	Vav1	mouse	function	hasFunctionTag	DOF:000045 GEF	True
+P27870	Vav1	mouse	position	hasPositionalCategory	DOP:000005 Internal	True
+P27870	Vav1	mouse	binding_target	hasBindingTarget	DOT:000286 Ras/Rho family small GTPase	False
+P27870	Vav1	mouse	GO_function	hasGOTermMF	GO:0005085	True
+P27870	Vav1	mouse	domain_type	hasDomainType	INTERPRO:IPR037832	True
+P27870	Vav1	mouse	function	hasFunctionTag	DOF:000033 membrane-targeting	True
+P27870	Vav1	mouse	function	hasFunctionTag	DOF:000024 adaptor	True
+P27870	Vav1	mouse	binding_target	hasBindingTarget	DOT:000038 Phosphoinositides	False
+P27870	Vav1	mouse	domain_type	hasDomainType	INTERPRO:IPR001849	True
+P27870	Vav1	mouse	domain_type	hasDomainType	INTERPRO:IPR002219	True
+P27870	Vav1	mouse	binding_target	hasBindingTarget	DOT:000040 Diacylglycerol	False
+P27870	Vav1	mouse	binding_target	hasBindingTarget	DOT:000104 phorbol ester	False
+P27870	Vav1	mouse	binding_target	hasBindingTarget	DOT:000285 membrane phospholipids	False
+P27870	Vav1	mouse	domain_type	hasDomainType	INTERPRO:IPR001452	True
+P27870	Vav1	mouse	function	hasFunctionTag	DOF:000017 PPI	True
+P27870	Vav1	mouse	binding_target	hasBindingTarget	DOT:000110 proline-rich motif-containing proteins	False
+P27870	Vav1	mouse	domain_type	hasDomainType	INTERPRO:IPR035730	True
+P27870	Vav1	mouse	domain_type	hasDomainType	INTERPRO:IPR035879	True
+P27870	Vav1	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	True
+P27870	Vav1	mouse	binding_target	hasBindingTarget	DOT:000109 phosphotyrosine-containing proteins	False
+P27870	Vav1	mouse	domain_type	hasDomainType	INTERPRO:IPR000980	True
+P27870	Vav1	mouse	domain_type	hasDomainType	INTERPRO:IPR035729	True
+P29974	Cnga1	mouse	domain_type	hasDomainType	INTERPRO:IPR005821	True
+P29974	Cnga1	mouse	function	hasFunctionTag	DOF:000013 transporter	True
+P29974	Cnga1	mouse	function	hasFunctionTag	DOF:000026 channel	True
+P29974	Cnga1	mouse	topology	hasTopologyContext	DOP:000006 cytoplasmic	True
+P29974	Cnga1	mouse	topology	hasTopologyContext	DOP:000007 extracellular	True
+P29974	Cnga1	mouse	topology	hasTopologyContext	DOP:000008 transmembrane	True
+P29974	Cnga1	mouse	position	hasPositionalCategory	DOP:000005 Internal	True
+P29974	Cnga1	mouse	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	True
+P29974	Cnga1	mouse	binding_target	hasBindingTarget	DOT:000282 Ca2+/Na+/K+ or permeant ion	False
+P29974	Cnga1	mouse	GO_function	hasGOTermMF	GO:0005216	True
+P29974	Cnga1	mouse	GO_process	hasGOTermBP	GO:0006811	False
+P29974	Cnga1	mouse	GO_process	hasGOTermBP	GO:0055085	False
+P29974	Cnga1	mouse	GO_component	hasGOTermCC	GO:0016020	False
+P29974	Cnga1	mouse	domain_type	hasDomainType	INTERPRO:IPR000595	True
+P29974	Cnga1	mouse	function	hasFunctionTag	DOF:000014 regulator	True
+P29974	Cnga1	mouse	function	hasFunctionTag	DOF:000029 cyclic-nucleotide-sensor	True
+P29974	Cnga1	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	True
+P29974	Cnga1	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+P29974	Cnga1	mouse	binding_target	hasBindingTarget	DOT:000283 cAMP/cGMP	False
+P29974	Cnga1	mouse	domain_type	hasDomainType	INTERPRO:IPR032406	True
+P29974	Cnga1	mouse	binding_target	hasBindingTarget	DOT:000112 protein partner	False
+P30557	Ptger3	mouse	domain_type	hasDomainType	INTERPRO:IPR017452	True
+P30557	Ptger3	mouse	function	hasFunctionTag	DOF:000011 receptor	True
+P30557	Ptger3	mouse	function	hasFunctionTag	DOF:000012 membrane-anchor	True
+P30557	Ptger3	mouse	function	hasFunctionTag	DOF:000039 signal-transducer	True
+P30557	Ptger3	mouse	topology	hasTopologyContext	DOP:000006 cytoplasmic	True
+P30557	Ptger3	mouse	topology	hasTopologyContext	DOP:000007 extracellular	True
+P30557	Ptger3	mouse	topology	hasTopologyContext	DOP:000008 transmembrane	True
+P30557	Ptger3	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	True
+P30557	Ptger3	mouse	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	True
+P30557	Ptger3	mouse	binding_target	hasBindingTarget	DOT:000092 extracellular ligand	False
+P30557	Ptger3	mouse	binding_target	hasBindingTarget	DOT:000093 heterotrimeric G protein	False
+P30557	Ptger3	mouse	GO_component	hasGOTermCC	GO:0016020	False
+P30873	Sstr1	mouse	domain_type	hasDomainType	INTERPRO:IPR017452	True
+P30873	Sstr1	mouse	function	hasFunctionTag	DOF:000011 receptor	True
+P30873	Sstr1	mouse	function	hasFunctionTag	DOF:000012 membrane-anchor	True
+P30873	Sstr1	mouse	function	hasFunctionTag	DOF:000039 signal-transducer	True
+P30873	Sstr1	mouse	topology	hasTopologyContext	DOP:000006 cytoplasmic	True
+P30873	Sstr1	mouse	topology	hasTopologyContext	DOP:000007 extracellular	True
+P30873	Sstr1	mouse	topology	hasTopologyContext	DOP:000008 transmembrane	True
+P30873	Sstr1	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	True
+P30873	Sstr1	mouse	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	True
+P30873	Sstr1	mouse	binding_target	hasBindingTarget	DOT:000092 extracellular ligand	False
+P30873	Sstr1	mouse	binding_target	hasBindingTarget	DOT:000093 heterotrimeric G protein	False
+P30873	Sstr1	mouse	GO_component	hasGOTermCC	GO:0016020	False
+P30875	Sstr2	mouse	domain_type	hasDomainType	INTERPRO:IPR017452	True
+P30875	Sstr2	mouse	function	hasFunctionTag	DOF:000011 receptor	True
+P30875	Sstr2	mouse	function	hasFunctionTag	DOF:000012 membrane-anchor	True
+P30875	Sstr2	mouse	function	hasFunctionTag	DOF:000039 signal-transducer	True
+P30875	Sstr2	mouse	topology	hasTopologyContext	DOP:000006 cytoplasmic	True
+P30875	Sstr2	mouse	topology	hasTopologyContext	DOP:000007 extracellular	True
+P30875	Sstr2	mouse	topology	hasTopologyContext	DOP:000008 transmembrane	True
+P30875	Sstr2	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	True
+P30875	Sstr2	mouse	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	True
+P30875	Sstr2	mouse	binding_target	hasBindingTarget	DOT:000092 extracellular ligand	False
+P30875	Sstr2	mouse	binding_target	hasBindingTarget	DOT:000093 heterotrimeric G protein	False
+P30875	Sstr2	mouse	GO_component	hasGOTermCC	GO:0016020	False
+P31938	Map2k1	mouse	domain_type	hasDomainType	INTERPRO:IPR000719	True
+P31938	Map2k1	mouse	function	hasFunctionTag	DOF:000009 Binding	True
+P31938	Map2k1	mouse	function	hasFunctionTag	DOF:000010 catalytic	True
+P31938	Map2k1	mouse	topology	hasTopologyContext	DOP:000012 unknown	True
+P31938	Map2k1	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	True
+P31938	Map2k1	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+P31938	Map2k1	mouse	binding_target	hasBindingTarget	DOT:000026 ATP	False
+P31938	Map2k1	mouse	binding_target	hasBindingTarget	DOT:000079 Mg2+	False
+P31938	Map2k1	mouse	binding_target	hasBindingTarget	DOT:000114 protein substrate	False
+P31938	Map2k1	mouse	GO_function	hasGOTermMF	GO:0004672	True
+P31938	Map2k1	mouse	GO_function	hasGOTermMF	GO:0005524	True
+P31938	Map2k1	mouse	GO_process	hasGOTermBP	GO:0006468	False
+P32648	Vip	mouse	domain_type	hasDomainType	INTERPRO:IPR000532	True
+P32648	Vip	mouse	function	hasFunctionTag	DOF:000043 ligand	True
+P32648	Vip	mouse	function	hasFunctionTag	DOF:000038 receptor-binding	True
+P32648	Vip	mouse	topology	hasTopologyContext	DOP:000012 unknown	True
+P32648	Vip	mouse	position	hasPositionalCategory	DOP:000005 Internal	True
+P32648	Vip	mouse	binding_target	hasBindingTarget	DOT:000284 cognate GPCR or receptor	False
+P32648	Vip	mouse	GO_function	hasGOTermMF	GO:0005179	True
+P32648	Vip	mouse	GO_component	hasGOTermCC	GO:0005576	False
+P32648	Vip	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	True
+P34971	Adrb1	mouse	domain_type	hasDomainType	INTERPRO:IPR017452	True
+P34971	Adrb1	mouse	function	hasFunctionTag	DOF:000011 receptor	True
+P34971	Adrb1	mouse	function	hasFunctionTag	DOF:000012 membrane-anchor	True
+P34971	Adrb1	mouse	function	hasFunctionTag	DOF:000039 signal-transducer	True
+P34971	Adrb1	mouse	topology	hasTopologyContext	DOP:000006 cytoplasmic	True
+P34971	Adrb1	mouse	topology	hasTopologyContext	DOP:000007 extracellular	True
+P34971	Adrb1	mouse	topology	hasTopologyContext	DOP:000008 transmembrane	True
+P34971	Adrb1	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	True
+P34971	Adrb1	mouse	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	True
+P34971	Adrb1	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+P34971	Adrb1	mouse	binding_target	hasBindingTarget	DOT:000092 extracellular ligand	False
+P34971	Adrb1	mouse	binding_target	hasBindingTarget	DOT:000093 heterotrimeric G protein	False
+P34971	Adrb1	mouse	GO_component	hasGOTermCC	GO:0016020	False
+P35347	Crhr1	mouse	domain_type	hasDomainType	INTERPRO:IPR001879	True
+P35347	Crhr1	mouse	function	hasFunctionTag	DOF:000011 receptor	True
+P35347	Crhr1	mouse	function	hasFunctionTag	DOF:000032 ligand-binding	True
+P35347	Crhr1	mouse	topology	hasTopologyContext	DOP:000007 extracellular	True
+P35347	Crhr1	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	True
+P35347	Crhr1	mouse	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	True
+P35347	Crhr1	mouse	proximity	hasProximityCategory	DOP:000009 NearSignalPeptideCleavage	True
+P35347	Crhr1	mouse	binding_target	hasBindingTarget	DOT:000103 peptide hormone ligand	False
+P35347	Crhr1	mouse	GO_function	hasGOTermMF	GO:0004930	True
+P35347	Crhr1	mouse	GO_component	hasGOTermCC	GO:0016020	False
+P35347	Crhr1	mouse	domain_type	hasDomainType	INTERPRO:IPR017981	True
+P35347	Crhr1	mouse	function	hasFunctionTag	DOF:000012 membrane-anchor	True
+P35347	Crhr1	mouse	function	hasFunctionTag	DOF:000039 signal-transducer	True
+P35347	Crhr1	mouse	topology	hasTopologyContext	DOP:000006 cytoplasmic	True
+P35347	Crhr1	mouse	topology	hasTopologyContext	DOP:000008 transmembrane	True
+P35347	Crhr1	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	True
+P35347	Crhr1	mouse	binding_target	hasBindingTarget	DOT:000092 extracellular ligand	False
+P35347	Crhr1	mouse	binding_target	hasBindingTarget	DOT:000093 heterotrimeric G protein	False
+P35347	Crhr1	mouse	GO_function	hasGOTermMF	GO:0004888	True
+P35347	Crhr1	mouse	GO_process	hasGOTermBP	GO:0007166	False
+P41588	Vipr2	mouse	domain_type	hasDomainType	INTERPRO:IPR001879	True
+P41588	Vipr2	mouse	function	hasFunctionTag	DOF:000011 receptor	True
+P41588	Vipr2	mouse	function	hasFunctionTag	DOF:000032 ligand-binding	True
+P41588	Vipr2	mouse	topology	hasTopologyContext	DOP:000007 extracellular	True
+P41588	Vipr2	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	True
+P41588	Vipr2	mouse	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	True
+P41588	Vipr2	mouse	proximity	hasProximityCategory	DOP:000009 NearSignalPeptideCleavage	True
+P41588	Vipr2	mouse	binding_target	hasBindingTarget	DOT:000103 peptide hormone ligand	False
+P41588	Vipr2	mouse	GO_function	hasGOTermMF	GO:0004930	True
+P41588	Vipr2	mouse	GO_component	hasGOTermCC	GO:0016020	False
+P41588	Vipr2	mouse	domain_type	hasDomainType	INTERPRO:IPR047035	True
+P41588	Vipr2	mouse	function	hasFunctionTag	DOF:000012 membrane-anchor	True
+P41588	Vipr2	mouse	function	hasFunctionTag	DOF:000039 signal-transducer	True
+P41588	Vipr2	mouse	topology	hasTopologyContext	DOP:000006 cytoplasmic	True
+P41588	Vipr2	mouse	topology	hasTopologyContext	DOP:000008 transmembrane	True
+P41588	Vipr2	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	True
+P41588	Vipr2	mouse	binding_target	hasBindingTarget	DOT:000092 extracellular ligand	False
+P41588	Vipr2	mouse	binding_target	hasBindingTarget	DOT:000093 heterotrimeric G protein	False
+P41588	Vipr2	mouse	domain_type	hasDomainType	INTERPRO:IPR017981	True
+P41588	Vipr2	mouse	GO_function	hasGOTermMF	GO:0004888	True
+P41588	Vipr2	mouse	GO_process	hasGOTermBP	GO:0007166	False
+P42337	Pik3ca	mouse	domain_type	hasDomainType	INTERPRO:IPR003113	True
+P42337	Pik3ca	mouse	function	hasFunctionTag	DOF:000016 scaffold	True
+P42337	Pik3ca	mouse	function	hasFunctionTag	DOF:000014 regulator	True
+P42337	Pik3ca	mouse	topology	hasTopologyContext	DOP:000012 unknown	True
+P42337	Pik3ca	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	True
+P42337	Pik3ca	mouse	binding_target	hasBindingTarget	DOT:000082 PI3K regulatory/catalytic subunit partner	False
+P42337	Pik3ca	mouse	domain_type	hasDomainType	INTERPRO:IPR000341	True
+P42337	Pik3ca	mouse	function	hasFunctionTag	DOF:000009 Binding	True
+P42337	Pik3ca	mouse	binding_target	hasBindingTarget	DOT:000287 Ras family small GTPase	False
+P42337	Pik3ca	mouse	domain_type	hasDomainType	INTERPRO:IPR002420	True
+P42337	Pik3ca	mouse	function	hasFunctionTag	DOF:000033 membrane-targeting	True
+P42337	Pik3ca	mouse	position	hasPositionalCategory	DOP:000005 Internal	True
+P42337	Pik3ca	mouse	binding_target	hasBindingTarget	DOT:000098 membrane phospholipid	False
+P42337	Pik3ca	mouse	domain_type	hasDomainType	INTERPRO:IPR001263	True
+P42337	Pik3ca	mouse	binding_target	hasBindingTarget	DOT:000112 protein partner	False
+P42337	Pik3ca	mouse	domain_type	hasDomainType	INTERPRO:IPR037704	True
+P42337	Pik3ca	mouse	function	hasFunctionTag	DOF:000010 catalytic	True
+P42337	Pik3ca	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	True
+P42337	Pik3ca	mouse	binding_target	hasBindingTarget	DOT:000026 ATP	False
+P42337	Pik3ca	mouse	binding_target	hasBindingTarget	DOT:000079 Mg2+	False
+P42337	Pik3ca	mouse	binding_target	hasBindingTarget	DOT:000114 protein substrate	False
+P42337	Pik3ca	mouse	GO_function	hasGOTermMF	GO:0016303	True
+P42337	Pik3ca	mouse	GO_process	hasGOTermBP	GO:0043491	False
+P42337	Pik3ca	mouse	domain_type	hasDomainType	INTERPRO:IPR000403	True
+P45481	Crebbp	mouse	domain_type	hasDomainType	INTERPRO:IPR000197	True
+P45481	Crebbp	mouse	function	hasFunctionTag	DOF:000009 Binding	True
+P45481	Crebbp	mouse	function	hasFunctionTag	DOF:000040 structural	True
+P45481	Crebbp	mouse	function	hasFunctionTag	DOF:000034 metal-binding	True
+P45481	Crebbp	mouse	topology	hasTopologyContext	DOP:000012 unknown	True
+P45481	Crebbp	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	True
+P45481	Crebbp	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+P45481	Crebbp	mouse	binding_target	hasBindingTarget	DOT:000084 Zn2+	False
+P45481	Crebbp	mouse	domain_type	hasDomainType	INTERPRO:IPR003101	True
+P45481	Crebbp	mouse	function	hasFunctionTag	DOF:000017 PPI	True
+P45481	Crebbp	mouse	function	hasFunctionTag	DOF:000028 coactivator	True
+P45481	Crebbp	mouse	position	hasPositionalCategory	DOP:000005 Internal	True
+P45481	Crebbp	mouse	binding_target	hasBindingTarget	DOT:000108 phosphorylated CREB pKID	False
+P45481	Crebbp	mouse	GO_function	hasGOTermMF	GO:0003712	True
+P45481	Crebbp	mouse	GO_process	hasGOTermBP	GO:0006355	False
+P45481	Crebbp	mouse	domain_type	hasDomainType	INTERPRO:IPR001487	True
+P45481	Crebbp	mouse	function	hasFunctionTag	DOF:000037 reader	True
+P45481	Crebbp	mouse	function	hasFunctionTag	DOF:000027 chromatin-binding	True
+P45481	Crebbp	mouse	binding_target	hasBindingTarget	DOT:000085 acetyl-lysine histone tail	False
+P45481	Crebbp	mouse	GO_function	hasGOTermMF	GO:0005515	True
+P45481	Crebbp	mouse	domain_type	hasDomainType	INTERPRO:IPR010303	True
+P45481	Crebbp	mouse	function	hasFunctionTag	DOF:000016 scaffold	True
+P45481	Crebbp	mouse	binding_target	hasBindingTarget	DOT:000025 Protein	False
+P45481	Crebbp	mouse	domain_type	hasDomainType	INTERPRO:IPR056484	True
+P45481	Crebbp	mouse	function	hasFunctionTag	DOF:000010 catalytic	True
+P45481	Crebbp	mouse	binding_target	hasBindingTarget	DOT:000053 AcetylCoA	False
+P45481	Crebbp	mouse	binding_target	hasBindingTarget	DOT:000094 histone/non-histone lysine substrate	False
+P45481	Crebbp	mouse	domain_type	hasDomainType	INTERPRO:IPR031162	True
+P45481	Crebbp	mouse	GO_function	hasGOTermMF	GO:0004402	True
+P45481	Crebbp	mouse	domain_type	hasDomainType	INTERPRO:IPR000433	True
+P45481	Crebbp	mouse	GO_function	hasGOTermMF	GO:0008270	True
+P45481	Crebbp	mouse	domain_type	hasDomainType	INTERPRO:IPR014744	True
+P45481	Crebbp	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	True
+P45481	Crebbp	mouse	binding_target	hasBindingTarget	DOT:000088 coactivator core proteins	False
+P45481	Crebbp	mouse	GO_function	hasGOTermMF	GO:0003713	True
+P45481	Crebbp	mouse	GO_component	hasGOTermCC	GO:0000123	False
+P45481	Crebbp	mouse	GO_component	hasGOTermCC	GO:0005634	False
+P47811	Mapk1	mouse	domain_type	hasDomainType	INTERPRO:IPR000719	True
+P47811	Mapk1	mouse	function	hasFunctionTag	DOF:000009 Binding	True
+P47811	Mapk1	mouse	function	hasFunctionTag	DOF:000010 catalytic	True
+P47811	Mapk1	mouse	topology	hasTopologyContext	DOP:000012 unknown	True
+P47811	Mapk1	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	True
+P47811	Mapk1	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+P47811	Mapk1	mouse	binding_target	hasBindingTarget	DOT:000026 ATP	False
+P47811	Mapk1	mouse	binding_target	hasBindingTarget	DOT:000079 Mg2+	False
+P47811	Mapk1	mouse	binding_target	hasBindingTarget	DOT:000114 protein substrate	False
+P47811	Mapk1	mouse	GO_function	hasGOTermMF	GO:0004672	True
+P47811	Mapk1	mouse	GO_function	hasGOTermMF	GO:0005524	True
+P47811	Mapk1	mouse	GO_process	hasGOTermBP	GO:0006468	False
+P48299	Edn3	mouse	domain_type	hasDomainType	INTERPRO:IPR001928	True
+P48299	Edn3	mouse	function	hasFunctionTag	DOF:000043 ligand	True
+P48299	Edn3	mouse	function	hasFunctionTag	DOF:000038 receptor-binding	True
+P48299	Edn3	mouse	topology	hasTopologyContext	DOP:000012 unknown	True
+P48299	Edn3	mouse	position	hasPositionalCategory	DOP:000005 Internal	True
+P48299	Edn3	mouse	binding_target	hasBindingTarget	DOT:000284 cognate GPCR or receptor	False
+P48299	Edn3	mouse	GO_process	hasGOTermBP	GO:0019229	False
+P48299	Edn3	mouse	GO_component	hasGOTermCC	GO:0005576	False
+P48299	Edn3	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	True
+P51829	Adcy7	mouse	domain_type	hasDomainType	INTERPRO:IPR032628	True
+P51829	Adcy7	mouse	function	hasFunctionTag	DOF:000012 membrane-anchor	True
+P51829	Adcy7	mouse	function	hasFunctionTag	DOF:000014 regulator	True
+P51829	Adcy7	mouse	topology	hasTopologyContext	DOP:000006 cytoplasmic	True
+P51829	Adcy7	mouse	topology	hasTopologyContext	DOP:000008 transmembrane	True
+P51829	Adcy7	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	True
+P51829	Adcy7	mouse	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	True
+P51829	Adcy7	mouse	binding_target	hasBindingTarget	DOT:000074 G protein inputs	False
+P51829	Adcy7	mouse	binding_target	hasBindingTarget	DOT:000097 membrane environment	False
+P51829	Adcy7	mouse	domain_type	hasDomainType	INTERPRO:IPR001054	True
+P51829	Adcy7	mouse	function	hasFunctionTag	DOF:000010 catalytic	True
+P51829	Adcy7	mouse	position	hasPositionalCategory	DOP:000005 Internal	True
+P51829	Adcy7	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+P51829	Adcy7	mouse	binding_target	hasBindingTarget	DOT:000026 ATP	False
+P51829	Adcy7	mouse	binding_target	hasBindingTarget	DOT:000079 Mg2+	False
+P51829	Adcy7	mouse	binding_target	hasBindingTarget	DOT:000080 Mn2+	False
+P51829	Adcy7	mouse	GO_process	hasGOTermBP	GO:0009190	False
+P51829	Adcy7	mouse	GO_process	hasGOTermBP	GO:0035556	False
+P51829	Adcy7	mouse	domain_type	hasDomainType	INTERPRO:IPR009398	True
+P51829	Adcy7	mouse	GO_function	hasGOTermMF	GO:0004016	True
+P51829	Adcy7	mouse	GO_process	hasGOTermBP	GO:0006171	False
+P51829	Adcy7	mouse	GO_component	hasGOTermCC	GO:0005886	False
+P51829	Adcy7	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	True
+P51830	Adcy9	mouse	domain_type	hasDomainType	INTERPRO:IPR001054	True
+P51830	Adcy9	mouse	function	hasFunctionTag	DOF:000010 catalytic	True
+P51830	Adcy9	mouse	topology	hasTopologyContext	DOP:000006 cytoplasmic	True
+P51830	Adcy9	mouse	position	hasPositionalCategory	DOP:000005 Internal	True
+P51830	Adcy9	mouse	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	True
+P51830	Adcy9	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+P51830	Adcy9	mouse	binding_target	hasBindingTarget	DOT:000026 ATP	False
+P51830	Adcy9	mouse	binding_target	hasBindingTarget	DOT:000079 Mg2+	False
+P51830	Adcy9	mouse	binding_target	hasBindingTarget	DOT:000080 Mn2+	False
+P51830	Adcy9	mouse	GO_process	hasGOTermBP	GO:0009190	False
+P51830	Adcy9	mouse	GO_process	hasGOTermBP	GO:0035556	False
+P51830	Adcy9	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	True
+P60764	Rac3	mouse	domain_type	hasDomainType	INTERPRO:IPR005225	True
+P60764	Rac3	mouse	function	hasFunctionTag	DOF:000009 Binding	True
+P60764	Rac3	mouse	function	hasFunctionTag	DOF:000035 molecular-switch	True
+P60764	Rac3	mouse	topology	hasTopologyContext	DOP:000012 unknown	True
+P60764	Rac3	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	True
+P60764	Rac3	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+P60764	Rac3	mouse	binding_target	hasBindingTarget	DOT:000076 GDP	False
+P60764	Rac3	mouse	binding_target	hasBindingTarget	DOT:000029 GTP	False
+P60764	Rac3	mouse	binding_target	hasBindingTarget	DOT:000075 GAP partner protein	False
+P60764	Rac3	mouse	binding_target	hasBindingTarget	DOT:000077 GEF partner protein	False
+P60764	Rac3	mouse	binding_target	hasBindingTarget	DOT:000091 effector proteins	False
+P60764	Rac3	mouse	GO_function	hasGOTermMF	GO:0005525	True
+P61168	Drd2	mouse	domain_type	hasDomainType	INTERPRO:IPR017452	True
+P61168	Drd2	mouse	function	hasFunctionTag	DOF:000011 receptor	True
+P61168	Drd2	mouse	function	hasFunctionTag	DOF:000012 membrane-anchor	True
+P61168	Drd2	mouse	function	hasFunctionTag	DOF:000039 signal-transducer	True
+P61168	Drd2	mouse	topology	hasTopologyContext	DOP:000006 cytoplasmic	True
+P61168	Drd2	mouse	topology	hasTopologyContext	DOP:000007 extracellular	True
+P61168	Drd2	mouse	topology	hasTopologyContext	DOP:000008 transmembrane	True
+P61168	Drd2	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	True
+P61168	Drd2	mouse	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	True
+P61168	Drd2	mouse	binding_target	hasBindingTarget	DOT:000092 extracellular ligand	False
+P61168	Drd2	mouse	binding_target	hasBindingTarget	DOT:000093 heterotrimeric G protein	False
+P61168	Drd2	mouse	GO_component	hasGOTermCC	GO:0016020	False
+P62137	Ppp1ca	mouse	domain_type	hasDomainType	INTERPRO:IPR031675	True
+P62137	Ppp1ca	mouse	function	hasFunctionTag	DOF:000016 scaffold	True
+P62137	Ppp1ca	mouse	function	hasFunctionTag	DOF:000025 catalytic-support	True
+P62137	Ppp1ca	mouse	topology	hasTopologyContext	DOP:000012 unknown	True
+P62137	Ppp1ca	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	True
+P62137	Ppp1ca	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+P62137	Ppp1ca	mouse	binding_target	hasBindingTarget	DOT:000116 regulatory subunits	False
+P62137	Ppp1ca	mouse	domain_type	hasDomainType	INTERPRO:IPR006186	True
+P62137	Ppp1ca	mouse	function	hasFunctionTag	DOF:000010 catalytic	True
+P62137	Ppp1ca	mouse	binding_target	hasBindingTarget	DOT:000100 metal ions	False
+P62137	Ppp1ca	mouse	binding_target	hasBindingTarget	DOT:000107 phosphoprotein substrate	False
+P62137	Ppp1ca	mouse	GO_function	hasGOTermMF	GO:0016787	True
+P62137	Ppp1ca	mouse	domain_type	hasDomainType	INTERPRO:IPR004843	True
+P62141	Ppp1cb	mouse	domain_type	hasDomainType	INTERPRO:IPR031675	True
+P62141	Ppp1cb	mouse	function	hasFunctionTag	DOF:000016 scaffold	True
+P62141	Ppp1cb	mouse	function	hasFunctionTag	DOF:000025 catalytic-support	True
+P62141	Ppp1cb	mouse	topology	hasTopologyContext	DOP:000012 unknown	True
+P62141	Ppp1cb	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	True
+P62141	Ppp1cb	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+P62141	Ppp1cb	mouse	binding_target	hasBindingTarget	DOT:000116 regulatory subunits	False
+P62141	Ppp1cb	mouse	domain_type	hasDomainType	INTERPRO:IPR006186	True
+P62141	Ppp1cb	mouse	function	hasFunctionTag	DOF:000010 catalytic	True
+P62141	Ppp1cb	mouse	binding_target	hasBindingTarget	DOT:000100 metal ions	False
+P62141	Ppp1cb	mouse	binding_target	hasBindingTarget	DOT:000107 phosphoprotein substrate	False
+P62141	Ppp1cb	mouse	GO_function	hasGOTermMF	GO:0016787	True
+P62141	Ppp1cb	mouse	domain_type	hasDomainType	INTERPRO:IPR004843	True
+P62835	Rap1a	mouse	domain_type	hasDomainType	INTERPRO:IPR005225	True
+P62835	Rap1a	mouse	function	hasFunctionTag	DOF:000009 Binding	True
+P62835	Rap1a	mouse	function	hasFunctionTag	DOF:000035 molecular-switch	True
+P62835	Rap1a	mouse	topology	hasTopologyContext	DOP:000012 unknown	True
+P62835	Rap1a	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	True
+P62835	Rap1a	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+P62835	Rap1a	mouse	binding_target	hasBindingTarget	DOT:000076 GDP	False
+P62835	Rap1a	mouse	binding_target	hasBindingTarget	DOT:000029 GTP	False
+P62835	Rap1a	mouse	binding_target	hasBindingTarget	DOT:000075 GAP partner protein	False
+P62835	Rap1a	mouse	binding_target	hasBindingTarget	DOT:000077 GEF partner protein	False
+P62835	Rap1a	mouse	binding_target	hasBindingTarget	DOT:000091 effector proteins	False
+P62835	Rap1a	mouse	GO_function	hasGOTermMF	GO:0005525	True
+P63001	Rac1	mouse	domain_type	hasDomainType	INTERPRO:IPR005225	True
+P63001	Rac1	mouse	function	hasFunctionTag	DOF:000009 Binding	True
+P63001	Rac1	mouse	function	hasFunctionTag	DOF:000035 molecular-switch	True
+P63001	Rac1	mouse	topology	hasTopologyContext	DOP:000012 unknown	True
+P63001	Rac1	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	True
+P63001	Rac1	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+P63001	Rac1	mouse	binding_target	hasBindingTarget	DOT:000076 GDP	False
+P63001	Rac1	mouse	binding_target	hasBindingTarget	DOT:000029 GTP	False
+P63001	Rac1	mouse	binding_target	hasBindingTarget	DOT:000075 GAP partner protein	False
+P63001	Rac1	mouse	binding_target	hasBindingTarget	DOT:000077 GEF partner protein	False
+P63001	Rac1	mouse	binding_target	hasBindingTarget	DOT:000091 effector proteins	False
+P63001	Rac1	mouse	GO_function	hasGOTermMF	GO:0005525	True
+P63085	Mapk1	mouse	domain_type	hasDomainType	INTERPRO:IPR000719	True
+P63085	Mapk1	mouse	function	hasFunctionTag	DOF:000009 Binding	True
+P63085	Mapk1	mouse	function	hasFunctionTag	DOF:000010 catalytic	True
+P63085	Mapk1	mouse	topology	hasTopologyContext	DOP:000012 unknown	True
+P63085	Mapk1	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	True
+P63085	Mapk1	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+P63085	Mapk1	mouse	binding_target	hasBindingTarget	DOT:000026 ATP	False
+P63085	Mapk1	mouse	binding_target	hasBindingTarget	DOT:000079 Mg2+	False
+P63085	Mapk1	mouse	binding_target	hasBindingTarget	DOT:000114 protein substrate	False
+P63085	Mapk1	mouse	GO_function	hasGOTermMF	GO:0004672	True
+P63085	Mapk1	mouse	GO_function	hasGOTermMF	GO:0005524	True
+P63085	Mapk1	mouse	GO_process	hasGOTermBP	GO:0006468	False
+P63087	Ppp1cc	mouse	domain_type	hasDomainType	INTERPRO:IPR031675	True
+P63087	Ppp1cc	mouse	function	hasFunctionTag	DOF:000016 scaffold	True
+P63087	Ppp1cc	mouse	function	hasFunctionTag	DOF:000025 catalytic-support	True
+P63087	Ppp1cc	mouse	topology	hasTopologyContext	DOP:000012 unknown	True
+P63087	Ppp1cc	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	True
+P63087	Ppp1cc	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+P63087	Ppp1cc	mouse	binding_target	hasBindingTarget	DOT:000116 regulatory subunits	False
+P63087	Ppp1cc	mouse	domain_type	hasDomainType	INTERPRO:IPR006186	True
+P63087	Ppp1cc	mouse	function	hasFunctionTag	DOF:000010 catalytic	True
+P63087	Ppp1cc	mouse	binding_target	hasBindingTarget	DOT:000100 metal ions	False
+P63087	Ppp1cc	mouse	binding_target	hasBindingTarget	DOT:000107 phosphoprotein substrate	False
+P63087	Ppp1cc	mouse	GO_function	hasGOTermMF	GO:0016787	True
+P63087	Ppp1cc	mouse	domain_type	hasDomainType	INTERPRO:IPR004843	True
+P68181	Prkacb	mouse	domain_type	hasDomainType	INTERPRO:IPR000719	True
+P68181	Prkacb	mouse	function	hasFunctionTag	DOF:000009 Binding	True
+P68181	Prkacb	mouse	function	hasFunctionTag	DOF:000010 catalytic	True
+P68181	Prkacb	mouse	topology	hasTopologyContext	DOP:000012 unknown	True
+P68181	Prkacb	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	True
+P68181	Prkacb	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+P68181	Prkacb	mouse	binding_target	hasBindingTarget	DOT:000026 ATP	False
+P68181	Prkacb	mouse	binding_target	hasBindingTarget	DOT:000079 Mg2+	False
+P68181	Prkacb	mouse	binding_target	hasBindingTarget	DOT:000114 protein substrate	False
+P68181	Prkacb	mouse	GO_function	hasGOTermMF	GO:0004672	True
+P68181	Prkacb	mouse	GO_function	hasGOTermMF	GO:0005524	True
+P68181	Prkacb	mouse	GO_process	hasGOTermBP	GO:0006468	False
+P68181	Prkacb	mouse	domain_type	hasDomainType	INTERPRO:IPR000961	True
+P68181	Prkacb	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	True
+P68181	Prkacb	mouse	GO_function	hasGOTermMF	GO:0004674	True
+P70205	Adcyap1	mouse	domain_type	hasDomainType	INTERPRO:IPR001879	True
+P70205	Adcyap1	mouse	function	hasFunctionTag	DOF:000011 receptor	True
+P70205	Adcyap1	mouse	function	hasFunctionTag	DOF:000032 ligand-binding	True
+P70205	Adcyap1	mouse	topology	hasTopologyContext	DOP:000007 extracellular	True
+P70205	Adcyap1	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	True
+P70205	Adcyap1	mouse	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	True
+P70205	Adcyap1	mouse	proximity	hasProximityCategory	DOP:000009 NearSignalPeptideCleavage	True
+P70205	Adcyap1	mouse	binding_target	hasBindingTarget	DOT:000103 peptide hormone ligand	False
+P70205	Adcyap1	mouse	GO_function	hasGOTermMF	GO:0004930	True
+P70205	Adcyap1	mouse	GO_component	hasGOTermCC	GO:0016020	False
+P70205	Adcyap1	mouse	domain_type	hasDomainType	INTERPRO:IPR017981	True
+P70205	Adcyap1	mouse	function	hasFunctionTag	DOF:000012 membrane-anchor	True
+P70205	Adcyap1	mouse	function	hasFunctionTag	DOF:000039 signal-transducer	True
+P70205	Adcyap1	mouse	topology	hasTopologyContext	DOP:000006 cytoplasmic	True
+P70205	Adcyap1	mouse	topology	hasTopologyContext	DOP:000008 transmembrane	True
+P70205	Adcyap1	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	True
+P70205	Adcyap1	mouse	binding_target	hasBindingTarget	DOT:000092 extracellular ligand	False
+P70205	Adcyap1	mouse	binding_target	hasBindingTarget	DOT:000093 heterotrimeric G protein	False
+P70205	Adcyap1	mouse	GO_function	hasGOTermMF	GO:0004888	True
+P70205	Adcyap1	mouse	GO_process	hasGOTermBP	GO:0007166	False
+P70335	Rock1	mouse	domain_type	hasDomainType	INTERPRO:IPR000719	True
+P70335	Rock1	mouse	function	hasFunctionTag	DOF:000009 Binding	True
+P70335	Rock1	mouse	function	hasFunctionTag	DOF:000010 catalytic	True
+P70335	Rock1	mouse	topology	hasTopologyContext	DOP:000012 unknown	True
+P70335	Rock1	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	True
+P70335	Rock1	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+P70335	Rock1	mouse	binding_target	hasBindingTarget	DOT:000026 ATP	False
+P70335	Rock1	mouse	binding_target	hasBindingTarget	DOT:000079 Mg2+	False
+P70335	Rock1	mouse	binding_target	hasBindingTarget	DOT:000114 protein substrate	False
+P70335	Rock1	mouse	GO_function	hasGOTermMF	GO:0004672	True
+P70335	Rock1	mouse	GO_function	hasGOTermMF	GO:0005524	True
+P70335	Rock1	mouse	GO_process	hasGOTermBP	GO:0006468	False
+P70335	Rock1	mouse	domain_type	hasDomainType	INTERPRO:IPR000961	True
+P70335	Rock1	mouse	position	hasPositionalCategory	DOP:000005 Internal	True
+P70335	Rock1	mouse	GO_function	hasGOTermMF	GO:0004674	True
+P70335	Rock1	mouse	domain_type	hasDomainType	INTERPRO:IPR011072	True
+P70335	Rock1	mouse	function	hasFunctionTag	DOF:000014 regulator	True
+P70335	Rock1	mouse	binding_target	hasBindingTarget	DOT:000062 Rho-related small GTPase	False
+P70335	Rock1	mouse	GO_process	hasGOTermBP	GO:0007165	False
+P70335	Rock1	mouse	domain_type	hasDomainType	INTERPRO:IPR037310	True
+P70335	Rock1	mouse	GO_function	hasGOTermMF	GO:0031267	True
+P70335	Rock1	mouse	GO_process	hasGOTermBP	GO:0007266	False
+P70335	Rock1	mouse	domain_type	hasDomainType	INTERPRO:IPR015008	True
+P70335	Rock1	mouse	domain_type	hasDomainType	INTERPRO:IPR001849	True
+P70335	Rock1	mouse	function	hasFunctionTag	DOF:000033 membrane-targeting	True
+P70335	Rock1	mouse	function	hasFunctionTag	DOF:000024 adaptor	True
+P70335	Rock1	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	True
+P70335	Rock1	mouse	binding_target	hasBindingTarget	DOT:000038 Phosphoinositides	False
+P70335	Rock1	mouse	domain_type	hasDomainType	INTERPRO:IPR057529	True
+P70335	Rock1	mouse	domain_type	hasDomainType	INTERPRO:IPR002219	True
+P70335	Rock1	mouse	binding_target	hasBindingTarget	DOT:000040 Diacylglycerol	False
+P70335	Rock1	mouse	binding_target	hasBindingTarget	DOT:000104 phorbol ester	False
+P70335	Rock1	mouse	binding_target	hasBindingTarget	DOT:000285 membrane phospholipids	False
+P70336	Rock2	mouse	domain_type	hasDomainType	INTERPRO:IPR029878	True
+P70336	Rock2	mouse	function	hasFunctionTag	DOF:000009 Binding	True
+P70336	Rock2	mouse	function	hasFunctionTag	DOF:000010 catalytic	True
+P70336	Rock2	mouse	topology	hasTopologyContext	DOP:000012 unknown	True
+P70336	Rock2	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	True
+P70336	Rock2	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+P70336	Rock2	mouse	binding_target	hasBindingTarget	DOT:000026 ATP	False
+P70336	Rock2	mouse	binding_target	hasBindingTarget	DOT:000079 Mg2+	False
+P70336	Rock2	mouse	binding_target	hasBindingTarget	DOT:000114 protein substrate	False
+P70336	Rock2	mouse	GO_function	hasGOTermMF	GO:0004674	True
+P70336	Rock2	mouse	domain_type	hasDomainType	INTERPRO:IPR000719	True
+P70336	Rock2	mouse	GO_function	hasGOTermMF	GO:0004672	True
+P70336	Rock2	mouse	GO_function	hasGOTermMF	GO:0005524	True
+P70336	Rock2	mouse	GO_process	hasGOTermBP	GO:0006468	False
+P70336	Rock2	mouse	domain_type	hasDomainType	INTERPRO:IPR000961	True
+P70336	Rock2	mouse	position	hasPositionalCategory	DOP:000005 Internal	True
+P70336	Rock2	mouse	domain_type	hasDomainType	INTERPRO:IPR011072	True
+P70336	Rock2	mouse	function	hasFunctionTag	DOF:000014 regulator	True
+P70336	Rock2	mouse	binding_target	hasBindingTarget	DOT:000062 Rho-related small GTPase	False
+P70336	Rock2	mouse	GO_process	hasGOTermBP	GO:0007165	False
+P70336	Rock2	mouse	domain_type	hasDomainType	INTERPRO:IPR037311	True
+P70336	Rock2	mouse	GO_process	hasGOTermBP	GO:0006939	False
+P70336	Rock2	mouse	GO_process	hasGOTermBP	GO:0007266	False
+P70336	Rock2	mouse	GO_process	hasGOTermBP	GO:0010825	False
+P70336	Rock2	mouse	GO_process	hasGOTermBP	GO:0032956	False
+P70336	Rock2	mouse	domain_type	hasDomainType	INTERPRO:IPR015008	True
+P70336	Rock2	mouse	GO_function	hasGOTermMF	GO:0031267	True
+P70336	Rock2	mouse	domain_type	hasDomainType	INTERPRO:IPR001849	True
+P70336	Rock2	mouse	function	hasFunctionTag	DOF:000033 membrane-targeting	True
+P70336	Rock2	mouse	function	hasFunctionTag	DOF:000024 adaptor	True
+P70336	Rock2	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	True
+P70336	Rock2	mouse	binding_target	hasBindingTarget	DOT:000038 Phosphoinositides	False
+P70336	Rock2	mouse	domain_type	hasDomainType	INTERPRO:IPR057529	True
+P70336	Rock2	mouse	domain_type	hasDomainType	INTERPRO:IPR002219	True
+P70336	Rock2	mouse	binding_target	hasBindingTarget	DOT:000040 Diacylglycerol	False
+P70336	Rock2	mouse	binding_target	hasBindingTarget	DOT:000104 phorbol ester	False
+P70336	Rock2	mouse	binding_target	hasBindingTarget	DOT:000285 membrane phospholipids	False
+P84309	Adcy5	mouse	domain_type	hasDomainType	INTERPRO:IPR032628	True
+P84309	Adcy5	mouse	function	hasFunctionTag	DOF:000012 membrane-anchor	True
+P84309	Adcy5	mouse	function	hasFunctionTag	DOF:000014 regulator	True
+P84309	Adcy5	mouse	topology	hasTopologyContext	DOP:000006 cytoplasmic	True
+P84309	Adcy5	mouse	topology	hasTopologyContext	DOP:000008 transmembrane	True
+P84309	Adcy5	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	True
+P84309	Adcy5	mouse	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	True
+P84309	Adcy5	mouse	binding_target	hasBindingTarget	DOT:000074 G protein inputs	False
+P84309	Adcy5	mouse	binding_target	hasBindingTarget	DOT:000097 membrane environment	False
+P84309	Adcy5	mouse	domain_type	hasDomainType	INTERPRO:IPR001054	True
+P84309	Adcy5	mouse	function	hasFunctionTag	DOF:000010 catalytic	True
+P84309	Adcy5	mouse	position	hasPositionalCategory	DOP:000005 Internal	True
+P84309	Adcy5	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+P84309	Adcy5	mouse	binding_target	hasBindingTarget	DOT:000026 ATP	False
+P84309	Adcy5	mouse	binding_target	hasBindingTarget	DOT:000079 Mg2+	False
+P84309	Adcy5	mouse	binding_target	hasBindingTarget	DOT:000080 Mn2+	False
+P84309	Adcy5	mouse	GO_process	hasGOTermBP	GO:0009190	False
+P84309	Adcy5	mouse	GO_process	hasGOTermBP	GO:0035556	False
+P84309	Adcy5	mouse	domain_type	hasDomainType	INTERPRO:IPR009398	True
+P84309	Adcy5	mouse	GO_function	hasGOTermMF	GO:0004016	True
+P84309	Adcy5	mouse	GO_process	hasGOTermBP	GO:0006171	False
+P84309	Adcy5	mouse	GO_component	hasGOTermCC	GO:0005886	False
+P84309	Adcy5	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	True
+P97490	Adcy8	mouse	domain_type	hasDomainType	INTERPRO:IPR032628	True
+P97490	Adcy8	mouse	function	hasFunctionTag	DOF:000012 membrane-anchor	True
+P97490	Adcy8	mouse	function	hasFunctionTag	DOF:000014 regulator	True
+P97490	Adcy8	mouse	topology	hasTopologyContext	DOP:000006 cytoplasmic	True
+P97490	Adcy8	mouse	topology	hasTopologyContext	DOP:000008 transmembrane	True
+P97490	Adcy8	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	True
+P97490	Adcy8	mouse	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	True
+P97490	Adcy8	mouse	binding_target	hasBindingTarget	DOT:000074 G protein inputs	False
+P97490	Adcy8	mouse	binding_target	hasBindingTarget	DOT:000097 membrane environment	False
+P97490	Adcy8	mouse	domain_type	hasDomainType	INTERPRO:IPR001054	True
+P97490	Adcy8	mouse	function	hasFunctionTag	DOF:000010 catalytic	True
+P97490	Adcy8	mouse	position	hasPositionalCategory	DOP:000005 Internal	True
+P97490	Adcy8	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+P97490	Adcy8	mouse	binding_target	hasBindingTarget	DOT:000026 ATP	False
+P97490	Adcy8	mouse	binding_target	hasBindingTarget	DOT:000079 Mg2+	False
+P97490	Adcy8	mouse	binding_target	hasBindingTarget	DOT:000080 Mn2+	False
+P97490	Adcy8	mouse	GO_process	hasGOTermBP	GO:0009190	False
+P97490	Adcy8	mouse	GO_process	hasGOTermBP	GO:0035556	False
+P97490	Adcy8	mouse	domain_type	hasDomainType	INTERPRO:IPR009398	True
+P97490	Adcy8	mouse	GO_function	hasGOTermMF	GO:0004016	True
+P97490	Adcy8	mouse	GO_process	hasGOTermBP	GO:0006171	False
+P97490	Adcy8	mouse	GO_component	hasGOTermCC	GO:0005886	False
+P97490	Adcy8	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	True
+P97751	Vip	mouse	domain_type	hasDomainType	INTERPRO:IPR001879	True
+P97751	Vip	mouse	function	hasFunctionTag	DOF:000011 receptor	True
+P97751	Vip	mouse	function	hasFunctionTag	DOF:000032 ligand-binding	True
+P97751	Vip	mouse	topology	hasTopologyContext	DOP:000007 extracellular	True
+P97751	Vip	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	True
+P97751	Vip	mouse	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	True
+P97751	Vip	mouse	proximity	hasProximityCategory	DOP:000009 NearSignalPeptideCleavage	True
+P97751	Vip	mouse	binding_target	hasBindingTarget	DOT:000103 peptide hormone ligand	False
+P97751	Vip	mouse	GO_function	hasGOTermMF	GO:0004930	True
+P97751	Vip	mouse	GO_component	hasGOTermCC	GO:0016020	False
+P97751	Vip	mouse	domain_type	hasDomainType	INTERPRO:IPR017981	True
+P97751	Vip	mouse	function	hasFunctionTag	DOF:000012 membrane-anchor	True
+P97751	Vip	mouse	function	hasFunctionTag	DOF:000039 signal-transducer	True
+P97751	Vip	mouse	topology	hasTopologyContext	DOP:000006 cytoplasmic	True
+P97751	Vip	mouse	topology	hasTopologyContext	DOP:000008 transmembrane	True
+P97751	Vip	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	True
+P97751	Vip	mouse	binding_target	hasBindingTarget	DOT:000092 extracellular ligand	False
+P97751	Vip	mouse	binding_target	hasBindingTarget	DOT:000093 heterotrimeric G protein	False
+P97751	Vip	mouse	GO_function	hasGOTermMF	GO:0004888	True
+P97751	Vip	mouse	GO_process	hasGOTermBP	GO:0007166	False
+P97813	Pld2	mouse	domain_type	hasDomainType	INTERPRO:IPR001683	True
+P97813	Pld2	mouse	function	hasFunctionTag	DOF:000009 Binding	True
+P97813	Pld2	mouse	function	hasFunctionTag	DOF:000033 membrane-targeting	True
+P97813	Pld2	mouse	topology	hasTopologyContext	DOP:000012 unknown	True
+P97813	Pld2	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	True
+P97813	Pld2	mouse	binding_target	hasBindingTarget	DOT:000038 Phosphoinositides	False
+P97813	Pld2	mouse	GO_function	hasGOTermMF	GO:0035091	True
+P97813	Pld2	mouse	domain_type	hasDomainType	INTERPRO:IPR001849	True
+P97813	Pld2	mouse	function	hasFunctionTag	DOF:000024 adaptor	True
+P97813	Pld2	mouse	position	hasPositionalCategory	DOP:000005 Internal	True
+P97813	Pld2	mouse	domain_type	hasDomainType	INTERPRO:IPR001736	True
+P97813	Pld2	mouse	function	hasFunctionTag	DOF:000018 sensor	True
+P97813	Pld2	mouse	function	hasFunctionTag	DOF:000016 scaffold	True
+P97813	Pld2	mouse	binding_target	hasBindingTarget	DOT:000281 protein partner or small-molecule signal	False
+P97813	Pld2	mouse	GO_function	hasGOTermMF	GO:0003824	True
+P97813	Pld2	mouse	domain_type	hasDomainType	INTERPRO:IPR025202	True
+P97813	Pld2	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	True
+P97926	Oxt	mouse	domain_type	hasDomainType	INTERPRO:IPR017452	True
+P97926	Oxt	mouse	function	hasFunctionTag	DOF:000011 receptor	True
+P97926	Oxt	mouse	function	hasFunctionTag	DOF:000012 membrane-anchor	True
+P97926	Oxt	mouse	function	hasFunctionTag	DOF:000039 signal-transducer	True
+P97926	Oxt	mouse	topology	hasTopologyContext	DOP:000006 cytoplasmic	True
+P97926	Oxt	mouse	topology	hasTopologyContext	DOP:000007 extracellular	True
+P97926	Oxt	mouse	topology	hasTopologyContext	DOP:000008 transmembrane	True
+P97926	Oxt	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	True
+P97926	Oxt	mouse	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	True
+P97926	Oxt	mouse	binding_target	hasBindingTarget	DOT:000092 extracellular ligand	False
+P97926	Oxt	mouse	binding_target	hasBindingTarget	DOT:000093 heterotrimeric G protein	False
+P97926	Oxt	mouse	GO_component	hasGOTermCC	GO:0016020	False
+Q01063	Pde4d	mouse	domain_type	hasDomainType	INTERPRO:IPR040844	True
+Q01063	Pde4d	mouse	function	hasFunctionTag	DOF:000014 regulator	True
+Q01063	Pde4d	mouse	topology	hasTopologyContext	DOP:000012 unknown	True
+Q01063	Pde4d	mouse	position	hasPositionalCategory	DOP:000005 Internal	True
+Q01063	Pde4d	mouse	binding_target	hasBindingTarget	DOT:000095 intramolecular PDE regulatory contacts	False
+Q01063	Pde4d	mouse	domain_type	hasDomainType	INTERPRO:IPR002073	True
+Q01063	Pde4d	mouse	function	hasFunctionTag	DOF:000010 catalytic	True
+Q01063	Pde4d	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	True
+Q01063	Pde4d	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+Q01063	Pde4d	mouse	binding_target	hasBindingTarget	DOT:000283 cAMP/cGMP	False
+Q01063	Pde4d	mouse	binding_target	hasBindingTarget	DOT:000084 Zn2+	False
+Q01063	Pde4d	mouse	binding_target	hasBindingTarget	DOT:000079 Mg2+	False
+Q01063	Pde4d	mouse	GO_function	hasGOTermMF	GO:0004114	True
+Q01063	Pde4d	mouse	GO_process	hasGOTermBP	GO:0007165	False
+Q01147	Creb1	mouse	domain_type	hasDomainType	INTERPRO:IPR003102	True
+Q01147	Creb1	mouse	function	hasFunctionTag	DOF:000017 PPI	True
+Q01147	Creb1	mouse	function	hasFunctionTag	DOF:000042 transcription-regulator	True
+Q01147	Creb1	mouse	topology	hasTopologyContext	DOP:000012 unknown	True
+Q01147	Creb1	mouse	position	hasPositionalCategory	DOP:000005 Internal	True
+Q01147	Creb1	mouse	binding_target	hasBindingTarget	DOT:000068 CBP/p300 KIX domain	False
+Q01147	Creb1	mouse	GO_function	hasGOTermMF	GO:0005515	True
+Q01147	Creb1	mouse	GO_process	hasGOTermBP	GO:0006355	False
+Q01147	Creb1	mouse	domain_type	hasDomainType	INTERPRO:IPR004827	True
+Q01147	Creb1	mouse	function	hasFunctionTag	DOF:000021 DNA-binding	True
+Q01147	Creb1	mouse	function	hasFunctionTag	DOF:000030 dimerization	True
+Q01147	Creb1	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	True
+Q01147	Creb1	mouse	binding_target	hasBindingTarget	DOT:000072 DNA response element	False
+Q01147	Creb1	mouse	binding_target	hasBindingTarget	DOT:000090 dimerization partner	False
+Q01147	Creb1	mouse	GO_function	hasGOTermMF	GO:0003700	True
+Q01341	Adcy6	mouse	domain_type	hasDomainType	INTERPRO:IPR032628	True
+Q01341	Adcy6	mouse	function	hasFunctionTag	DOF:000012 membrane-anchor	True
+Q01341	Adcy6	mouse	function	hasFunctionTag	DOF:000014 regulator	True
+Q01341	Adcy6	mouse	topology	hasTopologyContext	DOP:000006 cytoplasmic	True
+Q01341	Adcy6	mouse	topology	hasTopologyContext	DOP:000008 transmembrane	True
+Q01341	Adcy6	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	True
+Q01341	Adcy6	mouse	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	True
+Q01341	Adcy6	mouse	binding_target	hasBindingTarget	DOT:000074 G protein inputs	False
+Q01341	Adcy6	mouse	binding_target	hasBindingTarget	DOT:000097 membrane environment	False
+Q01341	Adcy6	mouse	domain_type	hasDomainType	INTERPRO:IPR001054	True
+Q01341	Adcy6	mouse	function	hasFunctionTag	DOF:000010 catalytic	True
+Q01341	Adcy6	mouse	position	hasPositionalCategory	DOP:000005 Internal	True
+Q01341	Adcy6	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+Q01341	Adcy6	mouse	binding_target	hasBindingTarget	DOT:000026 ATP	False
+Q01341	Adcy6	mouse	binding_target	hasBindingTarget	DOT:000079 Mg2+	False
+Q01341	Adcy6	mouse	binding_target	hasBindingTarget	DOT:000080 Mn2+	False
+Q01341	Adcy6	mouse	GO_process	hasGOTermBP	GO:0009190	False
+Q01341	Adcy6	mouse	GO_process	hasGOTermBP	GO:0035556	False
+Q01341	Adcy6	mouse	domain_type	hasDomainType	INTERPRO:IPR009398	True
+Q01341	Adcy6	mouse	GO_function	hasGOTermMF	GO:0004016	True
+Q01341	Adcy6	mouse	GO_process	hasGOTermBP	GO:0006171	False
+Q01341	Adcy6	mouse	GO_component	hasGOTermCC	GO:0005886	False
+Q01341	Adcy6	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	True
+Q01815	Cacna1c	mouse	domain_type	hasDomainType	INTERPRO:IPR005821	True
+Q01815	Cacna1c	mouse	function	hasFunctionTag	DOF:000013 transporter	True
+Q01815	Cacna1c	mouse	function	hasFunctionTag	DOF:000026 channel	True
+Q01815	Cacna1c	mouse	topology	hasTopologyContext	DOP:000006 cytoplasmic	True
+Q01815	Cacna1c	mouse	topology	hasTopologyContext	DOP:000007 extracellular	True
+Q01815	Cacna1c	mouse	topology	hasTopologyContext	DOP:000008 transmembrane	True
+Q01815	Cacna1c	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	True
+Q01815	Cacna1c	mouse	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	True
+Q01815	Cacna1c	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+Q01815	Cacna1c	mouse	binding_target	hasBindingTarget	DOT:000282 Ca2+/Na+/K+ or permeant ion	False
+Q01815	Cacna1c	mouse	GO_function	hasGOTermMF	GO:0005216	True
+Q01815	Cacna1c	mouse	GO_process	hasGOTermBP	GO:0006811	False
+Q01815	Cacna1c	mouse	GO_process	hasGOTermBP	GO:0055085	False
+Q01815	Cacna1c	mouse	GO_component	hasGOTermCC	GO:0016020	False
+Q01815	Cacna1c	mouse	position	hasPositionalCategory	DOP:000005 Internal	True
+Q01815	Cacna1c	mouse	domain_type	hasDomainType	INTERPRO:IPR031649	True
+Q01815	Cacna1c	mouse	function	hasFunctionTag	DOF:000014 regulator	True
+Q01815	Cacna1c	mouse	binding_target	hasBindingTarget	DOT:000112 protein partner	False
+Q01815	Cacna1c	mouse	domain_type	hasDomainType	INTERPRO:IPR014873	True
+Q01815	Cacna1c	mouse	domain_type	hasDomainType	INTERPRO:IPR031688	True
+Q01815	Cacna1c	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	True
+Q02789	Cacna1s	mouse	domain_type	hasDomainType	INTERPRO:IPR005821	True
+Q02789	Cacna1s	mouse	function	hasFunctionTag	DOF:000013 transporter	True
+Q02789	Cacna1s	mouse	function	hasFunctionTag	DOF:000026 channel	True
+Q02789	Cacna1s	mouse	topology	hasTopologyContext	DOP:000006 cytoplasmic	True
+Q02789	Cacna1s	mouse	topology	hasTopologyContext	DOP:000007 extracellular	True
+Q02789	Cacna1s	mouse	topology	hasTopologyContext	DOP:000008 transmembrane	True
+Q02789	Cacna1s	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	True
+Q02789	Cacna1s	mouse	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	True
+Q02789	Cacna1s	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+Q02789	Cacna1s	mouse	binding_target	hasBindingTarget	DOT:000282 Ca2+/Na+/K+ or permeant ion	False
+Q02789	Cacna1s	mouse	GO_function	hasGOTermMF	GO:0005216	True
+Q02789	Cacna1s	mouse	GO_process	hasGOTermBP	GO:0006811	False
+Q02789	Cacna1s	mouse	GO_process	hasGOTermBP	GO:0055085	False
+Q02789	Cacna1s	mouse	GO_component	hasGOTermCC	GO:0016020	False
+Q02789	Cacna1s	mouse	position	hasPositionalCategory	DOP:000005 Internal	True
+Q02789	Cacna1s	mouse	domain_type	hasDomainType	INTERPRO:IPR031649	True
+Q02789	Cacna1s	mouse	function	hasFunctionTag	DOF:000014 regulator	True
+Q02789	Cacna1s	mouse	binding_target	hasBindingTarget	DOT:000112 protein partner	False
+Q02789	Cacna1s	mouse	domain_type	hasDomainType	INTERPRO:IPR014873	True
+Q02789	Cacna1s	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	True
+Q02789	Cacna1s	mouse	domain_type	hasDomainType	INTERPRO:IPR031688	True
+Q04573	Npy1r	mouse	domain_type	hasDomainType	INTERPRO:IPR017452	True
+Q04573	Npy1r	mouse	function	hasFunctionTag	DOF:000011 receptor	True
+Q04573	Npy1r	mouse	function	hasFunctionTag	DOF:000012 membrane-anchor	True
+Q04573	Npy1r	mouse	function	hasFunctionTag	DOF:000039 signal-transducer	True
+Q04573	Npy1r	mouse	topology	hasTopologyContext	DOP:000006 cytoplasmic	True
+Q04573	Npy1r	mouse	topology	hasTopologyContext	DOP:000007 extracellular	True
+Q04573	Npy1r	mouse	topology	hasTopologyContext	DOP:000008 transmembrane	True
+Q04573	Npy1r	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	True
+Q04573	Npy1r	mouse	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	True
+Q04573	Npy1r	mouse	binding_target	hasBindingTarget	DOT:000092 extracellular ligand	False
+Q04573	Npy1r	mouse	binding_target	hasBindingTarget	DOT:000093 heterotrimeric G protein	False
+Q04573	Npy1r	mouse	GO_component	hasGOTermCC	GO:0016020	False
+Q05144	Rac2	mouse	domain_type	hasDomainType	INTERPRO:IPR005225	True
+Q05144	Rac2	mouse	function	hasFunctionTag	DOF:000009 Binding	True
+Q05144	Rac2	mouse	function	hasFunctionTag	DOF:000035 molecular-switch	True
+Q05144	Rac2	mouse	topology	hasTopologyContext	DOP:000012 unknown	True
+Q05144	Rac2	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	True
+Q05144	Rac2	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+Q05144	Rac2	mouse	binding_target	hasBindingTarget	DOT:000076 GDP	False
+Q05144	Rac2	mouse	binding_target	hasBindingTarget	DOT:000029 GTP	False
+Q05144	Rac2	mouse	binding_target	hasBindingTarget	DOT:000075 GAP partner protein	False
+Q05144	Rac2	mouse	binding_target	hasBindingTarget	DOT:000077 GEF partner protein	False
+Q05144	Rac2	mouse	binding_target	hasBindingTarget	DOT:000091 effector proteins	False
+Q05144	Rac2	mouse	GO_function	hasGOTermMF	GO:0005525	True
+Q0P543	Gipr	mouse	domain_type	hasDomainType	INTERPRO:IPR001879	True
+Q0P543	Gipr	mouse	function	hasFunctionTag	DOF:000011 receptor	True
+Q0P543	Gipr	mouse	function	hasFunctionTag	DOF:000032 ligand-binding	True
+Q0P543	Gipr	mouse	topology	hasTopologyContext	DOP:000007 extracellular	True
+Q0P543	Gipr	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	True
+Q0P543	Gipr	mouse	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	True
+Q0P543	Gipr	mouse	binding_target	hasBindingTarget	DOT:000103 peptide hormone ligand	False
+Q0P543	Gipr	mouse	GO_function	hasGOTermMF	GO:0004930	True
+Q0P543	Gipr	mouse	GO_component	hasGOTermCC	GO:0016020	False
+Q0P543	Gipr	mouse	domain_type	hasDomainType	INTERPRO:IPR017981	True
+Q0P543	Gipr	mouse	function	hasFunctionTag	DOF:000012 membrane-anchor	True
+Q0P543	Gipr	mouse	function	hasFunctionTag	DOF:000039 signal-transducer	True
+Q0P543	Gipr	mouse	topology	hasTopologyContext	DOP:000006 cytoplasmic	True
+Q0P543	Gipr	mouse	topology	hasTopologyContext	DOP:000008 transmembrane	True
+Q0P543	Gipr	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	True
+Q0P543	Gipr	mouse	binding_target	hasBindingTarget	DOT:000092 extracellular ligand	False
+Q0P543	Gipr	mouse	binding_target	hasBindingTarget	DOT:000093 heterotrimeric G protein	False
+Q0P543	Gipr	mouse	GO_function	hasGOTermMF	GO:0004888	True
+Q0P543	Gipr	mouse	GO_process	hasGOTermBP	GO:0007166	False
+Q3UEI1	Pde4c	mouse	domain_type	hasDomainType	INTERPRO:IPR040844	True
+Q3UEI1	Pde4c	mouse	function	hasFunctionTag	DOF:000014 regulator	True
+Q3UEI1	Pde4c	mouse	topology	hasTopologyContext	DOP:000012 unknown	True
+Q3UEI1	Pde4c	mouse	position	hasPositionalCategory	DOP:000005 Internal	True
+Q3UEI1	Pde4c	mouse	binding_target	hasBindingTarget	DOT:000095 intramolecular PDE regulatory contacts	False
+Q3UEI1	Pde4c	mouse	domain_type	hasDomainType	INTERPRO:IPR002073	True
+Q3UEI1	Pde4c	mouse	function	hasFunctionTag	DOF:000010 catalytic	True
+Q3UEI1	Pde4c	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	True
+Q3UEI1	Pde4c	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+Q3UEI1	Pde4c	mouse	binding_target	hasBindingTarget	DOT:000283 cAMP/cGMP	False
+Q3UEI1	Pde4c	mouse	binding_target	hasBindingTarget	DOT:000084 Zn2+	False
+Q3UEI1	Pde4c	mouse	binding_target	hasBindingTarget	DOT:000079 Mg2+	False
+Q3UEI1	Pde4c	mouse	GO_function	hasGOTermMF	GO:0004114	True
+Q3UEI1	Pde4c	mouse	GO_process	hasGOTermBP	GO:0007165	False
+Q3UEI1	Pde4c	mouse	domain_type	hasDomainType	INTERPRO:IPR003607	True
+Q3UW12	Cnga4	mouse	domain_type	hasDomainType	INTERPRO:IPR005821	True
+Q3UW12	Cnga4	mouse	function	hasFunctionTag	DOF:000013 transporter	True
+Q3UW12	Cnga4	mouse	function	hasFunctionTag	DOF:000026 channel	True
+Q3UW12	Cnga4	mouse	topology	hasTopologyContext	DOP:000006 cytoplasmic	True
+Q3UW12	Cnga4	mouse	topology	hasTopologyContext	DOP:000007 extracellular	True
+Q3UW12	Cnga4	mouse	topology	hasTopologyContext	DOP:000008 transmembrane	True
+Q3UW12	Cnga4	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	True
+Q3UW12	Cnga4	mouse	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	True
+Q3UW12	Cnga4	mouse	binding_target	hasBindingTarget	DOT:000282 Ca2+/Na+/K+ or permeant ion	False
+Q3UW12	Cnga4	mouse	GO_function	hasGOTermMF	GO:0005216	True
+Q3UW12	Cnga4	mouse	GO_process	hasGOTermBP	GO:0006811	False
+Q3UW12	Cnga4	mouse	GO_process	hasGOTermBP	GO:0055085	False
+Q3UW12	Cnga4	mouse	GO_component	hasGOTermCC	GO:0016020	False
+Q3UW12	Cnga4	mouse	domain_type	hasDomainType	INTERPRO:IPR000595	True
+Q3UW12	Cnga4	mouse	function	hasFunctionTag	DOF:000014 regulator	True
+Q3UW12	Cnga4	mouse	function	hasFunctionTag	DOF:000029 cyclic-nucleotide-sensor	True
+Q3UW12	Cnga4	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	True
+Q3UW12	Cnga4	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+Q3UW12	Cnga4	mouse	binding_target	hasBindingTarget	DOT:000283 cAMP/cGMP	False
+Q3UW12	Cnga4	mouse	domain_type	hasDomainType	INTERPRO:IPR032406	True
+Q3UW12	Cnga4	mouse	binding_target	hasBindingTarget	DOT:000112 protein partner	False
+Q58A65	Mapk8	mouse	domain_type	hasDomainType	INTERPRO:IPR034743	True
+Q58A65	Mapk8	mouse	function	hasFunctionTag	DOF:000014 regulator	True
+Q58A65	Mapk8	mouse	topology	hasTopologyContext	DOP:000012 unknown	True
+Q58A65	Mapk8	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	True
+Q58A65	Mapk8	mouse	binding_target	hasBindingTarget	DOT:000112 protein partner	False
+Q58A65	Mapk8	mouse	domain_type	hasDomainType	INTERPRO:IPR032486	True
+Q58A65	Mapk8	mouse	position	hasPositionalCategory	DOP:000005 Internal	True
+Q58A65	Mapk8	mouse	domain_type	hasDomainType	INTERPRO:IPR034744	True
+Q60571	Crh	mouse	domain_type	hasDomainType	INTERPRO:IPR056177	True
+Q60571	Crh	mouse	function	hasFunctionTag	DOF:000009 Binding	True
+Q60571	Crh	mouse	function	hasFunctionTag	DOF:000014 regulator	True
+Q60571	Crh	mouse	topology	hasTopologyContext	DOP:000012 unknown	True
+Q60571	Crh	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	True
+Q60571	Crh	mouse	binding_target	hasBindingTarget	DOT:000290 corticotropin-releasing factor (CRF) peptide	False
+Q60571	Crh	mouse	domain_type	hasDomainType	INTERPRO:IPR056178	True
+Q60571	Crh	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	True
+Q60612	Adora1	mouse	domain_type	hasDomainType	INTERPRO:IPR017452	True
+Q60612	Adora1	mouse	function	hasFunctionTag	DOF:000011 receptor	True
+Q60612	Adora1	mouse	function	hasFunctionTag	DOF:000012 membrane-anchor	True
+Q60612	Adora1	mouse	function	hasFunctionTag	DOF:000039 signal-transducer	True
+Q60612	Adora1	mouse	topology	hasTopologyContext	DOP:000006 cytoplasmic	True
+Q60612	Adora1	mouse	topology	hasTopologyContext	DOP:000007 extracellular	True
+Q60612	Adora1	mouse	topology	hasTopologyContext	DOP:000008 transmembrane	True
+Q60612	Adora1	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	True
+Q60612	Adora1	mouse	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	True
+Q60612	Adora1	mouse	binding_target	hasBindingTarget	DOT:000092 extracellular ligand	False
+Q60612	Adora1	mouse	binding_target	hasBindingTarget	DOT:000093 heterotrimeric G protein	False
+Q60612	Adora1	mouse	GO_component	hasGOTermCC	GO:0016020	False
+Q60613	Adora2a	mouse	domain_type	hasDomainType	INTERPRO:IPR017452	True
+Q60613	Adora2a	mouse	function	hasFunctionTag	DOF:000011 receptor	True
+Q60613	Adora2a	mouse	function	hasFunctionTag	DOF:000012 membrane-anchor	True
+Q60613	Adora2a	mouse	function	hasFunctionTag	DOF:000039 signal-transducer	True
+Q60613	Adora2a	mouse	topology	hasTopologyContext	DOP:000006 cytoplasmic	True
+Q60613	Adora2a	mouse	topology	hasTopologyContext	DOP:000007 extracellular	True
+Q60613	Adora2a	mouse	topology	hasTopologyContext	DOP:000008 transmembrane	True
+Q60613	Adora2a	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	True
+Q60613	Adora2a	mouse	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	True
+Q60613	Adora2a	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+Q60613	Adora2a	mouse	binding_target	hasBindingTarget	DOT:000092 extracellular ligand	False
+Q60613	Adora2a	mouse	binding_target	hasBindingTarget	DOT:000093 heterotrimeric G protein	False
+Q60613	Adora2a	mouse	GO_component	hasGOTermCC	GO:0016020	False
+Q60748	Crhr2	mouse	domain_type	hasDomainType	INTERPRO:IPR001879	True
+Q60748	Crhr2	mouse	function	hasFunctionTag	DOF:000011 receptor	True
+Q60748	Crhr2	mouse	function	hasFunctionTag	DOF:000032 ligand-binding	True
+Q60748	Crhr2	mouse	topology	hasTopologyContext	DOP:000007 extracellular	True
+Q60748	Crhr2	mouse	topology	hasTopologyContext	signal_peptide	True
+Q60748	Crhr2	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	True
+Q60748	Crhr2	mouse	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	True
+Q60748	Crhr2	mouse	proximity	hasProximityCategory	DOP:000009 NearSignalPeptideCleavage	True
+Q60748	Crhr2	mouse	binding_target	hasBindingTarget	DOT:000103 peptide hormone ligand	False
+Q60748	Crhr2	mouse	GO_function	hasGOTermMF	GO:0004930	True
+Q60748	Crhr2	mouse	GO_component	hasGOTermCC	GO:0016020	False
+Q60748	Crhr2	mouse	domain_type	hasDomainType	INTERPRO:IPR017981	True
+Q60748	Crhr2	mouse	function	hasFunctionTag	DOF:000012 membrane-anchor	True
+Q60748	Crhr2	mouse	function	hasFunctionTag	DOF:000039 signal-transducer	True
+Q60748	Crhr2	mouse	topology	hasTopologyContext	DOP:000006 cytoplasmic	True
+Q60748	Crhr2	mouse	topology	hasTopologyContext	DOP:000008 transmembrane	True
+Q60748	Crhr2	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	True
+Q60748	Crhr2	mouse	binding_target	hasBindingTarget	DOT:000092 extracellular ligand	False
+Q60748	Crhr2	mouse	binding_target	hasBindingTarget	DOT:000093 heterotrimeric G protein	False
+Q60748	Crhr2	mouse	GO_function	hasGOTermMF	GO:0004888	True
+Q60748	Crhr2	mouse	GO_process	hasGOTermBP	GO:0007166	False
+Q60992	Vav2	mouse	domain_type	hasDomainType	INTERPRO:IPR001715	True
+Q60992	Vav2	mouse	function	hasFunctionTag	DOF:000009 Binding	True
+Q60992	Vav2	mouse	function	hasFunctionTag	DOF:000016 scaffold	True
+Q60992	Vav2	mouse	topology	hasTopologyContext	DOP:000012 unknown	True
+Q60992	Vav2	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	True
+Q60992	Vav2	mouse	binding_target	hasBindingTarget	DOT:000086 actin	False
+Q60992	Vav2	mouse	GO_function	hasGOTermMF	GO:0005515	True
+Q60992	Vav2	mouse	domain_type	hasDomainType	INTERPRO:IPR022613	True
+Q60992	Vav2	mouse	function	hasFunctionTag	DOF:000014 regulator	True
+Q60992	Vav2	mouse	binding_target	hasBindingTarget	DOT:000112 protein partner	False
+Q60992	Vav2	mouse	domain_type	hasDomainType	INTERPRO:IPR000219	True
+Q60992	Vav2	mouse	function	hasFunctionTag	DOF:000045 GEF	True
+Q60992	Vav2	mouse	position	hasPositionalCategory	DOP:000005 Internal	True
+Q60992	Vav2	mouse	binding_target	hasBindingTarget	DOT:000286 Ras/Rho family small GTPase	False
+Q60992	Vav2	mouse	GO_function	hasGOTermMF	GO:0005085	True
+Q60992	Vav2	mouse	domain_type	hasDomainType	INTERPRO:IPR037832	True
+Q60992	Vav2	mouse	function	hasFunctionTag	DOF:000033 membrane-targeting	True
+Q60992	Vav2	mouse	function	hasFunctionTag	DOF:000024 adaptor	True
+Q60992	Vav2	mouse	binding_target	hasBindingTarget	DOT:000038 Phosphoinositides	False
+Q60992	Vav2	mouse	domain_type	hasDomainType	INTERPRO:IPR001849	True
+Q60992	Vav2	mouse	domain_type	hasDomainType	INTERPRO:IPR002219	True
+Q60992	Vav2	mouse	binding_target	hasBindingTarget	DOT:000040 Diacylglycerol	False
+Q60992	Vav2	mouse	binding_target	hasBindingTarget	DOT:000104 phorbol ester	False
+Q60992	Vav2	mouse	binding_target	hasBindingTarget	DOT:000285 membrane phospholipids	False
+Q60992	Vav2	mouse	domain_type	hasDomainType	INTERPRO:IPR001452	True
+Q60992	Vav2	mouse	function	hasFunctionTag	DOF:000017 PPI	True
+Q60992	Vav2	mouse	binding_target	hasBindingTarget	DOT:000110 proline-rich motif-containing proteins	False
+Q60992	Vav2	mouse	domain_type	hasDomainType	INTERPRO:IPR035733	True
+Q60992	Vav2	mouse	domain_type	hasDomainType	INTERPRO:IPR035880	True
+Q60992	Vav2	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	True
+Q60992	Vav2	mouse	binding_target	hasBindingTarget	DOT:000109 phosphotyrosine-containing proteins	False
+Q60992	Vav2	mouse	domain_type	hasDomainType	INTERPRO:IPR000980	True
+Q60992	Vav2	mouse	domain_type	hasDomainType	INTERPRO:IPR035732	True
+Q61409	Pde3b	mouse	domain_type	hasDomainType	INTERPRO:IPR002073	True
+Q61409	Pde3b	mouse	function	hasFunctionTag	DOF:000010 catalytic	True
+Q61409	Pde3b	mouse	topology	hasTopologyContext	DOP:000012 unknown	True
+Q61409	Pde3b	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	True
+Q61409	Pde3b	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+Q61409	Pde3b	mouse	binding_target	hasBindingTarget	DOT:000283 cAMP/cGMP	False
+Q61409	Pde3b	mouse	binding_target	hasBindingTarget	DOT:000084 Zn2+	False
+Q61409	Pde3b	mouse	binding_target	hasBindingTarget	DOT:000079 Mg2+	False
+Q61409	Pde3b	mouse	GO_function	hasGOTermMF	GO:0004114	True
+Q61409	Pde3b	mouse	GO_process	hasGOTermBP	GO:0007165	False
+Q61409	Pde3b	mouse	domain_type	hasDomainType	INTERPRO:IPR003607	True
+Q61614	Ednra	mouse	domain_type	hasDomainType	INTERPRO:IPR017452	True
+Q61614	Ednra	mouse	function	hasFunctionTag	DOF:000011 receptor	True
+Q61614	Ednra	mouse	function	hasFunctionTag	DOF:000012 membrane-anchor	True
+Q61614	Ednra	mouse	function	hasFunctionTag	DOF:000039 signal-transducer	True
+Q61614	Ednra	mouse	topology	hasTopologyContext	DOP:000006 cytoplasmic	True
+Q61614	Ednra	mouse	topology	hasTopologyContext	DOP:000007 extracellular	True
+Q61614	Ednra	mouse	topology	hasTopologyContext	DOP:000008 transmembrane	True
+Q61614	Ednra	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	True
+Q61614	Ednra	mouse	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	True
+Q61614	Ednra	mouse	binding_target	hasBindingTarget	DOT:000092 extracellular ligand	False
+Q61614	Ednra	mouse	binding_target	hasBindingTarget	DOT:000093 heterotrimeric G protein	False
+Q61614	Ednra	mouse	GO_component	hasGOTermCC	GO:0016020	False
+Q61616	Drd1	mouse	domain_type	hasDomainType	INTERPRO:IPR017452	True
+Q61616	Drd1	mouse	function	hasFunctionTag	DOF:000011 receptor	True
+Q61616	Drd1	mouse	function	hasFunctionTag	DOF:000012 membrane-anchor	True
+Q61616	Drd1	mouse	function	hasFunctionTag	DOF:000039 signal-transducer	True
+Q61616	Drd1	mouse	topology	hasTopologyContext	DOP:000006 cytoplasmic	True
+Q61616	Drd1	mouse	topology	hasTopologyContext	DOP:000007 extracellular	True
+Q61616	Drd1	mouse	topology	hasTopologyContext	DOP:000008 transmembrane	True
+Q61616	Drd1	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	True
+Q61616	Drd1	mouse	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	True
+Q61616	Drd1	mouse	binding_target	hasBindingTarget	DOT:000092 extracellular ligand	False
+Q61616	Drd1	mouse	binding_target	hasBindingTarget	DOT:000093 heterotrimeric G protein	False
+Q61616	Drd1	mouse	GO_component	hasGOTermCC	GO:0016020	False
+Q61817	Creb3	mouse	domain_type	hasDomainType	INTERPRO:IPR004827	True
+Q61817	Creb3	mouse	function	hasFunctionTag	DOF:000021 DNA-binding	True
+Q61817	Creb3	mouse	function	hasFunctionTag	DOF:000030 dimerization	True
+Q61817	Creb3	mouse	topology	hasTopologyContext	DOP:000006 cytoplasmic	True
+Q61817	Creb3	mouse	position	hasPositionalCategory	DOP:000005 Internal	True
+Q61817	Creb3	mouse	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	True
+Q61817	Creb3	mouse	binding_target	hasBindingTarget	DOT:000072 DNA response element	False
+Q61817	Creb3	mouse	binding_target	hasBindingTarget	DOT:000090 dimerization partner	False
+Q61817	Creb3	mouse	GO_function	hasGOTermMF	GO:0003700	True
+Q61817	Creb3	mouse	GO_process	hasGOTermBP	GO:0006355	False
+Q61831	Mapk10	mouse	domain_type	hasDomainType	INTERPRO:IPR000719	True
+Q61831	Mapk10	mouse	function	hasFunctionTag	DOF:000009 Binding	True
+Q61831	Mapk10	mouse	function	hasFunctionTag	DOF:000010 catalytic	True
+Q61831	Mapk10	mouse	topology	hasTopologyContext	DOP:000012 unknown	True
+Q61831	Mapk10	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	True
+Q61831	Mapk10	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+Q61831	Mapk10	mouse	binding_target	hasBindingTarget	DOT:000026 ATP	False
+Q61831	Mapk10	mouse	binding_target	hasBindingTarget	DOT:000079 Mg2+	False
+Q61831	Mapk10	mouse	binding_target	hasBindingTarget	DOT:000114 protein substrate	False
+Q61831	Mapk10	mouse	GO_function	hasGOTermMF	GO:0004672	True
+Q61831	Mapk10	mouse	GO_function	hasGOTermMF	GO:0005524	True
+Q61831	Mapk10	mouse	GO_process	hasGOTermBP	GO:0006468	False
+Q62053	Ptger2	mouse	domain_type	hasDomainType	INTERPRO:IPR017452	True
+Q62053	Ptger2	mouse	function	hasFunctionTag	DOF:000011 receptor	True
+Q62053	Ptger2	mouse	function	hasFunctionTag	DOF:000012 membrane-anchor	True
+Q62053	Ptger2	mouse	function	hasFunctionTag	DOF:000039 signal-transducer	True
+Q62053	Ptger2	mouse	topology	hasTopologyContext	DOP:000006 cytoplasmic	True
+Q62053	Ptger2	mouse	topology	hasTopologyContext	DOP:000007 extracellular	True
+Q62053	Ptger2	mouse	topology	hasTopologyContext	DOP:000008 transmembrane	True
+Q62053	Ptger2	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	True
+Q62053	Ptger2	mouse	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	True
+Q62053	Ptger2	mouse	binding_target	hasBindingTarget	DOT:000092 extracellular ligand	False
+Q62053	Ptger2	mouse	binding_target	hasBindingTarget	DOT:000093 heterotrimeric G protein	False
+Q62053	Ptger2	mouse	GO_component	hasGOTermCC	GO:0016020	False
+Q62398	Cnga2	mouse	domain_type	hasDomainType	INTERPRO:IPR005821	True
+Q62398	Cnga2	mouse	function	hasFunctionTag	DOF:000013 transporter	True
+Q62398	Cnga2	mouse	function	hasFunctionTag	DOF:000026 channel	True
+Q62398	Cnga2	mouse	topology	hasTopologyContext	DOP:000006 cytoplasmic	True
+Q62398	Cnga2	mouse	topology	hasTopologyContext	DOP:000007 extracellular	True
+Q62398	Cnga2	mouse	topology	hasTopologyContext	DOP:000008 transmembrane	True
+Q62398	Cnga2	mouse	position	hasPositionalCategory	DOP:000005 Internal	True
+Q62398	Cnga2	mouse	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	True
+Q62398	Cnga2	mouse	binding_target	hasBindingTarget	DOT:000282 Ca2+/Na+/K+ or permeant ion	False
+Q62398	Cnga2	mouse	GO_function	hasGOTermMF	GO:0005216	True
+Q62398	Cnga2	mouse	GO_process	hasGOTermBP	GO:0006811	False
+Q62398	Cnga2	mouse	GO_process	hasGOTermBP	GO:0055085	False
+Q62398	Cnga2	mouse	GO_component	hasGOTermCC	GO:0016020	False
+Q62398	Cnga2	mouse	domain_type	hasDomainType	INTERPRO:IPR000595	True
+Q62398	Cnga2	mouse	function	hasFunctionTag	DOF:000014 regulator	True
+Q62398	Cnga2	mouse	function	hasFunctionTag	DOF:000029 cyclic-nucleotide-sensor	True
+Q62398	Cnga2	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	True
+Q62398	Cnga2	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+Q62398	Cnga2	mouse	binding_target	hasBindingTarget	DOT:000283 cAMP/cGMP	False
+Q62398	Cnga2	mouse	domain_type	hasDomainType	INTERPRO:IPR032406	True
+Q62398	Cnga2	mouse	binding_target	hasBindingTarget	DOT:000112 protein partner	False
+Q63844	Mapk3	mouse	domain_type	hasDomainType	INTERPRO:IPR000719	True
+Q63844	Mapk3	mouse	function	hasFunctionTag	DOF:000009 Binding	True
+Q63844	Mapk3	mouse	function	hasFunctionTag	DOF:000010 catalytic	True
+Q63844	Mapk3	mouse	topology	hasTopologyContext	DOP:000012 unknown	True
+Q63844	Mapk3	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	True
+Q63844	Mapk3	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+Q63844	Mapk3	mouse	binding_target	hasBindingTarget	DOT:000026 ATP	False
+Q63844	Mapk3	mouse	binding_target	hasBindingTarget	DOT:000079 Mg2+	False
+Q63844	Mapk3	mouse	binding_target	hasBindingTarget	DOT:000114 protein substrate	False
+Q63844	Mapk3	mouse	GO_function	hasGOTermMF	GO:0004672	True
+Q63844	Mapk3	mouse	GO_function	hasGOTermMF	GO:0005524	True
+Q63844	Mapk3	mouse	GO_process	hasGOTermBP	GO:0006468	False
+Q63932	Map2k2	mouse	domain_type	hasDomainType	INTERPRO:IPR000719	True
+Q63932	Map2k2	mouse	function	hasFunctionTag	DOF:000009 Binding	True
+Q63932	Map2k2	mouse	function	hasFunctionTag	DOF:000010 catalytic	True
+Q63932	Map2k2	mouse	topology	hasTopologyContext	DOP:000012 unknown	True
+Q63932	Map2k2	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	True
+Q63932	Map2k2	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+Q63932	Map2k2	mouse	binding_target	hasBindingTarget	DOT:000026 ATP	False
+Q63932	Map2k2	mouse	binding_target	hasBindingTarget	DOT:000079 Mg2+	False
+Q63932	Map2k2	mouse	binding_target	hasBindingTarget	DOT:000114 protein substrate	False
+Q63932	Map2k2	mouse	GO_function	hasGOTermMF	GO:0004672	True
+Q63932	Map2k2	mouse	GO_function	hasGOTermMF	GO:0005524	True
+Q63932	Map2k2	mouse	GO_process	hasGOTermBP	GO:0006468	False
+Q64518	Atp2a3	mouse	domain_type	hasDomainType	INTERPRO:IPR004014	True
+Q64518	Atp2a3	mouse	function	hasFunctionTag	DOF:000018 sensor	True
+Q64518	Atp2a3	mouse	function	hasFunctionTag	DOF:000016 scaffold	True
+Q64518	Atp2a3	mouse	topology	hasTopologyContext	DOP:000006 cytoplasmic	True
+Q64518	Atp2a3	mouse	topology	hasTopologyContext	DOP:000010 luminal	True
+Q64518	Atp2a3	mouse	topology	hasTopologyContext	DOP:000008 transmembrane	True
+Q64518	Atp2a3	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	True
+Q64518	Atp2a3	mouse	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	True
+Q64518	Atp2a3	mouse	binding_target	hasBindingTarget	DOT:000281 protein partner or small-molecule signal	False
+Q64518	Atp2a3	mouse	domain_type	hasDomainType	INTERPRO:IPR059000	True
+Q64518	Atp2a3	mouse	domain_type	hasDomainType	INTERPRO:IPR044492	True
+Q64518	Atp2a3	mouse	position	hasPositionalCategory	DOP:000005 Internal	True
+Q64518	Atp2a3	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+Q64518	Atp2a3	mouse	domain_type	hasDomainType	INTERPRO:IPR006068	True
+Q64518	Atp2a3	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	True
+Q6Q477	Atp2b4	mouse	domain_type	hasDomainType	INTERPRO:IPR004014	True
+Q6Q477	Atp2b4	mouse	function	hasFunctionTag	DOF:000018 sensor	True
+Q6Q477	Atp2b4	mouse	function	hasFunctionTag	DOF:000016 scaffold	True
+Q6Q477	Atp2b4	mouse	topology	hasTopologyContext	DOP:000006 cytoplasmic	True
+Q6Q477	Atp2b4	mouse	topology	hasTopologyContext	DOP:000008 transmembrane	True
+Q6Q477	Atp2b4	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	True
+Q6Q477	Atp2b4	mouse	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	True
+Q6Q477	Atp2b4	mouse	binding_target	hasBindingTarget	DOT:000281 protein partner or small-molecule signal	False
+Q6Q477	Atp2b4	mouse	domain_type	hasDomainType	INTERPRO:IPR059000	True
+Q6Q477	Atp2b4	mouse	domain_type	hasDomainType	INTERPRO:IPR044492	True
+Q6Q477	Atp2b4	mouse	position	hasPositionalCategory	DOP:000005 Internal	True
+Q6Q477	Atp2b4	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+Q6Q477	Atp2b4	mouse	domain_type	hasDomainType	INTERPRO:IPR006068	True
+Q6Q477	Atp2b4	mouse	topology	hasTopologyContext	DOP:000007 extracellular	True
+Q6Q477	Atp2b4	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	True
+Q6Q477	Atp2b4	mouse	domain_type	hasDomainType	INTERPRO:IPR022141	True
+Q6Q477	Atp2b4	mouse	GO_function	hasGOTermMF	GO:0005388	True
+Q6ZQB6	Vip	mouse	domain_type	hasDomainType	INTERPRO:IPR040557	True
+Q6ZQB6	Vip	mouse	function	hasFunctionTag	DOF:000043 ligand	True
+Q6ZQB6	Vip	mouse	function	hasFunctionTag	DOF:000038 receptor-binding	True
+Q6ZQB6	Vip	mouse	topology	hasTopologyContext	DOP:000012 unknown	True
+Q6ZQB6	Vip	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	True
+Q6ZQB6	Vip	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+Q6ZQB6	Vip	mouse	binding_target	hasBindingTarget	DOT:000289 VIP/PACAP receptor ectodomain	False
+Q7TQP3	Gpr119	mouse	domain_type	hasDomainType	INTERPRO:IPR017452	True
+Q7TQP3	Gpr119	mouse	function	hasFunctionTag	DOF:000011 receptor	True
+Q7TQP3	Gpr119	mouse	function	hasFunctionTag	DOF:000012 membrane-anchor	True
+Q7TQP3	Gpr119	mouse	function	hasFunctionTag	DOF:000039 signal-transducer	True
+Q7TQP3	Gpr119	mouse	topology	hasTopologyContext	DOP:000006 cytoplasmic	True
+Q7TQP3	Gpr119	mouse	topology	hasTopologyContext	DOP:000007 extracellular	True
+Q7TQP3	Gpr119	mouse	topology	hasTopologyContext	DOP:000008 transmembrane	True
+Q7TQP3	Gpr119	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	True
+Q7TQP3	Gpr119	mouse	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	True
+Q7TQP3	Gpr119	mouse	binding_target	hasBindingTarget	DOT:000092 extracellular ligand	False
+Q7TQP3	Gpr119	mouse	binding_target	hasBindingTarget	DOT:000093 heterotrimeric G protein	False
+Q7TQP3	Gpr119	mouse	GO_component	hasGOTermCC	GO:0016020	False
+Q80T41	Gabbr2	mouse	domain_type	hasDomainType	INTERPRO:IPR001828	True
+Q80T41	Gabbr2	mouse	function	hasFunctionTag	DOF:000011 receptor	True
+Q80T41	Gabbr2	mouse	function	hasFunctionTag	DOF:000032 ligand-binding	True
+Q80T41	Gabbr2	mouse	topology	hasTopologyContext	DOP:000007 extracellular	True
+Q80T41	Gabbr2	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	True
+Q80T41	Gabbr2	mouse	binding_target	hasBindingTarget	DOT:000117 small-molecule or amino-acid ligand	False
+Q80T41	Gabbr2	mouse	domain_type	hasDomainType	INTERPRO:IPR017978	True
+Q80T41	Gabbr2	mouse	function	hasFunctionTag	DOF:000012 membrane-anchor	True
+Q80T41	Gabbr2	mouse	function	hasFunctionTag	DOF:000039 signal-transducer	True
+Q80T41	Gabbr2	mouse	topology	hasTopologyContext	DOP:000006 cytoplasmic	True
+Q80T41	Gabbr2	mouse	topology	hasTopologyContext	DOP:000008 transmembrane	True
+Q80T41	Gabbr2	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	True
+Q80T41	Gabbr2	mouse	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	True
+Q80T41	Gabbr2	mouse	binding_target	hasBindingTarget	DOT:000092 extracellular ligand	False
+Q80T41	Gabbr2	mouse	binding_target	hasBindingTarget	DOT:000093 heterotrimeric G protein	False
+Q80T41	Gabbr2	mouse	GO_function	hasGOTermMF	GO:0004930	True
+Q80T41	Gabbr2	mouse	GO_process	hasGOTermBP	GO:0007186	False
+Q80T41	Gabbr2	mouse	GO_component	hasGOTermCC	GO:0016020	False
+Q80T41	Gabbr2	mouse	domain_type	hasDomainType	INTERPRO:IPR041689	True
+Q80T41	Gabbr2	mouse	function	hasFunctionTag	DOF:000016 scaffold	True
+Q80T41	Gabbr2	mouse	function	hasFunctionTag	DOF:000030 dimerization	True
+Q80T41	Gabbr2	mouse	binding_target	hasBindingTarget	DOT:000115 receptor cytoplasmic tail	False
+Q80T41	Gabbr2	mouse	binding_target	hasBindingTarget	DOT:000102 partner receptor subunit	False
+Q80TL1	Adcy2	mouse	domain_type	hasDomainType	INTERPRO:IPR032628	True
+Q80TL1	Adcy2	mouse	function	hasFunctionTag	DOF:000012 membrane-anchor	True
+Q80TL1	Adcy2	mouse	function	hasFunctionTag	DOF:000014 regulator	True
+Q80TL1	Adcy2	mouse	topology	hasTopologyContext	DOP:000006 cytoplasmic	True
+Q80TL1	Adcy2	mouse	topology	hasTopologyContext	DOP:000008 transmembrane	True
+Q80TL1	Adcy2	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	True
+Q80TL1	Adcy2	mouse	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	True
+Q80TL1	Adcy2	mouse	binding_target	hasBindingTarget	DOT:000074 G protein inputs	False
+Q80TL1	Adcy2	mouse	binding_target	hasBindingTarget	DOT:000097 membrane environment	False
+Q80TL1	Adcy2	mouse	domain_type	hasDomainType	INTERPRO:IPR001054	True
+Q80TL1	Adcy2	mouse	function	hasFunctionTag	DOF:000010 catalytic	True
+Q80TL1	Adcy2	mouse	position	hasPositionalCategory	DOP:000005 Internal	True
+Q80TL1	Adcy2	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+Q80TL1	Adcy2	mouse	binding_target	hasBindingTarget	DOT:000026 ATP	False
+Q80TL1	Adcy2	mouse	binding_target	hasBindingTarget	DOT:000079 Mg2+	False
+Q80TL1	Adcy2	mouse	binding_target	hasBindingTarget	DOT:000080 Mn2+	False
+Q80TL1	Adcy2	mouse	GO_process	hasGOTermBP	GO:0009190	False
+Q80TL1	Adcy2	mouse	GO_process	hasGOTermBP	GO:0035556	False
+Q80TL1	Adcy2	mouse	domain_type	hasDomainType	INTERPRO:IPR009398	True
+Q80TL1	Adcy2	mouse	GO_function	hasGOTermMF	GO:0004016	True
+Q80TL1	Adcy2	mouse	GO_process	hasGOTermBP	GO:0006171	False
+Q80TL1	Adcy2	mouse	GO_component	hasGOTermCC	GO:0005886	False
+Q80TL1	Adcy2	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	True
+Q80Y86	Mapk1	mouse	domain_type	hasDomainType	INTERPRO:IPR000719	True
+Q80Y86	Mapk1	mouse	function	hasFunctionTag	DOF:000009 Binding	True
+Q80Y86	Mapk1	mouse	function	hasFunctionTag	DOF:000010 catalytic	True
+Q80Y86	Mapk1	mouse	topology	hasTopologyContext	DOP:000012 unknown	True
+Q80Y86	Mapk1	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	True
+Q80Y86	Mapk1	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+Q80Y86	Mapk1	mouse	binding_target	hasBindingTarget	DOT:000026 ATP	False
+Q80Y86	Mapk1	mouse	binding_target	hasBindingTarget	DOT:000079 Mg2+	False
+Q80Y86	Mapk1	mouse	binding_target	hasBindingTarget	DOT:000114 protein substrate	False
+Q80Y86	Mapk1	mouse	GO_function	hasGOTermMF	GO:0004672	True
+Q80Y86	Mapk1	mouse	GO_function	hasGOTermMF	GO:0005524	True
+Q80Y86	Mapk1	mouse	GO_process	hasGOTermBP	GO:0006468	False
+Q80YT7	Pde4d	mouse	domain_type	hasDomainType	INTERPRO:IPR012943	True
+Q80YT7	Pde4d	mouse	function	hasFunctionTag	DOF:000016 scaffold	True
+Q80YT7	Pde4d	mouse	topology	hasTopologyContext	DOP:000012 unknown	True
+Q80YT7	Pde4d	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	True
+Q80YT7	Pde4d	mouse	binding_target	hasBindingTarget	DOT:000112 protein partner	False
+Q80YT7	Pde4d	mouse	GO_component	hasGOTermCC	GO:0005815	False
+Q80YT7	Pde4d	mouse	domain_type	hasDomainType	INTERPRO:IPR056273	True
+Q80YT7	Pde4d	mouse	function	hasFunctionTag	DOF:000036 oligomerization	True
+Q80YT7	Pde4d	mouse	position	hasPositionalCategory	DOP:000005 Internal	True
+Q80YT7	Pde4d	mouse	domain_type	hasDomainType	INTERPRO:IPR010630	True
+Q80YT7	Pde4d	mouse	domain_type	hasDomainType	INTERPRO:IPR060527	True
+Q80YT7	Pde4d	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	True
+Q8BGQ1	Vip	mouse	domain_type	hasDomainType	INTERPRO:IPR006925	True
+Q8BGQ1	Vip	mouse	function	hasFunctionTag	DOF:000016 scaffold	True
+Q8BGQ1	Vip	mouse	function	hasFunctionTag	DOF:000041 trafficking	True
+Q8BGQ1	Vip	mouse	topology	hasTopologyContext	DOP:000012 unknown	True
+Q8BGQ1	Vip	mouse	position	hasPositionalCategory	DOP:000005 Internal	True
+Q8BGQ1	Vip	mouse	binding_target	hasBindingTarget	DOT:000078 HOPS/CORVET complex partner proteins	False
+Q8BGQ1	Vip	mouse	GO_process	hasGOTermBP	GO:0006886	False
+Q8BGQ1	Vip	mouse	GO_component	hasGOTermCC	GO:0005737	False
+Q8BLD9	Drd5	mouse	domain_type	hasDomainType	INTERPRO:IPR017452	True
+Q8BLD9	Drd5	mouse	function	hasFunctionTag	DOF:000011 receptor	True
+Q8BLD9	Drd5	mouse	function	hasFunctionTag	DOF:000012 membrane-anchor	True
+Q8BLD9	Drd5	mouse	function	hasFunctionTag	DOF:000039 signal-transducer	True
+Q8BLD9	Drd5	mouse	topology	hasTopologyContext	DOP:000006 cytoplasmic	True
+Q8BLD9	Drd5	mouse	topology	hasTopologyContext	DOP:000007 extracellular	True
+Q8BLD9	Drd5	mouse	topology	hasTopologyContext	DOP:000008 transmembrane	True
+Q8BLD9	Drd5	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	True
+Q8BLD9	Drd5	mouse	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	True
+Q8BLD9	Drd5	mouse	binding_target	hasBindingTarget	DOT:000092 extracellular ligand	False
+Q8BLD9	Drd5	mouse	binding_target	hasBindingTarget	DOT:000093 heterotrimeric G protein	False
+Q8BLD9	Drd5	mouse	GO_component	hasGOTermCC	GO:0016020	False
+Q8BTI9	Pik3cb	mouse	domain_type	hasDomainType	INTERPRO:IPR003113	True
+Q8BTI9	Pik3cb	mouse	function	hasFunctionTag	DOF:000016 scaffold	True
+Q8BTI9	Pik3cb	mouse	function	hasFunctionTag	DOF:000014 regulator	True
+Q8BTI9	Pik3cb	mouse	topology	hasTopologyContext	DOP:000012 unknown	True
+Q8BTI9	Pik3cb	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	True
+Q8BTI9	Pik3cb	mouse	binding_target	hasBindingTarget	DOT:000082 PI3K regulatory/catalytic subunit partner	False
+Q8BTI9	Pik3cb	mouse	domain_type	hasDomainType	INTERPRO:IPR000341	True
+Q8BTI9	Pik3cb	mouse	function	hasFunctionTag	DOF:000009 Binding	True
+Q8BTI9	Pik3cb	mouse	binding_target	hasBindingTarget	DOT:000287 Ras family small GTPase	False
+Q8BTI9	Pik3cb	mouse	domain_type	hasDomainType	INTERPRO:IPR002420	True
+Q8BTI9	Pik3cb	mouse	function	hasFunctionTag	DOF:000033 membrane-targeting	True
+Q8BTI9	Pik3cb	mouse	position	hasPositionalCategory	DOP:000005 Internal	True
+Q8BTI9	Pik3cb	mouse	binding_target	hasBindingTarget	DOT:000098 membrane phospholipid	False
+Q8BTI9	Pik3cb	mouse	domain_type	hasDomainType	INTERPRO:IPR001263	True
+Q8BTI9	Pik3cb	mouse	binding_target	hasBindingTarget	DOT:000112 protein partner	False
+Q8BTI9	Pik3cb	mouse	domain_type	hasDomainType	INTERPRO:IPR037702	True
+Q8BTI9	Pik3cb	mouse	function	hasFunctionTag	DOF:000010 catalytic	True
+Q8BTI9	Pik3cb	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	True
+Q8BTI9	Pik3cb	mouse	binding_target	hasBindingTarget	DOT:000026 ATP	False
+Q8BTI9	Pik3cb	mouse	binding_target	hasBindingTarget	DOT:000079 Mg2+	False
+Q8BTI9	Pik3cb	mouse	binding_target	hasBindingTarget	DOT:000114 protein substrate	False
+Q8BTI9	Pik3cb	mouse	GO_function	hasGOTermMF	GO:0016303	True
+Q8BTI9	Pik3cb	mouse	GO_process	hasGOTermBP	GO:0043491	False
+Q8BTI9	Pik3cb	mouse	domain_type	hasDomainType	INTERPRO:IPR000403	True
+Q8C0T9	Adcy10	mouse	domain_type	hasDomainType	INTERPRO:IPR001054	True
+Q8C0T9	Adcy10	mouse	function	hasFunctionTag	DOF:000010 catalytic	True
+Q8C0T9	Adcy10	mouse	topology	hasTopologyContext	DOP:000012 unknown	True
+Q8C0T9	Adcy10	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	True
+Q8C0T9	Adcy10	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+Q8C0T9	Adcy10	mouse	binding_target	hasBindingTarget	DOT:000026 ATP	False
+Q8C0T9	Adcy10	mouse	binding_target	hasBindingTarget	DOT:000079 Mg2+	False
+Q8C0T9	Adcy10	mouse	binding_target	hasBindingTarget	DOT:000080 Mn2+	False
+Q8C0T9	Adcy10	mouse	GO_process	hasGOTermBP	GO:0009190	False
+Q8C0T9	Adcy10	mouse	GO_process	hasGOTermBP	GO:0035556	False
+Q8C131	Hcar1	mouse	domain_type	hasDomainType	INTERPRO:IPR017452	True
+Q8C131	Hcar1	mouse	function	hasFunctionTag	DOF:000011 receptor	True
+Q8C131	Hcar1	mouse	function	hasFunctionTag	DOF:000012 membrane-anchor	True
+Q8C131	Hcar1	mouse	function	hasFunctionTag	DOF:000039 signal-transducer	True
+Q8C131	Hcar1	mouse	topology	hasTopologyContext	DOP:000006 cytoplasmic	True
+Q8C131	Hcar1	mouse	topology	hasTopologyContext	DOP:000007 extracellular	True
+Q8C131	Hcar1	mouse	topology	hasTopologyContext	DOP:000008 transmembrane	True
+Q8C131	Hcar1	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	True
+Q8C131	Hcar1	mouse	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	True
+Q8C131	Hcar1	mouse	binding_target	hasBindingTarget	DOT:000092 extracellular ligand	False
+Q8C131	Hcar1	mouse	binding_target	hasBindingTarget	DOT:000093 heterotrimeric G protein	False
+Q8C131	Hcar1	mouse	GO_component	hasGOTermCC	GO:0016020	False
+Q8CA95	Pde10a	mouse	domain_type	hasDomainType	INTERPRO:IPR003018	True
+Q8CA95	Pde10a	mouse	function	hasFunctionTag	DOF:000014 regulator	True
+Q8CA95	Pde10a	mouse	function	hasFunctionTag	DOF:000029 cyclic-nucleotide-sensor	True
+Q8CA95	Pde10a	mouse	topology	hasTopologyContext	DOP:000012 unknown	True
+Q8CA95	Pde10a	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	True
+Q8CA95	Pde10a	mouse	binding_target	hasBindingTarget	DOT:000033 cAMP	False
+Q8CA95	Pde10a	mouse	binding_target	hasBindingTarget	DOT:000034 cGMP	False
+Q8CA95	Pde10a	mouse	GO_function	hasGOTermMF	GO:0005515	True
+Q8CA95	Pde10a	mouse	position	hasPositionalCategory	DOP:000005 Internal	True
+Q8CA95	Pde10a	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+Q8CA95	Pde10a	mouse	domain_type	hasDomainType	INTERPRO:IPR002073	True
+Q8CA95	Pde10a	mouse	function	hasFunctionTag	DOF:000010 catalytic	True
+Q8CA95	Pde10a	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	True
+Q8CA95	Pde10a	mouse	binding_target	hasBindingTarget	DOT:000283 cAMP/cGMP	False
+Q8CA95	Pde10a	mouse	binding_target	hasBindingTarget	DOT:000084 Zn2+	False
+Q8CA95	Pde10a	mouse	binding_target	hasBindingTarget	DOT:000079 Mg2+	False
+Q8CA95	Pde10a	mouse	GO_function	hasGOTermMF	GO:0004114	True
+Q8CA95	Pde10a	mouse	GO_process	hasGOTermBP	GO:0007165	False
+Q8CA95	Pde10a	mouse	domain_type	hasDomainType	INTERPRO:IPR003607	True
+Q8CIT0	Crh	mouse	domain_type	hasDomainType	INTERPRO:IPR000187	True
+Q8CIT0	Crh	mouse	function	hasFunctionTag	DOF:000043 ligand	True
+Q8CIT0	Crh	mouse	function	hasFunctionTag	DOF:000038 receptor-binding	True
+Q8CIT0	Crh	mouse	topology	hasTopologyContext	DOP:000012 unknown	True
+Q8CIT0	Crh	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	True
+Q8CIT0	Crh	mouse	binding_target	hasBindingTarget	DOT:000284 cognate GPCR or receptor	False
+Q8CIT0	Crh	mouse	GO_function	hasGOTermMF	GO:0005179	True
+Q8CIT0	Crh	mouse	GO_component	hasGOTermCC	GO:0005576	False
+Q8K1L0	Creb5	mouse	domain_type	hasDomainType	INTERPRO:IPR004827	True
+Q8K1L0	Creb5	mouse	function	hasFunctionTag	DOF:000021 DNA-binding	True
+Q8K1L0	Creb5	mouse	function	hasFunctionTag	DOF:000030 dimerization	True
+Q8K1L0	Creb5	mouse	topology	hasTopologyContext	DOP:000012 unknown	True
+Q8K1L0	Creb5	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	True
+Q8K1L0	Creb5	mouse	binding_target	hasBindingTarget	DOT:000072 DNA response element	False
+Q8K1L0	Creb5	mouse	binding_target	hasBindingTarget	DOT:000090 dimerization partner	False
+Q8K1L0	Creb5	mouse	GO_function	hasGOTermMF	GO:0003700	True
+Q8K1L0	Creb5	mouse	GO_process	hasGOTermBP	GO:0006355	False
+Q8K4S1	Plce1	mouse	domain_type	hasDomainType	INTERPRO:IPR001895	True
+Q8K4S1	Plce1	mouse	function	hasFunctionTag	DOF:000014 regulator	True
+Q8K4S1	Plce1	mouse	function	hasFunctionTag	DOF:000045 GEF	True
+Q8K4S1	Plce1	mouse	topology	hasTopologyContext	DOP:000012 unknown	True
+Q8K4S1	Plce1	mouse	position	hasPositionalCategory	DOP:000005 Internal	True
+Q8K4S1	Plce1	mouse	binding_target	hasBindingTarget	DOT:000286 Ras/Rho family small GTPase	False
+Q8K4S1	Plce1	mouse	GO_function	hasGOTermMF	GO:0005085	True
+Q8K4S1	Plce1	mouse	GO_process	hasGOTermBP	GO:0007264	False
+Q8K4S1	Plce1	mouse	domain_type	hasDomainType	INTERPRO:IPR046974	True
+Q8K4S1	Plce1	mouse	function	hasFunctionTag	DOF:000010 catalytic	True
+Q8K4S1	Plce1	mouse	binding_target	hasBindingTarget	DOT:000283 cAMP/cGMP	False
+Q8K4S1	Plce1	mouse	binding_target	hasBindingTarget	DOT:000084 Zn2+	False
+Q8K4S1	Plce1	mouse	binding_target	hasBindingTarget	DOT:000079 Mg2+	False
+Q8K4S1	Plce1	mouse	domain_type	hasDomainType	INTERPRO:IPR015359	True
+Q8K4S1	Plce1	mouse	function	hasFunctionTag	DOF:000018 sensor	True
+Q8K4S1	Plce1	mouse	function	hasFunctionTag	DOF:000016 scaffold	True
+Q8K4S1	Plce1	mouse	binding_target	hasBindingTarget	DOT:000281 protein partner or small-molecule signal	False
+Q8K4S1	Plce1	mouse	domain_type	hasDomainType	INTERPRO:IPR046973	True
+Q8K4S1	Plce1	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+Q8K4S1	Plce1	mouse	GO_function	hasGOTermMF	GO:0004435	True
+Q8K4S1	Plce1	mouse	domain_type	hasDomainType	INTERPRO:IPR000909	True
+Q8K4S1	Plce1	mouse	domain_type	hasDomainType	INTERPRO:IPR001711	True
+Q8K4S1	Plce1	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	True
+Q8K4S1	Plce1	mouse	GO_process	hasGOTermBP	GO:0006629	False
+Q8K4S1	Plce1	mouse	GO_process	hasGOTermBP	GO:0007165	False
+Q8K4S1	Plce1	mouse	GO_process	hasGOTermBP	GO:0035556	False
+Q8K4S1	Plce1	mouse	domain_type	hasDomainType	INTERPRO:IPR000008	True
+Q8K4S1	Plce1	mouse	function	hasFunctionTag	DOF:000009 Binding	True
+Q8K4S1	Plce1	mouse	function	hasFunctionTag	DOF:000033 membrane-targeting	True
+Q8K4S1	Plce1	mouse	binding_target	hasBindingTarget	DOT:000069 Ca2+	False
+Q8K4S1	Plce1	mouse	binding_target	hasBindingTarget	DOT:000106 phospholipid	False
+Q8K4S1	Plce1	mouse	binding_target	hasBindingTarget	DOT:000105 phosphoinositide	False
+Q8K4S1	Plce1	mouse	domain_type	hasDomainType	INTERPRO:IPR028398	True
+Q8K4S1	Plce1	mouse	domain_type	hasDomainType	INTERPRO:IPR000159	True
+Q8K4S1	Plce1	mouse	binding_target	hasBindingTarget	DOT:000287 Ras family small GTPase	False
+Q8VCC8	Rapgef3	mouse	domain_type	hasDomainType	INTERPRO:IPR000591	True
+Q8VCC8	Rapgef3	mouse	function	hasFunctionTag	DOF:000016 scaffold	True
+Q8VCC8	Rapgef3	mouse	function	hasFunctionTag	DOF:000014 regulator	True
+Q8VCC8	Rapgef3	mouse	topology	hasTopologyContext	DOP:000012 unknown	True
+Q8VCC8	Rapgef3	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	True
+Q8VCC8	Rapgef3	mouse	binding_target	hasBindingTarget	DOT:000099 membrane-associated signaling proteins	False
+Q8VCC8	Rapgef3	mouse	GO_process	hasGOTermBP	GO:0035556	False
+Q8VCC8	Rapgef3	mouse	domain_type	hasDomainType	INTERPRO:IPR000595	True
+Q8VCC8	Rapgef3	mouse	function	hasFunctionTag	DOF:000029 cyclic-nucleotide-sensor	True
+Q8VCC8	Rapgef3	mouse	position	hasPositionalCategory	DOP:000005 Internal	True
+Q8VCC8	Rapgef3	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+Q8VCC8	Rapgef3	mouse	binding_target	hasBindingTarget	DOT:000283 cAMP/cGMP	False
+Q8VCC8	Rapgef3	mouse	domain_type	hasDomainType	INTERPRO:IPR000651	True
+Q8VCC8	Rapgef3	mouse	function	hasFunctionTag	DOF:000045 GEF	True
+Q8VCC8	Rapgef3	mouse	binding_target	hasBindingTarget	DOT:000286 Ras/Rho family small GTPase	False
+Q8VCC8	Rapgef3	mouse	domain_type	hasDomainType	INTERPRO:IPR001895	True
+Q8VCC8	Rapgef3	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	True
+Q8VCC8	Rapgef3	mouse	GO_function	hasGOTermMF	GO:0005085	True
+Q8VCC8	Rapgef3	mouse	GO_process	hasGOTermBP	GO:0007264	False
+Q8VCK6	Ffar2	mouse	domain_type	hasDomainType	INTERPRO:IPR017452	True
+Q8VCK6	Ffar2	mouse	function	hasFunctionTag	DOF:000011 receptor	True
+Q8VCK6	Ffar2	mouse	function	hasFunctionTag	DOF:000012 membrane-anchor	True
+Q8VCK6	Ffar2	mouse	function	hasFunctionTag	DOF:000039 signal-transducer	True
+Q8VCK6	Ffar2	mouse	topology	hasTopologyContext	DOP:000006 cytoplasmic	True
+Q8VCK6	Ffar2	mouse	topology	hasTopologyContext	DOP:000007 extracellular	True
+Q8VCK6	Ffar2	mouse	topology	hasTopologyContext	DOP:000008 transmembrane	True
+Q8VCK6	Ffar2	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	True
+Q8VCK6	Ffar2	mouse	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	True
+Q8VCK6	Ffar2	mouse	binding_target	hasBindingTarget	DOT:000092 extracellular ligand	False
+Q8VCK6	Ffar2	mouse	binding_target	hasBindingTarget	DOT:000093 heterotrimeric G protein	False
+Q8VCK6	Ffar2	mouse	GO_component	hasGOTermCC	GO:0016020	False
+Q8VHH7	Adcy3	mouse	domain_type	hasDomainType	INTERPRO:IPR032628	True
+Q8VHH7	Adcy3	mouse	function	hasFunctionTag	DOF:000012 membrane-anchor	True
+Q8VHH7	Adcy3	mouse	function	hasFunctionTag	DOF:000014 regulator	True
+Q8VHH7	Adcy3	mouse	topology	hasTopologyContext	DOP:000006 cytoplasmic	True
+Q8VHH7	Adcy3	mouse	topology	hasTopologyContext	DOP:000008 transmembrane	True
+Q8VHH7	Adcy3	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	True
+Q8VHH7	Adcy3	mouse	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	True
+Q8VHH7	Adcy3	mouse	binding_target	hasBindingTarget	DOT:000074 G protein inputs	False
+Q8VHH7	Adcy3	mouse	binding_target	hasBindingTarget	DOT:000097 membrane environment	False
+Q8VHH7	Adcy3	mouse	domain_type	hasDomainType	INTERPRO:IPR001054	True
+Q8VHH7	Adcy3	mouse	function	hasFunctionTag	DOF:000010 catalytic	True
+Q8VHH7	Adcy3	mouse	position	hasPositionalCategory	DOP:000005 Internal	True
+Q8VHH7	Adcy3	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+Q8VHH7	Adcy3	mouse	binding_target	hasBindingTarget	DOT:000026 ATP	False
+Q8VHH7	Adcy3	mouse	binding_target	hasBindingTarget	DOT:000079 Mg2+	False
+Q8VHH7	Adcy3	mouse	binding_target	hasBindingTarget	DOT:000080 Mn2+	False
+Q8VHH7	Adcy3	mouse	GO_process	hasGOTermBP	GO:0009190	False
+Q8VHH7	Adcy3	mouse	GO_process	hasGOTermBP	GO:0035556	False
+Q8VHH7	Adcy3	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	True
+Q91WF3	Adcy4	mouse	domain_type	hasDomainType	INTERPRO:IPR032628	True
+Q91WF3	Adcy4	mouse	function	hasFunctionTag	DOF:000012 membrane-anchor	True
+Q91WF3	Adcy4	mouse	function	hasFunctionTag	DOF:000014 regulator	True
+Q91WF3	Adcy4	mouse	topology	hasTopologyContext	DOP:000006 cytoplasmic	True
+Q91WF3	Adcy4	mouse	topology	hasTopologyContext	DOP:000008 transmembrane	True
+Q91WF3	Adcy4	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	True
+Q91WF3	Adcy4	mouse	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	True
+Q91WF3	Adcy4	mouse	binding_target	hasBindingTarget	DOT:000074 G protein inputs	False
+Q91WF3	Adcy4	mouse	binding_target	hasBindingTarget	DOT:000097 membrane environment	False
+Q91WF3	Adcy4	mouse	domain_type	hasDomainType	INTERPRO:IPR001054	True
+Q91WF3	Adcy4	mouse	function	hasFunctionTag	DOF:000010 catalytic	True
+Q91WF3	Adcy4	mouse	position	hasPositionalCategory	DOP:000005 Internal	True
+Q91WF3	Adcy4	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+Q91WF3	Adcy4	mouse	binding_target	hasBindingTarget	DOT:000026 ATP	False
+Q91WF3	Adcy4	mouse	binding_target	hasBindingTarget	DOT:000079 Mg2+	False
+Q91WF3	Adcy4	mouse	binding_target	hasBindingTarget	DOT:000080 Mn2+	False
+Q91WF3	Adcy4	mouse	GO_process	hasGOTermBP	GO:0009190	False
+Q91WF3	Adcy4	mouse	GO_process	hasGOTermBP	GO:0035556	False
+Q91WF3	Adcy4	mouse	domain_type	hasDomainType	INTERPRO:IPR009398	True
+Q91WF3	Adcy4	mouse	GO_function	hasGOTermMF	GO:0004016	True
+Q91WF3	Adcy4	mouse	GO_process	hasGOTermBP	GO:0006171	False
+Q91WF3	Adcy4	mouse	GO_component	hasGOTermCC	GO:0005886	False
+Q91WF3	Adcy4	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	True
+Q91Y86	Mapk8	mouse	domain_type	hasDomainType	INTERPRO:IPR000719	True
+Q91Y86	Mapk8	mouse	function	hasFunctionTag	DOF:000009 Binding	True
+Q91Y86	Mapk8	mouse	function	hasFunctionTag	DOF:000010 catalytic	True
+Q91Y86	Mapk8	mouse	topology	hasTopologyContext	DOP:000012 unknown	True
+Q91Y86	Mapk8	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	True
+Q91Y86	Mapk8	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+Q91Y86	Mapk8	mouse	binding_target	hasBindingTarget	DOT:000026 ATP	False
+Q91Y86	Mapk8	mouse	binding_target	hasBindingTarget	DOT:000079 Mg2+	False
+Q91Y86	Mapk8	mouse	binding_target	hasBindingTarget	DOT:000114 protein substrate	False
+Q91Y86	Mapk8	mouse	GO_function	hasGOTermMF	GO:0004672	True
+Q91Y86	Mapk8	mouse	GO_function	hasGOTermMF	GO:0005524	True
+Q91Y86	Mapk8	mouse	GO_process	hasGOTermBP	GO:0006468	False
+Q99246	Cacna1d	mouse	domain_type	hasDomainType	INTERPRO:IPR005821	True
+Q99246	Cacna1d	mouse	function	hasFunctionTag	DOF:000013 transporter	True
+Q99246	Cacna1d	mouse	function	hasFunctionTag	DOF:000026 channel	True
+Q99246	Cacna1d	mouse	topology	hasTopologyContext	DOP:000006 cytoplasmic	True
+Q99246	Cacna1d	mouse	topology	hasTopologyContext	DOP:000007 extracellular	True
+Q99246	Cacna1d	mouse	topology	hasTopologyContext	DOP:000008 transmembrane	True
+Q99246	Cacna1d	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	True
+Q99246	Cacna1d	mouse	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	True
+Q99246	Cacna1d	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+Q99246	Cacna1d	mouse	binding_target	hasBindingTarget	DOT:000282 Ca2+/Na+/K+ or permeant ion	False
+Q99246	Cacna1d	mouse	GO_function	hasGOTermMF	GO:0005216	True
+Q99246	Cacna1d	mouse	GO_process	hasGOTermBP	GO:0006811	False
+Q99246	Cacna1d	mouse	GO_process	hasGOTermBP	GO:0055085	False
+Q99246	Cacna1d	mouse	GO_component	hasGOTermCC	GO:0016020	False
+Q99246	Cacna1d	mouse	position	hasPositionalCategory	DOP:000005 Internal	True
+Q99246	Cacna1d	mouse	domain_type	hasDomainType	INTERPRO:IPR031649	True
+Q99246	Cacna1d	mouse	function	hasFunctionTag	DOF:000014 regulator	True
+Q99246	Cacna1d	mouse	binding_target	hasBindingTarget	DOT:000112 protein partner	False
+Q99246	Cacna1d	mouse	domain_type	hasDomainType	INTERPRO:IPR014873	True
+Q99246	Cacna1d	mouse	domain_type	hasDomainType	INTERPRO:IPR031688	True
+Q99246	Cacna1d	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	True
+Q99JI6	Rap1b	mouse	domain_type	hasDomainType	INTERPRO:IPR005225	True
+Q99JI6	Rap1b	mouse	function	hasFunctionTag	DOF:000009 Binding	True
+Q99JI6	Rap1b	mouse	function	hasFunctionTag	DOF:000035 molecular-switch	True
+Q99JI6	Rap1b	mouse	topology	hasTopologyContext	DOP:000012 unknown	True
+Q99JI6	Rap1b	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	True
+Q99JI6	Rap1b	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+Q99JI6	Rap1b	mouse	binding_target	hasBindingTarget	DOT:000076 GDP	False
+Q99JI6	Rap1b	mouse	binding_target	hasBindingTarget	DOT:000029 GTP	False
+Q99JI6	Rap1b	mouse	binding_target	hasBindingTarget	DOT:000075 GAP partner protein	False
+Q99JI6	Rap1b	mouse	binding_target	hasBindingTarget	DOT:000077 GEF partner protein	False
+Q99JI6	Rap1b	mouse	binding_target	hasBindingTarget	DOT:000091 effector proteins	False
+Q99JI6	Rap1b	mouse	GO_function	hasGOTermMF	GO:0005525	True
+Q99MT6	Sucnr1	mouse	domain_type	hasDomainType	INTERPRO:IPR017452	True
+Q99MT6	Sucnr1	mouse	function	hasFunctionTag	DOF:000011 receptor	True
+Q99MT6	Sucnr1	mouse	function	hasFunctionTag	DOF:000012 membrane-anchor	True
+Q99MT6	Sucnr1	mouse	function	hasFunctionTag	DOF:000039 signal-transducer	True
+Q99MT6	Sucnr1	mouse	topology	hasTopologyContext	DOP:000006 cytoplasmic	True
+Q99MT6	Sucnr1	mouse	topology	hasTopologyContext	DOP:000007 extracellular	True
+Q99MT6	Sucnr1	mouse	topology	hasTopologyContext	DOP:000008 transmembrane	True
+Q99MT6	Sucnr1	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	True
+Q99MT6	Sucnr1	mouse	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	True
+Q99MT6	Sucnr1	mouse	binding_target	hasBindingTarget	DOT:000092 extracellular ligand	False
+Q99MT6	Sucnr1	mouse	binding_target	hasBindingTarget	DOT:000093 heterotrimeric G protein	False
+Q99MT6	Sucnr1	mouse	GO_component	hasGOTermCC	GO:0016020	False
+Q99N57	Raf1	mouse	domain_type	hasDomainType	INTERPRO:IPR003116	True
+Q99N57	Raf1	mouse	function	hasFunctionTag	DOF:000009 Binding	True
+Q99N57	Raf1	mouse	function	hasFunctionTag	DOF:000014 regulator	True
+Q99N57	Raf1	mouse	topology	hasTopologyContext	DOP:000012 unknown	True
+Q99N57	Raf1	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	True
+Q99N57	Raf1	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+Q99N57	Raf1	mouse	binding_target	hasBindingTarget	DOT:000287 Ras family small GTPase	False
+Q99N57	Raf1	mouse	GO_process	hasGOTermBP	GO:0007165	False
+Q99N57	Raf1	mouse	domain_type	hasDomainType	INTERPRO:IPR020454	True
+Q99N57	Raf1	mouse	function	hasFunctionTag	DOF:000033 membrane-targeting	True
+Q99N57	Raf1	mouse	position	hasPositionalCategory	DOP:000005 Internal	True
+Q99N57	Raf1	mouse	binding_target	hasBindingTarget	DOT:000040 Diacylglycerol	False
+Q99N57	Raf1	mouse	binding_target	hasBindingTarget	DOT:000104 phorbol ester	False
+Q99N57	Raf1	mouse	binding_target	hasBindingTarget	DOT:000285 membrane phospholipids	False
+Q99N57	Raf1	mouse	domain_type	hasDomainType	INTERPRO:IPR002219	True
+Q99N57	Raf1	mouse	domain_type	hasDomainType	INTERPRO:IPR000719	True
+Q99N57	Raf1	mouse	function	hasFunctionTag	DOF:000010 catalytic	True
+Q99N57	Raf1	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	True
+Q99N57	Raf1	mouse	binding_target	hasBindingTarget	DOT:000026 ATP	False
+Q99N57	Raf1	mouse	binding_target	hasBindingTarget	DOT:000079 Mg2+	False
+Q99N57	Raf1	mouse	binding_target	hasBindingTarget	DOT:000114 protein substrate	False
+Q99N57	Raf1	mouse	GO_function	hasGOTermMF	GO:0004672	True
+Q99N57	Raf1	mouse	GO_function	hasGOTermMF	GO:0005524	True
+Q99N57	Raf1	mouse	GO_process	hasGOTermBP	GO:0006468	False
+Q99N57	Raf1	mouse	domain_type	hasDomainType	INTERPRO:IPR001245	True
+Q9CQ19	Myl9	mouse	domain_type	hasDomainType	INTERPRO:IPR002048	True
+Q9CQ19	Myl9	mouse	function	hasFunctionTag	DOF:000009 Binding	True
+Q9CQ19	Myl9	mouse	function	hasFunctionTag	DOF:000014 regulator	True
+Q9CQ19	Myl9	mouse	topology	hasTopologyContext	DOP:000012 unknown	True
+Q9CQ19	Myl9	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	True
+Q9CQ19	Myl9	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+Q9CQ19	Myl9	mouse	binding_target	hasBindingTarget	DOT:000069 Ca2+	False
+Q9CQ19	Myl9	mouse	GO_function	hasGOTermMF	GO:0005509	True
+Q9CQ19	Myl9	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	True
+Q9EQX0	Ghrl	mouse	domain_type	hasDomainType	INTERPRO:IPR006738	True
+Q9EQX0	Ghrl	mouse	function	hasFunctionTag	DOF:000043 ligand	True
+Q9EQX0	Ghrl	mouse	function	hasFunctionTag	DOF:000038 receptor-binding	True
+Q9EQX0	Ghrl	mouse	topology	hasTopologyContext	DOP:000012 unknown	True
+Q9EQX0	Ghrl	mouse	position	hasPositionalCategory	DOP:000005 Internal	True
+Q9EQX0	Ghrl	mouse	proximity	hasProximityCategory	DOP:000009 NearSignalPeptideCleavage	True
+Q9EQX0	Ghrl	mouse	binding_target	hasBindingTarget	DOT:000284 cognate GPCR or receptor	False
+Q9EQX0	Ghrl	mouse	GO_function	hasGOTermMF	GO:0005179	True
+Q9EQX0	Ghrl	mouse	GO_component	hasGOTermCC	GO:0005576	False
+Q9EQX0	Ghrl	mouse	domain_type	hasDomainType	INTERPRO:IPR006737	True
+Q9EQX0	Ghrl	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	True
+Q9EQZ6	Rapgef4	mouse	domain_type	hasDomainType	INTERPRO:IPR000595	True
+Q9EQZ6	Rapgef4	mouse	function	hasFunctionTag	DOF:000014 regulator	True
+Q9EQZ6	Rapgef4	mouse	function	hasFunctionTag	DOF:000029 cyclic-nucleotide-sensor	True
+Q9EQZ6	Rapgef4	mouse	topology	hasTopologyContext	DOP:000012 unknown	True
+Q9EQZ6	Rapgef4	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	True
+Q9EQZ6	Rapgef4	mouse	binding_target	hasBindingTarget	DOT:000283 cAMP/cGMP	False
+Q9EQZ6	Rapgef4	mouse	domain_type	hasDomainType	INTERPRO:IPR000591	True
+Q9EQZ6	Rapgef4	mouse	function	hasFunctionTag	DOF:000016 scaffold	True
+Q9EQZ6	Rapgef4	mouse	position	hasPositionalCategory	DOP:000005 Internal	True
+Q9EQZ6	Rapgef4	mouse	binding_target	hasBindingTarget	DOT:000099 membrane-associated signaling proteins	False
+Q9EQZ6	Rapgef4	mouse	GO_process	hasGOTermBP	GO:0035556	False
+Q9EQZ6	Rapgef4	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+Q9EQZ6	Rapgef4	mouse	domain_type	hasDomainType	INTERPRO:IPR000651	True
+Q9EQZ6	Rapgef4	mouse	function	hasFunctionTag	DOF:000045 GEF	True
+Q9EQZ6	Rapgef4	mouse	binding_target	hasBindingTarget	DOT:000286 Ras/Rho family small GTPase	False
+Q9EQZ6	Rapgef4	mouse	domain_type	hasDomainType	INTERPRO:IPR001895	True
+Q9EQZ6	Rapgef4	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	True
+Q9EQZ6	Rapgef4	mouse	GO_function	hasGOTermMF	GO:0005085	True
+Q9EQZ6	Rapgef4	mouse	GO_process	hasGOTermBP	GO:0007264	False
+Q9ERE9	Mapk8	mouse	domain_type	hasDomainType	INTERPRO:IPR001452	True
+Q9ERE9	Mapk8	mouse	function	hasFunctionTag	DOF:000017 PPI	True
+Q9ERE9	Mapk8	mouse	function	hasFunctionTag	DOF:000024 adaptor	True
+Q9ERE9	Mapk8	mouse	topology	hasTopologyContext	DOP:000012 unknown	True
+Q9ERE9	Mapk8	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	True
+Q9ERE9	Mapk8	mouse	binding_target	hasBindingTarget	DOT:000110 proline-rich motif-containing proteins	False
+Q9ERE9	Mapk8	mouse	GO_function	hasGOTermMF	GO:0005515	True
+Q9ERE9	Mapk8	mouse	domain_type	hasDomainType	INTERPRO:IPR035637	True
+Q9ERE9	Mapk8	mouse	domain_type	hasDomainType	INTERPRO:IPR006020	True
+Q9ERE9	Mapk8	mouse	binding_target	hasBindingTarget	DOT:000081 NPXpY-containing proteins	False
+Q9ERZ4	Chrm2	mouse	domain_type	hasDomainType	INTERPRO:IPR017452	True
+Q9ERZ4	Chrm2	mouse	function	hasFunctionTag	DOF:000011 receptor	True
+Q9ERZ4	Chrm2	mouse	function	hasFunctionTag	DOF:000012 membrane-anchor	True
+Q9ERZ4	Chrm2	mouse	function	hasFunctionTag	DOF:000039 signal-transducer	True
+Q9ERZ4	Chrm2	mouse	topology	hasTopologyContext	DOP:000006 cytoplasmic	True
+Q9ERZ4	Chrm2	mouse	topology	hasTopologyContext	DOP:000007 extracellular	True
+Q9ERZ4	Chrm2	mouse	topology	hasTopologyContext	DOP:000008 transmembrane	True
+Q9ERZ4	Chrm2	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	True
+Q9ERZ4	Chrm2	mouse	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	True
+Q9ERZ4	Chrm2	mouse	binding_target	hasBindingTarget	DOT:000092 extracellular ligand	False
+Q9ERZ4	Chrm2	mouse	binding_target	hasBindingTarget	DOT:000093 heterotrimeric G protein	False
+Q9ERZ4	Chrm2	mouse	GO_component	hasGOTermCC	GO:0016020	False
+Q9ES81	Popdc3	mouse	domain_type	hasDomainType	INTERPRO:IPR055272	True
+Q9ES81	Popdc3	mouse	function	hasFunctionTag	DOF:000014 regulator	True
+Q9ES81	Popdc3	mouse	function	hasFunctionTag	DOF:000029 cyclic-nucleotide-sensor	True
+Q9ES81	Popdc3	mouse	topology	hasTopologyContext	DOP:000008 transmembrane	True
+Q9ES81	Popdc3	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	True
+Q9ES81	Popdc3	mouse	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	True
+Q9ES81	Popdc3	mouse	binding_target	hasBindingTarget	DOT:000283 cAMP/cGMP	False
+Q9ES82	Popdc2	mouse	domain_type	hasDomainType	INTERPRO:IPR055272	True
+Q9ES82	Popdc2	mouse	function	hasFunctionTag	DOF:000014 regulator	True
+Q9ES82	Popdc2	mouse	function	hasFunctionTag	DOF:000029 cyclic-nucleotide-sensor	True
+Q9ES82	Popdc2	mouse	topology	hasTopologyContext	DOP:000008 transmembrane	True
+Q9ES82	Popdc2	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	True
+Q9ES82	Popdc2	mouse	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	True
+Q9ES82	Popdc2	mouse	binding_target	hasBindingTarget	DOT:000283 cAMP/cGMP	False
+Q9ES83	Bves	mouse	domain_type	hasDomainType	INTERPRO:IPR055272	True
+Q9ES83	Bves	mouse	function	hasFunctionTag	DOF:000014 regulator	True
+Q9ES83	Bves	mouse	function	hasFunctionTag	DOF:000029 cyclic-nucleotide-sensor	True
+Q9ES83	Bves	mouse	topology	hasTopologyContext	DOP:000006 cytoplasmic	True
+Q9ES83	Bves	mouse	topology	hasTopologyContext	DOP:000007 extracellular	True
+Q9ES83	Bves	mouse	topology	hasTopologyContext	DOP:000008 transmembrane	True
+Q9ES83	Bves	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	True
+Q9ES83	Bves	mouse	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	True
+Q9ES83	Bves	mouse	binding_target	hasBindingTarget	DOT:000283 cAMP/cGMP	False
+Q9ESN9	Mapk8	mouse	domain_type	hasDomainType	INTERPRO:IPR034743	True
+Q9ESN9	Mapk8	mouse	function	hasFunctionTag	DOF:000014 regulator	True
+Q9ESN9	Mapk8	mouse	topology	hasTopologyContext	DOP:000012 unknown	True
+Q9ESN9	Mapk8	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	True
+Q9ESN9	Mapk8	mouse	binding_target	hasBindingTarget	DOT:000112 protein partner	False
+Q9ESN9	Mapk8	mouse	domain_type	hasDomainType	INTERPRO:IPR032486	True
+Q9ESN9	Mapk8	mouse	position	hasPositionalCategory	DOP:000005 Internal	True
+Q9ESN9	Mapk8	mouse	domain_type	hasDomainType	INTERPRO:IPR034744	True
+Q9JIS7	Cacna1f	mouse	domain_type	hasDomainType	INTERPRO:IPR005821	True
+Q9JIS7	Cacna1f	mouse	function	hasFunctionTag	DOF:000013 transporter	True
+Q9JIS7	Cacna1f	mouse	function	hasFunctionTag	DOF:000026 channel	True
+Q9JIS7	Cacna1f	mouse	topology	hasTopologyContext	DOP:000006 cytoplasmic	True
+Q9JIS7	Cacna1f	mouse	topology	hasTopologyContext	DOP:000007 extracellular	True
+Q9JIS7	Cacna1f	mouse	topology	hasTopologyContext	DOP:000008 transmembrane	True
+Q9JIS7	Cacna1f	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	True
+Q9JIS7	Cacna1f	mouse	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	True
+Q9JIS7	Cacna1f	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+Q9JIS7	Cacna1f	mouse	binding_target	hasBindingTarget	DOT:000282 Ca2+/Na+/K+ or permeant ion	False
+Q9JIS7	Cacna1f	mouse	GO_function	hasGOTermMF	GO:0005216	True
+Q9JIS7	Cacna1f	mouse	GO_process	hasGOTermBP	GO:0006811	False
+Q9JIS7	Cacna1f	mouse	GO_process	hasGOTermBP	GO:0055085	False
+Q9JIS7	Cacna1f	mouse	GO_component	hasGOTermCC	GO:0016020	False
+Q9JIS7	Cacna1f	mouse	position	hasPositionalCategory	DOP:000005 Internal	True
+Q9JIS7	Cacna1f	mouse	domain_type	hasDomainType	INTERPRO:IPR031649	True
+Q9JIS7	Cacna1f	mouse	function	hasFunctionTag	DOF:000014 regulator	True
+Q9JIS7	Cacna1f	mouse	binding_target	hasBindingTarget	DOT:000112 protein partner	False
+Q9JIS7	Cacna1f	mouse	domain_type	hasDomainType	INTERPRO:IPR014873	True
+Q9JIS7	Cacna1f	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	True
+Q9JIS7	Cacna1f	mouse	domain_type	hasDomainType	INTERPRO:IPR031688	True
+Q9JJZ8	Cnga3	mouse	domain_type	hasDomainType	INTERPRO:IPR005821	True
+Q9JJZ8	Cnga3	mouse	function	hasFunctionTag	DOF:000013 transporter	True
+Q9JJZ8	Cnga3	mouse	function	hasFunctionTag	DOF:000026 channel	True
+Q9JJZ8	Cnga3	mouse	topology	hasTopologyContext	DOP:000006 cytoplasmic	True
+Q9JJZ8	Cnga3	mouse	topology	hasTopologyContext	DOP:000007 extracellular	True
+Q9JJZ8	Cnga3	mouse	topology	hasTopologyContext	DOP:000008 transmembrane	True
+Q9JJZ8	Cnga3	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	True
+Q9JJZ8	Cnga3	mouse	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	True
+Q9JJZ8	Cnga3	mouse	binding_target	hasBindingTarget	DOT:000282 Ca2+/Na+/K+ or permeant ion	False
+Q9JJZ8	Cnga3	mouse	GO_function	hasGOTermMF	GO:0005216	True
+Q9JJZ8	Cnga3	mouse	GO_process	hasGOTermBP	GO:0006811	False
+Q9JJZ8	Cnga3	mouse	GO_process	hasGOTermBP	GO:0055085	False
+Q9JJZ8	Cnga3	mouse	GO_component	hasGOTermCC	GO:0016020	False
+Q9JJZ8	Cnga3	mouse	domain_type	hasDomainType	INTERPRO:IPR000595	True
+Q9JJZ8	Cnga3	mouse	function	hasFunctionTag	DOF:000014 regulator	True
+Q9JJZ8	Cnga3	mouse	function	hasFunctionTag	DOF:000029 cyclic-nucleotide-sensor	True
+Q9JJZ8	Cnga3	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	True
+Q9JJZ8	Cnga3	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+Q9JJZ8	Cnga3	mouse	binding_target	hasBindingTarget	DOT:000283 cAMP/cGMP	False
+Q9JJZ8	Cnga3	mouse	domain_type	hasDomainType	INTERPRO:IPR032406	True
+Q9JJZ8	Cnga3	mouse	binding_target	hasBindingTarget	DOT:000112 protein partner	False
+Q9JJZ9	Cngb3	mouse	domain_type	hasDomainType	INTERPRO:IPR005821	True
+Q9JJZ9	Cngb3	mouse	function	hasFunctionTag	DOF:000013 transporter	True
+Q9JJZ9	Cngb3	mouse	function	hasFunctionTag	DOF:000026 channel	True
+Q9JJZ9	Cngb3	mouse	topology	hasTopologyContext	DOP:000006 cytoplasmic	True
+Q9JJZ9	Cngb3	mouse	topology	hasTopologyContext	DOP:000007 extracellular	True
+Q9JJZ9	Cngb3	mouse	topology	hasTopologyContext	DOP:000008 transmembrane	True
+Q9JJZ9	Cngb3	mouse	position	hasPositionalCategory	DOP:000005 Internal	True
+Q9JJZ9	Cngb3	mouse	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	True
+Q9JJZ9	Cngb3	mouse	binding_target	hasBindingTarget	DOT:000282 Ca2+/Na+/K+ or permeant ion	False
+Q9JJZ9	Cngb3	mouse	GO_function	hasGOTermMF	GO:0005216	True
+Q9JJZ9	Cngb3	mouse	GO_process	hasGOTermBP	GO:0006811	False
+Q9JJZ9	Cngb3	mouse	GO_process	hasGOTermBP	GO:0055085	False
+Q9JJZ9	Cngb3	mouse	GO_component	hasGOTermCC	GO:0016020	False
+Q9JJZ9	Cngb3	mouse	domain_type	hasDomainType	INTERPRO:IPR000595	True
+Q9JJZ9	Cngb3	mouse	function	hasFunctionTag	DOF:000014 regulator	True
+Q9JJZ9	Cngb3	mouse	function	hasFunctionTag	DOF:000029 cyclic-nucleotide-sensor	True
+Q9JJZ9	Cngb3	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	True
+Q9JJZ9	Cngb3	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+Q9JJZ9	Cngb3	mouse	binding_target	hasBindingTarget	DOT:000283 cAMP/cGMP	False
+Q9R0C8	Vav3	mouse	domain_type	hasDomainType	INTERPRO:IPR001715	True
+Q9R0C8	Vav3	mouse	function	hasFunctionTag	DOF:000009 Binding	True
+Q9R0C8	Vav3	mouse	function	hasFunctionTag	DOF:000016 scaffold	True
+Q9R0C8	Vav3	mouse	topology	hasTopologyContext	DOP:000012 unknown	True
+Q9R0C8	Vav3	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	True
+Q9R0C8	Vav3	mouse	binding_target	hasBindingTarget	DOT:000086 actin	False
+Q9R0C8	Vav3	mouse	GO_function	hasGOTermMF	GO:0005515	True
+Q9R0C8	Vav3	mouse	domain_type	hasDomainType	INTERPRO:IPR022613	True
+Q9R0C8	Vav3	mouse	function	hasFunctionTag	DOF:000014 regulator	True
+Q9R0C8	Vav3	mouse	binding_target	hasBindingTarget	DOT:000112 protein partner	False
+Q9R0C8	Vav3	mouse	domain_type	hasDomainType	INTERPRO:IPR000219	True
+Q9R0C8	Vav3	mouse	function	hasFunctionTag	DOF:000045 GEF	True
+Q9R0C8	Vav3	mouse	position	hasPositionalCategory	DOP:000005 Internal	True
+Q9R0C8	Vav3	mouse	binding_target	hasBindingTarget	DOT:000286 Ras/Rho family small GTPase	False
+Q9R0C8	Vav3	mouse	GO_function	hasGOTermMF	GO:0005085	True
+Q9R0C8	Vav3	mouse	domain_type	hasDomainType	INTERPRO:IPR037832	True
+Q9R0C8	Vav3	mouse	function	hasFunctionTag	DOF:000033 membrane-targeting	True
+Q9R0C8	Vav3	mouse	function	hasFunctionTag	DOF:000024 adaptor	True
+Q9R0C8	Vav3	mouse	binding_target	hasBindingTarget	DOT:000038 Phosphoinositides	False
+Q9R0C8	Vav3	mouse	domain_type	hasDomainType	INTERPRO:IPR001849	True
+Q9R0C8	Vav3	mouse	domain_type	hasDomainType	INTERPRO:IPR055251	True
+Q9R0C8	Vav3	mouse	domain_type	hasDomainType	INTERPRO:IPR002219	True
+Q9R0C8	Vav3	mouse	binding_target	hasBindingTarget	DOT:000040 Diacylglycerol	False
+Q9R0C8	Vav3	mouse	binding_target	hasBindingTarget	DOT:000104 phorbol ester	False
+Q9R0C8	Vav3	mouse	binding_target	hasBindingTarget	DOT:000285 membrane phospholipids	False
+Q9R0C8	Vav3	mouse	domain_type	hasDomainType	INTERPRO:IPR001452	True
+Q9R0C8	Vav3	mouse	function	hasFunctionTag	DOF:000017 PPI	True
+Q9R0C8	Vav3	mouse	binding_target	hasBindingTarget	DOT:000110 proline-rich motif-containing proteins	False
+Q9R0C8	Vav3	mouse	domain_type	hasDomainType	INTERPRO:IPR047015	True
+Q9R0C8	Vav3	mouse	domain_type	hasDomainType	INTERPRO:IPR035881	True
+Q9R0C8	Vav3	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	True
+Q9R0C8	Vav3	mouse	binding_target	hasBindingTarget	DOT:000109 phosphotyrosine-containing proteins	False
+Q9R0C8	Vav3	mouse	domain_type	hasDomainType	INTERPRO:IPR000980	True
+Q9R0C8	Vav3	mouse	domain_type	hasDomainType	INTERPRO:IPR035734	True
+Q9R0K7	Atp2b2	mouse	domain_type	hasDomainType	INTERPRO:IPR004014	True
+Q9R0K7	Atp2b2	mouse	function	hasFunctionTag	DOF:000018 sensor	True
+Q9R0K7	Atp2b2	mouse	function	hasFunctionTag	DOF:000016 scaffold	True
+Q9R0K7	Atp2b2	mouse	topology	hasTopologyContext	DOP:000006 cytoplasmic	True
+Q9R0K7	Atp2b2	mouse	topology	hasTopologyContext	DOP:000007 extracellular	True
+Q9R0K7	Atp2b2	mouse	topology	hasTopologyContext	DOP:000008 transmembrane	True
+Q9R0K7	Atp2b2	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	True
+Q9R0K7	Atp2b2	mouse	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	True
+Q9R0K7	Atp2b2	mouse	binding_target	hasBindingTarget	DOT:000281 protein partner or small-molecule signal	False
+Q9R0K7	Atp2b2	mouse	domain_type	hasDomainType	INTERPRO:IPR059000	True
+Q9R0K7	Atp2b2	mouse	domain_type	hasDomainType	INTERPRO:IPR044492	True
+Q9R0K7	Atp2b2	mouse	position	hasPositionalCategory	DOP:000005 Internal	True
+Q9R0K7	Atp2b2	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+Q9R0K7	Atp2b2	mouse	domain_type	hasDomainType	INTERPRO:IPR006068	True
+Q9R0K7	Atp2b2	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	True
+Q9R0K7	Atp2b2	mouse	domain_type	hasDomainType	INTERPRO:IPR022141	True
+Q9R0K7	Atp2b2	mouse	GO_function	hasGOTermMF	GO:0005388	True
+Q9WTU6	Mapk9	mouse	domain_type	hasDomainType	INTERPRO:IPR000719	True
+Q9WTU6	Mapk9	mouse	function	hasFunctionTag	DOF:000009 Binding	True
+Q9WTU6	Mapk9	mouse	function	hasFunctionTag	DOF:000010 catalytic	True
+Q9WTU6	Mapk9	mouse	topology	hasTopologyContext	DOP:000012 unknown	True
+Q9WTU6	Mapk9	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	True
+Q9WTU6	Mapk9	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+Q9WTU6	Mapk9	mouse	binding_target	hasBindingTarget	DOT:000026 ATP	False
+Q9WTU6	Mapk9	mouse	binding_target	hasBindingTarget	DOT:000079 Mg2+	False
+Q9WTU6	Mapk9	mouse	binding_target	hasBindingTarget	DOT:000114 protein substrate	False
+Q9WTU6	Mapk9	mouse	GO_function	hasGOTermMF	GO:0004672	True
+Q9WTU6	Mapk9	mouse	GO_function	hasGOTermMF	GO:0005524	True
+Q9WTU6	Mapk9	mouse	GO_process	hasGOTermBP	GO:0006468	False
+Q9WUA6	Akt3	mouse	domain_type	hasDomainType	INTERPRO:IPR039026	True
+Q9WUA6	Akt3	mouse	function	hasFunctionTag	DOF:000009 Binding	True
+Q9WUA6	Akt3	mouse	function	hasFunctionTag	DOF:000010 catalytic	True
+Q9WUA6	Akt3	mouse	topology	hasTopologyContext	DOP:000012 unknown	True
+Q9WUA6	Akt3	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	True
+Q9WUA6	Akt3	mouse	binding_target	hasBindingTarget	DOT:000026 ATP	False
+Q9WUA6	Akt3	mouse	binding_target	hasBindingTarget	DOT:000079 Mg2+	False
+Q9WUA6	Akt3	mouse	binding_target	hasBindingTarget	DOT:000114 protein substrate	False
+Q9WUA6	Akt3	mouse	domain_type	hasDomainType	INTERPRO:IPR001849	True
+Q9WUA6	Akt3	mouse	function	hasFunctionTag	DOF:000033 membrane-targeting	True
+Q9WUA6	Akt3	mouse	function	hasFunctionTag	DOF:000024 adaptor	True
+Q9WUA6	Akt3	mouse	binding_target	hasBindingTarget	DOT:000038 Phosphoinositides	False
+Q9WUA6	Akt3	mouse	domain_type	hasDomainType	INTERPRO:IPR034675	True
+Q9WUA6	Akt3	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	True
+Q9WUA6	Akt3	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+Q9WUA6	Akt3	mouse	GO_function	hasGOTermMF	GO:0004674	True
+Q9WUA6	Akt3	mouse	GO_process	hasGOTermBP	GO:0006468	False
+Q9WUA6	Akt3	mouse	domain_type	hasDomainType	INTERPRO:IPR000719	True
+Q9WUA6	Akt3	mouse	GO_function	hasGOTermMF	GO:0004672	True
+Q9WUA6	Akt3	mouse	GO_function	hasGOTermMF	GO:0005524	True
+Q9WUA6	Akt3	mouse	domain_type	hasDomainType	INTERPRO:IPR000961	True
+Q9WUA6	Akt3	mouse	domain_type	hasDomainType	INTERPRO:IPR017892	True
+Q9WUI1	Mapk1	mouse	domain_type	hasDomainType	INTERPRO:IPR000719	True
+Q9WUI1	Mapk1	mouse	function	hasFunctionTag	DOF:000009 Binding	True
+Q9WUI1	Mapk1	mouse	function	hasFunctionTag	DOF:000010 catalytic	True
+Q9WUI1	Mapk1	mouse	topology	hasTopologyContext	DOP:000012 unknown	True
+Q9WUI1	Mapk1	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	True
+Q9WUI1	Mapk1	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+Q9WUI1	Mapk1	mouse	binding_target	hasBindingTarget	DOT:000026 ATP	False
+Q9WUI1	Mapk1	mouse	binding_target	hasBindingTarget	DOT:000079 Mg2+	False
+Q9WUI1	Mapk1	mouse	binding_target	hasBindingTarget	DOT:000114 protein substrate	False
+Q9WUI1	Mapk1	mouse	GO_function	hasGOTermMF	GO:0004672	True
+Q9WUI1	Mapk1	mouse	GO_function	hasGOTermMF	GO:0005524	True
+Q9WUI1	Mapk1	mouse	GO_process	hasGOTermBP	GO:0006468	False
+Q9WVI9	Mapk8	mouse	domain_type	hasDomainType	INTERPRO:IPR001452	True
+Q9WVI9	Mapk8	mouse	function	hasFunctionTag	DOF:000017 PPI	True
+Q9WVI9	Mapk8	mouse	function	hasFunctionTag	DOF:000024 adaptor	True
+Q9WVI9	Mapk8	mouse	topology	hasTopologyContext	DOP:000012 unknown	True
+Q9WVI9	Mapk8	mouse	position	hasPositionalCategory	DOP:000005 Internal	True
+Q9WVI9	Mapk8	mouse	binding_target	hasBindingTarget	DOT:000110 proline-rich motif-containing proteins	False
+Q9WVI9	Mapk8	mouse	GO_function	hasGOTermMF	GO:0005515	True
+Q9WVI9	Mapk8	mouse	domain_type	hasDomainType	INTERPRO:IPR035638	True
+Q9WVI9	Mapk8	mouse	domain_type	hasDomainType	INTERPRO:IPR006020	True
+Q9WVI9	Mapk8	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	True
+Q9WVI9	Mapk8	mouse	binding_target	hasBindingTarget	DOT:000081 NPXpY-containing proteins	False
+Q9Z0X4	Pde3a	mouse	domain_type	hasDomainType	INTERPRO:IPR002073	True
+Q9Z0X4	Pde3a	mouse	function	hasFunctionTag	DOF:000010 catalytic	True
+Q9Z0X4	Pde3a	mouse	topology	hasTopologyContext	DOP:000012 unknown	True
+Q9Z0X4	Pde3a	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	True
+Q9Z0X4	Pde3a	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+Q9Z0X4	Pde3a	mouse	binding_target	hasBindingTarget	DOT:000283 cAMP/cGMP	False
+Q9Z0X4	Pde3a	mouse	binding_target	hasBindingTarget	DOT:000084 Zn2+	False
+Q9Z0X4	Pde3a	mouse	binding_target	hasBindingTarget	DOT:000079 Mg2+	False
+Q9Z0X4	Pde3a	mouse	GO_function	hasGOTermMF	GO:0004114	True
+Q9Z0X4	Pde3a	mouse	GO_process	hasGOTermBP	GO:0007165	False
+Q9Z0X4	Pde3a	mouse	domain_type	hasDomainType	INTERPRO:IPR003607	True
+Q9Z1B7	Mapk1	mouse	domain_type	hasDomainType	INTERPRO:IPR000719	True
+Q9Z1B7	Mapk1	mouse	function	hasFunctionTag	DOF:000009 Binding	True
+Q9Z1B7	Mapk1	mouse	function	hasFunctionTag	DOF:000010 catalytic	True
+Q9Z1B7	Mapk1	mouse	topology	hasTopologyContext	DOP:000012 unknown	True
+Q9Z1B7	Mapk1	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	True
+Q9Z1B7	Mapk1	mouse	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+Q9Z1B7	Mapk1	mouse	binding_target	hasBindingTarget	DOT:000026 ATP	False
+Q9Z1B7	Mapk1	mouse	binding_target	hasBindingTarget	DOT:000079 Mg2+	False
+Q9Z1B7	Mapk1	mouse	binding_target	hasBindingTarget	DOT:000114 protein substrate	False
+Q9Z1B7	Mapk1	mouse	GO_function	hasGOTermMF	GO:0004672	True
+Q9Z1B7	Mapk1	mouse	GO_function	hasGOTermMF	GO:0005524	True
+Q9Z1B7	Mapk1	mouse	GO_process	hasGOTermBP	GO:0006468	False
+Q9Z280	Pld1	mouse	domain_type	hasDomainType	INTERPRO:IPR001683	True
+Q9Z280	Pld1	mouse	function	hasFunctionTag	DOF:000009 Binding	True
+Q9Z280	Pld1	mouse	function	hasFunctionTag	DOF:000033 membrane-targeting	True
+Q9Z280	Pld1	mouse	topology	hasTopologyContext	DOP:000012 unknown	True
+Q9Z280	Pld1	mouse	position	hasPositionalCategory	DOP:000004 Nterminal	True
+Q9Z280	Pld1	mouse	binding_target	hasBindingTarget	DOT:000038 Phosphoinositides	False
+Q9Z280	Pld1	mouse	GO_function	hasGOTermMF	GO:0035091	True
+Q9Z280	Pld1	mouse	domain_type	hasDomainType	INTERPRO:IPR001849	True
+Q9Z280	Pld1	mouse	function	hasFunctionTag	DOF:000024 adaptor	True
+Q9Z280	Pld1	mouse	position	hasPositionalCategory	DOP:000005 Internal	True
+Q9Z280	Pld1	mouse	domain_type	hasDomainType	INTERPRO:IPR001736	True
+Q9Z280	Pld1	mouse	function	hasFunctionTag	DOF:000018 sensor	True
+Q9Z280	Pld1	mouse	function	hasFunctionTag	DOF:000016 scaffold	True
+Q9Z280	Pld1	mouse	binding_target	hasBindingTarget	DOT:000281 protein partner or small-molecule signal	False
+Q9Z280	Pld1	mouse	GO_function	hasGOTermMF	GO:0003824	True
+Q9Z280	Pld1	mouse	domain_type	hasDomainType	INTERPRO:IPR025202	True
+Q9Z280	Pld1	mouse	position	hasPositionalCategory	DOP:000003 Cterminal	True

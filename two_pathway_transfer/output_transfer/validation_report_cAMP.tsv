@@ -1,0 +1,19 @@
+pathway	check_id	description	table_rows	table_cols	status	n_issues	detail
+cAMP	C1	Required columns present	473	74	FAIL	1	copy_number_property
+cAMP	C2	Blank occurrence_id	473	74	PASS	0	
+cAMP	C3a	Duplicate occurrence_id (strict key)	473	74	PASS	0	Genuine key violation
+cAMP	C3b	Full-row duplicate excl. batch_gene	473	74	PASS	0	Expected for batch_gene split rows
+cAMP	C4	protein_accession UniProtKB format	473	74	PASS	0	Expected 6-char UniProtKB e.g. P06850
+cAMP	C5	domain_type_id format	473	74	PASS	0	e.g. PFAM:PF00001 / INTERPRO:IPR000001
+cAMP	C6	start/end valid positive integers (start < end)	473	74	PASS	0	
+cAMP	C7	GO term format (GO:nnnnnnn)	473	74	PASS	0	
+cAMP	C8	binding_target_chebi format (CHEBI:nnnnn)	473	74	FAIL	204	Known issue: CHEBI:CHEBI:nnnnn double-prefix
+cAMP	C9	Reactome ID format	473	74	WARN	0	Column absent
+cAMP	C10	KEGG ID format	473	74	WARN	0	Column absent
+cAMP	C11	positional_category CV-backed (positional_or_topology_term)	473	74	PASS	0	0 rows with unmatched tokens
+cAMP	C12	copy_number_property CV-backed (CopyNumberCategory)	473	74	WARN	0	Column 'copy_number_property' absent
+cAMP	C13	topology_context CV-backed (positional_or_topology_term)	473	74	PASS	0	0 rows with unmatched tokens
+cAMP	C14	proximity_categories CV-backed (positional_or_topology_term)	473	74	PASS	0	0 rows with unmatched tokens
+cAMP	C15	function_tags CV-backed (functional_term)	473	74	PASS	0	0 rows with unmatched tokens
+cAMP	C16	binding_partner CV-backed (binding_target_term)	473	74	PASS	0	0 rows with unmatched tokens
+cAMP	C17	Relation-to-namespace rules (DOP/DOF/DOT in correct column)	473	74	PASS	0	e.g. DOF functional term placed in positional_category

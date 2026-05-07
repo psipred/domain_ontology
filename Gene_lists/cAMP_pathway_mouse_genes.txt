@@ -1,0 +1,171 @@
+# cAMP signalling pathway — mouse gene list
+# Source   : KEGG pathway mmu04024 + curated literature
+# Organism : Mus musculus (NCBI taxonomy ID: 10090)
+# Format   : one MGI gene symbol per line; lines starting with # are comments
+# Usage    : python 01_data_and_merge.py --gene-file cAMP_pathway_mouse_genes.txt \
+#                --pathway-name c_AMP_pathway_mouse --organism-id 10090 --fetch-interpro
+# Created  : [date]
+# Version  : 1.0
+
+# ── Ligands / hormones / peptides ─────────────────────────────────────────────
+Crh
+Adcyap1
+Vip
+Edn1
+Edn2
+Edn3
+Oxt
+Bdnf
+Ghrl
+
+# ── GPCRs / receptors ─────────────────────────────────────────────────────────
+Adora1
+Adora2a
+Adrb1
+Adrb2
+Drd1
+Drd2
+Drd5
+Crhr1
+Crhr2
+Adcyap1r1
+Glp1r
+Gipr
+Ptger2
+Ptger3
+Oxtr
+Npy1r
+Sstr1
+Sstr2
+Sstr5
+Vipr2
+Gpr119
+Ffar2
+Hcar1
+Hcar3
+Sucnr1
+Ednra
+Chrm1
+Chrm2
+Gabbr2
+
+# ── G proteins ────────────────────────────────────────────────────────────────
+Gnas
+Gnai1
+Gnai2
+Gnai3
+
+# ── Adenylyl cyclases (Adcy1-10) ─────────────────────────────────────────────
+Adcy1
+Adcy2
+Adcy3
+Adcy4
+Adcy5
+Adcy6
+Adcy7
+Adcy8
+Adcy9
+Adcy10
+
+# ── PKA catalytic subunits ────────────────────────────────────────────────────
+Prkaca
+Prkacb
+Prkacg
+
+# ── Epac (exchange proteins directly activated by cAMP) ───────────────────────
+Rapgef3
+Rapgef4
+
+# ── Cyclic nucleotide-gated channels + HCN channels ──────────────────────────
+Cnga1
+Cnga2
+Cnga3
+Cnga4
+Cngb1
+Cngb3
+Hcn2
+Hcn4
+
+# ── Transport / exporters ─────────────────────────────────────────────────────
+Cftr
+Abcc4
+
+# ── Popeye domain proteins (cAMP-binding) ─────────────────────────────────────
+Popdc2
+Popdc3
+
+# ── cAMP degradation — phosphodiesterases ────────────────────────────────────
+Pde3a
+Pde3b
+Pde4a
+Pde4b
+Pde4c
+Pde4d
+Pde10a
+
+# ── Transcriptional outputs / coactivators ───────────────────────────────────
+Creb1
+Creb3
+Creb3l1
+Creb3l4
+Creb5
+Crebbp
+Ep300
+
+# ── PI3K / MAPK / Rap / Rho crosstalk nodes ──────────────────────────────────
+Akt3
+Pik3ca
+Pik3cb
+Pik3cd
+Pik3r1
+Pik3r2
+Raf1
+Mapk1
+Mapk3
+Mapk8
+Mapk9
+Mapk10
+Map2k1
+Map2k2
+Rap1a
+Rap1b
+Rac1
+Rac2
+Rac3
+Rock1
+Rock2
+Pak1
+Plce1
+Pld1
+Pld2
+Vav1
+Vav2
+Vav3
+
+# ── Ca2+ handling / calmodulin branch nodes ──────────────────────────────────
+Calm1
+Calm2
+Calm3
+Camk4
+Cacna1c
+Cacna1d
+Cacna1f
+Cacna1s
+Ryr2
+Atp2a3
+Atp2b1
+Atp2b2
+Atp2b3
+Atp2b4
+
+# ── Contractility / phosphorylation-related nodes ────────────────────────────
+Myl9
+Pln
+Fxyd1
+
+# ── Phosphatases + apoptosis node ─────────────────────────────────────────────
+Ppp1ca
+Ppp1cb
+Ppp1cc
+Bad
+Bves

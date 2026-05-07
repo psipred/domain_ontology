@@ -1,0 +1,11 @@
+annotation_category	transferable	biological_justification
+domain_type	yes	conserved domain structure across orthologs
+function	yes	core function tags usually conserved
+topology	yes	membrane topology is conserved in homologs
+position	yes	relative domain position is conserved
+copy_number	yes	copy number usually conserved in 1:1 orthologs
+proximity	yes	proximity context conserved
+binding_target	no	binding partners can diverge between species
+GO_function	yes	molecular function usually conserved
+GO_process	no	biological process may differ by species context
+GO_component	no	cellular localisation may differ

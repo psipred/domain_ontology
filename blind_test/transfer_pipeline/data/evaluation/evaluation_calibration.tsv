@@ -1,0 +1,5 @@
+method	confidence	n_preds	n_tp	precision
+A_direct_transfer	high	466	294	0.6309
+B_domain_architecture	high	90	43	0.4778
+B_domain_architecture	medium	216	216	1.0
+C_nearest_sequence	sequence_based	349	344	0.9857

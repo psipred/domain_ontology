@@ -1,0 +1,158 @@
+# cAMP signalling pathway — human gene list
+# Source   : KEGG pathway hsa04024 + curated literature
+# Organism : Homo sapiens (NCBI taxonomy ID: 9606)
+# Format   : one HGNC gene symbol per line; lines starting with # are comments
+# Usage    : python 01_data_and_merge.py --gene-file cAMP_human_genes.txt \
+#                --pathway-name cAMP_human --organism-id 9606 --fetch-interpro
+# Created  : [date]
+# Version  : 1.0
+
+# ── Ligands / hormones / peptides ─────────────────────────────────────────────
+CRH
+ADCYAP1
+VIP
+EDN1
+EDN2
+EDN3
+OXT
+BDNF
+GHRL
+
+# ── GPCRs / receptors ─────────────────────────────────────────────────────────
+ADORA1
+ADORA2A
+ADRB1
+ADRB2
+DRD1
+DRD2
+DRD5
+CRHR1
+CRHR2
+ADCYAP1R1
+GLP1R
+GIPR
+PTGER2
+PTGER3
+OXTR
+NPY1R
+SSTR1
+SSTR2
+SSTR5
+VIPR2
+GPR119
+FFAR2
+HCAR1
+HCAR3
+SUCNR1
+EDNRA
+CHRM1
+CHRM2
+GABBR2
+
+# ── G proteins ────────────────────────────────────────────────────────────────
+GNAS
+GNAI
+
+# ── Adenylyl cyclases (ADCY1-10) ──────────────────────────────────────────────
+ADCY
+
+# ── PKA catalytic subunits ────────────────────────────────────────────────────
+PRKAC
+
+# ── Epac (exchange proteins directly activated by cAMP) ───────────────────────
+RAPGEF3
+RAPGEF4
+
+# ── Cyclic nucleotide-gated channels + HCN channels ───────────────────────────
+CNGA1
+CNGA2
+CNGA3
+CNGA4
+CNGB1
+CNGB3
+HCN2
+HCN4
+
+# ── Transport / exporters ─────────────────────────────────────────────────────
+CFTR
+ABCC4
+
+# ── Popeye domain proteins (cAMP-binding) ─────────────────────────────────────
+POPDC2
+POPDC3
+
+# ── cAMP degradation — phosphodiesterases ────────────────────────────────────
+PDE3A
+PDE3B
+PDE4A
+PDE4B
+PDE4C
+PDE4D
+PDE10A
+
+# ── Transcriptional outputs / coactivators ───────────────────────────────────
+CREB1
+CREB3
+CREB3L1
+CREB3L4
+CREB5
+CREBBP
+EP300
+
+# ── PI3K / MAPK / Rap / Rho crosstalk nodes ──────────────────────────────────
+AKT3
+PIK3CA
+PIK3CB
+PIK3CD
+PIK3R1
+PIK3R2
+RAF1
+MAPK1
+MAPK3
+MAPK8
+MAPK9
+MAPK10
+MAP2K1
+MAP2K2
+RAP1A
+RAP1B
+RAC1
+RAC2
+RAC3
+ROCK1
+ROCK2
+PAK1
+PLCE1
+PLD1
+PLD2
+VAV1
+VAV2
+VAV3
+
+# ── Ca2+ handling / calmodulin branch nodes ──────────────────────────────────
+CALM1
+CALM2
+CALM3
+CAMK4
+CACNA1C
+CACNA1D
+CACNA1F
+CACNA1S
+RYR2
+ATP2A3
+ATP2B1
+ATP2B2
+ATP2B3
+ATP2B4
+
+# ── Contractility / phosphorylation-related nodes ────────────────────────────
+MYL9
+PLN
+FXYD1
+
+# ── Phosphatases + apoptosis node ─────────────────────────────────────────────
+PPP1CA
+PPP1CB
+PPP1CC
+BAD
+BVES

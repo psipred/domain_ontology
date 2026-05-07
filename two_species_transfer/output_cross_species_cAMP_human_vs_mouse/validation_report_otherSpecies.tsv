@@ -1,0 +1,20 @@
+species	check_id	description	table_rows	table_cols	status	n_issues	detail
+cAMP_mouse	V1	Required columns present	435	71	PASS	0	
+cAMP_mouse	V2	Blank occurrence_id	435	71	PASS	0	
+cAMP_mouse	V3a	Duplicate occurrence_id (strict key)	435	71	PASS	0	Genuine key violation — each occurrence_id must be unique
+cAMP_mouse	V3b	Full-row duplicate excl. batch_gene	435	71	PASS	0	Expected for batch_gene split rows; investigate if count is high
+cAMP_mouse	V4	protein_accession UniProtKB format	435	71	PASS	0	Expected 6-char UniProtKB accession e.g. P06850
+cAMP_mouse	V5	domain_type_id format	435	71	PASS	0	e.g. PFAM:PF00001 / INTERPRO:IPR000001 / CDD:cd15445
+cAMP_mouse	V6	start/end valid positive integers (start < end)	435	71	PASS	0	
+cAMP_mouse	V7	GO term format (GO:nnnnnnn)	435	71	PASS	0	
+cAMP_mouse	V8	binding_target_chebi format (CHEBI:nnnnn)	435	71	PASS	0	Common issue: CHEBI:CHEBI:nnnnn double-prefix — strip one CHEBI:
+cAMP_mouse	V9	Reactome ID format	435	71	WARN	0	Column absent
+cAMP_mouse	V10	KEGG ID format	435	71	WARN	0	Column absent
+cAMP_mouse	V11	positional_category CV-backed (positional_or_topology_term)	435	71	PASS	0	0 rows contain unmatched tokens
+cAMP_mouse	V12	copy_number CV-backed (CopyNumberCategory)	435	71	PASS	0	0 rows contain unmatched tokens
+cAMP_mouse	V13	topology_context CV-backed (positional_or_topology_term)	435	71	FAIL	1	1 rows contain unmatched tokens
+cAMP_mouse	V14	proximity_categories CV-backed (positional_or_topology_term)	435	71	PASS	0	0 rows contain unmatched tokens
+cAMP_mouse	V15	function_tags CV-backed (functional_term)	435	71	PASS	0	0 rows contain unmatched tokens
+cAMP_mouse	V16	binding_parnter CV-backed (binding_target_term)	435	71	WARN	0	Column 'binding_parnter' absent
+cAMP_mouse	V17	Relation-to-namespace rules (DOP/DOF/DOT in correct column)	435	71	PASS	0	e.g. a DOF functional term placed in positional_category column
+cAMP_mouse	V18	DOP/DOF/DOT ID format (PREFIX:NNNNNN) in CV columns	435	71	PASS	0	IDs must match DOP:000001 / DOF:000001 / DOT:000001 pattern

@@ -1,0 +1,2407 @@
+protein_accession	gene_symbol	species	annotation_category	predicate	term_value	is_transferable
+O00329	PIK3CD	human	domain_type	hasDomainType	INTERPRO:IPR003113	True
+O00329	PIK3CD	human	function	hasFunctionTag	DOF:000016 scaffold	True
+O00329	PIK3CD	human	function	hasFunctionTag	DOF:000014 regulator	True
+O00329	PIK3CD	human	topology	hasTopologyContext	DOP:000012 unknown	True
+O00329	PIK3CD	human	position	hasPositionalCategory	DOP:000004 Nterminal	True
+O00329	PIK3CD	human	binding_target	hasBindingTarget	DOT:000172 p85-alpha/p85-beta regulatory subunit	False
+O00329	PIK3CD	human	domain_type	hasDomainType	INTERPRO:IPR000341	True
+O00329	PIK3CD	human	function	hasFunctionTag	DOF:000009 Binding	True
+O00329	PIK3CD	human	binding_target	hasBindingTarget	DOT:000123 Ras-related small GTPase	False
+O00329	PIK3CD	human	domain_type	hasDomainType	INTERPRO:IPR002420	True
+O00329	PIK3CD	human	function	hasFunctionTag	DOF:000033 membrane-targeting	True
+O00329	PIK3CD	human	position	hasPositionalCategory	DOP:000005 Internal	True
+O00329	PIK3CD	human	binding_target	hasBindingTarget	DOT:000098 membrane phospholipid	False
+O00329	PIK3CD	human	domain_type	hasDomainType	INTERPRO:IPR001263	True
+O00329	PIK3CD	human	binding_target	hasBindingTarget	DOT:000221 mTOR complex	False
+O00329	PIK3CD	human	domain_type	hasDomainType	INTERPRO:IPR037703	True
+O00329	PIK3CD	human	function	hasFunctionTag	DOF:000010 catalytic	True
+O00329	PIK3CD	human	position	hasPositionalCategory	DOP:000003 Cterminal	True
+O00329	PIK3CD	human	binding_target	hasBindingTarget	DOT:000026 ATP	False
+O00329	PIK3CD	human	binding_target	hasBindingTarget	DOT:000079 Mg2+	False
+O00329	PIK3CD	human	binding_target	hasBindingTarget	DOT:000114 protein substrate	False
+O00329	PIK3CD	human	GO_function	hasGOTermMF	GO:0016303	True
+O00329	PIK3CD	human	GO_process	hasGOTermBP	GO:0043491	False
+O00329	PIK3CD	human	domain_type	hasDomainType	INTERPRO:IPR000403	True
+O00459	PIK3R2	human	domain_type	hasDomainType	INTERPRO:IPR001452	True
+O00459	PIK3R2	human	function	hasFunctionTag	DOF:000017 PPI	True
+O00459	PIK3R2	human	function	hasFunctionTag	DOF:000024 adaptor	True
+O00459	PIK3R2	human	topology	hasTopologyContext	DOP:000012 unknown	True
+O00459	PIK3R2	human	position	hasPositionalCategory	DOP:000004 Nterminal	True
+O00459	PIK3R2	human	binding_target	hasBindingTarget	DOT:000192 SH3-binding PxxP proteins	False
+O00459	PIK3R2	human	GO_function	hasGOTermMF	GO:0005515	True
+O00459	PIK3R2	human	domain_type	hasDomainType	INTERPRO:IPR035586	True
+O00459	PIK3R2	human	domain_type	hasDomainType	INTERPRO:IPR000198	True
+O00459	PIK3R2	human	function	hasFunctionTag	DOF:000014 regulator	True
+O00459	PIK3R2	human	function	hasFunctionTag	DOF:000044 GAP	True
+O00459	PIK3R2	human	binding_target	hasBindingTarget	DOT:000161 Rac1-GTP	False
+O00459	PIK3R2	human	binding_target	hasBindingTarget	DOT:000267 RHOA (GTP-bound)	False
+O00459	PIK3R2	human	GO_process	hasGOTermBP	GO:0007165	False
+O00459	PIK3R2	human	domain_type	hasDomainType	INTERPRO:IPR035022	True
+O00459	PIK3R2	human	position	hasPositionalCategory	DOP:000005 Internal	True
+O00459	PIK3R2	human	binding_target	hasBindingTarget	DOT:000191 IRS-1/IRS-2 pTyr motifs	False
+O00459	PIK3R2	human	binding_target	hasBindingTarget	DOT:000222 RTK tails (EGFR/PDGFR/IR)	False
+O00459	PIK3R2	human	binding_target	hasBindingTarget	DOT:000193 GAB1/GAB2 adaptors	False
+O00459	PIK3R2	human	domain_type	hasDomainType	INTERPRO:IPR000980	True
+O00459	PIK3R2	human	domain_type	hasDomainType	INTERPRO:IPR032498	True
+O00459	PIK3R2	human	position	hasPositionalCategory	DOP:000003 Cterminal	True
+O00459	PIK3R2	human	domain_type	hasDomainType	INTERPRO:IPR035020	True
+O00459	PIK3R2	human	binding_target	hasBindingTarget	DOT:000054 PI3K p110 catalytic subunit	False
+O14939	PLD2	human	domain_type	hasDomainType	INTERPRO:IPR001683	True
+O14939	PLD2	human	function	hasFunctionTag	DOF:000009 Binding	True
+O14939	PLD2	human	function	hasFunctionTag	DOF:000033 membrane-targeting	True
+O14939	PLD2	human	topology	hasTopologyContext	DOP:000012 unknown	True
+O14939	PLD2	human	position	hasPositionalCategory	DOP:000004 Nterminal	True
+O14939	PLD2	human	binding_target	hasBindingTarget	DOT:000131 PI(3,4,5)P3	False
+O14939	PLD2	human	binding_target	hasBindingTarget	DOT:000124 PI(4,5)P2	False
+O14939	PLD2	human	GO_function	hasGOTermMF	GO:0035091	True
+O14939	PLD2	human	domain_type	hasDomainType	INTERPRO:IPR001849	True
+O14939	PLD2	human	function	hasFunctionTag	DOF:000024 adaptor	True
+O14939	PLD2	human	position	hasPositionalCategory	DOP:000005 Internal	True
+O14939	PLD2	human	domain_type	hasDomainType	INTERPRO:IPR001736	True
+O14939	PLD2	human	function	hasFunctionTag	DOF:000010 catalytic	True
+O14939	PLD2	human	binding_target	hasBindingTarget	DOT:000049 Phosphatidylcholine	False
+O14939	PLD2	human	binding_target	hasBindingTarget	DOT:000125 PA	False
+O14939	PLD2	human	binding_target	hasBindingTarget	DOT:000129 water	False
+O14939	PLD2	human	GO_function	hasGOTermMF	GO:0003824	True
+O14939	PLD2	human	domain_type	hasDomainType	INTERPRO:IPR025202	True
+O14939	PLD2	human	position	hasPositionalCategory	DOP:000003 Cterminal	True
+O15264	MAPK1	human	domain_type	hasDomainType	INTERPRO:IPR000719	True
+O15264	MAPK1	human	function	hasFunctionTag	DOF:000009 Binding	True
+O15264	MAPK1	human	function	hasFunctionTag	DOF:000010 catalytic	True
+O15264	MAPK1	human	topology	hasTopologyContext	DOP:000012 unknown	True
+O15264	MAPK1	human	position	hasPositionalCategory	DOP:000004 Nterminal	True
+O15264	MAPK1	human	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+O15264	MAPK1	human	binding_target	hasBindingTarget	DOT:000026 ATP	False
+O15264	MAPK1	human	binding_target	hasBindingTarget	DOT:000079 Mg2+	False
+O15264	MAPK1	human	binding_target	hasBindingTarget	DOT:000114 protein substrate	False
+O15264	MAPK1	human	GO_function	hasGOTermMF	GO:0004672	True
+O15264	MAPK1	human	GO_function	hasGOTermMF	GO:0005524	True
+O15264	MAPK1	human	GO_process	hasGOTermBP	GO:0006468	False
+O15439	ABCC4	human	domain_type	hasDomainType	INTERPRO:IPR011527	True
+O15439	ABCC4	human	function	hasFunctionTag	DOF:000013 transporter	True
+O15439	ABCC4	human	function	hasFunctionTag	DOF:000012 membrane-anchor	True
+O15439	ABCC4	human	topology	hasTopologyContext	DOP:000006 cytoplasmic	True
+O15439	ABCC4	human	topology	hasTopologyContext	DOP:000007 extracellular	True
+O15439	ABCC4	human	topology	hasTopologyContext	DOP:000008 transmembrane	True
+O15439	ABCC4	human	position	hasPositionalCategory	DOP:000004 Nterminal	True
+O15439	ABCC4	human	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	True
+O15439	ABCC4	human	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+O15439	ABCC4	human	binding_target	hasBindingTarget	DOT:000033 cAMP	False
+O15439	ABCC4	human	binding_target	hasBindingTarget	DOT:000034 cGMP	False
+O15439	ABCC4	human	binding_target	hasBindingTarget	DOT:000096 membrane bilayer	False
+O15439	ABCC4	human	GO_function	hasGOTermMF	GO:0005524	True
+O15439	ABCC4	human	GO_function	hasGOTermMF	GO:0140359	True
+O15439	ABCC4	human	GO_process	hasGOTermBP	GO:0055085	False
+O15439	ABCC4	human	GO_component	hasGOTermCC	GO:0016020	False
+O15439	ABCC4	human	domain_type	hasDomainType	INTERPRO:IPR030240	True
+O15439	ABCC4	human	GO_function	hasGOTermMF	GO:0042626	True
+O15439	ABCC4	human	domain_type	hasDomainType	INTERPRO:IPR003439	True
+O15439	ABCC4	human	position	hasPositionalCategory	DOP:000005 Internal	True
+O15439	ABCC4	human	GO_function	hasGOTermMF	GO:0016887	True
+O15439	ABCC4	human	domain_type	hasDomainType	INTERPRO:IPR003593	True
+O15439	ABCC4	human	function	hasFunctionTag	DOF:000020 ATPase	True
+O15439	ABCC4	human	binding_target	hasBindingTarget	DOT:000026 ATP	False
+O15439	ABCC4	human	binding_target	hasBindingTarget	DOT:000079 Mg2+	False
+O15439	ABCC4	human	domain_type	hasDomainType	INTERPRO:IPR047083	True
+O15439	ABCC4	human	function	hasFunctionTag	DOF:000026 channel	True
+O15439	ABCC4	human	position	hasPositionalCategory	DOP:000003 Cterminal	True
+O15552	FFAR2	human	domain_type	hasDomainType	INTERPRO:IPR017452	True
+O15552	FFAR2	human	function	hasFunctionTag	DOF:000011 receptor	True
+O15552	FFAR2	human	function	hasFunctionTag	DOF:000012 membrane-anchor	True
+O15552	FFAR2	human	function	hasFunctionTag	DOF:000039 signal-transducer	True
+O15552	FFAR2	human	topology	hasTopologyContext	DOP:000006 cytoplasmic	True
+O15552	FFAR2	human	topology	hasTopologyContext	DOP:000007 extracellular	True
+O15552	FFAR2	human	topology	hasTopologyContext	DOP:000008 transmembrane	True
+O15552	FFAR2	human	position	hasPositionalCategory	DOP:000004 Nterminal	True
+O15552	FFAR2	human	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	True
+O15552	FFAR2	human	binding_target	hasBindingTarget	DOT:000092 extracellular ligand	False
+O15552	FFAR2	human	binding_target	hasBindingTarget	DOT:000093 heterotrimeric G protein	False
+O15552	FFAR2	human	GO_component	hasGOTermCC	GO:0016020	False
+O43306	ADCY	human	domain_type	hasDomainType	INTERPRO:IPR032628	True
+O43306	ADCY	human	function	hasFunctionTag	DOF:000012 membrane-anchor	True
+O43306	ADCY	human	topology	hasTopologyContext	DOP:000006 cytoplasmic	True
+O43306	ADCY	human	topology	hasTopologyContext	DOP:000008 transmembrane	True
+O43306	ADCY	human	position	hasPositionalCategory	DOP:000004 Nterminal	True
+O43306	ADCY	human	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	True
+O43306	ADCY	human	binding_target	hasBindingTarget	DOT:000097 membrane environment	False
+O43306	ADCY	human	domain_type	hasDomainType	INTERPRO:IPR001054	True
+O43306	ADCY	human	function	hasFunctionTag	DOF:000010 catalytic	True
+O43306	ADCY	human	position	hasPositionalCategory	DOP:000005 Internal	True
+O43306	ADCY	human	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+O43306	ADCY	human	binding_target	hasBindingTarget	DOT:000026 ATP	False
+O43306	ADCY	human	binding_target	hasBindingTarget	DOT:000079 Mg2+	False
+O43306	ADCY	human	binding_target	hasBindingTarget	DOT:000080 Mn2+	False
+O43306	ADCY	human	GO_process	hasGOTermBP	GO:0009190	False
+O43306	ADCY	human	GO_process	hasGOTermBP	GO:0035556	False
+O43306	ADCY	human	domain_type	hasDomainType	INTERPRO:IPR009398	True
+O43306	ADCY	human	GO_function	hasGOTermMF	GO:0004016	True
+O43306	ADCY	human	GO_process	hasGOTermBP	GO:0006171	False
+O43306	ADCY	human	GO_component	hasGOTermCC	GO:0005886	False
+O43306	ADCY	human	position	hasPositionalCategory	DOP:000003 Cterminal	True
+O43314	VIP	human	domain_type	hasDomainType	INTERPRO:IPR040557	True
+O43314	VIP	human	function	hasFunctionTag	DOF:000043 ligand	True
+O43314	VIP	human	function	hasFunctionTag	DOF:000038 receptor-binding	True
+O43314	VIP	human	topology	hasTopologyContext	DOP:000012 unknown	True
+O43314	VIP	human	position	hasPositionalCategory	DOP:000004 Nterminal	True
+O43314	VIP	human	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+O43314	VIP	human	binding_target	hasBindingTarget	DOT:000202 VPAC1/VIPR1	False
+O43314	VIP	human	binding_target	hasBindingTarget	DOT:000203 VPAC2/VIPR2	False
+O43889	CREB3	human	domain_type	hasDomainType	INTERPRO:IPR004827	True
+O43889	CREB3	human	function	hasFunctionTag	DOF:000021 DNA-binding	True
+O43889	CREB3	human	function	hasFunctionTag	DOF:000030 dimerization	True
+O43889	CREB3	human	topology	hasTopologyContext	DOP:000006 cytoplasmic	True
+O43889	CREB3	human	position	hasPositionalCategory	DOP:000005 Internal	True
+O43889	CREB3	human	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	True
+O43889	CREB3	human	binding_target	hasBindingTarget	DOT:000188 DNA response element (CRE/E-box)	False
+O43889	CREB3	human	binding_target	hasBindingTarget	DOT:000244 homodimer/heterodimer partner	False
+O43889	CREB3	human	GO_function	hasGOTermMF	GO:0003700	True
+O43889	CREB3	human	GO_process	hasGOTermBP	GO:0006355	False
+O60266	ADCY	human	domain_type	hasDomainType	INTERPRO:IPR032628	True
+O60266	ADCY	human	function	hasFunctionTag	DOF:000012 membrane-anchor	True
+O60266	ADCY	human	topology	hasTopologyContext	DOP:000006 cytoplasmic	True
+O60266	ADCY	human	topology	hasTopologyContext	DOP:000008 transmembrane	True
+O60266	ADCY	human	position	hasPositionalCategory	DOP:000004 Nterminal	True
+O60266	ADCY	human	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	True
+O60266	ADCY	human	binding_target	hasBindingTarget	DOT:000097 membrane environment	False
+O60266	ADCY	human	domain_type	hasDomainType	INTERPRO:IPR001054	True
+O60266	ADCY	human	function	hasFunctionTag	DOF:000010 catalytic	True
+O60266	ADCY	human	position	hasPositionalCategory	DOP:000005 Internal	True
+O60266	ADCY	human	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+O60266	ADCY	human	binding_target	hasBindingTarget	DOT:000026 ATP	False
+O60266	ADCY	human	binding_target	hasBindingTarget	DOT:000079 Mg2+	False
+O60266	ADCY	human	binding_target	hasBindingTarget	DOT:000080 Mn2+	False
+O60266	ADCY	human	GO_process	hasGOTermBP	GO:0009190	False
+O60266	ADCY	human	GO_process	hasGOTermBP	GO:0035556	False
+O60266	ADCY	human	position	hasPositionalCategory	DOP:000003 Cterminal	True
+O60271	MAPK8	human	domain_type	hasDomainType	INTERPRO:IPR034743	True
+O60271	MAPK8	human	function	hasFunctionTag	DOF:000014 regulator	True
+O60271	MAPK8	human	topology	hasTopologyContext	DOP:000012 unknown	True
+O60271	MAPK8	human	position	hasPositionalCategory	DOP:000004 Nterminal	True
+O60271	MAPK8	human	binding_target	hasBindingTarget	DOT:000112 protein partner	False
+O60271	MAPK8	human	domain_type	hasDomainType	INTERPRO:IPR032486	True
+O60271	MAPK8	human	position	hasPositionalCategory	DOP:000005 Internal	True
+O60271	MAPK8	human	domain_type	hasDomainType	INTERPRO:IPR034744	True
+O60503	ADCY	human	domain_type	hasDomainType	INTERPRO:IPR001054	True
+O60503	ADCY	human	function	hasFunctionTag	DOF:000010 catalytic	True
+O60503	ADCY	human	topology	hasTopologyContext	DOP:000006 cytoplasmic	True
+O60503	ADCY	human	position	hasPositionalCategory	DOP:000005 Internal	True
+O60503	ADCY	human	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	True
+O60503	ADCY	human	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+O60503	ADCY	human	binding_target	hasBindingTarget	DOT:000026 ATP	False
+O60503	ADCY	human	binding_target	hasBindingTarget	DOT:000079 Mg2+	False
+O60503	ADCY	human	binding_target	hasBindingTarget	DOT:000080 Mn2+	False
+O60503	ADCY	human	GO_process	hasGOTermBP	GO:0009190	False
+O60503	ADCY	human	GO_process	hasGOTermBP	GO:0035556	False
+O60503	ADCY	human	position	hasPositionalCategory	DOP:000003 Cterminal	True
+O60840	CACNA1F	human	domain_type	hasDomainType	INTERPRO:IPR005821	True
+O60840	CACNA1F	human	function	hasFunctionTag	DOF:000026 channel	True
+O60840	CACNA1F	human	topology	hasTopologyContext	DOP:000006 cytoplasmic	True
+O60840	CACNA1F	human	topology	hasTopologyContext	DOP:000007 extracellular	True
+O60840	CACNA1F	human	topology	hasTopologyContext	DOP:000008 transmembrane	True
+O60840	CACNA1F	human	position	hasPositionalCategory	DOP:000004 Nterminal	True
+O60840	CACNA1F	human	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	True
+O60840	CACNA1F	human	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+O60840	CACNA1F	human	binding_target	hasBindingTarget	DOT:000069 Ca2+	False
+O60840	CACNA1F	human	binding_target	hasBindingTarget	DOT:000070 Na+	False
+O60840	CACNA1F	human	binding_target	hasBindingTarget	DOT:000130 K+	False
+O60840	CACNA1F	human	GO_function	hasGOTermMF	GO:0005216	True
+O60840	CACNA1F	human	GO_process	hasGOTermBP	GO:0006811	False
+O60840	CACNA1F	human	GO_process	hasGOTermBP	GO:0055085	False
+O60840	CACNA1F	human	GO_component	hasGOTermCC	GO:0016020	False
+O60840	CACNA1F	human	position	hasPositionalCategory	DOP:000005 Internal	True
+O60840	CACNA1F	human	domain_type	hasDomainType	INTERPRO:IPR031649	True
+O60840	CACNA1F	human	function	hasFunctionTag	DOF:000014 regulator	True
+O60840	CACNA1F	human	binding_target	hasBindingTarget	DOT:000112 protein partner	False
+O60840	CACNA1F	human	domain_type	hasDomainType	INTERPRO:IPR014873	True
+O60840	CACNA1F	human	position	hasPositionalCategory	DOP:000003 Cterminal	True
+O60840	CACNA1F	human	domain_type	hasDomainType	INTERPRO:IPR031688	True
+O75116	ROCK2	human	domain_type	hasDomainType	INTERPRO:IPR029878	True
+O75116	ROCK2	human	function	hasFunctionTag	DOF:000009 Binding	True
+O75116	ROCK2	human	function	hasFunctionTag	DOF:000014 regulator	True
+O75116	ROCK2	human	topology	hasTopologyContext	DOP:000012 unknown	True
+O75116	ROCK2	human	position	hasPositionalCategory	DOP:000004 Nterminal	True
+O75116	ROCK2	human	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+O75116	ROCK2	human	binding_target	hasBindingTarget	DOT:000160 RhoA/RhoB/RhoC (GTP-bound)	False
+O75116	ROCK2	human	GO_function	hasGOTermMF	GO:0004674	True
+O75116	ROCK2	human	domain_type	hasDomainType	INTERPRO:IPR000719	True
+O75116	ROCK2	human	function	hasFunctionTag	DOF:000010 catalytic	True
+O75116	ROCK2	human	binding_target	hasBindingTarget	DOT:000026 ATP	False
+O75116	ROCK2	human	binding_target	hasBindingTarget	DOT:000079 Mg2+	False
+O75116	ROCK2	human	binding_target	hasBindingTarget	DOT:000114 protein substrate	False
+O75116	ROCK2	human	GO_function	hasGOTermMF	GO:0004672	True
+O75116	ROCK2	human	GO_function	hasGOTermMF	GO:0005524	True
+O75116	ROCK2	human	GO_process	hasGOTermBP	GO:0006468	False
+O75116	ROCK2	human	domain_type	hasDomainType	INTERPRO:IPR000961	True
+O75116	ROCK2	human	position	hasPositionalCategory	DOP:000005 Internal	True
+O75116	ROCK2	human	domain_type	hasDomainType	INTERPRO:IPR011072	True
+O75116	ROCK2	human	GO_process	hasGOTermBP	GO:0007165	False
+O75116	ROCK2	human	domain_type	hasDomainType	INTERPRO:IPR037311	True
+O75116	ROCK2	human	GO_process	hasGOTermBP	GO:0006939	False
+O75116	ROCK2	human	GO_process	hasGOTermBP	GO:0007266	False
+O75116	ROCK2	human	GO_process	hasGOTermBP	GO:0010825	False
+O75116	ROCK2	human	GO_process	hasGOTermBP	GO:0032956	False
+O75116	ROCK2	human	domain_type	hasDomainType	INTERPRO:IPR015008	True
+O75116	ROCK2	human	GO_function	hasGOTermMF	GO:0031267	True
+O75116	ROCK2	human	domain_type	hasDomainType	INTERPRO:IPR001849	True
+O75116	ROCK2	human	function	hasFunctionTag	DOF:000033 membrane-targeting	True
+O75116	ROCK2	human	function	hasFunctionTag	DOF:000024 adaptor	True
+O75116	ROCK2	human	position	hasPositionalCategory	DOP:000003 Cterminal	True
+O75116	ROCK2	human	binding_target	hasBindingTarget	DOT:000131 PI(3,4,5)P3	False
+O75116	ROCK2	human	domain_type	hasDomainType	INTERPRO:IPR057529	True
+O75116	ROCK2	human	domain_type	hasDomainType	INTERPRO:IPR002219	True
+O75116	ROCK2	human	binding_target	hasBindingTarget	DOT:000098 membrane phospholipid	False
+O75899	GABBR2	human	domain_type	hasDomainType	INTERPRO:IPR001828	True
+O75899	GABBR2	human	function	hasFunctionTag	DOF:000011 receptor	True
+O75899	GABBR2	human	function	hasFunctionTag	DOF:000032 ligand-binding	True
+O75899	GABBR2	human	topology	hasTopologyContext	DOP:000007 extracellular	True
+O75899	GABBR2	human	position	hasPositionalCategory	DOP:000004 Nterminal	True
+O75899	GABBR2	human	binding_target	hasBindingTarget	DOT:000117 small-molecule or amino-acid ligand	False
+O75899	GABBR2	human	domain_type	hasDomainType	INTERPRO:IPR017978	True
+O75899	GABBR2	human	function	hasFunctionTag	DOF:000012 membrane-anchor	True
+O75899	GABBR2	human	function	hasFunctionTag	DOF:000039 signal-transducer	True
+O75899	GABBR2	human	topology	hasTopologyContext	DOP:000006 cytoplasmic	True
+O75899	GABBR2	human	topology	hasTopologyContext	DOP:000008 transmembrane	True
+O75899	GABBR2	human	position	hasPositionalCategory	DOP:000003 Cterminal	True
+O75899	GABBR2	human	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	True
+O75899	GABBR2	human	binding_target	hasBindingTarget	DOT:000092 extracellular ligand	False
+O75899	GABBR2	human	binding_target	hasBindingTarget	DOT:000093 heterotrimeric G protein	False
+O75899	GABBR2	human	GO_function	hasGOTermMF	GO:0004930	True
+O75899	GABBR2	human	GO_process	hasGOTermBP	GO:0007186	False
+O75899	GABBR2	human	GO_component	hasGOTermCC	GO:0016020	False
+O75899	GABBR2	human	domain_type	hasDomainType	INTERPRO:IPR041689	True
+O75899	GABBR2	human	function	hasFunctionTag	DOF:000016 scaffold	True
+O75899	GABBR2	human	function	hasFunctionTag	DOF:000030 dimerization	True
+O75899	GABBR2	human	binding_target	hasBindingTarget	DOT:000115 receptor cytoplasmic tail	False
+O75899	GABBR2	human	binding_target	hasBindingTarget	DOT:000102 partner receptor subunit	False
+O95398	RAPGEF3	human	domain_type	hasDomainType	INTERPRO:IPR000591	True
+O95398	RAPGEF3	human	function	hasFunctionTag	DOF:000016 scaffold	True
+O95398	RAPGEF3	human	function	hasFunctionTag	DOF:000014 regulator	True
+O95398	RAPGEF3	human	function	hasFunctionTag	DOF:000033 membrane-targeting	True
+O95398	RAPGEF3	human	topology	hasTopologyContext	DOP:000012 unknown	True
+O95398	RAPGEF3	human	position	hasPositionalCategory	DOP:000004 Nterminal	True
+O95398	RAPGEF3	human	binding_target	hasBindingTarget	DOT:000261 plasma membrane	False
+O95398	RAPGEF3	human	binding_target	hasBindingTarget	DOT:000159 G¦Â¦Ã subunits	False
+O95398	RAPGEF3	human	GO_process	hasGOTermBP	GO:0035556	False
+O95398	RAPGEF3	human	domain_type	hasDomainType	INTERPRO:IPR000595	True
+O95398	RAPGEF3	human	function	hasFunctionTag	DOF:000029 cyclic-nucleotide-sensor	True
+O95398	RAPGEF3	human	position	hasPositionalCategory	DOP:000005 Internal	True
+O95398	RAPGEF3	human	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+O95398	RAPGEF3	human	binding_target	hasBindingTarget	DOT:000033 cAMP	False
+O95398	RAPGEF3	human	binding_target	hasBindingTarget	DOT:000034 cGMP	False
+O95398	RAPGEF3	human	domain_type	hasDomainType	INTERPRO:IPR000651	True
+O95398	RAPGEF3	human	function	hasFunctionTag	DOF:000045 GEF	True
+O95398	RAPGEF3	human	binding_target	hasBindingTarget	DOT:000123 Ras-related small GTPase	False
+O95398	RAPGEF3	human	domain_type	hasDomainType	INTERPRO:IPR001895	True
+O95398	RAPGEF3	human	position	hasPositionalCategory	DOP:000003 Cterminal	True
+O95398	RAPGEF3	human	GO_function	hasGOTermMF	GO:0005085	True
+O95398	RAPGEF3	human	GO_process	hasGOTermBP	GO:0007264	False
+O95622	ADCY	human	domain_type	hasDomainType	INTERPRO:IPR032628	True
+O95622	ADCY	human	function	hasFunctionTag	DOF:000012 membrane-anchor	True
+O95622	ADCY	human	topology	hasTopologyContext	DOP:000006 cytoplasmic	True
+O95622	ADCY	human	topology	hasTopologyContext	DOP:000008 transmembrane	True
+O95622	ADCY	human	position	hasPositionalCategory	DOP:000004 Nterminal	True
+O95622	ADCY	human	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	True
+O95622	ADCY	human	binding_target	hasBindingTarget	DOT:000097 membrane environment	False
+O95622	ADCY	human	domain_type	hasDomainType	INTERPRO:IPR001054	True
+O95622	ADCY	human	function	hasFunctionTag	DOF:000010 catalytic	True
+O95622	ADCY	human	position	hasPositionalCategory	DOP:000005 Internal	True
+O95622	ADCY	human	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+O95622	ADCY	human	binding_target	hasBindingTarget	DOT:000026 ATP	False
+O95622	ADCY	human	binding_target	hasBindingTarget	DOT:000079 Mg2+	False
+O95622	ADCY	human	binding_target	hasBindingTarget	DOT:000080 Mn2+	False
+O95622	ADCY	human	GO_process	hasGOTermBP	GO:0009190	False
+O95622	ADCY	human	GO_process	hasGOTermBP	GO:0035556	False
+O95622	ADCY	human	domain_type	hasDomainType	INTERPRO:IPR009398	True
+O95622	ADCY	human	GO_function	hasGOTermMF	GO:0004016	True
+O95622	ADCY	human	GO_process	hasGOTermBP	GO:0006171	False
+O95622	ADCY	human	GO_component	hasGOTermCC	GO:0005886	False
+O95622	ADCY	human	position	hasPositionalCategory	DOP:000003 Cterminal	True
+P01282	VIP	human	domain_type	hasDomainType	INTERPRO:IPR000532	True
+P01282	VIP	human	function	hasFunctionTag	DOF:000043 ligand	True
+P01282	VIP	human	function	hasFunctionTag	DOF:000038 receptor-binding	True
+P01282	VIP	human	topology	hasTopologyContext	DOP:000012 unknown	True
+P01282	VIP	human	position	hasPositionalCategory	DOP:000005 Internal	True
+P01282	VIP	human	binding_target	hasBindingTarget	DOT:000202 VPAC1/VIPR1	False
+P01282	VIP	human	binding_target	hasBindingTarget	DOT:000203 VPAC2/VIPR2	False
+P01282	VIP	human	binding_target	hasBindingTarget	DOT:000204 PAC1R/ADCYAP1R1 (lower affinity)	False
+P01282	VIP	human	GO_function	hasGOTermMF	GO:0005179	True
+P01282	VIP	human	GO_component	hasGOTermCC	GO:0005576	False
+P01282	VIP	human	position	hasPositionalCategory	DOP:000003 Cterminal	True
+P04049	RAF1	human	domain_type	hasDomainType	INTERPRO:IPR003116	True
+P04049	RAF1	human	function	hasFunctionTag	DOF:000009 Binding	True
+P04049	RAF1	human	function	hasFunctionTag	DOF:000014 regulator	True
+P04049	RAF1	human	topology	hasTopologyContext	DOP:000012 unknown	True
+P04049	RAF1	human	position	hasPositionalCategory	DOP:000004 Nterminal	True
+P04049	RAF1	human	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+P04049	RAF1	human	binding_target	hasBindingTarget	DOT:000123 Ras-related small GTPase	False
+P04049	RAF1	human	GO_process	hasGOTermBP	GO:0007165	False
+P04049	RAF1	human	domain_type	hasDomainType	INTERPRO:IPR020454	True
+P04049	RAF1	human	function	hasFunctionTag	DOF:000033 membrane-targeting	True
+P04049	RAF1	human	position	hasPositionalCategory	DOP:000005 Internal	True
+P04049	RAF1	human	binding_target	hasBindingTarget	DOT:000040 Diacylglycerol	False
+P04049	RAF1	human	binding_target	hasBindingTarget	DOT:000104 phorbol ester	False
+P04049	RAF1	human	binding_target	hasBindingTarget	DOT:000098 membrane phospholipid	False
+P04049	RAF1	human	domain_type	hasDomainType	INTERPRO:IPR002219	True
+P04049	RAF1	human	domain_type	hasDomainType	INTERPRO:IPR000719	True
+P04049	RAF1	human	function	hasFunctionTag	DOF:000010 catalytic	True
+P04049	RAF1	human	position	hasPositionalCategory	DOP:000003 Cterminal	True
+P04049	RAF1	human	binding_target	hasBindingTarget	DOT:000026 ATP	False
+P04049	RAF1	human	binding_target	hasBindingTarget	DOT:000079 Mg2+	False
+P04049	RAF1	human	binding_target	hasBindingTarget	DOT:000114 protein substrate	False
+P04049	RAF1	human	GO_function	hasGOTermMF	GO:0004672	True
+P04049	RAF1	human	GO_function	hasGOTermMF	GO:0005524	True
+P04049	RAF1	human	GO_process	hasGOTermBP	GO:0006468	False
+P04049	RAF1	human	domain_type	hasDomainType	INTERPRO:IPR001245	True
+P05305	EDN1	human	domain_type	hasDomainType	INTERPRO:IPR001928	True
+P05305	EDN1	human	function	hasFunctionTag	DOF:000043 ligand	True
+P05305	EDN1	human	function	hasFunctionTag	DOF:000038 receptor-binding	True
+P05305	EDN1	human	topology	hasTopologyContext	DOP:000012 unknown	True
+P05305	EDN1	human	position	hasPositionalCategory	DOP:000005 Internal	True
+P05305	EDN1	human	binding_target	hasBindingTarget	DOT:000200 EDNRA	False
+P05305	EDN1	human	binding_target	hasBindingTarget	DOT:000201 EDNRB	False
+P05305	EDN1	human	GO_process	hasGOTermBP	GO:0019229	False
+P05305	EDN1	human	GO_component	hasGOTermCC	GO:0005576	False
+P06850	CRH	human	domain_type	hasDomainType	INTERPRO:IPR000187	True
+P06850	CRH	human	function	hasFunctionTag	DOF:000043 ligand	True
+P06850	CRH	human	function	hasFunctionTag	DOF:000038 receptor-binding	True
+P06850	CRH	human	topology	hasTopologyContext	DOP:000012 unknown	True
+P06850	CRH	human	position	hasPositionalCategory	DOP:000003 Cterminal	True
+P06850	CRH	human	binding_target	hasBindingTarget	DOT:000198 CRHR1	False
+P06850	CRH	human	binding_target	hasBindingTarget	DOT:000199 CRHR2	False
+P06850	CRH	human	GO_function	hasGOTermMF	GO:0005179	True
+P06850	CRH	human	GO_component	hasGOTermCC	GO:0005576	False
+P07550	ADRB2	human	domain_type	hasDomainType	INTERPRO:IPR017452	True
+P07550	ADRB2	human	function	hasFunctionTag	DOF:000011 receptor	True
+P07550	ADRB2	human	function	hasFunctionTag	DOF:000012 membrane-anchor	True
+P07550	ADRB2	human	function	hasFunctionTag	DOF:000039 signal-transducer	True
+P07550	ADRB2	human	topology	hasTopologyContext	DOP:000006 cytoplasmic	True
+P07550	ADRB2	human	topology	hasTopologyContext	DOP:000007 extracellular	True
+P07550	ADRB2	human	topology	hasTopologyContext	DOP:000008 transmembrane	True
+P07550	ADRB2	human	position	hasPositionalCategory	DOP:000004 Nterminal	True
+P07550	ADRB2	human	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	True
+P07550	ADRB2	human	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+P07550	ADRB2	human	binding_target	hasBindingTarget	DOT:000092 extracellular ligand	False
+P07550	ADRB2	human	binding_target	hasBindingTarget	DOT:000093 heterotrimeric G protein	False
+P07550	ADRB2	human	GO_component	hasGOTermCC	GO:0016020	False
+P08172	CHRM2	human	domain_type	hasDomainType	INTERPRO:IPR017452	True
+P08172	CHRM2	human	function	hasFunctionTag	DOF:000011 receptor	True
+P08172	CHRM2	human	function	hasFunctionTag	DOF:000012 membrane-anchor	True
+P08172	CHRM2	human	function	hasFunctionTag	DOF:000039 signal-transducer	True
+P08172	CHRM2	human	topology	hasTopologyContext	DOP:000006 cytoplasmic	True
+P08172	CHRM2	human	topology	hasTopologyContext	DOP:000007 extracellular	True
+P08172	CHRM2	human	topology	hasTopologyContext	DOP:000008 transmembrane	True
+P08172	CHRM2	human	position	hasPositionalCategory	DOP:000004 Nterminal	True
+P08172	CHRM2	human	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	True
+P08172	CHRM2	human	binding_target	hasBindingTarget	DOT:000092 extracellular ligand	False
+P08172	CHRM2	human	binding_target	hasBindingTarget	DOT:000093 heterotrimeric G protein	False
+P08172	CHRM2	human	GO_component	hasGOTermCC	GO:0016020	False
+P08588	ADRB1	human	domain_type	hasDomainType	INTERPRO:IPR017452	True
+P08588	ADRB1	human	function	hasFunctionTag	DOF:000011 receptor	True
+P08588	ADRB1	human	function	hasFunctionTag	DOF:000012 membrane-anchor	True
+P08588	ADRB1	human	function	hasFunctionTag	DOF:000039 signal-transducer	True
+P08588	ADRB1	human	topology	hasTopologyContext	DOP:000006 cytoplasmic	True
+P08588	ADRB1	human	topology	hasTopologyContext	DOP:000007 extracellular	True
+P08588	ADRB1	human	topology	hasTopologyContext	DOP:000008 transmembrane	True
+P08588	ADRB1	human	position	hasPositionalCategory	DOP:000004 Nterminal	True
+P08588	ADRB1	human	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	True
+P08588	ADRB1	human	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+P08588	ADRB1	human	binding_target	hasBindingTarget	DOT:000092 extracellular ligand	False
+P08588	ADRB1	human	binding_target	hasBindingTarget	DOT:000093 heterotrimeric G protein	False
+P08588	ADRB1	human	GO_component	hasGOTermCC	GO:0016020	False
+P08908	ADRB2	human	domain_type	hasDomainType	INTERPRO:IPR017452	True
+P08908	ADRB2	human	function	hasFunctionTag	DOF:000011 receptor	True
+P08908	ADRB2	human	function	hasFunctionTag	DOF:000012 membrane-anchor	True
+P08908	ADRB2	human	function	hasFunctionTag	DOF:000039 signal-transducer	True
+P08908	ADRB2	human	topology	hasTopologyContext	DOP:000006 cytoplasmic	True
+P08908	ADRB2	human	topology	hasTopologyContext	DOP:000007 extracellular	True
+P08908	ADRB2	human	topology	hasTopologyContext	DOP:000008 transmembrane	True
+P08908	ADRB2	human	position	hasPositionalCategory	DOP:000004 Nterminal	True
+P08908	ADRB2	human	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	True
+P08908	ADRB2	human	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+P08908	ADRB2	human	binding_target	hasBindingTarget	DOT:000092 extracellular ligand	False
+P08908	ADRB2	human	binding_target	hasBindingTarget	DOT:000093 heterotrimeric G protein	False
+P08908	ADRB2	human	GO_component	hasGOTermCC	GO:0016020	False
+P0DP23	CALM1	human	domain_type	hasDomainType	INTERPRO:IPR002048	True
+P0DP23	CALM1	human	function	hasFunctionTag	DOF:000009 Binding	True
+P0DP23	CALM1	human	function	hasFunctionTag	DOF:000014 regulator	True
+P0DP23	CALM1	human	topology	hasTopologyContext	DOP:000012 unknown	True
+P0DP23	CALM1	human	position	hasPositionalCategory	DOP:000004 Nterminal	True
+P0DP23	CALM1	human	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+P0DP23	CALM1	human	binding_target	hasBindingTarget	DOT:000069 Ca2+	False
+P0DP23	CALM1	human	GO_function	hasGOTermMF	GO:0005509	True
+P0DP23	CALM1	human	position	hasPositionalCategory	DOP:000003 Cterminal	True
+P0DP24	CALM2	human	domain_type	hasDomainType	INTERPRO:IPR002048	True
+P0DP24	CALM2	human	function	hasFunctionTag	DOF:000009 Binding	True
+P0DP24	CALM2	human	function	hasFunctionTag	DOF:000014 regulator	True
+P0DP24	CALM2	human	topology	hasTopologyContext	DOP:000012 unknown	True
+P0DP24	CALM2	human	position	hasPositionalCategory	DOP:000004 Nterminal	True
+P0DP24	CALM2	human	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+P0DP24	CALM2	human	binding_target	hasBindingTarget	DOT:000069 Ca2+	False
+P0DP24	CALM2	human	GO_function	hasGOTermMF	GO:0005509	True
+P0DP24	CALM2	human	position	hasPositionalCategory	DOP:000003 Cterminal	True
+P0DP25	CALM3	human	domain_type	hasDomainType	INTERPRO:IPR002048	True
+P0DP25	CALM3	human	function	hasFunctionTag	DOF:000009 Binding	True
+P0DP25	CALM3	human	function	hasFunctionTag	DOF:000014 regulator	True
+P0DP25	CALM3	human	topology	hasTopologyContext	DOP:000012 unknown	True
+P0DP25	CALM3	human	position	hasPositionalCategory	DOP:000004 Nterminal	True
+P0DP25	CALM3	human	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+P0DP25	CALM3	human	binding_target	hasBindingTarget	DOT:000069 Ca2+	False
+P0DP25	CALM3	human	GO_function	hasGOTermMF	GO:0005509	True
+P0DP25	CALM3	human	position	hasPositionalCategory	DOP:000003 Cterminal	True
+P11229	CHRM1	human	domain_type	hasDomainType	INTERPRO:IPR017452	True
+P11229	CHRM1	human	function	hasFunctionTag	DOF:000011 receptor	True
+P11229	CHRM1	human	function	hasFunctionTag	DOF:000012 membrane-anchor	True
+P11229	CHRM1	human	function	hasFunctionTag	DOF:000039 signal-transducer	True
+P11229	CHRM1	human	topology	hasTopologyContext	DOP:000006 cytoplasmic	True
+P11229	CHRM1	human	topology	hasTopologyContext	DOP:000007 extracellular	True
+P11229	CHRM1	human	topology	hasTopologyContext	DOP:000008 transmembrane	True
+P11229	CHRM1	human	position	hasPositionalCategory	DOP:000004 Nterminal	True
+P11229	CHRM1	human	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	True
+P11229	CHRM1	human	binding_target	hasBindingTarget	DOT:000092 extracellular ligand	False
+P11229	CHRM1	human	binding_target	hasBindingTarget	DOT:000093 heterotrimeric G protein	False
+P11229	CHRM1	human	GO_component	hasGOTermCC	GO:0016020	False
+P13569	CFTR	human	domain_type	hasDomainType	INTERPRO:IPR011527	True
+P13569	CFTR	human	function	hasFunctionTag	DOF:000013 transporter	True
+P13569	CFTR	human	function	hasFunctionTag	DOF:000012 membrane-anchor	True
+P13569	CFTR	human	topology	hasTopologyContext	DOP:000006 cytoplasmic	True
+P13569	CFTR	human	topology	hasTopologyContext	DOP:000007 extracellular	True
+P13569	CFTR	human	topology	hasTopologyContext	DOP:000008 transmembrane	True
+P13569	CFTR	human	position	hasPositionalCategory	DOP:000004 Nterminal	True
+P13569	CFTR	human	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	True
+P13569	CFTR	human	binding_target	hasBindingTarget	DOT:000233 Cl?/HCO??	False
+P13569	CFTR	human	binding_target	hasBindingTarget	DOT:000096 membrane bilayer	False
+P13569	CFTR	human	GO_function	hasGOTermMF	GO:0005524	True
+P13569	CFTR	human	GO_function	hasGOTermMF	GO:0140359	True
+P13569	CFTR	human	GO_process	hasGOTermBP	GO:0055085	False
+P13569	CFTR	human	GO_component	hasGOTermCC	GO:0016020	False
+P13569	CFTR	human	domain_type	hasDomainType	INTERPRO:IPR047082	True
+P13569	CFTR	human	position	hasPositionalCategory	DOP:000005 Internal	True
+P13569	CFTR	human	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+P13569	CFTR	human	domain_type	hasDomainType	INTERPRO:IPR003439	True
+P13569	CFTR	human	function	hasFunctionTag	DOF:000020 ATPase	True
+P13569	CFTR	human	function	hasFunctionTag	DOF:000026 channel	True
+P13569	CFTR	human	GO_function	hasGOTermMF	GO:0016887	True
+P13569	CFTR	human	domain_type	hasDomainType	INTERPRO:IPR003593	True
+P13569	CFTR	human	binding_target	hasBindingTarget	DOT:000026 ATP	False
+P13569	CFTR	human	binding_target	hasBindingTarget	DOT:000079 Mg2+	False
+P13569	CFTR	human	domain_type	hasDomainType	INTERPRO:IPR025837	True
+P13569	CFTR	human	position	hasPositionalCategory	DOP:000003 Cterminal	True
+P13569	CFTR	human	function	hasFunctionTag	DOF:000014 regulator	True
+P13569	CFTR	human	binding_target	hasBindingTarget	DOT:000111 protein kinase A	False
+P13569	CFTR	human	binding_target	hasBindingTarget	DOT:000087 channel regulatory partners	False
+P14138	EDN3	human	domain_type	hasDomainType	INTERPRO:IPR001928	True
+P14138	EDN3	human	function	hasFunctionTag	DOF:000043 ligand	True
+P14138	EDN3	human	function	hasFunctionTag	DOF:000038 receptor-binding	True
+P14138	EDN3	human	topology	hasTopologyContext	DOP:000012 unknown	True
+P14138	EDN3	human	position	hasPositionalCategory	DOP:000005 Internal	True
+P14138	EDN3	human	binding_target	hasBindingTarget	DOT:000201 EDNRB	False
+P14138	EDN3	human	binding_target	hasBindingTarget	DOT:000200 EDNRA	False
+P14138	EDN3	human	GO_process	hasGOTermBP	GO:0019229	False
+P14138	EDN3	human	GO_component	hasGOTermCC	GO:0005576	False
+P14416	DRD2	human	domain_type	hasDomainType	INTERPRO:IPR017452	True
+P14416	DRD2	human	function	hasFunctionTag	DOF:000011 receptor	True
+P14416	DRD2	human	function	hasFunctionTag	DOF:000012 membrane-anchor	True
+P14416	DRD2	human	function	hasFunctionTag	DOF:000039 signal-transducer	True
+P14416	DRD2	human	topology	hasTopologyContext	DOP:000006 cytoplasmic	True
+P14416	DRD2	human	topology	hasTopologyContext	DOP:000007 extracellular	True
+P14416	DRD2	human	topology	hasTopologyContext	DOP:000008 transmembrane	True
+P14416	DRD2	human	position	hasPositionalCategory	DOP:000004 Nterminal	True
+P14416	DRD2	human	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	True
+P14416	DRD2	human	binding_target	hasBindingTarget	DOT:000092 extracellular ligand	False
+P14416	DRD2	human	binding_target	hasBindingTarget	DOT:000093 heterotrimeric G protein	False
+P14416	DRD2	human	GO_component	hasGOTermCC	GO:0016020	False
+P15153	RAC2	human	domain_type	hasDomainType	INTERPRO:IPR005225	True
+P15153	RAC2	human	function	hasFunctionTag	DOF:000009 Binding	True
+P15153	RAC2	human	function	hasFunctionTag	DOF:000035 molecular-switch	True
+P15153	RAC2	human	topology	hasTopologyContext	DOP:000012 unknown	True
+P15153	RAC2	human	position	hasPositionalCategory	DOP:000004 Nterminal	True
+P15153	RAC2	human	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+P15153	RAC2	human	binding_target	hasBindingTarget	DOT:000076 GDP	False
+P15153	RAC2	human	binding_target	hasBindingTarget	DOT:000029 GTP	False
+P15153	RAC2	human	binding_target	hasBindingTarget	DOT:000120 GAP	False
+P15153	RAC2	human	binding_target	hasBindingTarget	DOT:000121 GEF	False
+P15153	RAC2	human	binding_target	hasBindingTarget	DOT:000091 effector proteins	False
+P15153	RAC2	human	GO_function	hasGOTermMF	GO:0005525	True
+P15498	VAV1	human	domain_type	hasDomainType	INTERPRO:IPR001715	True
+P15498	VAV1	human	function	hasFunctionTag	DOF:000009 Binding	True
+P15498	VAV1	human	function	hasFunctionTag	DOF:000016 scaffold	True
+P15498	VAV1	human	topology	hasTopologyContext	DOP:000012 unknown	True
+P15498	VAV1	human	position	hasPositionalCategory	DOP:000004 Nterminal	True
+P15498	VAV1	human	binding_target	hasBindingTarget	DOT:000086 actin	False
+P15498	VAV1	human	GO_function	hasGOTermMF	GO:0005515	True
+P15498	VAV1	human	domain_type	hasDomainType	INTERPRO:IPR022613	True
+P15498	VAV1	human	function	hasFunctionTag	DOF:000014 regulator	True
+P15498	VAV1	human	binding_target	hasBindingTarget	DOT:000112 protein partner	False
+P15498	VAV1	human	domain_type	hasDomainType	INTERPRO:IPR000219	True
+P15498	VAV1	human	function	hasFunctionTag	DOF:000045 GEF	True
+P15498	VAV1	human	position	hasPositionalCategory	DOP:000005 Internal	True
+P15498	VAV1	human	binding_target	hasBindingTarget	DOT:000062 Rho-related small GTPase	False
+P15498	VAV1	human	GO_function	hasGOTermMF	GO:0005085	True
+P15498	VAV1	human	domain_type	hasDomainType	INTERPRO:IPR037832	True
+P15498	VAV1	human	function	hasFunctionTag	DOF:000033 membrane-targeting	True
+P15498	VAV1	human	function	hasFunctionTag	DOF:000024 adaptor	True
+P15498	VAV1	human	binding_target	hasBindingTarget	DOT:000131 PI(3,4,5)P3	False
+P15498	VAV1	human	domain_type	hasDomainType	INTERPRO:IPR001849	True
+P15498	VAV1	human	domain_type	hasDomainType	INTERPRO:IPR002219	True
+P15498	VAV1	human	function	hasFunctionTag	DOF:000040 structural	True
+P15498	VAV1	human	binding_target	hasBindingTarget	DOT:000127 Dbl homology domain (intramolecular)	False
+P15498	VAV1	human	binding_target	hasBindingTarget	DOT:000084 Zn2+	False
+P15498	VAV1	human	domain_type	hasDomainType	INTERPRO:IPR001452	True
+P15498	VAV1	human	function	hasFunctionTag	DOF:000017 PPI	True
+P15498	VAV1	human	binding_target	hasBindingTarget	DOT:000192 SH3-binding PxxP proteins	False
+P15498	VAV1	human	domain_type	hasDomainType	INTERPRO:IPR035730	True
+P15498	VAV1	human	domain_type	hasDomainType	INTERPRO:IPR035879	True
+P15498	VAV1	human	position	hasPositionalCategory	DOP:000003 Cterminal	True
+P15498	VAV1	human	domain_type	hasDomainType	INTERPRO:IPR000980	True
+P15498	VAV1	human	binding_target	hasBindingTarget	DOT:000109 phosphotyrosine-containing proteins	False
+P15498	VAV1	human	domain_type	hasDomainType	INTERPRO:IPR035729	True
+P16220	CREB1	human	domain_type	hasDomainType	INTERPRO:IPR003102	True
+P16220	CREB1	human	function	hasFunctionTag	DOF:000017 PPI	True
+P16220	CREB1	human	function	hasFunctionTag	DOF:000042 transcription-regulator	True
+P16220	CREB1	human	topology	hasTopologyContext	DOP:000012 unknown	True
+P16220	CREB1	human	position	hasPositionalCategory	DOP:000005 Internal	True
+P16220	CREB1	human	binding_target	hasBindingTarget	DOT:000068 CBP/p300 KIX domain	False
+P16220	CREB1	human	GO_function	hasGOTermMF	GO:0005515	True
+P16220	CREB1	human	GO_process	hasGOTermBP	GO:0006355	False
+P16220	CREB1	human	domain_type	hasDomainType	INTERPRO:IPR004827	True
+P16220	CREB1	human	function	hasFunctionTag	DOF:000021 DNA-binding	True
+P16220	CREB1	human	function	hasFunctionTag	DOF:000030 dimerization	True
+P16220	CREB1	human	position	hasPositionalCategory	DOP:000003 Cterminal	True
+P16220	CREB1	human	binding_target	hasBindingTarget	DOT:000188 DNA response element (CRE/E-box)	False
+P16220	CREB1	human	binding_target	hasBindingTarget	DOT:000244 homodimer/heterodimer partner	False
+P16220	CREB1	human	GO_function	hasGOTermMF	GO:0003700	True
+P17252	PRKAC	human	domain_type	hasDomainType	INTERPRO:IPR020454	True
+P17252	PRKAC	human	function	hasFunctionTag	DOF:000009 Binding	True
+P17252	PRKAC	human	function	hasFunctionTag	DOF:000033 membrane-targeting	True
+P17252	PRKAC	human	function	hasFunctionTag	DOF:000014 regulator	True
+P17252	PRKAC	human	topology	hasTopologyContext	DOP:000012 unknown	True
+P17252	PRKAC	human	position	hasPositionalCategory	DOP:000004 Nterminal	True
+P17252	PRKAC	human	binding_target	hasBindingTarget	DOT:000040 Diacylglycerol	False
+P17252	PRKAC	human	binding_target	hasBindingTarget	DOT:000104 phorbol ester	False
+P17252	PRKAC	human	binding_target	hasBindingTarget	DOT:000098 membrane phospholipid	False
+P17252	PRKAC	human	domain_type	hasDomainType	INTERPRO:IPR002219	True
+P17252	PRKAC	human	position	hasPositionalCategory	DOP:000005 Internal	True
+P17252	PRKAC	human	domain_type	hasDomainType	INTERPRO:IPR000008	True
+P17252	PRKAC	human	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+P17252	PRKAC	human	binding_target	hasBindingTarget	DOT:000069 Ca2+	False
+P17252	PRKAC	human	binding_target	hasBindingTarget	DOT:000133 phosphatidylserine	False
+P17252	PRKAC	human	binding_target	hasBindingTarget	DOT:000124 PIP2	False
+P17252	PRKAC	human	binding_target	hasBindingTarget	DOT:000131 PI(3,4,5)P3	False
+P17252	PRKAC	human	domain_type	hasDomainType	INTERPRO:IPR034663	True
+P17252	PRKAC	human	function	hasFunctionTag	DOF:000010 catalytic	True
+P17252	PRKAC	human	position	hasPositionalCategory	DOP:000003 Cterminal	True
+P17252	PRKAC	human	binding_target	hasBindingTarget	DOT:000026 ATP	False
+P17252	PRKAC	human	binding_target	hasBindingTarget	DOT:000079 Mg2+	False
+P17252	PRKAC	human	binding_target	hasBindingTarget	DOT:000114 protein substrate	False
+P17252	PRKAC	human	GO_function	hasGOTermMF	GO:0004697	True
+P17252	PRKAC	human	GO_process	hasGOTermBP	GO:0006468	False
+P17252	PRKAC	human	domain_type	hasDomainType	INTERPRO:IPR000719	True
+P17252	PRKAC	human	GO_function	hasGOTermMF	GO:0004672	True
+P17252	PRKAC	human	GO_function	hasGOTermMF	GO:0005524	True
+P17252	PRKAC	human	domain_type	hasDomainType	INTERPRO:IPR000961	True
+P17252	PRKAC	human	GO_function	hasGOTermMF	GO:0004674	True
+P17252	PRKAC	human	domain_type	hasDomainType	INTERPRO:IPR017892	True
+P17612	PRKAC	human	domain_type	hasDomainType	INTERPRO:IPR000719	True
+P17612	PRKAC	human	function	hasFunctionTag	DOF:000009 Binding	True
+P17612	PRKAC	human	function	hasFunctionTag	DOF:000010 catalytic	True
+P17612	PRKAC	human	topology	hasTopologyContext	DOP:000012 unknown	True
+P17612	PRKAC	human	position	hasPositionalCategory	DOP:000004 Nterminal	True
+P17612	PRKAC	human	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+P17612	PRKAC	human	binding_target	hasBindingTarget	DOT:000026 ATP	False
+P17612	PRKAC	human	binding_target	hasBindingTarget	DOT:000079 Mg2+	False
+P17612	PRKAC	human	binding_target	hasBindingTarget	DOT:000114 protein substrate	False
+P17612	PRKAC	human	GO_function	hasGOTermMF	GO:0004672	True
+P17612	PRKAC	human	GO_function	hasGOTermMF	GO:0005524	True
+P17612	PRKAC	human	GO_process	hasGOTermBP	GO:0006468	False
+P17612	PRKAC	human	domain_type	hasDomainType	INTERPRO:IPR000961	True
+P17612	PRKAC	human	position	hasPositionalCategory	DOP:000003 Cterminal	True
+P17612	PRKAC	human	GO_function	hasGOTermMF	GO:0004674	True
+P18509	ADCYAP1	human	domain_type	hasDomainType	INTERPRO:IPR000532	True
+P18509	ADCYAP1	human	function	hasFunctionTag	DOF:000043 ligand	True
+P18509	ADCYAP1	human	function	hasFunctionTag	DOF:000038 receptor-binding	True
+P18509	ADCYAP1	human	topology	hasTopologyContext	DOP:000012 unknown	True
+P18509	ADCYAP1	human	position	hasPositionalCategory	DOP:000005 Internal	True
+P18509	ADCYAP1	human	binding_target	hasBindingTarget	DOT:000206 GIPR	False
+P18509	ADCYAP1	human	GO_function	hasGOTermMF	GO:0005179	True
+P18509	ADCYAP1	human	GO_component	hasGOTermCC	GO:0005576	False
+P18509	ADCYAP1	human	position	hasPositionalCategory	DOP:000003 Cterminal	True
+P20020	ATP2B1	human	domain_type	hasDomainType	INTERPRO:IPR004014	True
+P20020	ATP2B1	human	function	hasFunctionTag	DOF:000012 membrane-anchor	True
+P20020	ATP2B1	human	function	hasFunctionTag	DOF:000013 transporter	True
+P20020	ATP2B1	human	topology	hasTopologyContext	DOP:000006 cytoplasmic	True
+P20020	ATP2B1	human	topology	hasTopologyContext	DOP:000008 transmembrane	True
+P20020	ATP2B1	human	position	hasPositionalCategory	DOP:000004 Nterminal	True
+P20020	ATP2B1	human	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	True
+P20020	ATP2B1	human	binding_target	hasBindingTarget	DOT:000096 membrane bilayer	False
+P20020	ATP2B1	human	binding_target	hasBindingTarget	DOT:000069 Ca2+	False
+P20020	ATP2B1	human	domain_type	hasDomainType	INTERPRO:IPR059000	True
+P20020	ATP2B1	human	function	hasFunctionTag	DOF:000010 catalytic	True
+P20020	ATP2B1	human	function	hasFunctionTag	DOF:000020 ATPase	True
+P20020	ATP2B1	human	binding_target	hasBindingTarget	DOT:000107 phosphoprotein substrate	False
+P20020	ATP2B1	human	domain_type	hasDomainType	INTERPRO:IPR044492	True
+P20020	ATP2B1	human	position	hasPositionalCategory	DOP:000005 Internal	True
+P20020	ATP2B1	human	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+P20020	ATP2B1	human	binding_target	hasBindingTarget	DOT:000026 ATP	False
+P20020	ATP2B1	human	binding_target	hasBindingTarget	DOT:000079 Mg2+	False
+P20020	ATP2B1	human	domain_type	hasDomainType	INTERPRO:IPR006068	True
+P20020	ATP2B1	human	topology	hasTopologyContext	DOP:000007 extracellular	True
+P20020	ATP2B1	human	position	hasPositionalCategory	DOP:000003 Cterminal	True
+P20020	ATP2B1	human	domain_type	hasDomainType	INTERPRO:IPR022141	True
+P20020	ATP2B1	human	function	hasFunctionTag	DOF:000014 regulator	True
+P20020	ATP2B1	human	binding_target	hasBindingTarget	DOT:000059 Calmodulin	False
+P20020	ATP2B1	human	GO_function	hasGOTermMF	GO:0005388	True
+P20800	EDN2	human	domain_type	hasDomainType	INTERPRO:IPR001928	True
+P20800	EDN2	human	function	hasFunctionTag	DOF:000043 ligand	True
+P20800	EDN2	human	function	hasFunctionTag	DOF:000038 receptor-binding	True
+P20800	EDN2	human	topology	hasTopologyContext	DOP:000012 unknown	True
+P20800	EDN2	human	position	hasPositionalCategory	DOP:000005 Internal	True
+P20800	EDN2	human	binding_target	hasBindingTarget	DOT:000200 EDNRA	False
+P20800	EDN2	human	binding_target	hasBindingTarget	DOT:000201 EDNRB	False
+P20800	EDN2	human	GO_process	hasGOTermBP	GO:0019229	False
+P20800	EDN2	human	GO_component	hasGOTermCC	GO:0005576	False
+P21728	DRD1	human	domain_type	hasDomainType	INTERPRO:IPR017452	True
+P21728	DRD1	human	function	hasFunctionTag	DOF:000011 receptor	True
+P21728	DRD1	human	function	hasFunctionTag	DOF:000012 membrane-anchor	True
+P21728	DRD1	human	function	hasFunctionTag	DOF:000039 signal-transducer	True
+P21728	DRD1	human	topology	hasTopologyContext	DOP:000006 cytoplasmic	True
+P21728	DRD1	human	topology	hasTopologyContext	DOP:000007 extracellular	True
+P21728	DRD1	human	topology	hasTopologyContext	DOP:000008 transmembrane	True
+P21728	DRD1	human	position	hasPositionalCategory	DOP:000004 Nterminal	True
+P21728	DRD1	human	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	True
+P21728	DRD1	human	binding_target	hasBindingTarget	DOT:000092 extracellular ligand	False
+P21728	DRD1	human	binding_target	hasBindingTarget	DOT:000093 heterotrimeric G protein	False
+P21728	DRD1	human	GO_component	hasGOTermCC	GO:0016020	False
+P21918	DRD5	human	domain_type	hasDomainType	INTERPRO:IPR017452	True
+P21918	DRD5	human	function	hasFunctionTag	DOF:000011 receptor	True
+P21918	DRD5	human	function	hasFunctionTag	DOF:000012 membrane-anchor	True
+P21918	DRD5	human	function	hasFunctionTag	DOF:000039 signal-transducer	True
+P21918	DRD5	human	topology	hasTopologyContext	DOP:000006 cytoplasmic	True
+P21918	DRD5	human	topology	hasTopologyContext	DOP:000007 extracellular	True
+P21918	DRD5	human	topology	hasTopologyContext	DOP:000008 transmembrane	True
+P21918	DRD5	human	position	hasPositionalCategory	DOP:000004 Nterminal	True
+P21918	DRD5	human	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	True
+P21918	DRD5	human	binding_target	hasBindingTarget	DOT:000092 extracellular ligand	False
+P21918	DRD5	human	binding_target	hasBindingTarget	DOT:000093 heterotrimeric G protein	False
+P21918	DRD5	human	GO_component	hasGOTermCC	GO:0016020	False
+P22612	PRKAC	human	domain_type	hasDomainType	INTERPRO:IPR000719	True
+P22612	PRKAC	human	function	hasFunctionTag	DOF:000009 Binding	True
+P22612	PRKAC	human	function	hasFunctionTag	DOF:000010 catalytic	True
+P22612	PRKAC	human	topology	hasTopologyContext	DOP:000012 unknown	True
+P22612	PRKAC	human	position	hasPositionalCategory	DOP:000004 Nterminal	True
+P22612	PRKAC	human	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+P22612	PRKAC	human	binding_target	hasBindingTarget	DOT:000026 ATP	False
+P22612	PRKAC	human	binding_target	hasBindingTarget	DOT:000079 Mg2+	False
+P22612	PRKAC	human	binding_target	hasBindingTarget	DOT:000114 protein substrate	False
+P22612	PRKAC	human	GO_function	hasGOTermMF	GO:0004672	True
+P22612	PRKAC	human	GO_function	hasGOTermMF	GO:0005524	True
+P22612	PRKAC	human	GO_process	hasGOTermBP	GO:0006468	False
+P22612	PRKAC	human	domain_type	hasDomainType	INTERPRO:IPR000961	True
+P22612	PRKAC	human	position	hasPositionalCategory	DOP:000003 Cterminal	True
+P22612	PRKAC	human	GO_function	hasGOTermMF	GO:0004674	True
+P22694	PRKAC	human	domain_type	hasDomainType	INTERPRO:IPR000719	True
+P22694	PRKAC	human	function	hasFunctionTag	DOF:000009 Binding	True
+P22694	PRKAC	human	function	hasFunctionTag	DOF:000010 catalytic	True
+P22694	PRKAC	human	topology	hasTopologyContext	DOP:000012 unknown	True
+P22694	PRKAC	human	position	hasPositionalCategory	DOP:000004 Nterminal	True
+P22694	PRKAC	human	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+P22694	PRKAC	human	binding_target	hasBindingTarget	DOT:000026 ATP	False
+P22694	PRKAC	human	binding_target	hasBindingTarget	DOT:000079 Mg2+	False
+P22694	PRKAC	human	binding_target	hasBindingTarget	DOT:000114 protein substrate	False
+P22694	PRKAC	human	GO_function	hasGOTermMF	GO:0004672	True
+P22694	PRKAC	human	GO_function	hasGOTermMF	GO:0005524	True
+P22694	PRKAC	human	GO_process	hasGOTermBP	GO:0006468	False
+P22694	PRKAC	human	domain_type	hasDomainType	INTERPRO:IPR000961	True
+P22694	PRKAC	human	position	hasPositionalCategory	DOP:000003 Cterminal	True
+P22694	PRKAC	human	GO_function	hasGOTermMF	GO:0004674	True
+P23560	BDNF	human	domain_type	hasDomainType	INTERPRO:IPR002072	True
+P23560	BDNF	human	function	hasFunctionTag	DOF:000043 ligand	True
+P23560	BDNF	human	function	hasFunctionTag	DOF:000038 receptor-binding	True
+P23560	BDNF	human	topology	hasTopologyContext	DOP:000012 unknown	True
+P23560	BDNF	human	position	hasPositionalCategory	DOP:000003 Cterminal	True
+P23560	BDNF	human	binding_target	hasBindingTarget	DOT:000128 cognate Trk receptor (TrkB/NTRK2)	False
+P23560	BDNF	human	GO_function	hasGOTermMF	GO:0005102	True
+P23634	ATP2B4	human	domain_type	hasDomainType	INTERPRO:IPR004014	True
+P23634	ATP2B4	human	function	hasFunctionTag	DOF:000012 membrane-anchor	True
+P23634	ATP2B4	human	function	hasFunctionTag	DOF:000013 transporter	True
+P23634	ATP2B4	human	topology	hasTopologyContext	DOP:000006 cytoplasmic	True
+P23634	ATP2B4	human	topology	hasTopologyContext	DOP:000007 extracellular	True
+P23634	ATP2B4	human	topology	hasTopologyContext	DOP:000008 transmembrane	True
+P23634	ATP2B4	human	position	hasPositionalCategory	DOP:000004 Nterminal	True
+P23634	ATP2B4	human	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	True
+P23634	ATP2B4	human	binding_target	hasBindingTarget	DOT:000096 membrane bilayer	False
+P23634	ATP2B4	human	binding_target	hasBindingTarget	DOT:000069 Ca2+	False
+P23634	ATP2B4	human	domain_type	hasDomainType	INTERPRO:IPR059000	True
+P23634	ATP2B4	human	function	hasFunctionTag	DOF:000010 catalytic	True
+P23634	ATP2B4	human	function	hasFunctionTag	DOF:000020 ATPase	True
+P23634	ATP2B4	human	binding_target	hasBindingTarget	DOT:000107 phosphoprotein substrate	False
+P23634	ATP2B4	human	domain_type	hasDomainType	INTERPRO:IPR044492	True
+P23634	ATP2B4	human	position	hasPositionalCategory	DOP:000005 Internal	True
+P23634	ATP2B4	human	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+P23634	ATP2B4	human	binding_target	hasBindingTarget	DOT:000026 ATP	False
+P23634	ATP2B4	human	binding_target	hasBindingTarget	DOT:000079 Mg2+	False
+P23634	ATP2B4	human	domain_type	hasDomainType	INTERPRO:IPR006068	True
+P23634	ATP2B4	human	position	hasPositionalCategory	DOP:000003 Cterminal	True
+P23634	ATP2B4	human	domain_type	hasDomainType	INTERPRO:IPR022141	True
+P23634	ATP2B4	human	function	hasFunctionTag	DOF:000014 regulator	True
+P23634	ATP2B4	human	binding_target	hasBindingTarget	DOT:000059 Calmodulin	False
+P23634	ATP2B4	human	GO_function	hasGOTermMF	GO:0005388	True
+P24387	CRH	human	domain_type	hasDomainType	INTERPRO:IPR056177	True
+P24387	CRH	human	function	hasFunctionTag	DOF:000009 Binding	True
+P24387	CRH	human	function	hasFunctionTag	DOF:000014 regulator	True
+P24387	CRH	human	topology	hasTopologyContext	DOP:000012 unknown	True
+P24387	CRH	human	position	hasPositionalCategory	DOP:000004 Nterminal	True
+P24387	CRH	human	binding_target	hasBindingTarget	DOT:000089 CRH/CRF peptide	False
+P24387	CRH	human	domain_type	hasDomainType	INTERPRO:IPR056178	True
+P24387	CRH	human	position	hasPositionalCategory	DOP:000003 Cterminal	True
+P24844	MYL9	human	domain_type	hasDomainType	INTERPRO:IPR002048	True
+P24844	MYL9	human	function	hasFunctionTag	DOF:000009 Binding	True
+P24844	MYL9	human	function	hasFunctionTag	DOF:000014 regulator	True
+P24844	MYL9	human	topology	hasTopologyContext	DOP:000012 unknown	True
+P24844	MYL9	human	position	hasPositionalCategory	DOP:000004 Nterminal	True
+P24844	MYL9	human	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+P24844	MYL9	human	binding_target	hasBindingTarget	DOT:000069 Ca2+	False
+P24844	MYL9	human	GO_function	hasGOTermMF	GO:0005509	True
+P24844	MYL9	human	position	hasPositionalCategory	DOP:000003 Cterminal	True
+P24844	MYL9	human	binding_target	hasBindingTarget	DOT:000197 myosin IQ motif / MLCK substrate	False
+P24844	MYL9	human	binding_target	hasBindingTarget	DOT:000059 Calmodulin	False
+P25101	EDNRA	human	domain_type	hasDomainType	INTERPRO:IPR017452	True
+P25101	EDNRA	human	function	hasFunctionTag	DOF:000011 receptor	True
+P25101	EDNRA	human	function	hasFunctionTag	DOF:000012 membrane-anchor	True
+P25101	EDNRA	human	function	hasFunctionTag	DOF:000039 signal-transducer	True
+P25101	EDNRA	human	topology	hasTopologyContext	DOP:000006 cytoplasmic	True
+P25101	EDNRA	human	topology	hasTopologyContext	DOP:000007 extracellular	True
+P25101	EDNRA	human	topology	hasTopologyContext	DOP:000008 transmembrane	True
+P25101	EDNRA	human	position	hasPositionalCategory	DOP:000003 Cterminal	True
+P25101	EDNRA	human	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	True
+P25101	EDNRA	human	binding_target	hasBindingTarget	DOT:000147 endothelin (ET-1/ET-2/ET-3)	False
+P25101	EDNRA	human	binding_target	hasBindingTarget	DOT:000093 heterotrimeric G protein	False
+P25101	EDNRA	human	GO_component	hasGOTermCC	GO:0016020	False
+P25929	NPY1R	human	domain_type	hasDomainType	INTERPRO:IPR017452	True
+P25929	NPY1R	human	function	hasFunctionTag	DOF:000011 receptor	True
+P25929	NPY1R	human	function	hasFunctionTag	DOF:000012 membrane-anchor	True
+P25929	NPY1R	human	function	hasFunctionTag	DOF:000039 signal-transducer	True
+P25929	NPY1R	human	topology	hasTopologyContext	DOP:000006 cytoplasmic	True
+P25929	NPY1R	human	topology	hasTopologyContext	DOP:000007 extracellular	True
+P25929	NPY1R	human	topology	hasTopologyContext	DOP:000008 transmembrane	True
+P25929	NPY1R	human	position	hasPositionalCategory	DOP:000004 Nterminal	True
+P25929	NPY1R	human	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	True
+P25929	NPY1R	human	binding_target	hasBindingTarget	DOT:000092 extracellular ligand	False
+P25929	NPY1R	human	binding_target	hasBindingTarget	DOT:000093 heterotrimeric G protein	False
+P25929	NPY1R	human	GO_component	hasGOTermCC	GO:0016020	False
+P27361	MAPK3	human	domain_type	hasDomainType	INTERPRO:IPR000719	True
+P27361	MAPK3	human	function	hasFunctionTag	DOF:000009 Binding	True
+P27361	MAPK3	human	function	hasFunctionTag	DOF:000010 catalytic	True
+P27361	MAPK3	human	topology	hasTopologyContext	DOP:000012 unknown	True
+P27361	MAPK3	human	position	hasPositionalCategory	DOP:000004 Nterminal	True
+P27361	MAPK3	human	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+P27361	MAPK3	human	binding_target	hasBindingTarget	DOT:000026 ATP	False
+P27361	MAPK3	human	binding_target	hasBindingTarget	DOT:000079 Mg2+	False
+P27361	MAPK3	human	binding_target	hasBindingTarget	DOT:000114 protein substrate	False
+P27361	MAPK3	human	GO_function	hasGOTermMF	GO:0004672	True
+P27361	MAPK3	human	GO_function	hasGOTermMF	GO:0005524	True
+P27361	MAPK3	human	GO_process	hasGOTermBP	GO:0006468	False
+P27815	PDE4A	human	domain_type	hasDomainType	INTERPRO:IPR040844	True
+P27815	PDE4A	human	function	hasFunctionTag	DOF:000014 regulator	True
+P27815	PDE4A	human	topology	hasTopologyContext	DOP:000012 unknown	True
+P27815	PDE4A	human	position	hasPositionalCategory	DOP:000005 Internal	True
+P27815	PDE4A	human	binding_target	hasBindingTarget	DOT:000095 intramolecular PDE regulatory contacts	False
+P27815	PDE4A	human	domain_type	hasDomainType	INTERPRO:IPR002073	True
+P27815	PDE4A	human	function	hasFunctionTag	DOF:000010 catalytic	True
+P27815	PDE4A	human	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+P27815	PDE4A	human	binding_target	hasBindingTarget	DOT:000033 cAMP	False
+P27815	PDE4A	human	binding_target	hasBindingTarget	DOT:000034 cGMP	False
+P27815	PDE4A	human	binding_target	hasBindingTarget	DOT:000084 Zn2+	False
+P27815	PDE4A	human	binding_target	hasBindingTarget	DOT:000079 Mg2+	False
+P27815	PDE4A	human	GO_function	hasGOTermMF	GO:0004114	True
+P27815	PDE4A	human	GO_process	hasGOTermBP	GO:0007165	False
+P27815	PDE4A	human	domain_type	hasDomainType	INTERPRO:IPR003607	True
+P27986	PIK3R1	human	domain_type	hasDomainType	INTERPRO:IPR001452	True
+P27986	PIK3R1	human	function	hasFunctionTag	DOF:000017 PPI	True
+P27986	PIK3R1	human	function	hasFunctionTag	DOF:000024 adaptor	True
+P27986	PIK3R1	human	topology	hasTopologyContext	DOP:000012 unknown	True
+P27986	PIK3R1	human	position	hasPositionalCategory	DOP:000004 Nterminal	True
+P27986	PIK3R1	human	binding_target	hasBindingTarget	DOT:000192 SH3-binding PxxP proteins	False
+P27986	PIK3R1	human	GO_function	hasGOTermMF	GO:0005515	True
+P27986	PIK3R1	human	domain_type	hasDomainType	INTERPRO:IPR035591	True
+P27986	PIK3R1	human	domain_type	hasDomainType	INTERPRO:IPR000198	True
+P27986	PIK3R1	human	function	hasFunctionTag	DOF:000014 regulator	True
+P27986	PIK3R1	human	function	hasFunctionTag	DOF:000044 GAP	True
+P27986	PIK3R1	human	binding_target	hasBindingTarget	DOT:000161 Rac1-GTP	False
+P27986	PIK3R1	human	binding_target	hasBindingTarget	DOT:000267 RHOA (GTP-bound)	False
+P27986	PIK3R1	human	GO_process	hasGOTermBP	GO:0007165	False
+P27986	PIK3R1	human	domain_type	hasDomainType	INTERPRO:IPR035022	True
+P27986	PIK3R1	human	position	hasPositionalCategory	DOP:000005 Internal	True
+P27986	PIK3R1	human	binding_target	hasBindingTarget	DOT:000191 IRS-1/IRS-2 pTyr motifs	False
+P27986	PIK3R1	human	binding_target	hasBindingTarget	DOT:000222 RTK tails (EGFR/PDGFR/IR)	False
+P27986	PIK3R1	human	binding_target	hasBindingTarget	DOT:000193 GAB1/GAB2 adaptors	False
+P27986	PIK3R1	human	domain_type	hasDomainType	INTERPRO:IPR000980	True
+P27986	PIK3R1	human	domain_type	hasDomainType	INTERPRO:IPR032498	True
+P27986	PIK3R1	human	position	hasPositionalCategory	DOP:000003 Cterminal	True
+P27986	PIK3R1	human	domain_type	hasDomainType	INTERPRO:IPR044124	True
+P27986	PIK3R1	human	binding_target	hasBindingTarget	DOT:000054 PI3K p110 catalytic subunit	False
+P27986	PIK3R1	human	domain_type	hasDomainType	INTERPRO:IPR035020	True
+P28482	MAPK1	human	domain_type	hasDomainType	INTERPRO:IPR000719	True
+P28482	MAPK1	human	function	hasFunctionTag	DOF:000009 Binding	True
+P28482	MAPK1	human	function	hasFunctionTag	DOF:000010 catalytic	True
+P28482	MAPK1	human	topology	hasTopologyContext	DOP:000012 unknown	True
+P28482	MAPK1	human	position	hasPositionalCategory	DOP:000004 Nterminal	True
+P28482	MAPK1	human	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+P28482	MAPK1	human	binding_target	hasBindingTarget	DOT:000026 ATP	False
+P28482	MAPK1	human	binding_target	hasBindingTarget	DOT:000079 Mg2+	False
+P28482	MAPK1	human	binding_target	hasBindingTarget	DOT:000114 protein substrate	False
+P28482	MAPK1	human	GO_function	hasGOTermMF	GO:0004672	True
+P28482	MAPK1	human	GO_function	hasGOTermMF	GO:0005524	True
+P28482	MAPK1	human	GO_process	hasGOTermBP	GO:0006468	False
+P29274	ADORA2A	human	domain_type	hasDomainType	INTERPRO:IPR017452	True
+P29274	ADORA2A	human	function	hasFunctionTag	DOF:000011 receptor	True
+P29274	ADORA2A	human	function	hasFunctionTag	DOF:000012 membrane-anchor	True
+P29274	ADORA2A	human	function	hasFunctionTag	DOF:000039 signal-transducer	True
+P29274	ADORA2A	human	topology	hasTopologyContext	DOP:000006 cytoplasmic	True
+P29274	ADORA2A	human	topology	hasTopologyContext	DOP:000007 extracellular	True
+P29274	ADORA2A	human	topology	hasTopologyContext	DOP:000008 transmembrane	True
+P29274	ADORA2A	human	position	hasPositionalCategory	DOP:000004 Nterminal	True
+P29274	ADORA2A	human	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	True
+P29274	ADORA2A	human	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+P29274	ADORA2A	human	binding_target	hasBindingTarget	DOT:000092 extracellular ligand	False
+P29274	ADORA2A	human	binding_target	hasBindingTarget	DOT:000093 heterotrimeric G protein	False
+P29274	ADORA2A	human	GO_component	hasGOTermCC	GO:0016020	False
+P29973	CNGA1	human	domain_type	hasDomainType	INTERPRO:IPR005821	True
+P29973	CNGA1	human	function	hasFunctionTag	DOF:000026 channel	True
+P29973	CNGA1	human	topology	hasTopologyContext	DOP:000006 cytoplasmic	True
+P29973	CNGA1	human	topology	hasTopologyContext	DOP:000007 extracellular	True
+P29973	CNGA1	human	topology	hasTopologyContext	DOP:000008 transmembrane	True
+P29973	CNGA1	human	position	hasPositionalCategory	DOP:000005 Internal	True
+P29973	CNGA1	human	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	True
+P29973	CNGA1	human	binding_target	hasBindingTarget	DOT:000069 Ca2+	False
+P29973	CNGA1	human	binding_target	hasBindingTarget	DOT:000070 Na+	False
+P29973	CNGA1	human	binding_target	hasBindingTarget	DOT:000130 K+	False
+P29973	CNGA1	human	GO_function	hasGOTermMF	GO:0005216	True
+P29973	CNGA1	human	GO_process	hasGOTermBP	GO:0006811	False
+P29973	CNGA1	human	GO_process	hasGOTermBP	GO:0055085	False
+P29973	CNGA1	human	GO_component	hasGOTermCC	GO:0016020	False
+P29973	CNGA1	human	domain_type	hasDomainType	INTERPRO:IPR000595	True
+P29973	CNGA1	human	function	hasFunctionTag	DOF:000014 regulator	True
+P29973	CNGA1	human	function	hasFunctionTag	DOF:000029 cyclic-nucleotide-sensor	True
+P29973	CNGA1	human	position	hasPositionalCategory	DOP:000003 Cterminal	True
+P29973	CNGA1	human	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+P29973	CNGA1	human	binding_target	hasBindingTarget	DOT:000033 cAMP	False
+P29973	CNGA1	human	binding_target	hasBindingTarget	DOT:000034 cGMP	False
+P29973	CNGA1	human	domain_type	hasDomainType	INTERPRO:IPR032406	True
+P29973	CNGA1	human	binding_target	hasBindingTarget	DOT:000112 protein partner	False
+P30542	ADORA1	human	domain_type	hasDomainType	INTERPRO:IPR017452	True
+P30542	ADORA1	human	function	hasFunctionTag	DOF:000011 receptor	True
+P30542	ADORA1	human	function	hasFunctionTag	DOF:000012 membrane-anchor	True
+P30542	ADORA1	human	function	hasFunctionTag	DOF:000039 signal-transducer	True
+P30542	ADORA1	human	topology	hasTopologyContext	DOP:000006 cytoplasmic	True
+P30542	ADORA1	human	topology	hasTopologyContext	DOP:000007 extracellular	True
+P30542	ADORA1	human	topology	hasTopologyContext	DOP:000008 transmembrane	True
+P30542	ADORA1	human	position	hasPositionalCategory	DOP:000004 Nterminal	True
+P30542	ADORA1	human	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	True
+P30542	ADORA1	human	binding_target	hasBindingTarget	DOT:000092 extracellular ligand	False
+P30542	ADORA1	human	binding_target	hasBindingTarget	DOT:000093 heterotrimeric G protein	False
+P30542	ADORA1	human	GO_component	hasGOTermCC	GO:0016020	False
+P30559	OXT	human	domain_type	hasDomainType	INTERPRO:IPR017452	True
+P30559	OXT	human	function	hasFunctionTag	DOF:000011 receptor	True
+P30559	OXT	human	function	hasFunctionTag	DOF:000012 membrane-anchor	True
+P30559	OXT	human	function	hasFunctionTag	DOF:000039 signal-transducer	True
+P30559	OXT	human	topology	hasTopologyContext	DOP:000006 cytoplasmic	True
+P30559	OXT	human	topology	hasTopologyContext	DOP:000007 extracellular	True
+P30559	OXT	human	topology	hasTopologyContext	DOP:000008 transmembrane	True
+P30559	OXT	human	position	hasPositionalCategory	DOP:000004 Nterminal	True
+P30559	OXT	human	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	True
+P30559	OXT	human	binding_target	hasBindingTarget	DOT:000092 extracellular ligand	False
+P30559	OXT	human	binding_target	hasBindingTarget	DOT:000093 heterotrimeric G protein	False
+P30559	OXT	human	GO_component	hasGOTermCC	GO:0016020	False
+P30872	SSTR1	human	domain_type	hasDomainType	INTERPRO:IPR017452	True
+P30872	SSTR1	human	function	hasFunctionTag	DOF:000011 receptor	True
+P30872	SSTR1	human	function	hasFunctionTag	DOF:000012 membrane-anchor	True
+P30872	SSTR1	human	function	hasFunctionTag	DOF:000039 signal-transducer	True
+P30872	SSTR1	human	topology	hasTopologyContext	DOP:000006 cytoplasmic	True
+P30872	SSTR1	human	topology	hasTopologyContext	DOP:000007 extracellular	True
+P30872	SSTR1	human	topology	hasTopologyContext	DOP:000008 transmembrane	True
+P30872	SSTR1	human	position	hasPositionalCategory	DOP:000004 Nterminal	True
+P30872	SSTR1	human	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	True
+P30872	SSTR1	human	binding_target	hasBindingTarget	DOT:000092 extracellular ligand	False
+P30872	SSTR1	human	binding_target	hasBindingTarget	DOT:000093 heterotrimeric G protein	False
+P30872	SSTR1	human	GO_component	hasGOTermCC	GO:0016020	False
+P30874	SSTR2	human	domain_type	hasDomainType	INTERPRO:IPR017452	True
+P30874	SSTR2	human	function	hasFunctionTag	DOF:000011 receptor	True
+P30874	SSTR2	human	function	hasFunctionTag	DOF:000012 membrane-anchor	True
+P30874	SSTR2	human	function	hasFunctionTag	DOF:000039 signal-transducer	True
+P30874	SSTR2	human	topology	hasTopologyContext	DOP:000006 cytoplasmic	True
+P30874	SSTR2	human	topology	hasTopologyContext	DOP:000007 extracellular	True
+P30874	SSTR2	human	topology	hasTopologyContext	DOP:000008 transmembrane	True
+P30874	SSTR2	human	position	hasPositionalCategory	DOP:000004 Nterminal	True
+P30874	SSTR2	human	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	True
+P30874	SSTR2	human	binding_target	hasBindingTarget	DOT:000092 extracellular ligand	False
+P30874	SSTR2	human	binding_target	hasBindingTarget	DOT:000093 heterotrimeric G protein	False
+P30874	SSTR2	human	GO_component	hasGOTermCC	GO:0016020	False
+P32241	VIP	human	domain_type	hasDomainType	INTERPRO:IPR001879	True
+P32241	VIP	human	function	hasFunctionTag	DOF:000011 receptor	True
+P32241	VIP	human	function	hasFunctionTag	DOF:000032 ligand-binding	True
+P32241	VIP	human	topology	hasTopologyContext	DOP:000007 extracellular	True
+P32241	VIP	human	position	hasPositionalCategory	DOP:000004 Nterminal	True
+P32241	VIP	human	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	True
+P32241	VIP	human	proximity	hasProximityCategory	DOP:000009 NearSignalPeptideCleavage	True
+P32241	VIP	human	binding_target	hasBindingTarget	DOT:000103 peptide hormone ligand	False
+P32241	VIP	human	GO_function	hasGOTermMF	GO:0004930	True
+P32241	VIP	human	GO_component	hasGOTermCC	GO:0016020	False
+P32241	VIP	human	domain_type	hasDomainType	INTERPRO:IPR017981	True
+P32241	VIP	human	function	hasFunctionTag	DOF:000012 membrane-anchor	True
+P32241	VIP	human	function	hasFunctionTag	DOF:000039 signal-transducer	True
+P32241	VIP	human	topology	hasTopologyContext	DOP:000006 cytoplasmic	True
+P32241	VIP	human	topology	hasTopologyContext	DOP:000008 transmembrane	True
+P32241	VIP	human	position	hasPositionalCategory	DOP:000003 Cterminal	True
+P32241	VIP	human	binding_target	hasBindingTarget	DOT:000092 extracellular ligand	False
+P32241	VIP	human	binding_target	hasBindingTarget	DOT:000093 heterotrimeric G protein	False
+P32241	VIP	human	GO_function	hasGOTermMF	GO:0004888	True
+P32241	VIP	human	GO_process	hasGOTermBP	GO:0007166	False
+P34998	CRHR1	human	domain_type	hasDomainType	INTERPRO:IPR001879	True
+P34998	CRHR1	human	function	hasFunctionTag	DOF:000011 receptor	True
+P34998	CRHR1	human	function	hasFunctionTag	DOF:000032 ligand-binding	True
+P34998	CRHR1	human	topology	hasTopologyContext	DOP:000007 extracellular	True
+P34998	CRHR1	human	position	hasPositionalCategory	DOP:000004 Nterminal	True
+P34998	CRHR1	human	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	True
+P34998	CRHR1	human	proximity	hasProximityCategory	DOP:000009 NearSignalPeptideCleavage	True
+P34998	CRHR1	human	binding_target	hasBindingTarget	DOT:000103 peptide hormone ligand	False
+P34998	CRHR1	human	GO_function	hasGOTermMF	GO:0004930	True
+P34998	CRHR1	human	GO_component	hasGOTermCC	GO:0016020	False
+P34998	CRHR1	human	domain_type	hasDomainType	INTERPRO:IPR017981	True
+P34998	CRHR1	human	function	hasFunctionTag	DOF:000012 membrane-anchor	True
+P34998	CRHR1	human	function	hasFunctionTag	DOF:000039 signal-transducer	True
+P34998	CRHR1	human	topology	hasTopologyContext	DOP:000006 cytoplasmic	True
+P34998	CRHR1	human	topology	hasTopologyContext	DOP:000008 transmembrane	True
+P34998	CRHR1	human	position	hasPositionalCategory	DOP:000003 Cterminal	True
+P34998	CRHR1	human	binding_target	hasBindingTarget	DOT:000092 extracellular ligand	False
+P34998	CRHR1	human	binding_target	hasBindingTarget	DOT:000093 heterotrimeric G protein	False
+P34998	CRHR1	human	GO_function	hasGOTermMF	GO:0004888	True
+P34998	CRHR1	human	GO_process	hasGOTermBP	GO:0007166	False
+P35346	SSTR5	human	domain_type	hasDomainType	INTERPRO:IPR017452	True
+P35346	SSTR5	human	function	hasFunctionTag	DOF:000011 receptor	True
+P35346	SSTR5	human	function	hasFunctionTag	DOF:000012 membrane-anchor	True
+P35346	SSTR5	human	function	hasFunctionTag	DOF:000039 signal-transducer	True
+P35346	SSTR5	human	topology	hasTopologyContext	DOP:000006 cytoplasmic	True
+P35346	SSTR5	human	topology	hasTopologyContext	DOP:000007 extracellular	True
+P35346	SSTR5	human	topology	hasTopologyContext	DOP:000008 transmembrane	True
+P35346	SSTR5	human	position	hasPositionalCategory	DOP:000004 Nterminal	True
+P35346	SSTR5	human	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	True
+P35346	SSTR5	human	binding_target	hasBindingTarget	DOT:000092 extracellular ligand	False
+P35346	SSTR5	human	binding_target	hasBindingTarget	DOT:000093 heterotrimeric G protein	False
+P35346	SSTR5	human	GO_component	hasGOTermCC	GO:0016020	False
+P35408	PTGER2	human	domain_type	hasDomainType	INTERPRO:IPR017452	True
+P35408	PTGER2	human	function	hasFunctionTag	DOF:000011 receptor	True
+P35408	PTGER2	human	function	hasFunctionTag	DOF:000012 membrane-anchor	True
+P35408	PTGER2	human	function	hasFunctionTag	DOF:000039 signal-transducer	True
+P35408	PTGER2	human	topology	hasTopologyContext	DOP:000006 cytoplasmic	True
+P35408	PTGER2	human	topology	hasTopologyContext	DOP:000007 extracellular	True
+P35408	PTGER2	human	topology	hasTopologyContext	DOP:000008 transmembrane	True
+P35408	PTGER2	human	position	hasPositionalCategory	DOP:000004 Nterminal	True
+P35408	PTGER2	human	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	True
+P35408	PTGER2	human	binding_target	hasBindingTarget	DOT:000092 extracellular ligand	False
+P35408	PTGER2	human	binding_target	hasBindingTarget	DOT:000093 heterotrimeric G protein	False
+P35408	PTGER2	human	GO_component	hasGOTermCC	GO:0016020	False
+P36507	MAP2K2	human	domain_type	hasDomainType	INTERPRO:IPR000719	True
+P36507	MAP2K2	human	function	hasFunctionTag	DOF:000009 Binding	True
+P36507	MAP2K2	human	function	hasFunctionTag	DOF:000010 catalytic	True
+P36507	MAP2K2	human	topology	hasTopologyContext	DOP:000012 unknown	True
+P36507	MAP2K2	human	position	hasPositionalCategory	DOP:000004 Nterminal	True
+P36507	MAP2K2	human	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+P36507	MAP2K2	human	binding_target	hasBindingTarget	DOT:000026 ATP	False
+P36507	MAP2K2	human	binding_target	hasBindingTarget	DOT:000079 Mg2+	False
+P36507	MAP2K2	human	binding_target	hasBindingTarget	DOT:000114 protein substrate	False
+P36507	MAP2K2	human	GO_function	hasGOTermMF	GO:0004672	True
+P36507	MAP2K2	human	GO_function	hasGOTermMF	GO:0005524	True
+P36507	MAP2K2	human	GO_process	hasGOTermBP	GO:0006468	False
+P36873	PPP1CC	human	domain_type	hasDomainType	INTERPRO:IPR031675	True
+P36873	PPP1CC	human	function	hasFunctionTag	DOF:000016 scaffold	True
+P36873	PPP1CC	human	function	hasFunctionTag	DOF:000025 catalytic-support	True
+P36873	PPP1CC	human	topology	hasTopologyContext	DOP:000012 unknown	True
+P36873	PPP1CC	human	position	hasPositionalCategory	DOP:000004 Nterminal	True
+P36873	PPP1CC	human	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+P36873	PPP1CC	human	binding_target	hasBindingTarget	DOT:000116 regulatory subunits	False
+P36873	PPP1CC	human	domain_type	hasDomainType	INTERPRO:IPR006186	True
+P36873	PPP1CC	human	function	hasFunctionTag	DOF:000010 catalytic	True
+P36873	PPP1CC	human	binding_target	hasBindingTarget	DOT:000100 metal ions	False
+P36873	PPP1CC	human	binding_target	hasBindingTarget	DOT:000107 phosphoprotein substrate	False
+P36873	PPP1CC	human	GO_function	hasGOTermMF	GO:0016787	True
+P36873	PPP1CC	human	domain_type	hasDomainType	INTERPRO:IPR004843	True
+P40145	ADCY	human	domain_type	hasDomainType	INTERPRO:IPR032628	True
+P40145	ADCY	human	function	hasFunctionTag	DOF:000012 membrane-anchor	True
+P40145	ADCY	human	topology	hasTopologyContext	DOP:000006 cytoplasmic	True
+P40145	ADCY	human	topology	hasTopologyContext	DOP:000008 transmembrane	True
+P40145	ADCY	human	position	hasPositionalCategory	DOP:000004 Nterminal	True
+P40145	ADCY	human	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	True
+P40145	ADCY	human	binding_target	hasBindingTarget	DOT:000097 membrane environment	False
+P40145	ADCY	human	domain_type	hasDomainType	INTERPRO:IPR001054	True
+P40145	ADCY	human	function	hasFunctionTag	DOF:000010 catalytic	True
+P40145	ADCY	human	position	hasPositionalCategory	DOP:000005 Internal	True
+P40145	ADCY	human	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+P40145	ADCY	human	binding_target	hasBindingTarget	DOT:000026 ATP	False
+P40145	ADCY	human	binding_target	hasBindingTarget	DOT:000079 Mg2+	False
+P40145	ADCY	human	binding_target	hasBindingTarget	DOT:000080 Mn2+	False
+P40145	ADCY	human	GO_process	hasGOTermBP	GO:0009190	False
+P40145	ADCY	human	GO_process	hasGOTermBP	GO:0035556	False
+P40145	ADCY	human	domain_type	hasDomainType	INTERPRO:IPR009398	True
+P40145	ADCY	human	GO_function	hasGOTermMF	GO:0004016	True
+P40145	ADCY	human	GO_process	hasGOTermBP	GO:0006171	False
+P40145	ADCY	human	GO_component	hasGOTermCC	GO:0005886	False
+P40145	ADCY	human	position	hasPositionalCategory	DOP:000003 Cterminal	True
+P41586	ADCYAP1R1	human	domain_type	hasDomainType	INTERPRO:IPR001879	True
+P41586	ADCYAP1R1	human	function	hasFunctionTag	DOF:000011 receptor	True
+P41586	ADCYAP1R1	human	function	hasFunctionTag	DOF:000032 ligand-binding	True
+P41586	ADCYAP1R1	human	topology	hasTopologyContext	DOP:000007 extracellular	True
+P41586	ADCYAP1R1	human	position	hasPositionalCategory	DOP:000004 Nterminal	True
+P41586	ADCYAP1R1	human	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	True
+P41586	ADCYAP1R1	human	proximity	hasProximityCategory	DOP:000009 NearSignalPeptideCleavage	True
+P41586	ADCYAP1R1	human	binding_target	hasBindingTarget	DOT:000103 peptide hormone ligand	False
+P41586	ADCYAP1R1	human	GO_function	hasGOTermMF	GO:0004930	True
+P41586	ADCYAP1R1	human	GO_component	hasGOTermCC	GO:0016020	False
+P41586	ADCYAP1R1	human	domain_type	hasDomainType	INTERPRO:IPR017981	True
+P41586	ADCYAP1R1	human	function	hasFunctionTag	DOF:000012 membrane-anchor	True
+P41586	ADCYAP1R1	human	function	hasFunctionTag	DOF:000039 signal-transducer	True
+P41586	ADCYAP1R1	human	topology	hasTopologyContext	DOP:000006 cytoplasmic	True
+P41586	ADCYAP1R1	human	topology	hasTopologyContext	DOP:000008 transmembrane	True
+P41586	ADCYAP1R1	human	position	hasPositionalCategory	DOP:000003 Cterminal	True
+P41586	ADCYAP1R1	human	binding_target	hasBindingTarget	DOT:000092 extracellular ligand	False
+P41586	ADCYAP1R1	human	binding_target	hasBindingTarget	DOT:000093 heterotrimeric G protein	False
+P41586	ADCYAP1R1	human	GO_function	hasGOTermMF	GO:0004888	True
+P41586	ADCYAP1R1	human	GO_process	hasGOTermBP	GO:0007166	False
+P41587	VIP	human	domain_type	hasDomainType	INTERPRO:IPR001879	True
+P41587	VIP	human	function	hasFunctionTag	DOF:000011 receptor	True
+P41587	VIP	human	function	hasFunctionTag	DOF:000032 ligand-binding	True
+P41587	VIP	human	topology	hasTopologyContext	DOP:000007 extracellular	True
+P41587	VIP	human	position	hasPositionalCategory	DOP:000004 Nterminal	True
+P41587	VIP	human	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	True
+P41587	VIP	human	proximity	hasProximityCategory	DOP:000009 NearSignalPeptideCleavage	True
+P41587	VIP	human	binding_target	hasBindingTarget	DOT:000103 peptide hormone ligand	False
+P41587	VIP	human	GO_function	hasGOTermMF	GO:0004930	True
+P41587	VIP	human	GO_component	hasGOTermCC	GO:0016020	False
+P41587	VIP	human	domain_type	hasDomainType	INTERPRO:IPR047035	True
+P41587	VIP	human	function	hasFunctionTag	DOF:000012 membrane-anchor	True
+P41587	VIP	human	function	hasFunctionTag	DOF:000039 signal-transducer	True
+P41587	VIP	human	topology	hasTopologyContext	DOP:000006 cytoplasmic	True
+P41587	VIP	human	topology	hasTopologyContext	DOP:000008 transmembrane	True
+P41587	VIP	human	position	hasPositionalCategory	DOP:000003 Cterminal	True
+P41587	VIP	human	binding_target	hasBindingTarget	DOT:000092 extracellular ligand	False
+P41587	VIP	human	binding_target	hasBindingTarget	DOT:000093 heterotrimeric G protein	False
+P41587	VIP	human	domain_type	hasDomainType	INTERPRO:IPR017981	True
+P41587	VIP	human	GO_function	hasGOTermMF	GO:0004888	True
+P41587	VIP	human	GO_process	hasGOTermBP	GO:0007166	False
+P42336	PIK3CA	human	domain_type	hasDomainType	INTERPRO:IPR003113	True
+P42336	PIK3CA	human	function	hasFunctionTag	DOF:000016 scaffold	True
+P42336	PIK3CA	human	function	hasFunctionTag	DOF:000014 regulator	True
+P42336	PIK3CA	human	topology	hasTopologyContext	DOP:000012 unknown	True
+P42336	PIK3CA	human	position	hasPositionalCategory	DOP:000004 Nterminal	True
+P42336	PIK3CA	human	binding_target	hasBindingTarget	DOT:000172 p85-alpha/p85-beta regulatory subunit	False
+P42336	PIK3CA	human	domain_type	hasDomainType	INTERPRO:IPR000341	True
+P42336	PIK3CA	human	function	hasFunctionTag	DOF:000009 Binding	True
+P42336	PIK3CA	human	binding_target	hasBindingTarget	DOT:000123 Ras-related small GTPase	False
+P42336	PIK3CA	human	domain_type	hasDomainType	INTERPRO:IPR002420	True
+P42336	PIK3CA	human	function	hasFunctionTag	DOF:000033 membrane-targeting	True
+P42336	PIK3CA	human	position	hasPositionalCategory	DOP:000005 Internal	True
+P42336	PIK3CA	human	binding_target	hasBindingTarget	DOT:000098 membrane phospholipid	False
+P42336	PIK3CA	human	domain_type	hasDomainType	INTERPRO:IPR001263	True
+P42336	PIK3CA	human	binding_target	hasBindingTarget	DOT:000221 mTOR complex	False
+P42336	PIK3CA	human	domain_type	hasDomainType	INTERPRO:IPR037704	True
+P42336	PIK3CA	human	function	hasFunctionTag	DOF:000010 catalytic	True
+P42336	PIK3CA	human	position	hasPositionalCategory	DOP:000003 Cterminal	True
+P42336	PIK3CA	human	binding_target	hasBindingTarget	DOT:000026 ATP	False
+P42336	PIK3CA	human	binding_target	hasBindingTarget	DOT:000079 Mg2+	False
+P42336	PIK3CA	human	binding_target	hasBindingTarget	DOT:000114 protein substrate	False
+P42336	PIK3CA	human	GO_function	hasGOTermMF	GO:0016303	True
+P42336	PIK3CA	human	GO_process	hasGOTermBP	GO:0043491	False
+P42336	PIK3CA	human	domain_type	hasDomainType	INTERPRO:IPR000403	True
+P42338	PIK3CB	human	domain_type	hasDomainType	INTERPRO:IPR003113	True
+P42338	PIK3CB	human	function	hasFunctionTag	DOF:000016 scaffold	True
+P42338	PIK3CB	human	function	hasFunctionTag	DOF:000014 regulator	True
+P42338	PIK3CB	human	topology	hasTopologyContext	DOP:000012 unknown	True
+P42338	PIK3CB	human	position	hasPositionalCategory	DOP:000004 Nterminal	True
+P42338	PIK3CB	human	binding_target	hasBindingTarget	DOT:000172 p85-alpha/p85-beta regulatory subunit	False
+P42338	PIK3CB	human	domain_type	hasDomainType	INTERPRO:IPR000341	True
+P42338	PIK3CB	human	function	hasFunctionTag	DOF:000009 Binding	True
+P42338	PIK3CB	human	binding_target	hasBindingTarget	DOT:000123 Ras-related small GTPase	False
+P42338	PIK3CB	human	domain_type	hasDomainType	INTERPRO:IPR002420	True
+P42338	PIK3CB	human	function	hasFunctionTag	DOF:000033 membrane-targeting	True
+P42338	PIK3CB	human	position	hasPositionalCategory	DOP:000005 Internal	True
+P42338	PIK3CB	human	binding_target	hasBindingTarget	DOT:000098 membrane phospholipid	False
+P42338	PIK3CB	human	domain_type	hasDomainType	INTERPRO:IPR001263	True
+P42338	PIK3CB	human	binding_target	hasBindingTarget	DOT:000221 mTOR complex	False
+P42338	PIK3CB	human	domain_type	hasDomainType	INTERPRO:IPR037702	True
+P42338	PIK3CB	human	function	hasFunctionTag	DOF:000010 catalytic	True
+P42338	PIK3CB	human	position	hasPositionalCategory	DOP:000003 Cterminal	True
+P42338	PIK3CB	human	binding_target	hasBindingTarget	DOT:000026 ATP	False
+P42338	PIK3CB	human	binding_target	hasBindingTarget	DOT:000079 Mg2+	False
+P42338	PIK3CB	human	binding_target	hasBindingTarget	DOT:000114 protein substrate	False
+P42338	PIK3CB	human	GO_function	hasGOTermMF	GO:0016303	True
+P42338	PIK3CB	human	GO_process	hasGOTermBP	GO:0043491	False
+P42338	PIK3CB	human	domain_type	hasDomainType	INTERPRO:IPR000403	True
+P43115	PTGER3	human	domain_type	hasDomainType	INTERPRO:IPR017452	True
+P43115	PTGER3	human	function	hasFunctionTag	DOF:000011 receptor	True
+P43115	PTGER3	human	function	hasFunctionTag	DOF:000012 membrane-anchor	True
+P43115	PTGER3	human	function	hasFunctionTag	DOF:000039 signal-transducer	True
+P43115	PTGER3	human	topology	hasTopologyContext	DOP:000006 cytoplasmic	True
+P43115	PTGER3	human	topology	hasTopologyContext	DOP:000007 extracellular	True
+P43115	PTGER3	human	topology	hasTopologyContext	DOP:000008 transmembrane	True
+P43115	PTGER3	human	position	hasPositionalCategory	DOP:000004 Nterminal	True
+P43115	PTGER3	human	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	True
+P43115	PTGER3	human	binding_target	hasBindingTarget	DOT:000092 extracellular ligand	False
+P43115	PTGER3	human	binding_target	hasBindingTarget	DOT:000093 heterotrimeric G protein	False
+P43115	PTGER3	human	GO_component	hasGOTermCC	GO:0016020	False
+P43116	PTGER2	human	domain_type	hasDomainType	INTERPRO:IPR017452	True
+P43116	PTGER2	human	function	hasFunctionTag	DOF:000011 receptor	True
+P43116	PTGER2	human	function	hasFunctionTag	DOF:000012 membrane-anchor	True
+P43116	PTGER2	human	function	hasFunctionTag	DOF:000039 signal-transducer	True
+P43116	PTGER2	human	topology	hasTopologyContext	DOP:000006 cytoplasmic	True
+P43116	PTGER2	human	topology	hasTopologyContext	DOP:000007 extracellular	True
+P43116	PTGER2	human	topology	hasTopologyContext	DOP:000008 transmembrane	True
+P43116	PTGER2	human	position	hasPositionalCategory	DOP:000004 Nterminal	True
+P43116	PTGER2	human	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	True
+P43116	PTGER2	human	binding_target	hasBindingTarget	DOT:000092 extracellular ligand	False
+P43116	PTGER2	human	binding_target	hasBindingTarget	DOT:000093 heterotrimeric G protein	False
+P43116	PTGER2	human	GO_component	hasGOTermCC	GO:0016020	False
+P45983	MAPK8	human	domain_type	hasDomainType	INTERPRO:IPR000719	True
+P45983	MAPK8	human	function	hasFunctionTag	DOF:000009 Binding	True
+P45983	MAPK8	human	function	hasFunctionTag	DOF:000010 catalytic	True
+P45983	MAPK8	human	topology	hasTopologyContext	DOP:000012 unknown	True
+P45983	MAPK8	human	position	hasPositionalCategory	DOP:000004 Nterminal	True
+P45983	MAPK8	human	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+P45983	MAPK8	human	binding_target	hasBindingTarget	DOT:000026 ATP	False
+P45983	MAPK8	human	binding_target	hasBindingTarget	DOT:000079 Mg2+	False
+P45983	MAPK8	human	binding_target	hasBindingTarget	DOT:000114 protein substrate	False
+P45983	MAPK8	human	GO_function	hasGOTermMF	GO:0004672	True
+P45983	MAPK8	human	GO_function	hasGOTermMF	GO:0005524	True
+P45983	MAPK8	human	GO_process	hasGOTermBP	GO:0006468	False
+P45984	MAPK9	human	domain_type	hasDomainType	INTERPRO:IPR000719	True
+P45984	MAPK9	human	function	hasFunctionTag	DOF:000009 Binding	True
+P45984	MAPK9	human	function	hasFunctionTag	DOF:000010 catalytic	True
+P45984	MAPK9	human	topology	hasTopologyContext	DOP:000012 unknown	True
+P45984	MAPK9	human	position	hasPositionalCategory	DOP:000004 Nterminal	True
+P45984	MAPK9	human	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+P45984	MAPK9	human	binding_target	hasBindingTarget	DOT:000026 ATP	False
+P45984	MAPK9	human	binding_target	hasBindingTarget	DOT:000079 Mg2+	False
+P45984	MAPK9	human	binding_target	hasBindingTarget	DOT:000114 protein substrate	False
+P45984	MAPK9	human	GO_function	hasGOTermMF	GO:0004672	True
+P45984	MAPK9	human	GO_function	hasGOTermMF	GO:0005524	True
+P45984	MAPK9	human	GO_process	hasGOTermBP	GO:0006468	False
+P48546	GIPR	human	domain_type	hasDomainType	INTERPRO:IPR001879	True
+P48546	GIPR	human	function	hasFunctionTag	DOF:000011 receptor	True
+P48546	GIPR	human	function	hasFunctionTag	DOF:000032 ligand-binding	True
+P48546	GIPR	human	topology	hasTopologyContext	DOP:000007 extracellular	True
+P48546	GIPR	human	position	hasPositionalCategory	DOP:000004 Nterminal	True
+P48546	GIPR	human	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	True
+P48546	GIPR	human	binding_target	hasBindingTarget	DOT:000103 peptide hormone ligand	False
+P48546	GIPR	human	GO_function	hasGOTermMF	GO:0004930	True
+P48546	GIPR	human	GO_component	hasGOTermCC	GO:0016020	False
+P48546	GIPR	human	domain_type	hasDomainType	INTERPRO:IPR017981	True
+P48546	GIPR	human	function	hasFunctionTag	DOF:000012 membrane-anchor	True
+P48546	GIPR	human	function	hasFunctionTag	DOF:000039 signal-transducer	True
+P48546	GIPR	human	topology	hasTopologyContext	DOP:000006 cytoplasmic	True
+P48546	GIPR	human	topology	hasTopologyContext	DOP:000008 transmembrane	True
+P48546	GIPR	human	position	hasPositionalCategory	DOP:000003 Cterminal	True
+P48546	GIPR	human	binding_target	hasBindingTarget	DOT:000092 extracellular ligand	False
+P48546	GIPR	human	binding_target	hasBindingTarget	DOT:000093 heterotrimeric G protein	False
+P48546	GIPR	human	GO_function	hasGOTermMF	GO:0004888	True
+P48546	GIPR	human	GO_process	hasGOTermBP	GO:0007166	False
+P49019	HCAR3	human	domain_type	hasDomainType	INTERPRO:IPR017452	True
+P49019	HCAR3	human	function	hasFunctionTag	DOF:000011 receptor	True
+P49019	HCAR3	human	function	hasFunctionTag	DOF:000012 membrane-anchor	True
+P49019	HCAR3	human	function	hasFunctionTag	DOF:000039 signal-transducer	True
+P49019	HCAR3	human	topology	hasTopologyContext	DOP:000006 cytoplasmic	True
+P49019	HCAR3	human	topology	hasTopologyContext	DOP:000007 extracellular	True
+P49019	HCAR3	human	topology	hasTopologyContext	DOP:000008 transmembrane	True
+P49019	HCAR3	human	position	hasPositionalCategory	DOP:000004 Nterminal	True
+P49019	HCAR3	human	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	True
+P49019	HCAR3	human	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+P49019	HCAR3	human	binding_target	hasBindingTarget	DOT:000092 extracellular ligand	False
+P49019	HCAR3	human	binding_target	hasBindingTarget	DOT:000093 heterotrimeric G protein	False
+P49019	HCAR3	human	GO_component	hasGOTermCC	GO:0016020	False
+P49795	GNAI	human	domain_type	hasDomainType	INTERPRO:IPR016137	True
+P49795	GNAI	human	function	hasFunctionTag	DOF:000014 regulator	True
+P49795	GNAI	human	function	hasFunctionTag	DOF:000044 GAP	True
+P49795	GNAI	human	topology	hasTopologyContext	DOP:000012 unknown	True
+P49795	GNAI	human	position	hasPositionalCategory	DOP:000003 Cterminal	True
+P49795	GNAI	human	binding_target	hasBindingTarget	DOT:000073 G alpha subunit	False
+P51828	ADCY	human	domain_type	hasDomainType	INTERPRO:IPR032628	True
+P51828	ADCY	human	function	hasFunctionTag	DOF:000012 membrane-anchor	True
+P51828	ADCY	human	topology	hasTopologyContext	DOP:000006 cytoplasmic	True
+P51828	ADCY	human	topology	hasTopologyContext	DOP:000008 transmembrane	True
+P51828	ADCY	human	position	hasPositionalCategory	DOP:000004 Nterminal	True
+P51828	ADCY	human	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	True
+P51828	ADCY	human	binding_target	hasBindingTarget	DOT:000097 membrane environment	False
+P51828	ADCY	human	domain_type	hasDomainType	INTERPRO:IPR001054	True
+P51828	ADCY	human	function	hasFunctionTag	DOF:000010 catalytic	True
+P51828	ADCY	human	position	hasPositionalCategory	DOP:000005 Internal	True
+P51828	ADCY	human	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+P51828	ADCY	human	binding_target	hasBindingTarget	DOT:000026 ATP	False
+P51828	ADCY	human	binding_target	hasBindingTarget	DOT:000079 Mg2+	False
+P51828	ADCY	human	binding_target	hasBindingTarget	DOT:000080 Mn2+	False
+P51828	ADCY	human	GO_process	hasGOTermBP	GO:0009190	False
+P51828	ADCY	human	GO_process	hasGOTermBP	GO:0035556	False
+P51828	ADCY	human	domain_type	hasDomainType	INTERPRO:IPR009398	True
+P51828	ADCY	human	GO_function	hasGOTermMF	GO:0004016	True
+P51828	ADCY	human	GO_process	hasGOTermBP	GO:0006171	False
+P51828	ADCY	human	GO_component	hasGOTermCC	GO:0005886	False
+P51828	ADCY	human	position	hasPositionalCategory	DOP:000003 Cterminal	True
+P52735	VAV2	human	domain_type	hasDomainType	INTERPRO:IPR001715	True
+P52735	VAV2	human	function	hasFunctionTag	DOF:000009 Binding	True
+P52735	VAV2	human	function	hasFunctionTag	DOF:000016 scaffold	True
+P52735	VAV2	human	topology	hasTopologyContext	DOP:000012 unknown	True
+P52735	VAV2	human	position	hasPositionalCategory	DOP:000004 Nterminal	True
+P52735	VAV2	human	binding_target	hasBindingTarget	DOT:000086 actin	False
+P52735	VAV2	human	GO_function	hasGOTermMF	GO:0005515	True
+P52735	VAV2	human	domain_type	hasDomainType	INTERPRO:IPR022613	True
+P52735	VAV2	human	function	hasFunctionTag	DOF:000014 regulator	True
+P52735	VAV2	human	binding_target	hasBindingTarget	DOT:000112 protein partner	False
+P52735	VAV2	human	domain_type	hasDomainType	INTERPRO:IPR000219	True
+P52735	VAV2	human	function	hasFunctionTag	DOF:000045 GEF	True
+P52735	VAV2	human	position	hasPositionalCategory	DOP:000005 Internal	True
+P52735	VAV2	human	binding_target	hasBindingTarget	DOT:000062 Rho-related small GTPase	False
+P52735	VAV2	human	GO_function	hasGOTermMF	GO:0005085	True
+P52735	VAV2	human	domain_type	hasDomainType	INTERPRO:IPR037832	True
+P52735	VAV2	human	function	hasFunctionTag	DOF:000033 membrane-targeting	True
+P52735	VAV2	human	function	hasFunctionTag	DOF:000024 adaptor	True
+P52735	VAV2	human	binding_target	hasBindingTarget	DOT:000131 PI(3,4,5)P3	False
+P52735	VAV2	human	domain_type	hasDomainType	INTERPRO:IPR055251	True
+P52735	VAV2	human	binding_target	hasBindingTarget	DOT:000038 Phosphoinositides	False
+P52735	VAV2	human	domain_type	hasDomainType	INTERPRO:IPR001849	True
+P52735	VAV2	human	domain_type	hasDomainType	INTERPRO:IPR002219	True
+P52735	VAV2	human	function	hasFunctionTag	DOF:000040 structural	True
+P52735	VAV2	human	binding_target	hasBindingTarget	DOT:000127 Dbl homology domain (intramolecular)	False
+P52735	VAV2	human	binding_target	hasBindingTarget	DOT:000084 Zn2+	False
+P52735	VAV2	human	domain_type	hasDomainType	INTERPRO:IPR001452	True
+P52735	VAV2	human	function	hasFunctionTag	DOF:000017 PPI	True
+P52735	VAV2	human	binding_target	hasBindingTarget	DOT:000192 SH3-binding PxxP proteins	False
+P52735	VAV2	human	domain_type	hasDomainType	INTERPRO:IPR035733	True
+P52735	VAV2	human	domain_type	hasDomainType	INTERPRO:IPR035880	True
+P52735	VAV2	human	position	hasPositionalCategory	DOP:000003 Cterminal	True
+P52735	VAV2	human	domain_type	hasDomainType	INTERPRO:IPR000980	True
+P52735	VAV2	human	binding_target	hasBindingTarget	DOT:000109 phosphotyrosine-containing proteins	False
+P52735	VAV2	human	domain_type	hasDomainType	INTERPRO:IPR035732	True
+P53778	MAPK1	human	domain_type	hasDomainType	INTERPRO:IPR000719	True
+P53778	MAPK1	human	function	hasFunctionTag	DOF:000009 Binding	True
+P53778	MAPK1	human	function	hasFunctionTag	DOF:000010 catalytic	True
+P53778	MAPK1	human	topology	hasTopologyContext	DOP:000012 unknown	True
+P53778	MAPK1	human	position	hasPositionalCategory	DOP:000004 Nterminal	True
+P53778	MAPK1	human	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+P53778	MAPK1	human	binding_target	hasBindingTarget	DOT:000026 ATP	False
+P53778	MAPK1	human	binding_target	hasBindingTarget	DOT:000079 Mg2+	False
+P53778	MAPK1	human	binding_target	hasBindingTarget	DOT:000114 protein substrate	False
+P53778	MAPK1	human	GO_function	hasGOTermMF	GO:0004672	True
+P53778	MAPK1	human	GO_function	hasGOTermMF	GO:0005524	True
+P53778	MAPK1	human	GO_process	hasGOTermBP	GO:0006468	False
+P53779	MAPK10	human	domain_type	hasDomainType	INTERPRO:IPR000719	True
+P53779	MAPK10	human	function	hasFunctionTag	DOF:000009 Binding	True
+P53779	MAPK10	human	function	hasFunctionTag	DOF:000010 catalytic	True
+P53779	MAPK10	human	topology	hasTopologyContext	DOP:000012 unknown	True
+P53779	MAPK10	human	position	hasPositionalCategory	DOP:000004 Nterminal	True
+P53779	MAPK10	human	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+P53779	MAPK10	human	binding_target	hasBindingTarget	DOT:000026 ATP	False
+P53779	MAPK10	human	binding_target	hasBindingTarget	DOT:000079 Mg2+	False
+P53779	MAPK10	human	binding_target	hasBindingTarget	DOT:000114 protein substrate	False
+P53779	MAPK10	human	GO_function	hasGOTermMF	GO:0004672	True
+P53779	MAPK10	human	GO_function	hasGOTermMF	GO:0005524	True
+P53779	MAPK10	human	GO_process	hasGOTermBP	GO:0006468	False
+P60763	RAC3	human	domain_type	hasDomainType	INTERPRO:IPR005225	True
+P60763	RAC3	human	function	hasFunctionTag	DOF:000009 Binding	True
+P60763	RAC3	human	function	hasFunctionTag	DOF:000035 molecular-switch	True
+P60763	RAC3	human	topology	hasTopologyContext	DOP:000012 unknown	True
+P60763	RAC3	human	position	hasPositionalCategory	DOP:000004 Nterminal	True
+P60763	RAC3	human	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+P60763	RAC3	human	binding_target	hasBindingTarget	DOT:000076 GDP	False
+P60763	RAC3	human	binding_target	hasBindingTarget	DOT:000029 GTP	False
+P60763	RAC3	human	binding_target	hasBindingTarget	DOT:000120 GAP	False
+P60763	RAC3	human	binding_target	hasBindingTarget	DOT:000121 GEF	False
+P60763	RAC3	human	binding_target	hasBindingTarget	DOT:000091 effector proteins	False
+P60763	RAC3	human	GO_function	hasGOTermMF	GO:0005525	True
+P61224	RAP1B	human	domain_type	hasDomainType	INTERPRO:IPR005225	True
+P61224	RAP1B	human	function	hasFunctionTag	DOF:000009 Binding	True
+P61224	RAP1B	human	function	hasFunctionTag	DOF:000035 molecular-switch	True
+P61224	RAP1B	human	topology	hasTopologyContext	DOP:000012 unknown	True
+P61224	RAP1B	human	position	hasPositionalCategory	DOP:000004 Nterminal	True
+P61224	RAP1B	human	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+P61224	RAP1B	human	binding_target	hasBindingTarget	DOT:000076 GDP	False
+P61224	RAP1B	human	binding_target	hasBindingTarget	DOT:000029 GTP	False
+P61224	RAP1B	human	binding_target	hasBindingTarget	DOT:000120 GAP	False
+P61224	RAP1B	human	binding_target	hasBindingTarget	DOT:000121 GEF	False
+P61224	RAP1B	human	binding_target	hasBindingTarget	DOT:000091 effector proteins	False
+P61224	RAP1B	human	GO_function	hasGOTermMF	GO:0005525	True
+P62136	PPP1CA	human	domain_type	hasDomainType	INTERPRO:IPR031675	True
+P62136	PPP1CA	human	function	hasFunctionTag	DOF:000016 scaffold	True
+P62136	PPP1CA	human	function	hasFunctionTag	DOF:000025 catalytic-support	True
+P62136	PPP1CA	human	topology	hasTopologyContext	DOP:000012 unknown	True
+P62136	PPP1CA	human	position	hasPositionalCategory	DOP:000004 Nterminal	True
+P62136	PPP1CA	human	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+P62136	PPP1CA	human	binding_target	hasBindingTarget	DOT:000116 regulatory subunits	False
+P62136	PPP1CA	human	domain_type	hasDomainType	INTERPRO:IPR006186	True
+P62136	PPP1CA	human	function	hasFunctionTag	DOF:000010 catalytic	True
+P62136	PPP1CA	human	binding_target	hasBindingTarget	DOT:000100 metal ions	False
+P62136	PPP1CA	human	binding_target	hasBindingTarget	DOT:000107 phosphoprotein substrate	False
+P62136	PPP1CA	human	GO_function	hasGOTermMF	GO:0016787	True
+P62136	PPP1CA	human	domain_type	hasDomainType	INTERPRO:IPR004843	True
+P62140	PPP1CB	human	domain_type	hasDomainType	INTERPRO:IPR031675	True
+P62140	PPP1CB	human	function	hasFunctionTag	DOF:000016 scaffold	True
+P62140	PPP1CB	human	function	hasFunctionTag	DOF:000025 catalytic-support	True
+P62140	PPP1CB	human	topology	hasTopologyContext	DOP:000012 unknown	True
+P62140	PPP1CB	human	position	hasPositionalCategory	DOP:000004 Nterminal	True
+P62140	PPP1CB	human	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+P62140	PPP1CB	human	binding_target	hasBindingTarget	DOT:000116 regulatory subunits	False
+P62140	PPP1CB	human	domain_type	hasDomainType	INTERPRO:IPR006186	True
+P62140	PPP1CB	human	function	hasFunctionTag	DOF:000010 catalytic	True
+P62140	PPP1CB	human	binding_target	hasBindingTarget	DOT:000100 metal ions	False
+P62140	PPP1CB	human	binding_target	hasBindingTarget	DOT:000107 phosphoprotein substrate	False
+P62140	PPP1CB	human	GO_function	hasGOTermMF	GO:0016787	True
+P62140	PPP1CB	human	domain_type	hasDomainType	INTERPRO:IPR004843	True
+P62834	RAP1A	human	domain_type	hasDomainType	INTERPRO:IPR005225	True
+P62834	RAP1A	human	function	hasFunctionTag	DOF:000009 Binding	True
+P62834	RAP1A	human	function	hasFunctionTag	DOF:000035 molecular-switch	True
+P62834	RAP1A	human	topology	hasTopologyContext	DOP:000012 unknown	True
+P62834	RAP1A	human	position	hasPositionalCategory	DOP:000004 Nterminal	True
+P62834	RAP1A	human	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+P62834	RAP1A	human	binding_target	hasBindingTarget	DOT:000076 GDP	False
+P62834	RAP1A	human	binding_target	hasBindingTarget	DOT:000029 GTP	False
+P62834	RAP1A	human	binding_target	hasBindingTarget	DOT:000120 GAP	False
+P62834	RAP1A	human	binding_target	hasBindingTarget	DOT:000121 GEF	False
+P62834	RAP1A	human	binding_target	hasBindingTarget	DOT:000091 effector proteins	False
+P62834	RAP1A	human	GO_function	hasGOTermMF	GO:0005525	True
+P63000	RAC1	human	domain_type	hasDomainType	INTERPRO:IPR005225	True
+P63000	RAC1	human	function	hasFunctionTag	DOF:000009 Binding	True
+P63000	RAC1	human	function	hasFunctionTag	DOF:000035 molecular-switch	True
+P63000	RAC1	human	topology	hasTopologyContext	DOP:000012 unknown	True
+P63000	RAC1	human	position	hasPositionalCategory	DOP:000004 Nterminal	True
+P63000	RAC1	human	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+P63000	RAC1	human	binding_target	hasBindingTarget	DOT:000076 GDP	False
+P63000	RAC1	human	binding_target	hasBindingTarget	DOT:000029 GTP	False
+P63000	RAC1	human	binding_target	hasBindingTarget	DOT:000120 GAP	False
+P63000	RAC1	human	binding_target	hasBindingTarget	DOT:000121 GEF	False
+P63000	RAC1	human	binding_target	hasBindingTarget	DOT:000091 effector proteins	False
+P63000	RAC1	human	GO_function	hasGOTermMF	GO:0005525	True
+Q01668	CACNA1D	human	domain_type	hasDomainType	INTERPRO:IPR005821	True
+Q01668	CACNA1D	human	function	hasFunctionTag	DOF:000026 channel	True
+Q01668	CACNA1D	human	topology	hasTopologyContext	DOP:000006 cytoplasmic	True
+Q01668	CACNA1D	human	topology	hasTopologyContext	DOP:000007 extracellular	True
+Q01668	CACNA1D	human	topology	hasTopologyContext	DOP:000008 transmembrane	True
+Q01668	CACNA1D	human	position	hasPositionalCategory	DOP:000004 Nterminal	True
+Q01668	CACNA1D	human	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	True
+Q01668	CACNA1D	human	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+Q01668	CACNA1D	human	binding_target	hasBindingTarget	DOT:000069 Ca2+	False
+Q01668	CACNA1D	human	binding_target	hasBindingTarget	DOT:000070 Na+	False
+Q01668	CACNA1D	human	binding_target	hasBindingTarget	DOT:000130 K+	False
+Q01668	CACNA1D	human	GO_function	hasGOTermMF	GO:0005216	True
+Q01668	CACNA1D	human	GO_process	hasGOTermBP	GO:0006811	False
+Q01668	CACNA1D	human	GO_process	hasGOTermBP	GO:0055085	False
+Q01668	CACNA1D	human	GO_component	hasGOTermCC	GO:0016020	False
+Q01668	CACNA1D	human	position	hasPositionalCategory	DOP:000005 Internal	True
+Q01668	CACNA1D	human	domain_type	hasDomainType	INTERPRO:IPR031649	True
+Q01668	CACNA1D	human	function	hasFunctionTag	DOF:000014 regulator	True
+Q01668	CACNA1D	human	binding_target	hasBindingTarget	DOT:000112 protein partner	False
+Q01668	CACNA1D	human	domain_type	hasDomainType	INTERPRO:IPR014873	True
+Q01668	CACNA1D	human	domain_type	hasDomainType	INTERPRO:IPR031688	True
+Q01668	CACNA1D	human	position	hasPositionalCategory	DOP:000003 Cterminal	True
+Q01814	ATP2B2	human	domain_type	hasDomainType	INTERPRO:IPR004014	True
+Q01814	ATP2B2	human	function	hasFunctionTag	DOF:000012 membrane-anchor	True
+Q01814	ATP2B2	human	function	hasFunctionTag	DOF:000013 transporter	True
+Q01814	ATP2B2	human	topology	hasTopologyContext	DOP:000006 cytoplasmic	True
+Q01814	ATP2B2	human	topology	hasTopologyContext	DOP:000007 extracellular	True
+Q01814	ATP2B2	human	topology	hasTopologyContext	DOP:000008 transmembrane	True
+Q01814	ATP2B2	human	position	hasPositionalCategory	DOP:000004 Nterminal	True
+Q01814	ATP2B2	human	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	True
+Q01814	ATP2B2	human	binding_target	hasBindingTarget	DOT:000096 membrane bilayer	False
+Q01814	ATP2B2	human	binding_target	hasBindingTarget	DOT:000069 Ca2+	False
+Q01814	ATP2B2	human	domain_type	hasDomainType	INTERPRO:IPR059000	True
+Q01814	ATP2B2	human	function	hasFunctionTag	DOF:000010 catalytic	True
+Q01814	ATP2B2	human	function	hasFunctionTag	DOF:000020 ATPase	True
+Q01814	ATP2B2	human	binding_target	hasBindingTarget	DOT:000107 phosphoprotein substrate	False
+Q01814	ATP2B2	human	domain_type	hasDomainType	INTERPRO:IPR044492	True
+Q01814	ATP2B2	human	position	hasPositionalCategory	DOP:000005 Internal	True
+Q01814	ATP2B2	human	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+Q01814	ATP2B2	human	binding_target	hasBindingTarget	DOT:000026 ATP	False
+Q01814	ATP2B2	human	binding_target	hasBindingTarget	DOT:000079 Mg2+	False
+Q01814	ATP2B2	human	domain_type	hasDomainType	INTERPRO:IPR006068	True
+Q01814	ATP2B2	human	position	hasPositionalCategory	DOP:000003 Cterminal	True
+Q01814	ATP2B2	human	domain_type	hasDomainType	INTERPRO:IPR022141	True
+Q01814	ATP2B2	human	function	hasFunctionTag	DOF:000014 regulator	True
+Q01814	ATP2B2	human	binding_target	hasBindingTarget	DOT:000059 Calmodulin	False
+Q01814	ATP2B2	human	GO_function	hasGOTermMF	GO:0005388	True
+Q02750	MAP2K1	human	domain_type	hasDomainType	INTERPRO:IPR000719	True
+Q02750	MAP2K1	human	function	hasFunctionTag	DOF:000009 Binding	True
+Q02750	MAP2K1	human	function	hasFunctionTag	DOF:000010 catalytic	True
+Q02750	MAP2K1	human	topology	hasTopologyContext	DOP:000012 unknown	True
+Q02750	MAP2K1	human	position	hasPositionalCategory	DOP:000004 Nterminal	True
+Q02750	MAP2K1	human	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+Q02750	MAP2K1	human	binding_target	hasBindingTarget	DOT:000026 ATP	False
+Q02750	MAP2K1	human	binding_target	hasBindingTarget	DOT:000079 Mg2+	False
+Q02750	MAP2K1	human	binding_target	hasBindingTarget	DOT:000114 protein substrate	False
+Q02750	MAP2K1	human	GO_function	hasGOTermMF	GO:0004672	True
+Q02750	MAP2K1	human	GO_function	hasGOTermMF	GO:0005524	True
+Q02750	MAP2K1	human	GO_process	hasGOTermBP	GO:0006468	False
+Q02930	CREB5	human	domain_type	hasDomainType	INTERPRO:IPR013087	True
+Q02930	CREB5	human	function	hasFunctionTag	DOF:000009 Binding	True
+Q02930	CREB5	human	function	hasFunctionTag	DOF:000040 structural	True
+Q02930	CREB5	human	function	hasFunctionTag	DOF:000034 metal-binding	True
+Q02930	CREB5	human	topology	hasTopologyContext	DOP:000012 unknown	True
+Q02930	CREB5	human	position	hasPositionalCategory	DOP:000004 Nterminal	True
+Q02930	CREB5	human	binding_target	hasBindingTarget	DOT:000084 Zn2+	False
+Q02930	CREB5	human	domain_type	hasDomainType	INTERPRO:IPR004827	True
+Q02930	CREB5	human	function	hasFunctionTag	DOF:000021 DNA-binding	True
+Q02930	CREB5	human	function	hasFunctionTag	DOF:000030 dimerization	True
+Q02930	CREB5	human	position	hasPositionalCategory	DOP:000003 Cterminal	True
+Q02930	CREB5	human	binding_target	hasBindingTarget	DOT:000188 DNA response element (CRE/E-box)	False
+Q02930	CREB5	human	binding_target	hasBindingTarget	DOT:000244 homodimer/heterodimer partner	False
+Q02930	CREB5	human	GO_function	hasGOTermMF	GO:0003700	True
+Q02930	CREB5	human	GO_process	hasGOTermBP	GO:0006355	False
+Q07343	PDE4B	human	domain_type	hasDomainType	INTERPRO:IPR040844	True
+Q07343	PDE4B	human	function	hasFunctionTag	DOF:000014 regulator	True
+Q07343	PDE4B	human	topology	hasTopologyContext	DOP:000012 unknown	True
+Q07343	PDE4B	human	position	hasPositionalCategory	DOP:000005 Internal	True
+Q07343	PDE4B	human	binding_target	hasBindingTarget	DOT:000095 intramolecular PDE regulatory contacts	False
+Q07343	PDE4B	human	domain_type	hasDomainType	INTERPRO:IPR002073	True
+Q07343	PDE4B	human	function	hasFunctionTag	DOF:000010 catalytic	True
+Q07343	PDE4B	human	position	hasPositionalCategory	DOP:000003 Cterminal	True
+Q07343	PDE4B	human	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+Q07343	PDE4B	human	binding_target	hasBindingTarget	DOT:000033 cAMP	False
+Q07343	PDE4B	human	binding_target	hasBindingTarget	DOT:000034 cGMP	False
+Q07343	PDE4B	human	binding_target	hasBindingTarget	DOT:000084 Zn2+	False
+Q07343	PDE4B	human	binding_target	hasBindingTarget	DOT:000079 Mg2+	False
+Q07343	PDE4B	human	GO_function	hasGOTermMF	GO:0004114	True
+Q07343	PDE4B	human	GO_process	hasGOTermBP	GO:0007165	False
+Q07343	PDE4B	human	domain_type	hasDomainType	INTERPRO:IPR003607	True
+Q08462	ADCY	human	domain_type	hasDomainType	INTERPRO:IPR032628	True
+Q08462	ADCY	human	function	hasFunctionTag	DOF:000012 membrane-anchor	True
+Q08462	ADCY	human	topology	hasTopologyContext	DOP:000006 cytoplasmic	True
+Q08462	ADCY	human	topology	hasTopologyContext	DOP:000008 transmembrane	True
+Q08462	ADCY	human	position	hasPositionalCategory	DOP:000004 Nterminal	True
+Q08462	ADCY	human	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	True
+Q08462	ADCY	human	binding_target	hasBindingTarget	DOT:000097 membrane environment	False
+Q08462	ADCY	human	domain_type	hasDomainType	INTERPRO:IPR001054	True
+Q08462	ADCY	human	function	hasFunctionTag	DOF:000010 catalytic	True
+Q08462	ADCY	human	position	hasPositionalCategory	DOP:000005 Internal	True
+Q08462	ADCY	human	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+Q08462	ADCY	human	binding_target	hasBindingTarget	DOT:000026 ATP	False
+Q08462	ADCY	human	binding_target	hasBindingTarget	DOT:000079 Mg2+	False
+Q08462	ADCY	human	binding_target	hasBindingTarget	DOT:000080 Mn2+	False
+Q08462	ADCY	human	GO_process	hasGOTermBP	GO:0009190	False
+Q08462	ADCY	human	GO_process	hasGOTermBP	GO:0035556	False
+Q08462	ADCY	human	domain_type	hasDomainType	INTERPRO:IPR009398	True
+Q08462	ADCY	human	GO_function	hasGOTermMF	GO:0004016	True
+Q08462	ADCY	human	GO_process	hasGOTermBP	GO:0006171	False
+Q08462	ADCY	human	GO_component	hasGOTermCC	GO:0005886	False
+Q08462	ADCY	human	position	hasPositionalCategory	DOP:000003 Cterminal	True
+Q08493	PDE4C	human	domain_type	hasDomainType	INTERPRO:IPR040844	True
+Q08493	PDE4C	human	function	hasFunctionTag	DOF:000014 regulator	True
+Q08493	PDE4C	human	topology	hasTopologyContext	DOP:000012 unknown	True
+Q08493	PDE4C	human	position	hasPositionalCategory	DOP:000005 Internal	True
+Q08493	PDE4C	human	binding_target	hasBindingTarget	DOT:000095 intramolecular PDE regulatory contacts	False
+Q08493	PDE4C	human	domain_type	hasDomainType	INTERPRO:IPR002073	True
+Q08493	PDE4C	human	function	hasFunctionTag	DOF:000010 catalytic	True
+Q08493	PDE4C	human	position	hasPositionalCategory	DOP:000003 Cterminal	True
+Q08493	PDE4C	human	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+Q08493	PDE4C	human	binding_target	hasBindingTarget	DOT:000033 cAMP	False
+Q08493	PDE4C	human	binding_target	hasBindingTarget	DOT:000034 cGMP	False
+Q08493	PDE4C	human	binding_target	hasBindingTarget	DOT:000084 Zn2+	False
+Q08493	PDE4C	human	binding_target	hasBindingTarget	DOT:000079 Mg2+	False
+Q08493	PDE4C	human	GO_function	hasGOTermMF	GO:0004114	True
+Q08493	PDE4C	human	GO_process	hasGOTermBP	GO:0007165	False
+Q08493	PDE4C	human	domain_type	hasDomainType	INTERPRO:IPR003607	True
+Q08499	PDE4D	human	domain_type	hasDomainType	INTERPRO:IPR040844	True
+Q08499	PDE4D	human	function	hasFunctionTag	DOF:000014 regulator	True
+Q08499	PDE4D	human	topology	hasTopologyContext	DOP:000012 unknown	True
+Q08499	PDE4D	human	position	hasPositionalCategory	DOP:000005 Internal	True
+Q08499	PDE4D	human	binding_target	hasBindingTarget	DOT:000095 intramolecular PDE regulatory contacts	False
+Q08499	PDE4D	human	domain_type	hasDomainType	INTERPRO:IPR002073	True
+Q08499	PDE4D	human	function	hasFunctionTag	DOF:000010 catalytic	True
+Q08499	PDE4D	human	position	hasPositionalCategory	DOP:000003 Cterminal	True
+Q08499	PDE4D	human	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+Q08499	PDE4D	human	binding_target	hasBindingTarget	DOT:000033 cAMP	False
+Q08499	PDE4D	human	binding_target	hasBindingTarget	DOT:000034 cGMP	False
+Q08499	PDE4D	human	binding_target	hasBindingTarget	DOT:000084 Zn2+	False
+Q08499	PDE4D	human	binding_target	hasBindingTarget	DOT:000079 Mg2+	False
+Q08499	PDE4D	human	GO_function	hasGOTermMF	GO:0004114	True
+Q08499	PDE4D	human	GO_process	hasGOTermBP	GO:0007165	False
+Q08828	ADCY	human	domain_type	hasDomainType	INTERPRO:IPR032628	True
+Q08828	ADCY	human	function	hasFunctionTag	DOF:000012 membrane-anchor	True
+Q08828	ADCY	human	topology	hasTopologyContext	DOP:000006 cytoplasmic	True
+Q08828	ADCY	human	topology	hasTopologyContext	DOP:000008 transmembrane	True
+Q08828	ADCY	human	position	hasPositionalCategory	DOP:000004 Nterminal	True
+Q08828	ADCY	human	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	True
+Q08828	ADCY	human	binding_target	hasBindingTarget	DOT:000097 membrane environment	False
+Q08828	ADCY	human	domain_type	hasDomainType	INTERPRO:IPR001054	True
+Q08828	ADCY	human	function	hasFunctionTag	DOF:000010 catalytic	True
+Q08828	ADCY	human	position	hasPositionalCategory	DOP:000005 Internal	True
+Q08828	ADCY	human	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+Q08828	ADCY	human	binding_target	hasBindingTarget	DOT:000026 ATP	False
+Q08828	ADCY	human	binding_target	hasBindingTarget	DOT:000079 Mg2+	False
+Q08828	ADCY	human	binding_target	hasBindingTarget	DOT:000080 Mn2+	False
+Q08828	ADCY	human	GO_process	hasGOTermBP	GO:0009190	False
+Q08828	ADCY	human	GO_process	hasGOTermBP	GO:0035556	False
+Q08828	ADCY	human	position	hasPositionalCategory	DOP:000003 Cterminal	True
+Q09472	EP300	human	domain_type	hasDomainType	INTERPRO:IPR000197	True
+Q09472	EP300	human	function	hasFunctionTag	DOF:000009 Binding	True
+Q09472	EP300	human	function	hasFunctionTag	DOF:000040 structural	True
+Q09472	EP300	human	function	hasFunctionTag	DOF:000034 metal-binding	True
+Q09472	EP300	human	topology	hasTopologyContext	DOP:000012 unknown	True
+Q09472	EP300	human	position	hasPositionalCategory	DOP:000004 Nterminal	True
+Q09472	EP300	human	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+Q09472	EP300	human	binding_target	hasBindingTarget	DOT:000084 Zn2+	False
+Q09472	EP300	human	domain_type	hasDomainType	INTERPRO:IPR003101	True
+Q09472	EP300	human	position	hasPositionalCategory	DOP:000005 Internal	True
+Q09472	EP300	human	GO_function	hasGOTermMF	GO:0003712	True
+Q09472	EP300	human	GO_process	hasGOTermBP	GO:0006355	False
+Q09472	EP300	human	domain_type	hasDomainType	INTERPRO:IPR001487	True
+Q09472	EP300	human	function	hasFunctionTag	DOF:000017 PPI	True
+Q09472	EP300	human	function	hasFunctionTag	DOF:000028 coactivator	True
+Q09472	EP300	human	binding_target	hasBindingTarget	DOT:000187 phosphorylated CREB pKID	False
+Q09472	EP300	human	GO_function	hasGOTermMF	GO:0005515	True
+Q09472	EP300	human	domain_type	hasDomainType	INTERPRO:IPR010303	True
+Q09472	EP300	human	function	hasFunctionTag	DOF:000037 reader	True
+Q09472	EP300	human	function	hasFunctionTag	DOF:000027 chromatin-binding	True
+Q09472	EP300	human	binding_target	hasBindingTarget	DOT:000186 acetylated histone tails	False
+Q09472	EP300	human	domain_type	hasDomainType	INTERPRO:IPR056484	True
+Q09472	EP300	human	function	hasFunctionTag	DOF:000016 scaffold	True
+Q09472	EP300	human	binding_target	hasBindingTarget	DOT:000112 protein partner	False
+Q09472	EP300	human	domain_type	hasDomainType	INTERPRO:IPR031162	True
+Q09472	EP300	human	binding_target	hasBindingTarget	DOT:000275 H3K4me3	False
+Q09472	EP300	human	binding_target	hasBindingTarget	DOT:000126 methylated histone H3 tail	False
+Q09472	EP300	human	GO_function	hasGOTermMF	GO:0004402	True
+Q09472	EP300	human	domain_type	hasDomainType	INTERPRO:IPR000433	True
+Q09472	EP300	human	function	hasFunctionTag	DOF:000010 catalytic	True
+Q09472	EP300	human	binding_target	hasBindingTarget	DOT:000053 acetyl-CoA	False
+Q09472	EP300	human	binding_target	hasBindingTarget	DOT:000094 histone/non-histone lysine substrate	False
+Q09472	EP300	human	GO_function	hasGOTermMF	GO:0008270	True
+Q09472	EP300	human	domain_type	hasDomainType	INTERPRO:IPR014744	True
+Q09472	EP300	human	position	hasPositionalCategory	DOP:000003 Cterminal	True
+Q09472	EP300	human	binding_target	hasBindingTarget	DOT:000088 coactivator core proteins	False
+Q09472	EP300	human	GO_function	hasGOTermMF	GO:0003713	True
+Q09472	EP300	human	GO_component	hasGOTermCC	GO:0000123	False
+Q09472	EP300	human	GO_component	hasGOTermCC	GO:0005634	False
+Q13153	PAK1	human	domain_type	hasDomainType	INTERPRO:IPR033923	True
+Q13153	PAK1	human	function	hasFunctionTag	DOF:000009 Binding	True
+Q13153	PAK1	human	function	hasFunctionTag	DOF:000014 regulator	True
+Q13153	PAK1	human	topology	hasTopologyContext	DOP:000012 unknown	True
+Q13153	PAK1	human	position	hasPositionalCategory	DOP:000004 Nterminal	True
+Q13153	PAK1	human	binding_target	hasBindingTarget	DOT:000071 Cdc42	False
+Q13153	PAK1	human	binding_target	hasBindingTarget	DOT:000083 Rac1	False
+Q13153	PAK1	human	GO_function	hasGOTermMF	GO:0004674	True
+Q13153	PAK1	human	domain_type	hasDomainType	INTERPRO:IPR000095	True
+Q13153	PAK1	human	domain_type	hasDomainType	INTERPRO:IPR000719	True
+Q13153	PAK1	human	function	hasFunctionTag	DOF:000010 catalytic	True
+Q13153	PAK1	human	position	hasPositionalCategory	DOP:000003 Cterminal	True
+Q13153	PAK1	human	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+Q13153	PAK1	human	binding_target	hasBindingTarget	DOT:000026 ATP	False
+Q13153	PAK1	human	binding_target	hasBindingTarget	DOT:000079 Mg2+	False
+Q13153	PAK1	human	binding_target	hasBindingTarget	DOT:000114 protein substrate	False
+Q13153	PAK1	human	GO_function	hasGOTermMF	GO:0004672	True
+Q13153	PAK1	human	GO_function	hasGOTermMF	GO:0005524	True
+Q13153	PAK1	human	GO_process	hasGOTermBP	GO:0006468	False
+Q13324	CRHR2	human	domain_type	hasDomainType	INTERPRO:IPR001879	True
+Q13324	CRHR2	human	function	hasFunctionTag	DOF:000011 receptor	True
+Q13324	CRHR2	human	function	hasFunctionTag	DOF:000032 ligand-binding	True
+Q13324	CRHR2	human	topology	hasTopologyContext	DOP:000007 extracellular	True
+Q13324	CRHR2	human	position	hasPositionalCategory	DOP:000004 Nterminal	True
+Q13324	CRHR2	human	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	True
+Q13324	CRHR2	human	proximity	hasProximityCategory	DOP:000009 NearSignalPeptideCleavage	True
+Q13324	CRHR2	human	binding_target	hasBindingTarget	DOT:000103 peptide hormone ligand	False
+Q13324	CRHR2	human	GO_function	hasGOTermMF	GO:0004930	True
+Q13324	CRHR2	human	GO_component	hasGOTermCC	GO:0016020	False
+Q13324	CRHR2	human	domain_type	hasDomainType	INTERPRO:IPR017981	True
+Q13324	CRHR2	human	function	hasFunctionTag	DOF:000012 membrane-anchor	True
+Q13324	CRHR2	human	function	hasFunctionTag	DOF:000039 signal-transducer	True
+Q13324	CRHR2	human	topology	hasTopologyContext	DOP:000006 cytoplasmic	True
+Q13324	CRHR2	human	topology	hasTopologyContext	DOP:000008 transmembrane	True
+Q13324	CRHR2	human	position	hasPositionalCategory	DOP:000003 Cterminal	True
+Q13324	CRHR2	human	binding_target	hasBindingTarget	DOT:000092 extracellular ligand	False
+Q13324	CRHR2	human	binding_target	hasBindingTarget	DOT:000093 heterotrimeric G protein	False
+Q13324	CRHR2	human	GO_function	hasGOTermMF	GO:0004888	True
+Q13324	CRHR2	human	GO_process	hasGOTermBP	GO:0007166	False
+Q13370	PDE3B	human	domain_type	hasDomainType	INTERPRO:IPR002073	True
+Q13370	PDE3B	human	function	hasFunctionTag	DOF:000010 catalytic	True
+Q13370	PDE3B	human	topology	hasTopologyContext	DOP:000012 unknown	True
+Q13370	PDE3B	human	position	hasPositionalCategory	DOP:000003 Cterminal	True
+Q13370	PDE3B	human	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+Q13370	PDE3B	human	binding_target	hasBindingTarget	DOT:000033 cAMP	False
+Q13370	PDE3B	human	binding_target	hasBindingTarget	DOT:000034 cGMP	False
+Q13370	PDE3B	human	binding_target	hasBindingTarget	DOT:000084 Zn2+	False
+Q13370	PDE3B	human	binding_target	hasBindingTarget	DOT:000079 Mg2+	False
+Q13370	PDE3B	human	GO_function	hasGOTermMF	GO:0004114	True
+Q13370	PDE3B	human	GO_process	hasGOTermBP	GO:0007165	False
+Q13370	PDE3B	human	domain_type	hasDomainType	INTERPRO:IPR003607	True
+Q13387	MAPK8	human	domain_type	hasDomainType	INTERPRO:IPR001452	True
+Q13387	MAPK8	human	function	hasFunctionTag	DOF:000017 PPI	True
+Q13387	MAPK8	human	function	hasFunctionTag	DOF:000024 adaptor	True
+Q13387	MAPK8	human	topology	hasTopologyContext	DOP:000012 unknown	True
+Q13387	MAPK8	human	position	hasPositionalCategory	DOP:000003 Cterminal	True
+Q13387	MAPK8	human	binding_target	hasBindingTarget	DOT:000192 SH3-binding PxxP proteins	False
+Q13387	MAPK8	human	GO_function	hasGOTermMF	GO:0005515	True
+Q13387	MAPK8	human	domain_type	hasDomainType	INTERPRO:IPR035637	True
+Q13387	MAPK8	human	domain_type	hasDomainType	INTERPRO:IPR006020	True
+Q13387	MAPK8	human	binding_target	hasBindingTarget	DOT:000052 NPxY/NxxY peptide motifs	False
+Q13387	MAPK8	human	binding_target	hasBindingTarget	DOT:000223 insulin receptor -beta-chain	False
+Q13387	MAPK8	human	binding_target	hasBindingTarget	DOT:000240 APP	False
+Q13387	MAPK8	human	binding_target	hasBindingTarget	DOT:000194 Shc adaptors	False
+Q13393	PLD1	human	domain_type	hasDomainType	INTERPRO:IPR001683	True
+Q13393	PLD1	human	function	hasFunctionTag	DOF:000009 Binding	True
+Q13393	PLD1	human	function	hasFunctionTag	DOF:000033 membrane-targeting	True
+Q13393	PLD1	human	topology	hasTopologyContext	DOP:000012 unknown	True
+Q13393	PLD1	human	position	hasPositionalCategory	DOP:000004 Nterminal	True
+Q13393	PLD1	human	binding_target	hasBindingTarget	DOT:000131 PI(3,4,5)P3	False
+Q13393	PLD1	human	binding_target	hasBindingTarget	DOT:000124 PI(4,5)P2	False
+Q13393	PLD1	human	GO_function	hasGOTermMF	GO:0035091	True
+Q13393	PLD1	human	domain_type	hasDomainType	INTERPRO:IPR001849	True
+Q13393	PLD1	human	function	hasFunctionTag	DOF:000024 adaptor	True
+Q13393	PLD1	human	position	hasPositionalCategory	DOP:000005 Internal	True
+Q13393	PLD1	human	domain_type	hasDomainType	INTERPRO:IPR001736	True
+Q13393	PLD1	human	function	hasFunctionTag	DOF:000010 catalytic	True
+Q13393	PLD1	human	binding_target	hasBindingTarget	DOT:000049 Phosphatidylcholine	False
+Q13393	PLD1	human	binding_target	hasBindingTarget	DOT:000125 PA	False
+Q13393	PLD1	human	binding_target	hasBindingTarget	DOT:000129 water	False
+Q13393	PLD1	human	GO_function	hasGOTermMF	GO:0003824	True
+Q13393	PLD1	human	position	hasPositionalCategory	DOP:000003 Cterminal	True
+Q13393	PLD1	human	domain_type	hasDomainType	INTERPRO:IPR025202	True
+Q13464	ROCK1	human	domain_type	hasDomainType	INTERPRO:IPR000719	True
+Q13464	ROCK1	human	function	hasFunctionTag	DOF:000009 Binding	True
+Q13464	ROCK1	human	function	hasFunctionTag	DOF:000010 catalytic	True
+Q13464	ROCK1	human	topology	hasTopologyContext	DOP:000012 unknown	True
+Q13464	ROCK1	human	position	hasPositionalCategory	DOP:000004 Nterminal	True
+Q13464	ROCK1	human	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+Q13464	ROCK1	human	binding_target	hasBindingTarget	DOT:000026 ATP	False
+Q13464	ROCK1	human	binding_target	hasBindingTarget	DOT:000079 Mg2+	False
+Q13464	ROCK1	human	binding_target	hasBindingTarget	DOT:000114 protein substrate	False
+Q13464	ROCK1	human	GO_function	hasGOTermMF	GO:0004672	True
+Q13464	ROCK1	human	GO_function	hasGOTermMF	GO:0005524	True
+Q13464	ROCK1	human	GO_process	hasGOTermBP	GO:0006468	False
+Q13464	ROCK1	human	domain_type	hasDomainType	INTERPRO:IPR000961	True
+Q13464	ROCK1	human	position	hasPositionalCategory	DOP:000005 Internal	True
+Q13464	ROCK1	human	GO_function	hasGOTermMF	GO:0004674	True
+Q13464	ROCK1	human	domain_type	hasDomainType	INTERPRO:IPR011072	True
+Q13464	ROCK1	human	function	hasFunctionTag	DOF:000014 regulator	True
+Q13464	ROCK1	human	binding_target	hasBindingTarget	DOT:000160 RhoA/RhoB/RhoC (GTP-bound)	False
+Q13464	ROCK1	human	GO_process	hasGOTermBP	GO:0007165	False
+Q13464	ROCK1	human	domain_type	hasDomainType	INTERPRO:IPR037310	True
+Q13464	ROCK1	human	GO_function	hasGOTermMF	GO:0031267	True
+Q13464	ROCK1	human	GO_process	hasGOTermBP	GO:0007266	False
+Q13464	ROCK1	human	domain_type	hasDomainType	INTERPRO:IPR015008	True
+Q13464	ROCK1	human	domain_type	hasDomainType	INTERPRO:IPR001849	True
+Q13464	ROCK1	human	function	hasFunctionTag	DOF:000033 membrane-targeting	True
+Q13464	ROCK1	human	function	hasFunctionTag	DOF:000024 adaptor	True
+Q13464	ROCK1	human	position	hasPositionalCategory	DOP:000003 Cterminal	True
+Q13464	ROCK1	human	binding_target	hasBindingTarget	DOT:000131 PI(3,4,5)P3	False
+Q13464	ROCK1	human	domain_type	hasDomainType	INTERPRO:IPR057529	True
+Q13464	ROCK1	human	domain_type	hasDomainType	INTERPRO:IPR002219	True
+Q13464	ROCK1	human	binding_target	hasBindingTarget	DOT:000098 membrane phospholipid	False
+Q13698	CACNA1S	human	domain_type	hasDomainType	INTERPRO:IPR005821	True
+Q13698	CACNA1S	human	function	hasFunctionTag	DOF:000026 channel	True
+Q13698	CACNA1S	human	topology	hasTopologyContext	DOP:000006 cytoplasmic	True
+Q13698	CACNA1S	human	topology	hasTopologyContext	DOP:000007 extracellular	True
+Q13698	CACNA1S	human	topology	hasTopologyContext	DOP:000008 transmembrane	True
+Q13698	CACNA1S	human	position	hasPositionalCategory	DOP:000004 Nterminal	True
+Q13698	CACNA1S	human	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	True
+Q13698	CACNA1S	human	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+Q13698	CACNA1S	human	binding_target	hasBindingTarget	DOT:000069 Ca2+	False
+Q13698	CACNA1S	human	binding_target	hasBindingTarget	DOT:000070 Na+	False
+Q13698	CACNA1S	human	binding_target	hasBindingTarget	DOT:000130 K+	False
+Q13698	CACNA1S	human	GO_function	hasGOTermMF	GO:0005216	True
+Q13698	CACNA1S	human	GO_process	hasGOTermBP	GO:0006811	False
+Q13698	CACNA1S	human	GO_process	hasGOTermBP	GO:0055085	False
+Q13698	CACNA1S	human	GO_component	hasGOTermCC	GO:0016020	False
+Q13698	CACNA1S	human	position	hasPositionalCategory	DOP:000005 Internal	True
+Q13698	CACNA1S	human	domain_type	hasDomainType	INTERPRO:IPR031649	True
+Q13698	CACNA1S	human	function	hasFunctionTag	DOF:000014 regulator	True
+Q13698	CACNA1S	human	binding_target	hasBindingTarget	DOT:000112 protein partner	False
+Q13698	CACNA1S	human	domain_type	hasDomainType	INTERPRO:IPR014873	True
+Q13698	CACNA1S	human	position	hasPositionalCategory	DOP:000003 Cterminal	True
+Q13936	CACNA1C	human	domain_type	hasDomainType	INTERPRO:IPR005821	True
+Q13936	CACNA1C	human	function	hasFunctionTag	DOF:000026 channel	True
+Q13936	CACNA1C	human	topology	hasTopologyContext	DOP:000006 cytoplasmic	True
+Q13936	CACNA1C	human	topology	hasTopologyContext	DOP:000007 extracellular	True
+Q13936	CACNA1C	human	topology	hasTopologyContext	DOP:000008 transmembrane	True
+Q13936	CACNA1C	human	position	hasPositionalCategory	DOP:000004 Nterminal	True
+Q13936	CACNA1C	human	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	True
+Q13936	CACNA1C	human	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+Q13936	CACNA1C	human	binding_target	hasBindingTarget	DOT:000069 Ca2+	False
+Q13936	CACNA1C	human	binding_target	hasBindingTarget	DOT:000070 Na+	False
+Q13936	CACNA1C	human	binding_target	hasBindingTarget	DOT:000130 K+	False
+Q13936	CACNA1C	human	GO_function	hasGOTermMF	GO:0005216	True
+Q13936	CACNA1C	human	GO_process	hasGOTermBP	GO:0006811	False
+Q13936	CACNA1C	human	GO_process	hasGOTermBP	GO:0055085	False
+Q13936	CACNA1C	human	GO_component	hasGOTermCC	GO:0016020	False
+Q13936	CACNA1C	human	position	hasPositionalCategory	DOP:000005 Internal	True
+Q13936	CACNA1C	human	domain_type	hasDomainType	INTERPRO:IPR031649	True
+Q13936	CACNA1C	human	function	hasFunctionTag	DOF:000014 regulator	True
+Q13936	CACNA1C	human	binding_target	hasBindingTarget	DOT:000059 Calmodulin	False
+Q13936	CACNA1C	human	binding_target	hasBindingTarget	DOT:000174 CaV-beta subunit	False
+Q13936	CACNA1C	human	binding_target	hasBindingTarget	DOT:000237 AKAP15	False
+Q13936	CACNA1C	human	domain_type	hasDomainType	INTERPRO:IPR014873	True
+Q13936	CACNA1C	human	domain_type	hasDomainType	INTERPRO:IPR031688	True
+Q13936	CACNA1C	human	position	hasPositionalCategory	DOP:000003 Cterminal	True
+Q13936	CACNA1C	human	binding_target	hasBindingTarget	DOT:000112 protein partner	False
+Q14028	CNGB1	human	domain_type	hasDomainType	INTERPRO:IPR005821	True
+Q14028	CNGB1	human	function	hasFunctionTag	DOF:000026 channel	True
+Q14028	CNGB1	human	topology	hasTopologyContext	DOP:000006 cytoplasmic	True
+Q14028	CNGB1	human	topology	hasTopologyContext	DOP:000007 extracellular	True
+Q14028	CNGB1	human	topology	hasTopologyContext	DOP:000008 transmembrane	True
+Q14028	CNGB1	human	position	hasPositionalCategory	DOP:000005 Internal	True
+Q14028	CNGB1	human	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	True
+Q14028	CNGB1	human	binding_target	hasBindingTarget	DOT:000069 Ca2+	False
+Q14028	CNGB1	human	binding_target	hasBindingTarget	DOT:000070 Na+	False
+Q14028	CNGB1	human	binding_target	hasBindingTarget	DOT:000130 K+	False
+Q14028	CNGB1	human	GO_function	hasGOTermMF	GO:0005216	True
+Q14028	CNGB1	human	GO_process	hasGOTermBP	GO:0006811	False
+Q14028	CNGB1	human	GO_process	hasGOTermBP	GO:0055085	False
+Q14028	CNGB1	human	GO_component	hasGOTermCC	GO:0016020	False
+Q14028	CNGB1	human	domain_type	hasDomainType	INTERPRO:IPR000595	True
+Q14028	CNGB1	human	function	hasFunctionTag	DOF:000014 regulator	True
+Q14028	CNGB1	human	function	hasFunctionTag	DOF:000029 cyclic-nucleotide-sensor	True
+Q14028	CNGB1	human	position	hasPositionalCategory	DOP:000003 Cterminal	True
+Q14028	CNGB1	human	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+Q14028	CNGB1	human	binding_target	hasBindingTarget	DOT:000033 cAMP	False
+Q14028	CNGB1	human	binding_target	hasBindingTarget	DOT:000034 cGMP	False
+Q14432	PDE3A	human	domain_type	hasDomainType	INTERPRO:IPR002073	True
+Q14432	PDE3A	human	function	hasFunctionTag	DOF:000010 catalytic	True
+Q14432	PDE3A	human	topology	hasTopologyContext	DOP:000012 unknown	True
+Q14432	PDE3A	human	position	hasPositionalCategory	DOP:000003 Cterminal	True
+Q14432	PDE3A	human	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+Q14432	PDE3A	human	binding_target	hasBindingTarget	DOT:000033 cAMP	False
+Q14432	PDE3A	human	binding_target	hasBindingTarget	DOT:000034 cGMP	False
+Q14432	PDE3A	human	binding_target	hasBindingTarget	DOT:000084 Zn2+	False
+Q14432	PDE3A	human	binding_target	hasBindingTarget	DOT:000079 Mg2+	False
+Q14432	PDE3A	human	GO_function	hasGOTermMF	GO:0004114	True
+Q14432	PDE3A	human	GO_process	hasGOTermBP	GO:0007165	False
+Q14432	PDE3A	human	domain_type	hasDomainType	INTERPRO:IPR003607	True
+Q15759	MAPK1	human	domain_type	hasDomainType	INTERPRO:IPR000719	True
+Q15759	MAPK1	human	function	hasFunctionTag	DOF:000009 Binding	True
+Q15759	MAPK1	human	function	hasFunctionTag	DOF:000010 catalytic	True
+Q15759	MAPK1	human	topology	hasTopologyContext	DOP:000012 unknown	True
+Q15759	MAPK1	human	position	hasPositionalCategory	DOP:000004 Nterminal	True
+Q15759	MAPK1	human	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+Q15759	MAPK1	human	binding_target	hasBindingTarget	DOT:000026 ATP	False
+Q15759	MAPK1	human	binding_target	hasBindingTarget	DOT:000079 Mg2+	False
+Q15759	MAPK1	human	binding_target	hasBindingTarget	DOT:000114 protein substrate	False
+Q15759	MAPK1	human	GO_function	hasGOTermMF	GO:0004672	True
+Q15759	MAPK1	human	GO_function	hasGOTermMF	GO:0005524	True
+Q15759	MAPK1	human	GO_process	hasGOTermBP	GO:0006468	False
+Q16280	CNGA2	human	domain_type	hasDomainType	INTERPRO:IPR005821	True
+Q16280	CNGA2	human	function	hasFunctionTag	DOF:000026 channel	True
+Q16280	CNGA2	human	topology	hasTopologyContext	DOP:000006 cytoplasmic	True
+Q16280	CNGA2	human	topology	hasTopologyContext	DOP:000007 extracellular	True
+Q16280	CNGA2	human	topology	hasTopologyContext	DOP:000008 transmembrane	True
+Q16280	CNGA2	human	position	hasPositionalCategory	DOP:000005 Internal	True
+Q16280	CNGA2	human	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	True
+Q16280	CNGA2	human	binding_target	hasBindingTarget	DOT:000069 Ca2+	False
+Q16280	CNGA2	human	binding_target	hasBindingTarget	DOT:000070 Na+	False
+Q16280	CNGA2	human	binding_target	hasBindingTarget	DOT:000130 K+	False
+Q16280	CNGA2	human	GO_function	hasGOTermMF	GO:0005216	True
+Q16280	CNGA2	human	GO_process	hasGOTermBP	GO:0006811	False
+Q16280	CNGA2	human	GO_process	hasGOTermBP	GO:0055085	False
+Q16280	CNGA2	human	GO_component	hasGOTermCC	GO:0016020	False
+Q16280	CNGA2	human	domain_type	hasDomainType	INTERPRO:IPR000595	True
+Q16280	CNGA2	human	function	hasFunctionTag	DOF:000014 regulator	True
+Q16280	CNGA2	human	function	hasFunctionTag	DOF:000029 cyclic-nucleotide-sensor	True
+Q16280	CNGA2	human	position	hasPositionalCategory	DOP:000003 Cterminal	True
+Q16280	CNGA2	human	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+Q16280	CNGA2	human	binding_target	hasBindingTarget	DOT:000033 cAMP	False
+Q16280	CNGA2	human	binding_target	hasBindingTarget	DOT:000034 cGMP	False
+Q16280	CNGA2	human	domain_type	hasDomainType	INTERPRO:IPR032406	True
+Q16280	CNGA2	human	binding_target	hasBindingTarget	DOT:000112 protein partner	False
+Q16281	CNGA3	human	domain_type	hasDomainType	INTERPRO:IPR005821	True
+Q16281	CNGA3	human	function	hasFunctionTag	DOF:000026 channel	True
+Q16281	CNGA3	human	topology	hasTopologyContext	DOP:000006 cytoplasmic	True
+Q16281	CNGA3	human	topology	hasTopologyContext	DOP:000007 extracellular	True
+Q16281	CNGA3	human	topology	hasTopologyContext	DOP:000008 transmembrane	True
+Q16281	CNGA3	human	position	hasPositionalCategory	DOP:000005 Internal	True
+Q16281	CNGA3	human	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	True
+Q16281	CNGA3	human	binding_target	hasBindingTarget	DOT:000069 Ca2+	False
+Q16281	CNGA3	human	binding_target	hasBindingTarget	DOT:000070 Na+	False
+Q16281	CNGA3	human	binding_target	hasBindingTarget	DOT:000130 K+	False
+Q16281	CNGA3	human	GO_function	hasGOTermMF	GO:0005216	True
+Q16281	CNGA3	human	GO_process	hasGOTermBP	GO:0006811	False
+Q16281	CNGA3	human	GO_process	hasGOTermBP	GO:0055085	False
+Q16281	CNGA3	human	GO_component	hasGOTermCC	GO:0016020	False
+Q16281	CNGA3	human	domain_type	hasDomainType	INTERPRO:IPR000595	True
+Q16281	CNGA3	human	function	hasFunctionTag	DOF:000014 regulator	True
+Q16281	CNGA3	human	function	hasFunctionTag	DOF:000029 cyclic-nucleotide-sensor	True
+Q16281	CNGA3	human	position	hasPositionalCategory	DOP:000003 Cterminal	True
+Q16281	CNGA3	human	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+Q16281	CNGA3	human	binding_target	hasBindingTarget	DOT:000033 cAMP	False
+Q16281	CNGA3	human	binding_target	hasBindingTarget	DOT:000034 cGMP	False
+Q16281	CNGA3	human	domain_type	hasDomainType	INTERPRO:IPR032406	True
+Q16281	CNGA3	human	binding_target	hasBindingTarget	DOT:000112 protein partner	False
+Q16512	PAK1	human	domain_type	hasDomainType	INTERPRO:IPR011072	True
+Q16512	PAK1	human	function	hasFunctionTag	DOF:000009 Binding	True
+Q16512	PAK1	human	function	hasFunctionTag	DOF:000014 regulator	True
+Q16512	PAK1	human	topology	hasTopologyContext	DOP:000012 unknown	True
+Q16512	PAK1	human	position	hasPositionalCategory	DOP:000004 Nterminal	True
+Q16512	PAK1	human	binding_target	hasBindingTarget	DOT:000160 RhoA/RhoB/RhoC (GTP-bound)	False
+Q16512	PAK1	human	GO_process	hasGOTermBP	GO:0007165	False
+Q16512	PAK1	human	domain_type	hasDomainType	INTERPRO:IPR037313	True
+Q16512	PAK1	human	GO_function	hasGOTermMF	GO:0004674	True
+Q16512	PAK1	human	GO_function	hasGOTermMF	GO:0031267	True
+Q16512	PAK1	human	GO_process	hasGOTermBP	GO:0006468	False
+Q16512	PAK1	human	domain_type	hasDomainType	INTERPRO:IPR037317	True
+Q16512	PAK1	human	function	hasFunctionTag	DOF:000010 catalytic	True
+Q16512	PAK1	human	binding_target	hasBindingTarget	DOT:000026 ATP	False
+Q16512	PAK1	human	binding_target	hasBindingTarget	DOT:000079 Mg2+	False
+Q16512	PAK1	human	binding_target	hasBindingTarget	DOT:000114 protein substrate	False
+Q16512	PAK1	human	position	hasPositionalCategory	DOP:000005 Internal	True
+Q16512	PAK1	human	domain_type	hasDomainType	INTERPRO:IPR000008	True
+Q16512	PAK1	human	function	hasFunctionTag	DOF:000033 membrane-targeting	True
+Q16512	PAK1	human	binding_target	hasBindingTarget	DOT:000069 Ca2+	False
+Q16512	PAK1	human	binding_target	hasBindingTarget	DOT:000133 phosphatidylserine	False
+Q16512	PAK1	human	binding_target	hasBindingTarget	DOT:000124 PIP2	False
+Q16512	PAK1	human	binding_target	hasBindingTarget	DOT:000131 PI(3,4,5)P3	False
+Q16512	PAK1	human	domain_type	hasDomainType	INTERPRO:IPR037784	True
+Q16512	PAK1	human	domain_type	hasDomainType	INTERPRO:IPR000719	True
+Q16512	PAK1	human	position	hasPositionalCategory	DOP:000003 Cterminal	True
+Q16512	PAK1	human	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+Q16512	PAK1	human	GO_function	hasGOTermMF	GO:0004672	True
+Q16512	PAK1	human	GO_function	hasGOTermMF	GO:0005524	True
+Q16512	PAK1	human	domain_type	hasDomainType	INTERPRO:IPR000961	True
+Q16512	PAK1	human	domain_type	hasDomainType	INTERPRO:IPR017892	True
+Q16539	MAPK1	human	domain_type	hasDomainType	INTERPRO:IPR000719	True
+Q16539	MAPK1	human	function	hasFunctionTag	DOF:000009 Binding	True
+Q16539	MAPK1	human	function	hasFunctionTag	DOF:000010 catalytic	True
+Q16539	MAPK1	human	topology	hasTopologyContext	DOP:000012 unknown	True
+Q16539	MAPK1	human	position	hasPositionalCategory	DOP:000004 Nterminal	True
+Q16539	MAPK1	human	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+Q16539	MAPK1	human	binding_target	hasBindingTarget	DOT:000026 ATP	False
+Q16539	MAPK1	human	binding_target	hasBindingTarget	DOT:000079 Mg2+	False
+Q16539	MAPK1	human	binding_target	hasBindingTarget	DOT:000114 protein substrate	False
+Q16539	MAPK1	human	GO_function	hasGOTermMF	GO:0004672	True
+Q16539	MAPK1	human	GO_function	hasGOTermMF	GO:0005524	True
+Q16539	MAPK1	human	GO_process	hasGOTermBP	GO:0006468	False
+Q16566	CAMK4	human	domain_type	hasDomainType	INTERPRO:IPR000719	True
+Q16566	CAMK4	human	function	hasFunctionTag	DOF:000009 Binding	True
+Q16566	CAMK4	human	function	hasFunctionTag	DOF:000010 catalytic	True
+Q16566	CAMK4	human	topology	hasTopologyContext	DOP:000012 unknown	True
+Q16566	CAMK4	human	position	hasPositionalCategory	DOP:000004 Nterminal	True
+Q16566	CAMK4	human	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+Q16566	CAMK4	human	binding_target	hasBindingTarget	DOT:000026 ATP	False
+Q16566	CAMK4	human	binding_target	hasBindingTarget	DOT:000079 Mg2+	False
+Q16566	CAMK4	human	binding_target	hasBindingTarget	DOT:000114 protein substrate	False
+Q16566	CAMK4	human	GO_function	hasGOTermMF	GO:0004672	True
+Q16566	CAMK4	human	GO_function	hasGOTermMF	GO:0005524	True
+Q16566	CAMK4	human	GO_process	hasGOTermBP	GO:0006468	False
+Q16720	ATP2B3	human	domain_type	hasDomainType	INTERPRO:IPR004014	True
+Q16720	ATP2B3	human	function	hasFunctionTag	DOF:000012 membrane-anchor	True
+Q16720	ATP2B3	human	function	hasFunctionTag	DOF:000013 transporter	True
+Q16720	ATP2B3	human	topology	hasTopologyContext	DOP:000006 cytoplasmic	True
+Q16720	ATP2B3	human	topology	hasTopologyContext	DOP:000007 extracellular	True
+Q16720	ATP2B3	human	topology	hasTopologyContext	DOP:000008 transmembrane	True
+Q16720	ATP2B3	human	position	hasPositionalCategory	DOP:000004 Nterminal	True
+Q16720	ATP2B3	human	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	True
+Q16720	ATP2B3	human	binding_target	hasBindingTarget	DOT:000096 membrane bilayer	False
+Q16720	ATP2B3	human	binding_target	hasBindingTarget	DOT:000069 Ca2+	False
+Q16720	ATP2B3	human	domain_type	hasDomainType	INTERPRO:IPR059000	True
+Q16720	ATP2B3	human	function	hasFunctionTag	DOF:000010 catalytic	True
+Q16720	ATP2B3	human	function	hasFunctionTag	DOF:000020 ATPase	True
+Q16720	ATP2B3	human	binding_target	hasBindingTarget	DOT:000107 phosphoprotein substrate	False
+Q16720	ATP2B3	human	domain_type	hasDomainType	INTERPRO:IPR044492	True
+Q16720	ATP2B3	human	position	hasPositionalCategory	DOP:000005 Internal	True
+Q16720	ATP2B3	human	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+Q16720	ATP2B3	human	binding_target	hasBindingTarget	DOT:000026 ATP	False
+Q16720	ATP2B3	human	binding_target	hasBindingTarget	DOT:000079 Mg2+	False
+Q16720	ATP2B3	human	domain_type	hasDomainType	INTERPRO:IPR006068	True
+Q16720	ATP2B3	human	position	hasPositionalCategory	DOP:000003 Cterminal	True
+Q16720	ATP2B3	human	domain_type	hasDomainType	INTERPRO:IPR022141	True
+Q16720	ATP2B3	human	function	hasFunctionTag	DOF:000014 regulator	True
+Q16720	ATP2B3	human	binding_target	hasBindingTarget	DOT:000059 Calmodulin	False
+Q16720	ATP2B3	human	GO_function	hasGOTermMF	GO:0005388	True
+Q5VU43	PDE4D	human	domain_type	hasDomainType	INTERPRO:IPR012943	True
+Q5VU43	PDE4D	human	function	hasFunctionTag	DOF:000016 scaffold	True
+Q5VU43	PDE4D	human	topology	hasTopologyContext	DOP:000012 unknown	True
+Q5VU43	PDE4D	human	position	hasPositionalCategory	DOP:000004 Nterminal	True
+Q5VU43	PDE4D	human	binding_target	hasBindingTarget	DOT:000112 protein partner	False
+Q5VU43	PDE4D	human	GO_component	hasGOTermCC	GO:0005815	False
+Q5VU43	PDE4D	human	domain_type	hasDomainType	INTERPRO:IPR056273	True
+Q5VU43	PDE4D	human	function	hasFunctionTag	DOF:000036 oligomerization	True
+Q5VU43	PDE4D	human	position	hasPositionalCategory	DOP:000005 Internal	True
+Q5VU43	PDE4D	human	domain_type	hasDomainType	INTERPRO:IPR010630	True
+Q5VU43	PDE4D	human	domain_type	hasDomainType	INTERPRO:IPR060527	True
+Q5VU43	PDE4D	human	position	hasPositionalCategory	DOP:000003 Cterminal	True
+Q6PFW1	VIP	human	domain_type	hasDomainType	INTERPRO:IPR040557	True
+Q6PFW1	VIP	human	function	hasFunctionTag	DOF:000043 ligand	True
+Q6PFW1	VIP	human	function	hasFunctionTag	DOF:000038 receptor-binding	True
+Q6PFW1	VIP	human	topology	hasTopologyContext	DOP:000012 unknown	True
+Q6PFW1	VIP	human	position	hasPositionalCategory	DOP:000004 Nterminal	True
+Q6PFW1	VIP	human	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+Q6PFW1	VIP	human	binding_target	hasBindingTarget	DOT:000202 VPAC1/VIPR1	False
+Q6PFW1	VIP	human	binding_target	hasBindingTarget	DOT:000203 VPAC2/VIPR2	False
+Q8IV77	CNGA4	human	domain_type	hasDomainType	INTERPRO:IPR005821	True
+Q8IV77	CNGA4	human	function	hasFunctionTag	DOF:000026 channel	True
+Q8IV77	CNGA4	human	topology	hasTopologyContext	DOP:000006 cytoplasmic	True
+Q8IV77	CNGA4	human	topology	hasTopologyContext	DOP:000007 extracellular	True
+Q8IV77	CNGA4	human	topology	hasTopologyContext	DOP:000008 transmembrane	True
+Q8IV77	CNGA4	human	position	hasPositionalCategory	DOP:000004 Nterminal	True
+Q8IV77	CNGA4	human	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	True
+Q8IV77	CNGA4	human	binding_target	hasBindingTarget	DOT:000069 Ca2+	False
+Q8IV77	CNGA4	human	binding_target	hasBindingTarget	DOT:000070 Na+	False
+Q8IV77	CNGA4	human	binding_target	hasBindingTarget	DOT:000130 K+	False
+Q8IV77	CNGA4	human	GO_function	hasGOTermMF	GO:0005216	True
+Q8IV77	CNGA4	human	GO_process	hasGOTermBP	GO:0006811	False
+Q8IV77	CNGA4	human	GO_process	hasGOTermBP	GO:0055085	False
+Q8IV77	CNGA4	human	GO_component	hasGOTermCC	GO:0016020	False
+Q8IV77	CNGA4	human	domain_type	hasDomainType	INTERPRO:IPR000595	True
+Q8IV77	CNGA4	human	function	hasFunctionTag	DOF:000014 regulator	True
+Q8IV77	CNGA4	human	function	hasFunctionTag	DOF:000029 cyclic-nucleotide-sensor	True
+Q8IV77	CNGA4	human	position	hasPositionalCategory	DOP:000003 Cterminal	True
+Q8IV77	CNGA4	human	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+Q8IV77	CNGA4	human	binding_target	hasBindingTarget	DOT:000033 cAMP	False
+Q8IV77	CNGA4	human	binding_target	hasBindingTarget	DOT:000034 cGMP	False
+Q8IV77	CNGA4	human	domain_type	hasDomainType	INTERPRO:IPR032406	True
+Q8IV77	CNGA4	human	binding_target	hasBindingTarget	DOT:000112 protein partner	False
+Q8NE79	BVES	human	domain_type	hasDomainType	INTERPRO:IPR055272	True
+Q8NE79	BVES	human	function	hasFunctionTag	DOF:000014 regulator	True
+Q8NE79	BVES	human	function	hasFunctionTag	DOF:000029 cyclic-nucleotide-sensor	True
+Q8NE79	BVES	human	topology	hasTopologyContext	DOP:000006 cytoplasmic	True
+Q8NE79	BVES	human	topology	hasTopologyContext	DOP:000007 extracellular	True
+Q8NE79	BVES	human	topology	hasTopologyContext	DOP:000008 transmembrane	True
+Q8NE79	BVES	human	position	hasPositionalCategory	DOP:000004 Nterminal	True
+Q8NE79	BVES	human	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	True
+Q8NE79	BVES	human	binding_target	hasBindingTarget	DOT:000033 cAMP	False
+Q8NFM4	ADCY	human	domain_type	hasDomainType	INTERPRO:IPR032628	True
+Q8NFM4	ADCY	human	function	hasFunctionTag	DOF:000012 membrane-anchor	True
+Q8NFM4	ADCY	human	topology	hasTopologyContext	DOP:000006 cytoplasmic	True
+Q8NFM4	ADCY	human	topology	hasTopologyContext	DOP:000008 transmembrane	True
+Q8NFM4	ADCY	human	position	hasPositionalCategory	DOP:000004 Nterminal	True
+Q8NFM4	ADCY	human	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	True
+Q8NFM4	ADCY	human	binding_target	hasBindingTarget	DOT:000097 membrane environment	False
+Q8NFM4	ADCY	human	domain_type	hasDomainType	INTERPRO:IPR001054	True
+Q8NFM4	ADCY	human	function	hasFunctionTag	DOF:000010 catalytic	True
+Q8NFM4	ADCY	human	position	hasPositionalCategory	DOP:000005 Internal	True
+Q8NFM4	ADCY	human	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+Q8NFM4	ADCY	human	binding_target	hasBindingTarget	DOT:000026 ATP	False
+Q8NFM4	ADCY	human	binding_target	hasBindingTarget	DOT:000079 Mg2+	False
+Q8NFM4	ADCY	human	binding_target	hasBindingTarget	DOT:000080 Mn2+	False
+Q8NFM4	ADCY	human	GO_process	hasGOTermBP	GO:0009190	False
+Q8NFM4	ADCY	human	GO_process	hasGOTermBP	GO:0035556	False
+Q8NFM4	ADCY	human	domain_type	hasDomainType	INTERPRO:IPR009398	True
+Q8NFM4	ADCY	human	GO_function	hasGOTermMF	GO:0004016	True
+Q8NFM4	ADCY	human	GO_process	hasGOTermBP	GO:0006171	False
+Q8NFM4	ADCY	human	GO_component	hasGOTermCC	GO:0005886	False
+Q8NFM4	ADCY	human	position	hasPositionalCategory	DOP:000003 Cterminal	True
+Q8TD08	MAPK1	human	domain_type	hasDomainType	INTERPRO:IPR000719	True
+Q8TD08	MAPK1	human	function	hasFunctionTag	DOF:000009 Binding	True
+Q8TD08	MAPK1	human	function	hasFunctionTag	DOF:000010 catalytic	True
+Q8TD08	MAPK1	human	topology	hasTopologyContext	DOP:000012 unknown	True
+Q8TD08	MAPK1	human	position	hasPositionalCategory	DOP:000004 Nterminal	True
+Q8TD08	MAPK1	human	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+Q8TD08	MAPK1	human	binding_target	hasBindingTarget	DOT:000026 ATP	False
+Q8TD08	MAPK1	human	binding_target	hasBindingTarget	DOT:000079 Mg2+	False
+Q8TD08	MAPK1	human	binding_target	hasBindingTarget	DOT:000114 protein substrate	False
+Q8TD08	MAPK1	human	GO_function	hasGOTermMF	GO:0004672	True
+Q8TD08	MAPK1	human	GO_function	hasGOTermMF	GO:0005524	True
+Q8TD08	MAPK1	human	GO_process	hasGOTermBP	GO:0006468	False
+Q8TDV5	GPR119	human	domain_type	hasDomainType	INTERPRO:IPR017452	True
+Q8TDV5	GPR119	human	function	hasFunctionTag	DOF:000011 receptor	True
+Q8TDV5	GPR119	human	function	hasFunctionTag	DOF:000012 membrane-anchor	True
+Q8TDV5	GPR119	human	function	hasFunctionTag	DOF:000039 signal-transducer	True
+Q8TDV5	GPR119	human	topology	hasTopologyContext	DOP:000006 cytoplasmic	True
+Q8TDV5	GPR119	human	topology	hasTopologyContext	DOP:000007 extracellular	True
+Q8TDV5	GPR119	human	topology	hasTopologyContext	DOP:000008 transmembrane	True
+Q8TDV5	GPR119	human	position	hasPositionalCategory	DOP:000004 Nterminal	True
+Q8TDV5	GPR119	human	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	True
+Q8TDV5	GPR119	human	binding_target	hasBindingTarget	DOT:000092 extracellular ligand	False
+Q8TDV5	GPR119	human	binding_target	hasBindingTarget	DOT:000093 heterotrimeric G protein	False
+Q8TDV5	GPR119	human	GO_component	hasGOTermCC	GO:0016020	False
+Q8WZA2	RAPGEF4	human	domain_type	hasDomainType	INTERPRO:IPR000595	True
+Q8WZA2	RAPGEF4	human	function	hasFunctionTag	DOF:000014 regulator	True
+Q8WZA2	RAPGEF4	human	function	hasFunctionTag	DOF:000029 cyclic-nucleotide-sensor	True
+Q8WZA2	RAPGEF4	human	topology	hasTopologyContext	DOP:000012 unknown	True
+Q8WZA2	RAPGEF4	human	position	hasPositionalCategory	DOP:000004 Nterminal	True
+Q8WZA2	RAPGEF4	human	binding_target	hasBindingTarget	DOT:000033 cAMP	False
+Q8WZA2	RAPGEF4	human	binding_target	hasBindingTarget	DOT:000034 cGMP	False
+Q8WZA2	RAPGEF4	human	domain_type	hasDomainType	INTERPRO:IPR000591	True
+Q8WZA2	RAPGEF4	human	position	hasPositionalCategory	DOP:000005 Internal	True
+Q8WZA2	RAPGEF4	human	GO_process	hasGOTermBP	GO:0035556	False
+Q8WZA2	RAPGEF4	human	function	hasFunctionTag	DOF:000016 scaffold	True
+Q8WZA2	RAPGEF4	human	function	hasFunctionTag	DOF:000033 membrane-targeting	True
+Q8WZA2	RAPGEF4	human	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+Q8WZA2	RAPGEF4	human	binding_target	hasBindingTarget	DOT:000261 plasma membrane	False
+Q8WZA2	RAPGEF4	human	binding_target	hasBindingTarget	DOT:000159 G¦Â¦Ã subunits	False
+Q8WZA2	RAPGEF4	human	domain_type	hasDomainType	INTERPRO:IPR000651	True
+Q8WZA2	RAPGEF4	human	function	hasFunctionTag	DOF:000045 GEF	True
+Q8WZA2	RAPGEF4	human	binding_target	hasBindingTarget	DOT:000123 Ras-related small GTPase	False
+Q8WZA2	RAPGEF4	human	domain_type	hasDomainType	INTERPRO:IPR001895	True
+Q8WZA2	RAPGEF4	human	position	hasPositionalCategory	DOP:000003 Cterminal	True
+Q8WZA2	RAPGEF4	human	GO_function	hasGOTermMF	GO:0005085	True
+Q8WZA2	RAPGEF4	human	GO_process	hasGOTermBP	GO:0007264	False
+Q92736	RYR2	human	domain_type	hasDomainType	INTERPRO:IPR014821	True
+Q92736	RYR2	human	function	hasFunctionTag	DOF:000026 channel	True
+Q92736	RYR2	human	function	hasFunctionTag	DOF:000014 regulator	True
+Q92736	RYR2	human	function	hasFunctionTag	DOF:000016 scaffold	True
+Q92736	RYR2	human	topology	hasTopologyContext	DOP:000006 cytoplasmic	True
+Q92736	RYR2	human	position	hasPositionalCategory	DOP:000004 Nterminal	True
+Q92736	RYR2	human	binding_target	hasBindingTarget	DOT:000069 Ca2+	False
+Q92736	RYR2	human	binding_target	hasBindingTarget	DOT:000057 Channel Regulatory Proteins	False
+Q92736	RYR2	human	domain_type	hasDomainType	INTERPRO:IPR016093	True
+Q92736	RYR2	human	domain_type	hasDomainType	INTERPRO:IPR000699	True
+Q92736	RYR2	human	GO_function	hasGOTermMF	GO:0005262	True
+Q92736	RYR2	human	GO_process	hasGOTermBP	GO:0070588	False
+Q92736	RYR2	human	GO_component	hasGOTermCC	GO:0016020	False
+Q92736	RYR2	human	domain_type	hasDomainType	INTERPRO:IPR001870	True
+Q92736	RYR2	human	domain_type	hasDomainType	INTERPRO:IPR035761	True
+Q92736	RYR2	human	function	hasFunctionTag	DOF:000017 PPI	True
+Q92736	RYR2	human	binding_target	hasBindingTarget	DOT:000113 protein regulators of RyR/IP3R	False
+Q92736	RYR2	human	domain_type	hasDomainType	INTERPRO:IPR003877	True
+Q92736	RYR2	human	GO_function	hasGOTermMF	GO:0005515	True
+Q92736	RYR2	human	domain_type	hasDomainType	INTERPRO:IPR003032	True
+Q92736	RYR2	human	position	hasPositionalCategory	DOP:000005 Internal	True
+Q92736	RYR2	human	domain_type	hasDomainType	INTERPRO:IPR035764	True
+Q92736	RYR2	human	domain_type	hasDomainType	INTERPRO:IPR035762	True
+Q92736	RYR2	human	domain_type	hasDomainType	INTERPRO:IPR048581	True
+Q92736	RYR2	human	domain_type	hasDomainType	INTERPRO:IPR013662	True
+Q92736	RYR2	human	domain_type	hasDomainType	INTERPRO:IPR002048	True
+Q92736	RYR2	human	function	hasFunctionTag	DOF:000009 Binding	True
+Q92736	RYR2	human	position	hasPositionalCategory	DOP:000003 Cterminal	True
+Q92736	RYR2	human	GO_function	hasGOTermMF	GO:0005509	True
+Q92736	RYR2	human	domain_type	hasDomainType	INTERPRO:IPR009460	True
+Q92736	RYR2	human	topology	hasTopologyContext	DOP:000008 transmembrane	True
+Q92736	RYR2	human	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	True
+Q92736	RYR2	human	binding_target	hasBindingTarget	DOT:000070 Na+	False
+Q92736	RYR2	human	binding_target	hasBindingTarget	DOT:000130 K+	False
+Q92736	RYR2	human	GO_function	hasGOTermMF	GO:0005219	True
+Q92736	RYR2	human	GO_process	hasGOTermBP	GO:0006874	False
+Q92736	RYR2	human	domain_type	hasDomainType	INTERPRO:IPR005821	True
+Q92736	RYR2	human	GO_function	hasGOTermMF	GO:0005216	True
+Q92736	RYR2	human	GO_process	hasGOTermBP	GO:0006811	False
+Q92736	RYR2	human	GO_process	hasGOTermBP	GO:0055085	False
+Q92793	CREBBP	human	domain_type	hasDomainType	INTERPRO:IPR000197	True
+Q92793	CREBBP	human	function	hasFunctionTag	DOF:000009 Binding	True
+Q92793	CREBBP	human	function	hasFunctionTag	DOF:000040 structural	True
+Q92793	CREBBP	human	function	hasFunctionTag	DOF:000034 metal-binding	True
+Q92793	CREBBP	human	topology	hasTopologyContext	DOP:000012 unknown	True
+Q92793	CREBBP	human	position	hasPositionalCategory	DOP:000004 Nterminal	True
+Q92793	CREBBP	human	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+Q92793	CREBBP	human	binding_target	hasBindingTarget	DOT:000084 Zn2+	False
+Q92793	CREBBP	human	domain_type	hasDomainType	INTERPRO:IPR003101	True
+Q92793	CREBBP	human	position	hasPositionalCategory	DOP:000005 Internal	True
+Q92793	CREBBP	human	GO_function	hasGOTermMF	GO:0003712	True
+Q92793	CREBBP	human	GO_process	hasGOTermBP	GO:0006355	False
+Q92793	CREBBP	human	domain_type	hasDomainType	INTERPRO:IPR001487	True
+Q92793	CREBBP	human	function	hasFunctionTag	DOF:000017 PPI	True
+Q92793	CREBBP	human	function	hasFunctionTag	DOF:000028 coactivator	True
+Q92793	CREBBP	human	binding_target	hasBindingTarget	DOT:000187 phosphorylated CREB pKID	False
+Q92793	CREBBP	human	GO_function	hasGOTermMF	GO:0005515	True
+Q92793	CREBBP	human	domain_type	hasDomainType	INTERPRO:IPR010303	True
+Q92793	CREBBP	human	function	hasFunctionTag	DOF:000037 reader	True
+Q92793	CREBBP	human	function	hasFunctionTag	DOF:000027 chromatin-binding	True
+Q92793	CREBBP	human	binding_target	hasBindingTarget	DOT:000186 acetylated histone tails	False
+Q92793	CREBBP	human	domain_type	hasDomainType	INTERPRO:IPR056484	True
+Q92793	CREBBP	human	function	hasFunctionTag	DOF:000016 scaffold	True
+Q92793	CREBBP	human	binding_target	hasBindingTarget	DOT:000261 protein partners (generic)	False
+Q92793	CREBBP	human	domain_type	hasDomainType	INTERPRO:IPR031162	True
+Q92793	CREBBP	human	binding_target	hasBindingTarget	DOT:000275 H3K4me3	False
+Q92793	CREBBP	human	binding_target	hasBindingTarget	DOT:000126 methylated histone H3 tail	False
+Q92793	CREBBP	human	GO_function	hasGOTermMF	GO:0004402	True
+Q92793	CREBBP	human	domain_type	hasDomainType	INTERPRO:IPR000433	True
+Q92793	CREBBP	human	function	hasFunctionTag	DOF:000010 catalytic	True
+Q92793	CREBBP	human	binding_target	hasBindingTarget	DOT:000053 acetyl-CoA	False
+Q92793	CREBBP	human	binding_target	hasBindingTarget	DOT:000094 histone/non-histone lysine substrate	False
+Q92793	CREBBP	human	GO_function	hasGOTermMF	GO:0008270	True
+Q92793	CREBBP	human	domain_type	hasDomainType	INTERPRO:IPR014744	True
+Q92793	CREBBP	human	position	hasPositionalCategory	DOP:000003 Cterminal	True
+Q92793	CREBBP	human	binding_target	hasBindingTarget	DOT:000088 coactivator core proteins	False
+Q92793	CREBBP	human	GO_function	hasGOTermMF	GO:0003713	True
+Q92793	CREBBP	human	GO_component	hasGOTermCC	GO:0000123	False
+Q92793	CREBBP	human	GO_component	hasGOTermCC	GO:0005634	False
+Q93084	ATP2A3	human	domain_type	hasDomainType	INTERPRO:IPR004014	True
+Q93084	ATP2A3	human	function	hasFunctionTag	DOF:000012 membrane-anchor	True
+Q93084	ATP2A3	human	function	hasFunctionTag	DOF:000013 transporter	True
+Q93084	ATP2A3	human	topology	hasTopologyContext	DOP:000006 cytoplasmic	True
+Q93084	ATP2A3	human	topology	hasTopologyContext	DOP:000010 luminal	True
+Q93084	ATP2A3	human	topology	hasTopologyContext	DOP:000008 transmembrane	True
+Q93084	ATP2A3	human	position	hasPositionalCategory	DOP:000004 Nterminal	True
+Q93084	ATP2A3	human	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	True
+Q93084	ATP2A3	human	binding_target	hasBindingTarget	DOT:000096 membrane bilayer	False
+Q93084	ATP2A3	human	binding_target	hasBindingTarget	DOT:000069 Ca2+	False
+Q93084	ATP2A3	human	domain_type	hasDomainType	INTERPRO:IPR059000	True
+Q93084	ATP2A3	human	function	hasFunctionTag	DOF:000010 catalytic	True
+Q93084	ATP2A3	human	function	hasFunctionTag	DOF:000020 ATPase	True
+Q93084	ATP2A3	human	binding_target	hasBindingTarget	DOT:000107 phosphoprotein substrate	False
+Q93084	ATP2A3	human	domain_type	hasDomainType	INTERPRO:IPR044492	True
+Q93084	ATP2A3	human	position	hasPositionalCategory	DOP:000005 Internal	True
+Q93084	ATP2A3	human	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+Q93084	ATP2A3	human	binding_target	hasBindingTarget	DOT:000026 ATP	False
+Q93084	ATP2A3	human	binding_target	hasBindingTarget	DOT:000079 Mg2+	False
+Q93084	ATP2A3	human	domain_type	hasDomainType	INTERPRO:IPR006068	True
+Q93084	ATP2A3	human	position	hasPositionalCategory	DOP:000003 Cterminal	True
+Q96PN6	ADCY	human	domain_type	hasDomainType	INTERPRO:IPR001054	True
+Q96PN6	ADCY	human	function	hasFunctionTag	DOF:000010 catalytic	True
+Q96PN6	ADCY	human	topology	hasTopologyContext	DOP:000012 unknown	True
+Q96PN6	ADCY	human	position	hasPositionalCategory	DOP:000004 Nterminal	True
+Q96PN6	ADCY	human	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+Q96PN6	ADCY	human	binding_target	hasBindingTarget	DOT:000026 ATP	False
+Q96PN6	ADCY	human	binding_target	hasBindingTarget	DOT:000079 Mg2+	False
+Q96PN6	ADCY	human	binding_target	hasBindingTarget	DOT:000080 Mn2+	False
+Q96PN6	ADCY	human	GO_process	hasGOTermBP	GO:0009190	False
+Q96PN6	ADCY	human	GO_process	hasGOTermBP	GO:0035556	False
+Q9BXA5	SUCNR1	human	domain_type	hasDomainType	INTERPRO:IPR017452	True
+Q9BXA5	SUCNR1	human	function	hasFunctionTag	DOF:000011 receptor	True
+Q9BXA5	SUCNR1	human	function	hasFunctionTag	DOF:000012 membrane-anchor	True
+Q9BXA5	SUCNR1	human	function	hasFunctionTag	DOF:000039 signal-transducer	True
+Q9BXA5	SUCNR1	human	topology	hasTopologyContext	DOP:000006 cytoplasmic	True
+Q9BXA5	SUCNR1	human	topology	hasTopologyContext	DOP:000007 extracellular	True
+Q9BXA5	SUCNR1	human	topology	hasTopologyContext	DOP:000008 transmembrane	True
+Q9BXA5	SUCNR1	human	position	hasPositionalCategory	DOP:000004 Nterminal	True
+Q9BXA5	SUCNR1	human	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	True
+Q9BXA5	SUCNR1	human	binding_target	hasBindingTarget	DOT:000092 extracellular ligand	False
+Q9BXA5	SUCNR1	human	binding_target	hasBindingTarget	DOT:000093 heterotrimeric G protein	False
+Q9BXA5	SUCNR1	human	GO_component	hasGOTermCC	GO:0016020	False
+Q9BXC0	HCAR1	human	domain_type	hasDomainType	INTERPRO:IPR017452	True
+Q9BXC0	HCAR1	human	function	hasFunctionTag	DOF:000011 receptor	True
+Q9BXC0	HCAR1	human	function	hasFunctionTag	DOF:000012 membrane-anchor	True
+Q9BXC0	HCAR1	human	function	hasFunctionTag	DOF:000039 signal-transducer	True
+Q9BXC0	HCAR1	human	topology	hasTopologyContext	DOP:000006 cytoplasmic	True
+Q9BXC0	HCAR1	human	topology	hasTopologyContext	DOP:000007 extracellular	True
+Q9BXC0	HCAR1	human	topology	hasTopologyContext	DOP:000008 transmembrane	True
+Q9BXC0	HCAR1	human	position	hasPositionalCategory	DOP:000004 Nterminal	True
+Q9BXC0	HCAR1	human	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	True
+Q9BXC0	HCAR1	human	binding_target	hasBindingTarget	DOT:000092 extracellular ligand	False
+Q9BXC0	HCAR1	human	binding_target	hasBindingTarget	DOT:000093 heterotrimeric G protein	False
+Q9BXC0	HCAR1	human	GO_component	hasGOTermCC	GO:0016020	False
+Q9H9C1	VIP	human	domain_type	hasDomainType	INTERPRO:IPR006925	True
+Q9H9C1	VIP	human	function	hasFunctionTag	DOF:000016 scaffold	True
+Q9H9C1	VIP	human	function	hasFunctionTag	DOF:000041 trafficking	True
+Q9H9C1	VIP	human	topology	hasTopologyContext	DOP:000012 unknown	True
+Q9H9C1	VIP	human	position	hasPositionalCategory	DOP:000005 Internal	True
+Q9H9C1	VIP	human	binding_target	hasBindingTarget	DOT:000078 HOPS/CORVET complex partner proteins	False
+Q9H9C1	VIP	human	GO_process	hasGOTermBP	GO:0006886	False
+Q9H9C1	VIP	human	GO_component	hasGOTermCC	GO:0005737	False
+Q9HBU9	POPDC2	human	domain_type	hasDomainType	INTERPRO:IPR055272	True
+Q9HBU9	POPDC2	human	function	hasFunctionTag	DOF:000014 regulator	True
+Q9HBU9	POPDC2	human	function	hasFunctionTag	DOF:000029 cyclic-nucleotide-sensor	True
+Q9HBU9	POPDC2	human	topology	hasTopologyContext	DOP:000008 transmembrane	True
+Q9HBU9	POPDC2	human	position	hasPositionalCategory	DOP:000004 Nterminal	True
+Q9HBU9	POPDC2	human	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	True
+Q9HBU9	POPDC2	human	binding_target	hasBindingTarget	DOT:000033 cAMP	False
+Q9HBV1	POPDC3	human	domain_type	hasDomainType	INTERPRO:IPR055272	True
+Q9HBV1	POPDC3	human	function	hasFunctionTag	DOF:000014 regulator	True
+Q9HBV1	POPDC3	human	function	hasFunctionTag	DOF:000029 cyclic-nucleotide-sensor	True
+Q9HBV1	POPDC3	human	topology	hasTopologyContext	DOP:000008 transmembrane	True
+Q9HBV1	POPDC3	human	position	hasPositionalCategory	DOP:000004 Nterminal	True
+Q9HBV1	POPDC3	human	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	True
+Q9HBV1	POPDC3	human	binding_target	hasBindingTarget	DOT:000033 cAMP	False
+Q9NQW8	CNGB3	human	domain_type	hasDomainType	INTERPRO:IPR005821	True
+Q9NQW8	CNGB3	human	function	hasFunctionTag	DOF:000026 channel	True
+Q9NQW8	CNGB3	human	topology	hasTopologyContext	DOP:000006 cytoplasmic	True
+Q9NQW8	CNGB3	human	topology	hasTopologyContext	DOP:000007 extracellular	True
+Q9NQW8	CNGB3	human	topology	hasTopologyContext	DOP:000008 transmembrane	True
+Q9NQW8	CNGB3	human	position	hasPositionalCategory	DOP:000005 Internal	True
+Q9NQW8	CNGB3	human	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	True
+Q9NQW8	CNGB3	human	binding_target	hasBindingTarget	DOT:000069 Ca2+	False
+Q9NQW8	CNGB3	human	binding_target	hasBindingTarget	DOT:000070 Na+	False
+Q9NQW8	CNGB3	human	binding_target	hasBindingTarget	DOT:000130 K+	False
+Q9NQW8	CNGB3	human	GO_function	hasGOTermMF	GO:0005216	True
+Q9NQW8	CNGB3	human	GO_process	hasGOTermBP	GO:0006811	False
+Q9NQW8	CNGB3	human	GO_process	hasGOTermBP	GO:0055085	False
+Q9NQW8	CNGB3	human	GO_component	hasGOTermCC	GO:0016020	False
+Q9NQW8	CNGB3	human	domain_type	hasDomainType	INTERPRO:IPR000595	True
+Q9NQW8	CNGB3	human	function	hasFunctionTag	DOF:000014 regulator	True
+Q9NQW8	CNGB3	human	function	hasFunctionTag	DOF:000029 cyclic-nucleotide-sensor	True
+Q9NQW8	CNGB3	human	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+Q9NQW8	CNGB3	human	binding_target	hasBindingTarget	DOT:000033 cAMP	False
+Q9NQW8	CNGB3	human	binding_target	hasBindingTarget	DOT:000034 cGMP	False
+Q9P212	PLCE1	human	domain_type	hasDomainType	INTERPRO:IPR001895	True
+Q9P212	PLCE1	human	function	hasFunctionTag	DOF:000014 regulator	True
+Q9P212	PLCE1	human	function	hasFunctionTag	DOF:000045 GEF	True
+Q9P212	PLCE1	human	topology	hasTopologyContext	DOP:000012 unknown	True
+Q9P212	PLCE1	human	position	hasPositionalCategory	DOP:000005 Internal	True
+Q9P212	PLCE1	human	binding_target	hasBindingTarget	DOT:000123 Ras-related small GTPase	False
+Q9P212	PLCE1	human	binding_target	hasBindingTarget	DOT:000062 Rho-related small GTPase	False
+Q9P212	PLCE1	human	GO_function	hasGOTermMF	GO:0005085	True
+Q9P212	PLCE1	human	GO_process	hasGOTermBP	GO:0007264	False
+Q9P212	PLCE1	human	domain_type	hasDomainType	INTERPRO:IPR046974	True
+Q9P212	PLCE1	human	function	hasFunctionTag	DOF:000018 sensor	True
+Q9P212	PLCE1	human	binding_target	hasBindingTarget	DOT:000069 Ca2+	False
+Q9P212	PLCE1	human	domain_type	hasDomainType	INTERPRO:IPR015359	True
+Q9P212	PLCE1	human	function	hasFunctionTag	DOF:000034 metal-binding	True
+Q9P212	PLCE1	human	domain_type	hasDomainType	INTERPRO:IPR046973	True
+Q9P212	PLCE1	human	function	hasFunctionTag	DOF:000010 catalytic	True
+Q9P212	PLCE1	human	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+Q9P212	PLCE1	human	binding_target	hasBindingTarget	DOT:000124 PIP2	False
+Q9P212	PLCE1	human	binding_target	hasBindingTarget	DOT:000079 Mg2+	False
+Q9P212	PLCE1	human	GO_function	hasGOTermMF	GO:0004435	True
+Q9P212	PLCE1	human	domain_type	hasDomainType	INTERPRO:IPR000909	True
+Q9P212	PLCE1	human	domain_type	hasDomainType	INTERPRO:IPR001711	True
+Q9P212	PLCE1	human	position	hasPositionalCategory	DOP:000003 Cterminal	True
+Q9P212	PLCE1	human	GO_process	hasGOTermBP	GO:0006629	False
+Q9P212	PLCE1	human	GO_process	hasGOTermBP	GO:0007165	False
+Q9P212	PLCE1	human	GO_process	hasGOTermBP	GO:0035556	False
+Q9P212	PLCE1	human	domain_type	hasDomainType	INTERPRO:IPR000008	True
+Q9P212	PLCE1	human	function	hasFunctionTag	DOF:000009 Binding	True
+Q9P212	PLCE1	human	function	hasFunctionTag	DOF:000033 membrane-targeting	True
+Q9P212	PLCE1	human	binding_target	hasBindingTarget	DOT:000133 phosphatidylserine	False
+Q9P212	PLCE1	human	binding_target	hasBindingTarget	DOT:000131 PI(3,4,5)P3	False
+Q9P212	PLCE1	human	domain_type	hasDomainType	INTERPRO:IPR028398	True
+Q9P212	PLCE1	human	domain_type	hasDomainType	INTERPRO:IPR000159	True
+Q9UKW4	VAV3	human	domain_type	hasDomainType	INTERPRO:IPR001715	True
+Q9UKW4	VAV3	human	function	hasFunctionTag	DOF:000009 Binding	True
+Q9UKW4	VAV3	human	function	hasFunctionTag	DOF:000016 scaffold	True
+Q9UKW4	VAV3	human	topology	hasTopologyContext	DOP:000012 unknown	True
+Q9UKW4	VAV3	human	position	hasPositionalCategory	DOP:000004 Nterminal	True
+Q9UKW4	VAV3	human	binding_target	hasBindingTarget	DOT:000086 actin	False
+Q9UKW4	VAV3	human	GO_function	hasGOTermMF	GO:0005515	True
+Q9UKW4	VAV3	human	domain_type	hasDomainType	INTERPRO:IPR022613	True
+Q9UKW4	VAV3	human	function	hasFunctionTag	DOF:000014 regulator	True
+Q9UKW4	VAV3	human	binding_target	hasBindingTarget	DOT:000112 protein partner	False
+Q9UKW4	VAV3	human	domain_type	hasDomainType	INTERPRO:IPR000219	True
+Q9UKW4	VAV3	human	function	hasFunctionTag	DOF:000045 GEF	True
+Q9UKW4	VAV3	human	position	hasPositionalCategory	DOP:000005 Internal	True
+Q9UKW4	VAV3	human	binding_target	hasBindingTarget	DOT:000062 Rho-related small GTPase	False
+Q9UKW4	VAV3	human	GO_function	hasGOTermMF	GO:0005085	True
+Q9UKW4	VAV3	human	domain_type	hasDomainType	INTERPRO:IPR037832	True
+Q9UKW4	VAV3	human	function	hasFunctionTag	DOF:000033 membrane-targeting	True
+Q9UKW4	VAV3	human	function	hasFunctionTag	DOF:000024 adaptor	True
+Q9UKW4	VAV3	human	binding_target	hasBindingTarget	DOT:000131 PI(3,4,5)P3	False
+Q9UKW4	VAV3	human	domain_type	hasDomainType	INTERPRO:IPR001849	True
+Q9UKW4	VAV3	human	domain_type	hasDomainType	INTERPRO:IPR055251	True
+Q9UKW4	VAV3	human	binding_target	hasBindingTarget	DOT:000038 Phosphoinositides	False
+Q9UKW4	VAV3	human	domain_type	hasDomainType	INTERPRO:IPR002219	True
+Q9UKW4	VAV3	human	function	hasFunctionTag	DOF:000040 structural	True
+Q9UKW4	VAV3	human	binding_target	hasBindingTarget	DOT:000127 Dbl homology domain (intramolecular)	False
+Q9UKW4	VAV3	human	binding_target	hasBindingTarget	DOT:000084 Zn2+	False
+Q9UKW4	VAV3	human	domain_type	hasDomainType	INTERPRO:IPR001452	True
+Q9UKW4	VAV3	human	function	hasFunctionTag	DOF:000017 PPI	True
+Q9UKW4	VAV3	human	binding_target	hasBindingTarget	DOT:000192 SH3-binding PxxP proteins	False
+Q9UKW4	VAV3	human	domain_type	hasDomainType	INTERPRO:IPR047015	True
+Q9UKW4	VAV3	human	domain_type	hasDomainType	INTERPRO:IPR035881	True
+Q9UKW4	VAV3	human	position	hasPositionalCategory	DOP:000003 Cterminal	True
+Q9UKW4	VAV3	human	domain_type	hasDomainType	INTERPRO:IPR000980	True
+Q9UKW4	VAV3	human	binding_target	hasBindingTarget	DOT:000109 phosphotyrosine-containing proteins	False
+Q9UKW4	VAV3	human	domain_type	hasDomainType	INTERPRO:IPR035734	True
+Q9UL51	HCN2	human	domain_type	hasDomainType	INTERPRO:IPR013621	True
+Q9UL51	HCN2	human	function	hasFunctionTag	DOF:000013 transporter	True
+Q9UL51	HCN2	human	function	hasFunctionTag	DOF:000026 channel	True
+Q9UL51	HCN2	human	topology	hasTopologyContext	DOP:000006 cytoplasmic	True
+Q9UL51	HCN2	human	position	hasPositionalCategory	DOP:000004 Nterminal	True
+Q9UL51	HCN2	human	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	True
+Q9UL51	HCN2	human	binding_target	hasBindingTarget	DOT:000069 Ca2+	False
+Q9UL51	HCN2	human	binding_target	hasBindingTarget	DOT:000070 Na+	False
+Q9UL51	HCN2	human	binding_target	hasBindingTarget	DOT:000130 K+	False
+Q9UL51	HCN2	human	domain_type	hasDomainType	INTERPRO:IPR005821	True
+Q9UL51	HCN2	human	topology	hasTopologyContext	DOP:000007 extracellular	True
+Q9UL51	HCN2	human	topology	hasTopologyContext	DOP:000008 transmembrane	True
+Q9UL51	HCN2	human	position	hasPositionalCategory	DOP:000005 Internal	True
+Q9UL51	HCN2	human	GO_function	hasGOTermMF	GO:0005216	True
+Q9UL51	HCN2	human	GO_process	hasGOTermBP	GO:0006811	False
+Q9UL51	HCN2	human	GO_process	hasGOTermBP	GO:0055085	False
+Q9UL51	HCN2	human	GO_component	hasGOTermCC	GO:0016020	False
+Q9UL51	HCN2	human	domain_type	hasDomainType	INTERPRO:IPR000595	True
+Q9UL51	HCN2	human	function	hasFunctionTag	DOF:000014 regulator	True
+Q9UL51	HCN2	human	function	hasFunctionTag	DOF:000029 cyclic-nucleotide-sensor	True
+Q9UL51	HCN2	human	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+Q9UL51	HCN2	human	binding_target	hasBindingTarget	DOT:000033 cAMP	False
+Q9UL51	HCN2	human	binding_target	hasBindingTarget	DOT:000034 cGMP	False
+Q9UPT6	MAPK8	human	domain_type	hasDomainType	INTERPRO:IPR034743	True
+Q9UPT6	MAPK8	human	function	hasFunctionTag	DOF:000014 regulator	True
+Q9UPT6	MAPK8	human	topology	hasTopologyContext	DOP:000012 unknown	True
+Q9UPT6	MAPK8	human	position	hasPositionalCategory	DOP:000004 Nterminal	True
+Q9UPT6	MAPK8	human	binding_target	hasBindingTarget	DOT:000112 protein partner	False
+Q9UPT6	MAPK8	human	domain_type	hasDomainType	INTERPRO:IPR032486	True
+Q9UPT6	MAPK8	human	position	hasPositionalCategory	DOP:000005 Internal	True
+Q9UPT6	MAPK8	human	domain_type	hasDomainType	INTERPRO:IPR034744	True
+Q9UQF2	MAPK8	human	domain_type	hasDomainType	INTERPRO:IPR001452	True
+Q9UQF2	MAPK8	human	function	hasFunctionTag	DOF:000017 PPI	True
+Q9UQF2	MAPK8	human	function	hasFunctionTag	DOF:000024 adaptor	True
+Q9UQF2	MAPK8	human	topology	hasTopologyContext	DOP:000012 unknown	True
+Q9UQF2	MAPK8	human	position	hasPositionalCategory	DOP:000005 Internal	True
+Q9UQF2	MAPK8	human	binding_target	hasBindingTarget	DOT:000192 SH3-binding PxxP proteins	False
+Q9UQF2	MAPK8	human	GO_function	hasGOTermMF	GO:0005515	True
+Q9UQF2	MAPK8	human	domain_type	hasDomainType	INTERPRO:IPR035638	True
+Q9UQF2	MAPK8	human	domain_type	hasDomainType	INTERPRO:IPR006020	True
+Q9UQF2	MAPK8	human	position	hasPositionalCategory	DOP:000003 Cterminal	True
+Q9UQF2	MAPK8	human	binding_target	hasBindingTarget	DOT:000052 NPxY/NxxY peptide motifs	False
+Q9UQF2	MAPK8	human	binding_target	hasBindingTarget	DOT:000223 insulin receptor -beta-chain	False
+Q9UQF2	MAPK8	human	binding_target	hasBindingTarget	DOT:000240 APP	False
+Q9UQF2	MAPK8	human	binding_target	hasBindingTarget	DOT:000194 Shc adaptors	False
+Q9Y233	PDE10A	human	domain_type	hasDomainType	INTERPRO:IPR003018	True
+Q9Y233	PDE10A	human	function	hasFunctionTag	DOF:000014 regulator	True
+Q9Y233	PDE10A	human	function	hasFunctionTag	DOF:000029 cyclic-nucleotide-sensor	True
+Q9Y233	PDE10A	human	topology	hasTopologyContext	DOP:000012 unknown	True
+Q9Y233	PDE10A	human	position	hasPositionalCategory	DOP:000005 Internal	True
+Q9Y233	PDE10A	human	binding_target	hasBindingTarget	DOT:000033 cAMP	False
+Q9Y233	PDE10A	human	binding_target	hasBindingTarget	DOT:000034 cGMP	False
+Q9Y233	PDE10A	human	GO_function	hasGOTermMF	GO:0005515	True
+Q9Y233	PDE10A	human	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+Q9Y233	PDE10A	human	domain_type	hasDomainType	INTERPRO:IPR002073	True
+Q9Y233	PDE10A	human	function	hasFunctionTag	DOF:000010 catalytic	True
+Q9Y233	PDE10A	human	position	hasPositionalCategory	DOP:000003 Cterminal	True
+Q9Y233	PDE10A	human	binding_target	hasBindingTarget	DOT:000084 Zn2+	False
+Q9Y233	PDE10A	human	binding_target	hasBindingTarget	DOT:000079 Mg2+	False
+Q9Y233	PDE10A	human	GO_function	hasGOTermMF	GO:0004114	True
+Q9Y233	PDE10A	human	GO_process	hasGOTermBP	GO:0007165	False
+Q9Y233	PDE10A	human	domain_type	hasDomainType	INTERPRO:IPR003607	True
+Q9Y243	AKT3	human	domain_type	hasDomainType	INTERPRO:IPR039026	True
+Q9Y243	AKT3	human	function	hasFunctionTag	DOF:000009 Binding	True
+Q9Y243	AKT3	human	function	hasFunctionTag	DOF:000033 membrane-targeting	True
+Q9Y243	AKT3	human	function	hasFunctionTag	DOF:000024 adaptor	True
+Q9Y243	AKT3	human	topology	hasTopologyContext	DOP:000012 unknown	True
+Q9Y243	AKT3	human	position	hasPositionalCategory	DOP:000004 Nterminal	True
+Q9Y243	AKT3	human	binding_target	hasBindingTarget	DOT:000131 PI(3,4,5)P3	False
+Q9Y243	AKT3	human	domain_type	hasDomainType	INTERPRO:IPR001849	True
+Q9Y243	AKT3	human	domain_type	hasDomainType	INTERPRO:IPR034675	True
+Q9Y243	AKT3	human	function	hasFunctionTag	DOF:000010 catalytic	True
+Q9Y243	AKT3	human	position	hasPositionalCategory	DOP:000003 Cterminal	True
+Q9Y243	AKT3	human	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+Q9Y243	AKT3	human	binding_target	hasBindingTarget	DOT:000026 ATP	False
+Q9Y243	AKT3	human	binding_target	hasBindingTarget	DOT:000079 Mg2+	False
+Q9Y243	AKT3	human	binding_target	hasBindingTarget	DOT:000114 protein substrate	False
+Q9Y243	AKT3	human	GO_function	hasGOTermMF	GO:0004674	True
+Q9Y243	AKT3	human	GO_process	hasGOTermBP	GO:0006468	False
+Q9Y243	AKT3	human	domain_type	hasDomainType	INTERPRO:IPR000719	True
+Q9Y243	AKT3	human	GO_function	hasGOTermMF	GO:0004672	True
+Q9Y243	AKT3	human	GO_function	hasGOTermMF	GO:0005524	True
+Q9Y243	AKT3	human	domain_type	hasDomainType	INTERPRO:IPR000961	True
+Q9Y243	AKT3	human	domain_type	hasDomainType	INTERPRO:IPR017892	True
+Q9Y3Q4	HCN4	human	domain_type	hasDomainType	INTERPRO:IPR013621	True
+Q9Y3Q4	HCN4	human	function	hasFunctionTag	DOF:000013 transporter	True
+Q9Y3Q4	HCN4	human	function	hasFunctionTag	DOF:000026 channel	True
+Q9Y3Q4	HCN4	human	topology	hasTopologyContext	DOP:000006 cytoplasmic	True
+Q9Y3Q4	HCN4	human	position	hasPositionalCategory	DOP:000004 Nterminal	True
+Q9Y3Q4	HCN4	human	proximity	hasProximityCategory	DOP:000001 NearTransmembraneHelix	True
+Q9Y3Q4	HCN4	human	binding_target	hasBindingTarget	DOT:000069 Ca2+	False
+Q9Y3Q4	HCN4	human	binding_target	hasBindingTarget	DOT:000070 Na+	False
+Q9Y3Q4	HCN4	human	binding_target	hasBindingTarget	DOT:000130 K+	False
+Q9Y3Q4	HCN4	human	domain_type	hasDomainType	INTERPRO:IPR005821	True
+Q9Y3Q4	HCN4	human	topology	hasTopologyContext	DOP:000007 extracellular	True
+Q9Y3Q4	HCN4	human	topology	hasTopologyContext	DOP:000008 transmembrane	True
+Q9Y3Q4	HCN4	human	position	hasPositionalCategory	DOP:000005 Internal	True
+Q9Y3Q4	HCN4	human	GO_function	hasGOTermMF	GO:0005216	True
+Q9Y3Q4	HCN4	human	GO_process	hasGOTermBP	GO:0006811	False
+Q9Y3Q4	HCN4	human	GO_process	hasGOTermBP	GO:0055085	False
+Q9Y3Q4	HCN4	human	GO_component	hasGOTermCC	GO:0016020	False
+Q9Y3Q4	HCN4	human	domain_type	hasDomainType	INTERPRO:IPR000595	True
+Q9Y3Q4	HCN4	human	function	hasFunctionTag	DOF:000014 regulator	True
+Q9Y3Q4	HCN4	human	function	hasFunctionTag	DOF:000029 cyclic-nucleotide-sensor	True
+Q9Y3Q4	HCN4	human	proximity	hasProximityCategory	DOP:000002 NearActiveSiteRegion	True
+Q9Y3Q4	HCN4	human	binding_target	hasBindingTarget	DOT:000033 cAMP	False
+Q9Y3Q4	HCN4	human	binding_target	hasBindingTarget	DOT:000034 cGMP	False
+Q9Y6Q9	RAC3	human	domain_type	hasDomainType	INTERPRO:IPR056193	True
+Q9Y6Q9	RAC3	human	function	hasFunctionTag	DOF:000017 PPI	True
+Q9Y6Q9	RAC3	human	function	hasFunctionTag	DOF:000016 scaffold	True
+Q9Y6Q9	RAC3	human	function	hasFunctionTag	DOF:000028 coactivator	True
+Q9Y6Q9	RAC3	human	topology	hasTopologyContext	DOP:000012 unknown	True
+Q9Y6Q9	RAC3	human	position	hasPositionalCategory	DOP:000004 Nterminal	True
+Q9Y6Q9	RAC3	human	binding_target	hasBindingTarget	DOT:000188 DNA response element (CRE/E-box)	False
+Q9Y6Q9	RAC3	human	binding_target	hasBindingTarget	DOT:000244 homodimer/heterodimer partner	False
+Q9Y6Q9	RAC3	human	domain_type	hasDomainType	INTERPRO:IPR011598	True
+Q9Y6Q9	RAC3	human	function	hasFunctionTag	DOF:000030 dimerization	True
+Q9Y6Q9	RAC3	human	GO_function	hasGOTermMF	GO:0046983	True
+Q9Y6Q9	RAC3	human	domain_type	hasDomainType	INTERPRO:IPR056194	True
+Q9Y6Q9	RAC3	human	domain_type	hasDomainType	INTERPRO:IPR000014	True
+Q9Y6Q9	RAC3	human	function	hasFunctionTag	DOF:000018 sensor	True
+Q9Y6Q9	RAC3	human	binding_target	hasBindingTarget	DOT:000229 PAS-domain ligands	False
+Q9Y6Q9	RAC3	human	binding_target	hasBindingTarget	DOT:000189 transcription factor complex partners	False
+Q9Y6Q9	RAC3	human	domain_type	hasDomainType	INTERPRO:IPR013767	True
+Q9Y6Q9	RAC3	human	GO_process	hasGOTermBP	GO:0006355	False
+Q9Y6Q9	RAC3	human	domain_type	hasDomainType	INTERPRO:IPR014935	True
+Q9Y6Q9	RAC3	human	position	hasPositionalCategory	DOP:000005 Internal	True
+Q9Y6Q9	RAC3	human	binding_target	hasBindingTarget	DOT:000190 nuclear receptor LBD AF-2 helix	False
+Q9Y6Q9	RAC3	human	binding_target	hasBindingTarget	DOT:000227 NCOA3 LXXLL motif	False
+Q9Y6Q9	RAC3	human	domain_type	hasDomainType	INTERPRO:IPR032565	True
+Q9Y6Q9	RAC3	human	binding_target	hasBindingTarget	DOT:000088 coactivator core proteins	False
+Q9Y6Q9	RAC3	human	domain_type	hasDomainType	INTERPRO:IPR014920	True
+Q9Y6Q9	RAC3	human	GO_function	hasGOTermMF	GO:0003713	True
+Q9Y6Q9	RAC3	human	GO_function	hasGOTermMF	GO:0016922	True
+Q9Y6Q9	RAC3	human	GO_component	hasGOTermCC	GO:0005634	False
+Q9Y6Q9	RAC3	human	domain_type	hasDomainType	INTERPRO:IPR010011	True
+Q9Y6Q9	RAC3	human	position	hasPositionalCategory	DOP:000003 Cterminal	True

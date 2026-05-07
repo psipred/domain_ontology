@@ -1,0 +1,16 @@
+metric	cAMP_human	cAMP_mouse	delta_cAMP_mouse_minus_cAMP_human
+Total occurrence rows	473.0	435.0	-38.0
+Unique proteins	142.0	134.0	-8.0
+Unique domain types	157.0	152.0	-5.0
+Schema columns present	74.0	71.0	-3.0
+Unique function tags	32.0	32.0	0.0
+Unique topology terms	5.0	6.0	1.0
+Unique positional terms	3.0	3.0	0.0
+Unique proximity terms	3.0	3.0	0.0
+Unique binding targets	0.0	0.0	0.0
+Unique copy-number terms	4.0	4.0	0.0
+CV-backed rate: function_tags (%)	100.0	100.0	0.0
+CV-backed rate: topology_context (%)	100.0	99.8	-0.2
+CV-backed rate: positional_category (%)	100.0	100.0	0.0
+CV-backed rate: binding_parnter (%)	0.0	0.0	0.0
+CV-backed rate: copy_number (%)	100.0	100.0	0.0

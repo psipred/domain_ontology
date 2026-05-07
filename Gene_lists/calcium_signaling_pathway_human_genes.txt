@@ -1,0 +1,78 @@
+# Calcium signalling pathway — human gene list
+# Source   : Curated literature + KEGG pathway hsa04020
+# Organism : Homo sapiens (NCBI taxonomy ID: 9606)
+# Format   : one HGNC gene symbol per line; lines starting with # are comments
+# Usage    : python 01_data_and_merge.py --gene-file calcium_signaling_pathway_human_genes.txt \
+#                --pathway-name calcium_signaling_pathway --organism-id 9606 --fetch-interpro
+# Created  : [date]
+# Version  : 1.0
+
+# ── GPCRs / surface receptors ─────────────────────────────────────────────────
+CHRM1
+CHRM2
+CHRM3
+ADRB1
+ADRB2
+OXTR
+EDNRA
+PTGER3
+
+# ── G proteins / PLC branch ───────────────────────────────────────────────────
+GNAS
+GNAQ
+GNA11
+PLCB1
+PLCB2
+PLCB3
+PLCB4
+PLCE1
+
+# ── IP3 receptors / RyR calcium release ──────────────────────────────────────
+ITPR1
+ITPR2
+ITPR3
+RYR1
+RYR2
+RYR3
+
+# ── Voltage-gated calcium channels ───────────────────────────────────────────
+CACNA1C
+CACNA1D
+CACNA1F
+CACNA1S
+
+# ── Calmodulin / CaMK branch ─────────────────────────────────────────────────
+CALM1
+CALM2
+CALM3
+CAMK1
+CAMK2A
+CAMK2B
+CAMK2D
+CAMK4
+
+# ── Calcineurin / NFAT branch ────────────────────────────────────────────────
+PPP3CA
+PPP3CB
+PPP3CC
+NFATC1
+NFATC2
+NFATC3
+NFATC4
+
+# ── Pumps / exchangers ───────────────────────────────────────────────────────
+ATP2A1
+ATP2A2
+ATP2A3
+ATP2B1
+ATP2B2
+ATP2B3
+ATP2B4
+
+# ── Downstream transcription / effectors ─────────────────────────────────────
+CREB1
+CREBBP
+EP300
+MAPK1
+MAPK3
+BAD

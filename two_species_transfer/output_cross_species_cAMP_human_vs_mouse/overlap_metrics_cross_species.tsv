@@ -1,0 +1,12 @@
+category	cAMP_human_size	cAMP_mouse_size	shared	unique_to_cAMP_human	unique_to_cAMP_mouse	jaccard	shared_items	cAMP_human_unique_items	cAMP_mouse_unique_items
+domain_types	157	152	150	7	2	0.9434	interpro:ipr000008; interpro:ipr000014; interpro:ipr000095; interpro:ipr000159; interpro:ipr000187; interpro:ipr000197; interpro:ipr000198; interpro:ipr000219; interpro:ipr000341; interpro:ipr000403	interpro:ipr013087; interpro:ipr016137; interpro:ipr034663; interpro:ipr037313; interpro:ipr037317; interpro:ipr037784; interpro:ipr056194	interpro:ipr006737; interpro:ipr006738
+proteins	142	134	0	142	134	0.0		o00329; o00459; o14939; o15264; o15439; o15552; o43306; o43314; o43889; o60266	a2arp1; b2rws6; e1az71; e9q236; e9q401; g5e829; o08858; o08908; o08911; o09000
+function_tags	32	32	32	0	0	1.0	adaptor; atpase; binding; catalytic; catalytic-support; channel; chromatin-binding; coactivator; cyclic-nucleotide-sensor; dimerization		
+binding_targets	99	68	42	57	26	0.336	actin; atp; ca2+; camp; cbp/p300 kix domain; cdc42; cgmp; channel regulatory partners; channel regulatory proteins; coactivator core proteins	acetyl-coa; acetylated histone tails; akap15; app; calmodulin; cav-beta subunit; cl?/hco??; cognate trk receptor (trkb/ntrk2); crh/crf peptide; crhr1	acetyl-lysine histone tail; acetylcoa; ca2+/na+/k+ or permeant ion; camp/cgmp; cognate gpcr or receptor; corticotropin-releasing factor (crf) peptide; dimerization partner; dna response element; g protein inputs; gap partner protein
+topology_context	5	6	5	0	1	0.8333	cytoplasmic; extracellular; luminal; transmembrane; unknown		signal_peptide
+positional_category	3	3	3	0	0	1.0	cterminal; internal; nterminal		
+proximity_categories	3	3	3	0	0	1.0	nearactivesiteregion; nearsignalpeptidecleavage; neartransmembranehelix		
+copy_number	4	4	4	0	0	1.0	doublecopy; multicopy; singlecopy; triplecopy		
+go_terms_mf	34	33	33	1	0	0.9706	go:0003700; go:0003712; go:0003713; go:0003824; go:0004016; go:0004114; go:0004402; go:0004435; go:0004672; go:0004674	go:0004697	
+go_terms_bp	21	21	21	0	0	1.0	go:0006171; go:0006355; go:0006468; go:0006629; go:0006811; go:0006874; go:0006886; go:0006939; go:0007165; go:0007166		
+go_terms_cc	7	7	7	0	0	1.0	go:0000123; go:0005576; go:0005634; go:0005737; go:0005815; go:0005886; go:0016020		

@@ -1,0 +1,19 @@
+============================================================
+  BLIND TEST SPLIT SUMMARY
+============================================================
+  Total approved pairs  : 207
+  Calibration set (80%) : 166  → ortholog_pairs_calibration.tsv
+  Test set (20%)        : 41  → ortholog_pairs_test.tsv
+
+  *** DO NOT USE ortholog_pairs_test.tsv until step 8 ***
+  *** Tuning any parameter on the test set invalidates the evaluation ***
+
+  Tier distribution in each split:
+    high_confidence       cal=105  test=26
+    probable              cal=61  test=15
+
+  Ortholog type distribution (all pairs):
+    one2one  : 93
+    one2many : 2
+    many2one : 112
+============================================================

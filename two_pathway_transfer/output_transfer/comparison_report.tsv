@@ -1,0 +1,16 @@
+metric	cAMP	otherPathway	difference
+Total occurrence rows	473.0	269.0	-204.0
+Unique proteins	142.0	60.0	-82.0
+Unique domain types	157.0	58.0	-99.0
+Schema columns present	74.0	71.0	-3.0
+Unique function tags	32.0	25.0	-7.0
+Unique topology terms	5.0	5.0	0.0
+Unique positional terms	3.0	3.0	0.0
+Unique proximity terms	3.0	2.0	-1.0
+Unique binding targets	99.0	48.0	-51.0
+Unique copy-number terms	0.0	0.0	0.0
+CV-backed rate: function_tags (%)	100.0	100.0	0.0
+CV-backed rate: topology_context (%)	100.0	100.0	0.0
+CV-backed rate: positional_category (%)	100.0	100.0	0.0
+CV-backed rate: binding_partner (%)	100.0	100.0	0.0
+CV-backed rate: copy_number_property (%)	0.0	0.0	0.0
