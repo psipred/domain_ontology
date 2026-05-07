@@ -1,0 +1,218 @@
+2026-05-03 14:36:00  INFO      [stage10_robustness]  ==================================================================
+2026-05-03 14:36:00  INFO      [stage10_robustness]    STAGE 10: Robustness Testing
+2026-05-03 14:36:00  INFO      [stage10_robustness]  ==================================================================
+2026-05-03 14:36:00  WARNING   [stage10_robustness]  No foreground_protein_domains or domain_occurrence_table — skipping Stage 10
+2026-05-03 14:43:13  INFO      [stage10_robustness]  ==================================================================
+2026-05-03 14:43:13  INFO      [stage10_robustness]    STAGE 10: Robustness Testing
+2026-05-03 14:43:13  INFO      [stage10_robustness]  ==================================================================
+2026-05-03 14:43:13  WARNING   [stage10_robustness]  No foreground_protein_domains or domain_occurrence_table — skipping Stage 10
+2026-05-03 15:35:16  INFO      [stage10_robustness]  ==================================================================
+2026-05-03 15:35:16  INFO      [stage10_robustness]    STAGE 10: Robustness Testing
+2026-05-03 15:35:16  INFO      [stage10_robustness]  ==================================================================
+2026-05-03 15:35:19  INFO      [stage10_robustness]  Bootstrap: 100 iterations, fraction=0.8 …
+2026-05-03 15:35:36  INFO      [stage10_robustness]  Saved 157 rows → output\stage10_robustness\bootstrap_stability.tsv
+2026-05-03 15:35:41  INFO      [stage10_robustness]  Saved 410 rows → output\stage10_robustness\leave_one_family_out.tsv
+2026-05-03 15:35:41  INFO      [stage10_robustness]  Label shuffling: 100 iterations …
+2026-05-03 15:35:54  INFO      [stage10_robustness]  Saved 100 rows → output\stage10_robustness\shuffled_controls.tsv
+2026-05-03 15:35:54  INFO      [stage10_robustness]  Saved 2 rows → output\stage10_robustness\robustness_summary.tsv
+2026-05-03 15:35:54  INFO      [stage10_robustness]  Stage 10 complete.
+2026-05-03 16:16:10  INFO      [stage10_robustness]  ==================================================================
+2026-05-03 16:16:10  INFO      [stage10_robustness]    STAGE 10: Robustness Testing
+2026-05-03 16:16:10  INFO      [stage10_robustness]  ==================================================================
+2026-05-03 16:16:15  INFO      [stage10_robustness]  Bootstrap: 100 iterations, fraction=0.8 …
+2026-05-03 16:16:33  INFO      [stage10_robustness]  Saved 157 rows → output\stage10_robustness\bootstrap_stability.tsv
+2026-05-03 16:16:42  INFO      [stage10_robustness]  Saved 410 rows → output\stage10_robustness\leave_one_family_out.tsv
+2026-05-03 16:16:42  INFO      [stage10_robustness]  Label shuffling: 100 iterations …
+2026-05-03 16:17:06  INFO      [stage10_robustness]  Saved 100 rows → output\stage10_robustness\shuffled_controls.tsv
+2026-05-03 16:17:06  INFO      [stage10_robustness]  Saved 2 rows → output\stage10_robustness\robustness_summary.tsv
+2026-05-03 16:17:07  INFO      [stage10_robustness]  Stage 10 complete.
+2026-05-03 16:27:40  INFO      [stage10_robustness]  ==================================================================
+2026-05-03 16:27:40  INFO      [stage10_robustness]    STAGE 10: Robustness Testing
+2026-05-03 16:27:40  INFO      [stage10_robustness]  ==================================================================
+2026-05-03 16:27:43  INFO      [stage10_robustness]  Bootstrap: 100 iterations, fraction=0.8 …
+2026-05-03 16:27:51  INFO      [stage10_robustness]  Saved 157 rows → output\stage10_robustness\bootstrap_stability.tsv
+2026-05-03 16:27:55  INFO      [stage10_robustness]  Saved 410 rows → output\stage10_robustness\leave_one_family_out.tsv
+2026-05-03 16:27:55  INFO      [stage10_robustness]  Label shuffling: 100 iterations …
+2026-05-03 16:28:03  INFO      [stage10_robustness]  Saved 100 rows → output\stage10_robustness\shuffled_controls.tsv
+2026-05-03 16:28:03  INFO      [stage10_robustness]  Saved 2 rows → output\stage10_robustness\robustness_summary.tsv
+2026-05-03 16:28:04  INFO      [stage10_robustness]  Stage 10 complete.
+2026-05-03 16:39:08  INFO      [stage10_robustness]  ==================================================================
+2026-05-03 16:39:08  INFO      [stage10_robustness]    STAGE 10: Robustness Testing
+2026-05-03 16:39:08  INFO      [stage10_robustness]  ==================================================================
+2026-05-03 16:39:12  INFO      [stage10_robustness]  Bootstrap: 100 iterations, fraction=0.8 …
+2026-05-03 16:39:20  INFO      [stage10_robustness]  Saved 157 rows → output\stage10_robustness\bootstrap_stability.tsv
+2026-05-03 16:39:23  INFO      [stage10_robustness]  Saved 410 rows → output\stage10_robustness\leave_one_family_out.tsv
+2026-05-03 16:39:23  INFO      [stage10_robustness]  Label shuffling: 100 iterations …
+2026-05-03 16:39:31  INFO      [stage10_robustness]  Saved 100 rows → output\stage10_robustness\shuffled_controls.tsv
+2026-05-03 16:39:31  INFO      [stage10_robustness]  Saved 2 rows → output\stage10_robustness\robustness_summary.tsv
+2026-05-03 16:39:31  INFO      [stage10_robustness]  Stage 10 complete.
+2026-05-03 17:14:43  INFO      [stage10_robustness]  ==================================================================
+2026-05-03 17:14:43  INFO      [stage10_robustness]    STAGE 10: Robustness Testing
+2026-05-03 17:14:43  INFO      [stage10_robustness]  ==================================================================
+2026-05-03 17:14:48  INFO      [stage10_robustness]  Bootstrap: 100 iterations, fraction=0.8 …
+2026-05-03 17:15:01  INFO      [stage10_robustness]  Saved 157 rows → output\stage10_robustness\bootstrap_stability.tsv
+2026-05-03 17:15:06  INFO      [stage10_robustness]  Saved 410 rows → output\stage10_robustness\leave_one_family_out.tsv
+2026-05-03 17:15:06  INFO      [stage10_robustness]  Label shuffling: 100 iterations …
+2026-05-03 17:15:23  INFO      [stage10_robustness]  Saved 100 rows → output\stage10_robustness\shuffled_controls.tsv
+2026-05-03 17:15:23  INFO      [stage10_robustness]  Saved 2 rows → output\stage10_robustness\robustness_summary.tsv
+2026-05-03 17:15:23  INFO      [stage10_robustness]  Stage 10 complete.
+2026-05-03 22:57:28  INFO      [stage10_robustness]  ==================================================================
+2026-05-03 22:57:28  INFO      [stage10_robustness]    STAGE 10: Robustness Testing
+2026-05-03 22:57:28  INFO      [stage10_robustness]  ==================================================================
+2026-05-03 22:57:41  INFO      [stage10_robustness]  Bootstrap: 100 iterations, fraction=0.8 …
+2026-05-03 22:58:07  INFO      [stage10_robustness]  Saved 157 rows → output\stage10_robustness\bootstrap_stability.tsv
+2026-05-03 22:58:19  INFO      [stage10_robustness]  Saved 410 rows → output\stage10_robustness\leave_one_family_out.tsv
+2026-05-03 22:58:19  INFO      [stage10_robustness]  Label shuffling: 100 iterations …
+2026-05-03 22:58:52  INFO      [stage10_robustness]  Saved 100 rows → output\stage10_robustness\shuffled_controls.tsv
+2026-05-03 22:58:52  INFO      [stage10_robustness]  Saved 2 rows → output\stage10_robustness\robustness_summary.tsv
+2026-05-03 22:58:53  INFO      [stage10_robustness]  Stage 10 complete.
+2026-05-03 23:22:00  INFO      [stage10_robustness]  ==================================================================
+2026-05-03 23:22:00  INFO      [stage10_robustness]    STAGE 10: Robustness Testing
+2026-05-03 23:22:00  INFO      [stage10_robustness]  ==================================================================
+2026-05-03 23:22:06  INFO      [stage10_robustness]  Bootstrap: 100 iterations, fraction=0.8 …
+2026-05-03 23:22:19  INFO      [stage10_robustness]  Saved 157 rows → output\stage10_robustness\bootstrap_stability.tsv
+2026-05-03 23:22:26  INFO      [stage10_robustness]  Saved 410 rows → output\stage10_robustness\leave_one_family_out.tsv
+2026-05-03 23:22:26  INFO      [stage10_robustness]  Label shuffling: 100 iterations …
+2026-05-03 23:22:39  INFO      [stage10_robustness]  Saved 100 rows → output\stage10_robustness\shuffled_controls.tsv
+2026-05-03 23:22:39  INFO      [stage10_robustness]  Saved 2 rows → output\stage10_robustness\robustness_summary.tsv
+2026-05-03 23:22:40  INFO      [stage10_robustness]  Stage 10 complete.
+2026-05-03 23:28:03  INFO      [stage10_robustness]  ==================================================================
+2026-05-03 23:28:03  INFO      [stage10_robustness]    STAGE 10: Robustness Testing
+2026-05-03 23:28:03  INFO      [stage10_robustness]  ==================================================================
+2026-05-03 23:28:10  INFO      [stage10_robustness]  Bootstrap: 100 iterations, fraction=0.8 …
+2026-05-03 23:28:21  INFO      [stage10_robustness]  Saved 157 rows → output\stage10_robustness\bootstrap_stability.tsv
+2026-05-03 23:28:26  INFO      [stage10_robustness]  Saved 410 rows → output\stage10_robustness\leave_one_family_out.tsv
+2026-05-03 23:28:26  INFO      [stage10_robustness]  Label shuffling: 100 iterations …
+2026-05-03 23:28:37  INFO      [stage10_robustness]  Saved 100 rows → output\stage10_robustness\shuffled_controls.tsv
+2026-05-03 23:28:37  INFO      [stage10_robustness]  Saved 2 rows → output\stage10_robustness\robustness_summary.tsv
+2026-05-03 23:28:37  INFO      [stage10_robustness]  Stage 10 complete.
+2026-05-03 23:34:21  INFO      [stage10_robustness]  ==================================================================
+2026-05-03 23:34:21  INFO      [stage10_robustness]    STAGE 10: Robustness Testing
+2026-05-03 23:34:21  INFO      [stage10_robustness]  ==================================================================
+2026-05-03 23:34:27  INFO      [stage10_robustness]  Bootstrap: 100 iterations, fraction=0.8 …
+2026-05-03 23:34:40  INFO      [stage10_robustness]  Saved 157 rows → output\stage10_robustness\bootstrap_stability.tsv
+2026-05-03 23:34:45  INFO      [stage10_robustness]  Saved 410 rows → output\stage10_robustness\leave_one_family_out.tsv
+2026-05-03 23:34:45  INFO      [stage10_robustness]  Label shuffling: 100 iterations …
+2026-05-03 23:34:58  INFO      [stage10_robustness]  Saved 100 rows → output\stage10_robustness\shuffled_controls.tsv
+2026-05-03 23:34:58  INFO      [stage10_robustness]  Saved 2 rows → output\stage10_robustness\robustness_summary.tsv
+2026-05-03 23:34:58  INFO      [stage10_robustness]  Stage 10 complete.
+2026-05-03 23:51:28  INFO      [stage10_robustness]  ==================================================================
+2026-05-03 23:51:28  INFO      [stage10_robustness]    STAGE 10: Robustness Testing
+2026-05-03 23:51:28  INFO      [stage10_robustness]  ==================================================================
+2026-05-03 23:51:31  INFO      [stage10_robustness]  Bootstrap: 100 iterations, fraction=0.8 …
+2026-05-03 23:51:39  INFO      [stage10_robustness]  Saved 157 rows → output\stage10_robustness\bootstrap_stability.tsv
+2026-05-03 23:51:43  INFO      [stage10_robustness]  Saved 410 rows → output\stage10_robustness\leave_one_family_out.tsv
+2026-05-03 23:51:43  INFO      [stage10_robustness]  Label shuffling: 100 iterations …
+2026-05-03 23:51:51  INFO      [stage10_robustness]  Saved 100 rows → output\stage10_robustness\shuffled_controls.tsv
+2026-05-03 23:51:51  INFO      [stage10_robustness]  Saved 2 rows → output\stage10_robustness\robustness_summary.tsv
+2026-05-03 23:51:52  INFO      [stage10_robustness]  Stage 10 complete.
+2026-05-04 00:15:33  INFO      [stage10_robustness]  ==================================================================
+2026-05-04 00:15:33  INFO      [stage10_robustness]    STAGE 10: Robustness Testing
+2026-05-04 00:15:33  INFO      [stage10_robustness]  ==================================================================
+2026-05-04 00:15:37  INFO      [stage10_robustness]  Bootstrap: 100 iterations, fraction=0.8 …
+2026-05-04 00:15:48  INFO      [stage10_robustness]  Saved 157 rows → output\stage10_robustness\bootstrap_stability.tsv
+2026-05-04 00:15:54  INFO      [stage10_robustness]  Saved 410 rows → output\stage10_robustness\leave_one_family_out.tsv
+2026-05-04 00:15:54  INFO      [stage10_robustness]  Label shuffling: 100 iterations …
+2026-05-04 00:16:11  INFO      [stage10_robustness]  Saved 100 rows → output\stage10_robustness\shuffled_controls.tsv
+2026-05-04 00:16:11  INFO      [stage10_robustness]  Saved 2 rows → output\stage10_robustness\robustness_summary.tsv
+2026-05-04 00:16:11  INFO      [stage10_robustness]  Stage 10 complete.
+2026-05-04 01:15:26  INFO      [stage10_robustness]  ==================================================================
+2026-05-04 01:15:26  INFO      [stage10_robustness]    STAGE 10: Robustness Testing
+2026-05-04 01:15:26  INFO      [stage10_robustness]  ==================================================================
+2026-05-04 01:15:30  INFO      [stage10_robustness]  Bootstrap: 100 iterations, fraction=0.8 …
+2026-05-04 01:15:41  INFO      [stage10_robustness]  Saved 157 rows → output\stage10_robustness\bootstrap_stability.tsv
+2026-05-04 01:15:47  INFO      [stage10_robustness]  Saved 410 rows → output\stage10_robustness\leave_one_family_out.tsv
+2026-05-04 01:15:47  INFO      [stage10_robustness]  Label shuffling: 100 iterations …
+2026-05-04 01:16:01  INFO      [stage10_robustness]  Saved 100 rows → output\stage10_robustness\shuffled_controls.tsv
+2026-05-04 01:16:01  INFO      [stage10_robustness]  Saved 2 rows → output\stage10_robustness\robustness_summary.tsv
+2026-05-04 01:16:02  INFO      [stage10_robustness]  Stage 10 complete.
+2026-05-04 02:08:53  INFO      [stage10_robustness]  ==================================================================
+2026-05-04 02:08:53  INFO      [stage10_robustness]    STAGE 10: Robustness Testing
+2026-05-04 02:08:53  INFO      [stage10_robustness]  ==================================================================
+2026-05-04 02:08:58  INFO      [stage10_robustness]  Bootstrap: 100 iterations, fraction=0.8 …
+2026-05-04 02:09:13  INFO      [stage10_robustness]  Saved 157 rows → output\stage10_robustness\bootstrap_stability.tsv
+2026-05-04 02:09:18  INFO      [stage10_robustness]  Saved 410 rows → output\stage10_robustness\leave_one_family_out.tsv
+2026-05-04 02:09:18  INFO      [stage10_robustness]  Label shuffling: 100 iterations …
+2026-05-04 02:09:37  INFO      [stage10_robustness]  Saved 100 rows → output\stage10_robustness\shuffled_controls.tsv
+2026-05-04 02:09:37  INFO      [stage10_robustness]  Saved 2 rows → output\stage10_robustness\robustness_summary.tsv
+2026-05-04 02:09:38  INFO      [stage10_robustness]  Stage 10 complete.
+2026-05-04 04:34:33  INFO      [stage10_robustness]  ==================================================================
+2026-05-04 04:34:33  INFO      [stage10_robustness]    STAGE 10: Robustness Testing
+2026-05-04 04:34:33  INFO      [stage10_robustness]  ==================================================================
+2026-05-04 04:34:39  INFO      [stage10_robustness]  Bootstrap: 100 iterations, fraction=0.8 …
+2026-05-04 04:34:47  INFO      [stage10_robustness]  Saved 58 rows → output\stage10_robustness\bootstrap_stability.tsv
+2026-05-04 04:34:48  INFO      [stage10_robustness]  Saved 0 rows → output\stage10_robustness\leave_one_family_out.tsv
+2026-05-04 04:34:48  INFO      [stage10_robustness]  Label shuffling: 100 iterations …
+2026-05-04 04:34:57  INFO      [stage10_robustness]  Saved 100 rows → output\stage10_robustness\shuffled_controls.tsv
+2026-05-04 04:34:57  INFO      [stage10_robustness]  Saved 2 rows → output\stage10_robustness\robustness_summary.tsv
+2026-05-04 04:34:57  INFO      [stage10_robustness]  Stage 10 complete.
+2026-05-04 04:41:57  INFO      [stage10_robustness]  ==================================================================
+2026-05-04 04:41:57  INFO      [stage10_robustness]    STAGE 10: Robustness Testing
+2026-05-04 04:41:57  INFO      [stage10_robustness]  ==================================================================
+2026-05-04 04:42:06  INFO      [stage10_robustness]  Bootstrap: 100 iterations, fraction=0.8 …
+2026-05-04 04:42:15  INFO      [stage10_robustness]  Saved 58 rows → output\stage10_robustness\bootstrap_stability.tsv
+2026-05-04 04:42:15  INFO      [stage10_robustness]  Saved 0 rows → output\stage10_robustness\leave_one_family_out.tsv
+2026-05-04 04:42:15  INFO      [stage10_robustness]  Label shuffling: 100 iterations …
+2026-05-04 04:42:28  INFO      [stage10_robustness]  Saved 100 rows → output\stage10_robustness\shuffled_controls.tsv
+2026-05-04 04:42:28  INFO      [stage10_robustness]  Saved 2 rows → output\stage10_robustness\robustness_summary.tsv
+2026-05-04 04:42:29  INFO      [stage10_robustness]  Stage 10 complete.
+2026-05-04 09:33:21  INFO      [stage10_robustness]  ==================================================================
+2026-05-04 09:33:21  INFO      [stage10_robustness]    STAGE 10: Robustness Testing
+2026-05-04 09:33:21  INFO      [stage10_robustness]  ==================================================================
+2026-05-04 09:33:27  INFO      [stage10_robustness]  Bootstrap: 100 iterations, fraction=0.8 …
+2026-05-04 09:33:36  INFO      [stage10_robustness]  Saved 58 rows → output\stage10_robustness\bootstrap_stability.tsv
+2026-05-04 09:33:36  INFO      [stage10_robustness]  Saved 0 rows → output\stage10_robustness\leave_one_family_out.tsv
+2026-05-04 09:33:36  INFO      [stage10_robustness]  Label shuffling: 100 iterations …
+2026-05-04 09:33:42  INFO      [stage10_robustness]  Saved 100 rows → output\stage10_robustness\shuffled_controls.tsv
+2026-05-04 09:33:42  INFO      [stage10_robustness]  Saved 2 rows → output\stage10_robustness\robustness_summary.tsv
+2026-05-04 09:33:45  INFO      [stage10_robustness]  Stage 10 complete.
+2026-05-04 09:35:09  INFO      [stage10_robustness]  ==================================================================
+2026-05-04 09:35:09  INFO      [stage10_robustness]    STAGE 10: Robustness Testing
+2026-05-04 09:35:09  INFO      [stage10_robustness]  ==================================================================
+2026-05-04 09:35:12  INFO      [stage10_robustness]  Bootstrap: 100 iterations, fraction=0.8 …
+2026-05-04 09:35:21  INFO      [stage10_robustness]  Saved 58 rows → output\stage10_robustness\bootstrap_stability.tsv
+2026-05-04 09:35:21  INFO      [stage10_robustness]  Saved 0 rows → output\stage10_robustness\leave_one_family_out.tsv
+2026-05-04 09:35:21  INFO      [stage10_robustness]  Label shuffling: 100 iterations …
+2026-05-04 09:35:27  INFO      [stage10_robustness]  Saved 100 rows → output\stage10_robustness\shuffled_controls.tsv
+2026-05-04 09:35:27  INFO      [stage10_robustness]  Saved 2 rows → output\stage10_robustness\robustness_summary.tsv
+2026-05-04 09:35:27  INFO      [stage10_robustness]  Stage 10 complete.
+2026-05-04 09:57:41  INFO      [stage10_robustness]  ==================================================================
+2026-05-04 09:57:41  INFO      [stage10_robustness]    STAGE 10: Robustness Testing
+2026-05-04 09:57:41  INFO      [stage10_robustness]  ==================================================================
+2026-05-04 09:57:49  INFO      [stage10_robustness]  Bootstrap: 100 iterations, fraction=0.8 …
+2026-05-04 09:58:00  INFO      [stage10_robustness]  Saved 58 rows → output\stage10_robustness\bootstrap_stability.tsv
+2026-05-04 09:58:00  INFO      [stage10_robustness]  Saved 0 rows → output\stage10_robustness\leave_one_family_out.tsv
+2026-05-04 09:58:00  INFO      [stage10_robustness]  Label shuffling: 100 iterations …
+2026-05-04 09:58:11  INFO      [stage10_robustness]  Saved 100 rows → output\stage10_robustness\shuffled_controls.tsv
+2026-05-04 09:58:11  INFO      [stage10_robustness]  Saved 2 rows → output\stage10_robustness\robustness_summary.tsv
+2026-05-04 09:58:11  INFO      [stage10_robustness]  Stage 10 complete.
+2026-05-04 10:27:27  INFO      [stage10_robustness]  ==================================================================
+2026-05-04 10:27:27  INFO      [stage10_robustness]    STAGE 10: Robustness Testing
+2026-05-04 10:27:27  INFO      [stage10_robustness]  ==================================================================
+2026-05-04 10:27:32  INFO      [stage10_robustness]  Bootstrap: 100 iterations, fraction=0.8 …
+2026-05-04 10:27:41  INFO      [stage10_robustness]  Saved 58 rows → output\stage10_robustness\bootstrap_stability.tsv
+2026-05-04 10:27:41  INFO      [stage10_robustness]  Saved 0 rows → output\stage10_robustness\leave_one_family_out.tsv
+2026-05-04 10:27:41  INFO      [stage10_robustness]  Label shuffling: 100 iterations …
+2026-05-04 10:27:51  INFO      [stage10_robustness]  Saved 100 rows → output\stage10_robustness\shuffled_controls.tsv
+2026-05-04 10:27:51  INFO      [stage10_robustness]  Saved 2 rows → output\stage10_robustness\robustness_summary.tsv
+2026-05-04 10:27:52  INFO      [stage10_robustness]  Stage 10 complete.
+2026-05-04 11:01:49  INFO      [stage10_robustness]  ==================================================================
+2026-05-04 11:01:49  INFO      [stage10_robustness]    STAGE 10: Robustness Testing
+2026-05-04 11:01:49  INFO      [stage10_robustness]  ==================================================================
+2026-05-04 11:01:53  INFO      [stage10_robustness]  Bootstrap: 100 iterations, fraction=0.8 …
+2026-05-04 11:01:58  INFO      [stage10_robustness]  Saved 58 rows → output\stage10_robustness\bootstrap_stability.tsv
+2026-05-04 11:01:58  INFO      [stage10_robustness]  Saved 0 rows → output\stage10_robustness\leave_one_family_out.tsv
+2026-05-04 11:01:58  INFO      [stage10_robustness]  Label shuffling: 100 iterations …
+2026-05-04 11:02:03  INFO      [stage10_robustness]  Saved 100 rows → output\stage10_robustness\shuffled_controls.tsv
+2026-05-04 11:02:03  INFO      [stage10_robustness]  Saved 2 rows → output\stage10_robustness\robustness_summary.tsv
+2026-05-04 11:02:04  INFO      [stage10_robustness]  Stage 10 complete.
+2026-05-04 11:49:19  INFO      [stage10_robustness]  ==================================================================
+2026-05-04 11:49:19  INFO      [stage10_robustness]    STAGE 10: Robustness Testing
+2026-05-04 11:49:19  INFO      [stage10_robustness]  ==================================================================
+2026-05-04 11:49:25  INFO      [stage10_robustness]  Bootstrap: 100 iterations, fraction=0.8 …
+2026-05-04 11:49:34  INFO      [stage10_robustness]  Saved 58 rows → output\stage10_robustness\bootstrap_stability.tsv
+2026-05-04 11:49:34  INFO      [stage10_robustness]  Saved 0 rows → output\stage10_robustness\leave_one_family_out.tsv
+2026-05-04 11:49:34  INFO      [stage10_robustness]  Label shuffling: 100 iterations …
+2026-05-04 11:49:42  INFO      [stage10_robustness]  Saved 100 rows → output\stage10_robustness\shuffled_controls.tsv
+2026-05-04 11:49:42  INFO      [stage10_robustness]  Saved 2 rows → output\stage10_robustness\robustness_summary.tsv
+2026-05-04 11:49:43  INFO      [stage10_robustness]  Stage 10 complete.

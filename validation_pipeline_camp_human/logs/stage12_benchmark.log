@@ -1,0 +1,411 @@
+2026-05-03 14:36:00  INFO      [stage12_benchmark]  ==================================================================
+2026-05-03 14:36:00  INFO      [stage12_benchmark]    STAGE 12: Known-Biology Benchmark
+2026-05-03 14:36:00  INFO      [stage12_benchmark]  ==================================================================
+2026-05-03 14:36:00  WARNING   [stage12_benchmark]  domain_occurrence_table not found — skipping Stage 12
+2026-05-03 14:43:14  INFO      [stage12_benchmark]  ==================================================================
+2026-05-03 14:43:14  INFO      [stage12_benchmark]    STAGE 12: Known-Biology Benchmark
+2026-05-03 14:43:14  INFO      [stage12_benchmark]  ==================================================================
+2026-05-03 14:43:14  WARNING   [stage12_benchmark]  domain_occurrence_table not found — skipping Stage 12
+2026-05-03 15:35:54  INFO      [stage12_benchmark]  ==================================================================
+2026-05-03 15:35:54  INFO      [stage12_benchmark]    STAGE 12: Known-Biology Benchmark
+2026-05-03 15:35:54  INFO      [stage12_benchmark]  ==================================================================
+2026-05-03 16:17:07  INFO      [stage12_benchmark]  ==================================================================
+2026-05-03 16:17:07  INFO      [stage12_benchmark]    STAGE 12: Known-Biology Benchmark
+2026-05-03 16:17:07  INFO      [stage12_benchmark]  ==================================================================
+2026-05-03 16:17:07  INFO      [stage12_benchmark]  Gold standard: 976 rows from input\gold_standard_relationships.tsv
+2026-05-03 16:17:07  INFO      [stage12_benchmark]    Types: {'function_tag': 328, 'binding_target': 325, 'positional_category': 193, 'topology_context': 70, 'proximity_categories': 60}
+2026-05-03 16:17:07  INFO      [stage12_benchmark]  Predicted: {'function_tag': 329, 'binding_target': 325, 'positional_category': 193, 'copy_number_property': 167, 'topology_context': 188, 'proximity_categories': 60}
+2026-05-03 16:17:08  INFO      [stage12_benchmark]  Saved 0 rows → output\stage12_benchmark\benchmark_matched.tsv
+2026-05-03 16:17:08  INFO      [stage12_benchmark]  Saved 976 rows → output\stage12_benchmark\benchmark_missed.tsv
+2026-05-03 16:17:08  INFO      [stage12_benchmark]  Saved 1095 rows → output\stage12_benchmark\benchmark_unexpected.tsv
+2026-05-03 16:17:08  INFO      [stage12_benchmark]  Saved 5 rows → output\stage12_benchmark\benchmark_summary.tsv
+2026-05-03 16:17:10  INFO      [stage12_benchmark]  
+2026-05-03 16:17:10  INFO      [stage12_benchmark]    [binding_target           ]  P=0.000  R=0.000  F1=0.000  (gold=325, pred=325, TP=0)
+2026-05-03 16:17:10  INFO      [stage12_benchmark]    [function_tag             ]  P=0.000  R=0.000  F1=0.000  (gold=328, pred=329, TP=0)
+2026-05-03 16:17:10  INFO      [stage12_benchmark]    [positional_category      ]  P=0.000  R=0.000  F1=0.000  (gold=193, pred=193, TP=0)
+2026-05-03 16:17:10  INFO      [stage12_benchmark]    [proximity_categories     ]  P=0.000  R=0.000  F1=0.000  (gold=60, pred=60, TP=0)
+2026-05-03 16:17:10  INFO      [stage12_benchmark]    [topology_context         ]  P=0.000  R=0.000  F1=0.000  (gold=70, pred=188, TP=0)
+2026-05-03 16:17:10  INFO      [stage12_benchmark]  
+  Average Recall=0.000  Precision=0.000
+2026-05-03 16:17:10  INFO      [stage12_benchmark]    Low precision is expected (ontology predicts beyond gold standard)
+2026-05-03 16:17:10  INFO      [stage12_benchmark]  Stage 12 complete.
+2026-05-03 16:28:04  INFO      [stage12_benchmark]  ==================================================================
+2026-05-03 16:28:04  INFO      [stage12_benchmark]    STAGE 12: Known-Biology Benchmark
+2026-05-03 16:28:04  INFO      [stage12_benchmark]  ==================================================================
+2026-05-03 16:28:04  INFO      [stage12_benchmark]  Gold standard: 976 rows from input\gold_standard_relationships.tsv
+2026-05-03 16:28:04  INFO      [stage12_benchmark]    Types: {'function_tag': 328, 'binding_target': 325, 'positional_category': 193, 'topology_context': 70, 'proximity_categories': 60}
+2026-05-03 16:28:04  INFO      [stage12_benchmark]  Predicted: {'function_tag': 329, 'binding_target': 325, 'positional_category': 193, 'copy_number_property': 167, 'topology_context': 188, 'proximity_categories': 60}
+2026-05-03 16:28:04  INFO      [stage12_benchmark]  Saved 0 rows → output\stage12_benchmark\benchmark_matched.tsv
+2026-05-03 16:28:04  INFO      [stage12_benchmark]  Saved 976 rows → output\stage12_benchmark\benchmark_missed.tsv
+2026-05-03 16:28:04  INFO      [stage12_benchmark]  Saved 1095 rows → output\stage12_benchmark\benchmark_unexpected.tsv
+2026-05-03 16:28:04  INFO      [stage12_benchmark]  Saved 5 rows → output\stage12_benchmark\benchmark_summary.tsv
+2026-05-03 16:28:05  INFO      [stage12_benchmark]  
+2026-05-03 16:28:05  INFO      [stage12_benchmark]    [binding_target           ]  P=0.000  R=0.000  F1=0.000  (gold=325, pred=325, TP=0)
+2026-05-03 16:28:05  INFO      [stage12_benchmark]    [function_tag             ]  P=0.000  R=0.000  F1=0.000  (gold=328, pred=329, TP=0)
+2026-05-03 16:28:05  INFO      [stage12_benchmark]    [positional_category      ]  P=0.000  R=0.000  F1=0.000  (gold=193, pred=193, TP=0)
+2026-05-03 16:28:05  INFO      [stage12_benchmark]    [proximity_categories     ]  P=0.000  R=0.000  F1=0.000  (gold=60, pred=60, TP=0)
+2026-05-03 16:28:05  INFO      [stage12_benchmark]    [topology_context         ]  P=0.000  R=0.000  F1=0.000  (gold=70, pred=188, TP=0)
+2026-05-03 16:28:05  INFO      [stage12_benchmark]  
+  Average Recall=0.000  Precision=0.000
+2026-05-03 16:28:05  INFO      [stage12_benchmark]    Low precision is expected (ontology predicts beyond gold standard)
+2026-05-03 16:28:05  INFO      [stage12_benchmark]  Stage 12 complete.
+2026-05-03 16:39:31  INFO      [stage12_benchmark]  ==================================================================
+2026-05-03 16:39:31  INFO      [stage12_benchmark]    STAGE 12: Known-Biology Benchmark
+2026-05-03 16:39:31  INFO      [stage12_benchmark]  ==================================================================
+2026-05-03 16:39:31  INFO      [stage12_benchmark]  Gold standard: 976 rows from input\gold_standard_relationships.tsv
+2026-05-03 16:39:31  INFO      [stage12_benchmark]    Types: {'function_tag': 328, 'binding_target': 325, 'positional_category': 193, 'topology_context': 70, 'proximity_categories': 60}
+2026-05-03 16:39:32  INFO      [stage12_benchmark]  Predicted: {'function_tag': 329, 'binding_target': 325, 'positional_category': 193, 'copy_number_property': 167, 'topology_context': 188, 'proximity_categories': 60}
+2026-05-03 16:39:32  INFO      [stage12_benchmark]  Saved 0 rows → output\stage12_benchmark\benchmark_matched.tsv
+2026-05-03 16:39:32  INFO      [stage12_benchmark]  Saved 976 rows → output\stage12_benchmark\benchmark_missed.tsv
+2026-05-03 16:39:32  INFO      [stage12_benchmark]  Saved 1095 rows → output\stage12_benchmark\benchmark_unexpected.tsv
+2026-05-03 16:39:32  INFO      [stage12_benchmark]  Saved 5 rows → output\stage12_benchmark\benchmark_summary.tsv
+2026-05-03 16:39:32  INFO      [stage12_benchmark]  
+2026-05-03 16:39:32  INFO      [stage12_benchmark]    [binding_target           ]  P=0.000  R=0.000  F1=0.000  (gold=325, pred=325, TP=0)
+2026-05-03 16:39:32  INFO      [stage12_benchmark]    [function_tag             ]  P=0.000  R=0.000  F1=0.000  (gold=328, pred=329, TP=0)
+2026-05-03 16:39:32  INFO      [stage12_benchmark]    [positional_category      ]  P=0.000  R=0.000  F1=0.000  (gold=193, pred=193, TP=0)
+2026-05-03 16:39:32  INFO      [stage12_benchmark]    [proximity_categories     ]  P=0.000  R=0.000  F1=0.000  (gold=60, pred=60, TP=0)
+2026-05-03 16:39:32  INFO      [stage12_benchmark]    [topology_context         ]  P=0.000  R=0.000  F1=0.000  (gold=70, pred=188, TP=0)
+2026-05-03 16:39:32  INFO      [stage12_benchmark]  
+  Average Recall=0.000  Precision=0.000
+2026-05-03 16:39:32  INFO      [stage12_benchmark]    Low precision is expected (ontology predicts beyond gold standard)
+2026-05-03 16:39:32  INFO      [stage12_benchmark]  Stage 12 complete.
+2026-05-03 17:15:23  INFO      [stage12_benchmark]  ==================================================================
+2026-05-03 17:15:23  INFO      [stage12_benchmark]    STAGE 12: Known-Biology Benchmark
+2026-05-03 17:15:23  INFO      [stage12_benchmark]  ==================================================================
+2026-05-03 17:15:23  INFO      [stage12_benchmark]  Gold standard: 976 rows from input\gold_standard_relationships.tsv
+2026-05-03 17:15:23  INFO      [stage12_benchmark]    Types: {'function_tag': 328, 'binding_target': 325, 'positional_category': 193, 'topology_context': 70, 'proximity_categories': 60}
+2026-05-03 17:15:23  INFO      [stage12_benchmark]  Predicted: {'function_tag': 329, 'binding_target': 325, 'positional_category': 193, 'copy_number_property': 167, 'topology_context': 187, 'proximity_categories': 60}
+2026-05-03 17:15:23  INFO      [stage12_benchmark]  Saved 0 rows → output\stage12_benchmark\benchmark_matched.tsv
+2026-05-03 17:15:23  INFO      [stage12_benchmark]  Saved 976 rows → output\stage12_benchmark\benchmark_missed.tsv
+2026-05-03 17:15:23  INFO      [stage12_benchmark]  Saved 1094 rows → output\stage12_benchmark\benchmark_unexpected.tsv
+2026-05-03 17:15:23  INFO      [stage12_benchmark]  Saved 5 rows → output\stage12_benchmark\benchmark_summary.tsv
+2026-05-03 17:15:25  INFO      [stage12_benchmark]  
+2026-05-03 17:15:25  INFO      [stage12_benchmark]    [binding_target           ]  P=0.000  R=0.000  F1=0.000  (gold=325, pred=325, TP=0)
+2026-05-03 17:15:25  INFO      [stage12_benchmark]    [function_tag             ]  P=0.000  R=0.000  F1=0.000  (gold=328, pred=329, TP=0)
+2026-05-03 17:15:25  INFO      [stage12_benchmark]    [positional_category      ]  P=0.000  R=0.000  F1=0.000  (gold=193, pred=193, TP=0)
+2026-05-03 17:15:25  INFO      [stage12_benchmark]    [proximity_categories     ]  P=0.000  R=0.000  F1=0.000  (gold=60, pred=60, TP=0)
+2026-05-03 17:15:25  INFO      [stage12_benchmark]    [topology_context         ]  P=0.000  R=0.000  F1=0.000  (gold=70, pred=187, TP=0)
+2026-05-03 17:15:25  INFO      [stage12_benchmark]  
+  Average Recall=0.000  Precision=0.000
+2026-05-03 17:15:25  INFO      [stage12_benchmark]    Low precision is expected (ontology predicts beyond gold standard)
+2026-05-03 17:15:25  INFO      [stage12_benchmark]  Stage 12 complete.
+2026-05-03 22:58:53  INFO      [stage12_benchmark]  ==================================================================
+2026-05-03 22:58:53  INFO      [stage12_benchmark]    STAGE 12: Known-Biology Benchmark
+2026-05-03 22:58:53  INFO      [stage12_benchmark]  ==================================================================
+2026-05-03 22:58:53  INFO      [stage12_benchmark]  Gold standard: 976 rows from input\gold_standard_relationships.tsv
+2026-05-03 22:58:53  INFO      [stage12_benchmark]    Types: {'function_tag': 328, 'binding_target': 325, 'positional_category': 193, 'topology_context': 70, 'proximity_categories': 60}
+2026-05-03 22:58:54  INFO      [stage12_benchmark]  Predicted: {'function_tag': 329, 'binding_target': 325, 'positional_category': 193, 'copy_number_property': 167, 'topology_context': 187, 'proximity_categories': 60}
+2026-05-03 22:58:54  INFO      [stage12_benchmark]  Saved 0 rows → output\stage12_benchmark\benchmark_matched.tsv
+2026-05-03 22:58:54  INFO      [stage12_benchmark]  Saved 976 rows → output\stage12_benchmark\benchmark_missed.tsv
+2026-05-03 22:58:54  INFO      [stage12_benchmark]  Saved 1094 rows → output\stage12_benchmark\benchmark_unexpected.tsv
+2026-05-03 22:58:54  INFO      [stage12_benchmark]  Saved 5 rows → output\stage12_benchmark\benchmark_summary.tsv
+2026-05-03 22:58:57  INFO      [stage12_benchmark]  
+2026-05-03 22:58:57  INFO      [stage12_benchmark]    [binding_target           ]  P=0.000  R=0.000  F1=0.000  (gold=325, pred=325, TP=0)
+2026-05-03 22:58:57  INFO      [stage12_benchmark]    [function_tag             ]  P=0.000  R=0.000  F1=0.000  (gold=328, pred=329, TP=0)
+2026-05-03 22:58:57  INFO      [stage12_benchmark]    [positional_category      ]  P=0.000  R=0.000  F1=0.000  (gold=193, pred=193, TP=0)
+2026-05-03 22:58:57  INFO      [stage12_benchmark]    [proximity_categories     ]  P=0.000  R=0.000  F1=0.000  (gold=60, pred=60, TP=0)
+2026-05-03 22:58:57  INFO      [stage12_benchmark]    [topology_context         ]  P=0.000  R=0.000  F1=0.000  (gold=70, pred=187, TP=0)
+2026-05-03 22:58:57  INFO      [stage12_benchmark]  
+  Average Recall=0.000  Precision=0.000
+2026-05-03 22:58:57  INFO      [stage12_benchmark]    Low precision is expected (ontology predicts beyond gold standard)
+2026-05-03 22:58:57  INFO      [stage12_benchmark]  Stage 12 complete.
+2026-05-03 23:22:40  INFO      [stage12_benchmark]  ==================================================================
+2026-05-03 23:22:40  INFO      [stage12_benchmark]    STAGE 12: Known-Biology Benchmark
+2026-05-03 23:22:40  INFO      [stage12_benchmark]  ==================================================================
+2026-05-03 23:22:40  INFO      [stage12_benchmark]  Gold standard: 976 rows from input\gold_standard_relationships.tsv
+2026-05-03 23:22:40  INFO      [stage12_benchmark]    Types: {'function_tag': 328, 'binding_target': 325, 'positional_category': 193, 'topology_context': 70, 'proximity_categories': 60}
+2026-05-03 23:22:40  INFO      [stage12_benchmark]  Predicted: {'function_tag': 328, 'binding_target': 325, 'positional_category': 193, 'copy_number_property': 167, 'topology_context': 187, 'proximity_categories': 60}
+2026-05-03 23:22:40  INFO      [stage12_benchmark]  Saved 0 rows → output\stage12_benchmark\benchmark_matched.tsv
+2026-05-03 23:22:40  INFO      [stage12_benchmark]  Saved 976 rows → output\stage12_benchmark\benchmark_missed.tsv
+2026-05-03 23:22:40  INFO      [stage12_benchmark]  Saved 1093 rows → output\stage12_benchmark\benchmark_unexpected.tsv
+2026-05-03 23:22:40  INFO      [stage12_benchmark]  Saved 5 rows → output\stage12_benchmark\benchmark_summary.tsv
+2026-05-03 23:22:41  INFO      [stage12_benchmark]  
+2026-05-03 23:22:41  INFO      [stage12_benchmark]    [binding_target           ]  P=0.000  R=0.000  F1=0.000  (gold=325, pred=325, TP=0)
+2026-05-03 23:22:41  INFO      [stage12_benchmark]    [function_tag             ]  P=0.000  R=0.000  F1=0.000  (gold=328, pred=328, TP=0)
+2026-05-03 23:22:41  INFO      [stage12_benchmark]    [positional_category      ]  P=0.000  R=0.000  F1=0.000  (gold=193, pred=193, TP=0)
+2026-05-03 23:22:41  INFO      [stage12_benchmark]    [proximity_categories     ]  P=0.000  R=0.000  F1=0.000  (gold=60, pred=60, TP=0)
+2026-05-03 23:22:41  INFO      [stage12_benchmark]    [topology_context         ]  P=0.000  R=0.000  F1=0.000  (gold=70, pred=187, TP=0)
+2026-05-03 23:22:41  INFO      [stage12_benchmark]  
+  Average Recall=0.000  Precision=0.000
+2026-05-03 23:22:41  INFO      [stage12_benchmark]    Low precision is expected (ontology predicts beyond gold standard)
+2026-05-03 23:22:41  INFO      [stage12_benchmark]  Stage 12 complete.
+2026-05-03 23:28:37  INFO      [stage12_benchmark]  ==================================================================
+2026-05-03 23:28:37  INFO      [stage12_benchmark]    STAGE 12: Known-Biology Benchmark
+2026-05-03 23:28:37  INFO      [stage12_benchmark]  ==================================================================
+2026-05-03 23:28:37  INFO      [stage12_benchmark]  Gold standard: 976 rows from input\gold_standard_relationships.tsv
+2026-05-03 23:28:37  INFO      [stage12_benchmark]    Types: {'function_tag': 328, 'binding_target': 325, 'positional_category': 193, 'topology_context': 70, 'proximity_categories': 60}
+2026-05-03 23:28:37  INFO      [stage12_benchmark]  Predicted: {'function_tag': 328, 'binding_target': 325, 'positional_category': 193, 'copy_number_property': 167, 'topology_context': 187, 'proximity_categories': 60}
+2026-05-03 23:28:37  INFO      [stage12_benchmark]  Saved 0 rows → output\stage12_benchmark\benchmark_matched.tsv
+2026-05-03 23:28:37  INFO      [stage12_benchmark]  Saved 976 rows → output\stage12_benchmark\benchmark_missed.tsv
+2026-05-03 23:28:37  INFO      [stage12_benchmark]  Saved 1093 rows → output\stage12_benchmark\benchmark_unexpected.tsv
+2026-05-03 23:28:37  INFO      [stage12_benchmark]  Saved 5 rows → output\stage12_benchmark\benchmark_summary.tsv
+2026-05-03 23:28:38  INFO      [stage12_benchmark]  
+2026-05-03 23:28:38  INFO      [stage12_benchmark]    [binding_target           ]  P=0.000  R=0.000  F1=0.000  (gold=325, pred=325, TP=0)
+2026-05-03 23:28:38  INFO      [stage12_benchmark]    [function_tag             ]  P=0.000  R=0.000  F1=0.000  (gold=328, pred=328, TP=0)
+2026-05-03 23:28:38  INFO      [stage12_benchmark]    [positional_category      ]  P=0.000  R=0.000  F1=0.000  (gold=193, pred=193, TP=0)
+2026-05-03 23:28:38  INFO      [stage12_benchmark]    [proximity_categories     ]  P=0.000  R=0.000  F1=0.000  (gold=60, pred=60, TP=0)
+2026-05-03 23:28:38  INFO      [stage12_benchmark]    [topology_context         ]  P=0.000  R=0.000  F1=0.000  (gold=70, pred=187, TP=0)
+2026-05-03 23:28:38  INFO      [stage12_benchmark]  
+  Average Recall=0.000  Precision=0.000
+2026-05-03 23:28:38  INFO      [stage12_benchmark]    Low precision is expected (ontology predicts beyond gold standard)
+2026-05-03 23:28:38  INFO      [stage12_benchmark]  Stage 12 complete.
+2026-05-03 23:34:58  INFO      [stage12_benchmark]  ==================================================================
+2026-05-03 23:34:58  INFO      [stage12_benchmark]    STAGE 12: Known-Biology Benchmark
+2026-05-03 23:34:58  INFO      [stage12_benchmark]  ==================================================================
+2026-05-03 23:34:58  INFO      [stage12_benchmark]  Gold standard: 976 rows from input\gold_standard_relationships.tsv
+2026-05-03 23:34:58  INFO      [stage12_benchmark]    Types: {'function_tag': 328, 'binding_target': 325, 'positional_category': 193, 'topology_context': 70, 'proximity_categories': 60}
+2026-05-03 23:34:58  INFO      [stage12_benchmark]  Predicted: {'function_tag': 328, 'binding_target': 325, 'positional_category': 193, 'copy_number_property': 167, 'topology_context': 187, 'proximity_categories': 60}
+2026-05-03 23:34:58  INFO      [stage12_benchmark]  Saved 0 rows → output\stage12_benchmark\benchmark_matched.tsv
+2026-05-03 23:34:58  INFO      [stage12_benchmark]  Saved 976 rows → output\stage12_benchmark\benchmark_missed.tsv
+2026-05-03 23:34:58  INFO      [stage12_benchmark]  Saved 1093 rows → output\stage12_benchmark\benchmark_unexpected.tsv
+2026-05-03 23:34:58  INFO      [stage12_benchmark]  Saved 5 rows → output\stage12_benchmark\benchmark_summary.tsv
+2026-05-03 23:35:00  INFO      [stage12_benchmark]  
+2026-05-03 23:35:00  INFO      [stage12_benchmark]    [binding_target           ]  P=0.000  R=0.000  F1=0.000  (gold=325, pred=325, TP=0)
+2026-05-03 23:35:00  INFO      [stage12_benchmark]    [function_tag             ]  P=0.000  R=0.000  F1=0.000  (gold=328, pred=328, TP=0)
+2026-05-03 23:35:00  INFO      [stage12_benchmark]    [positional_category      ]  P=0.000  R=0.000  F1=0.000  (gold=193, pred=193, TP=0)
+2026-05-03 23:35:00  INFO      [stage12_benchmark]    [proximity_categories     ]  P=0.000  R=0.000  F1=0.000  (gold=60, pred=60, TP=0)
+2026-05-03 23:35:00  INFO      [stage12_benchmark]    [topology_context         ]  P=0.000  R=0.000  F1=0.000  (gold=70, pred=187, TP=0)
+2026-05-03 23:35:00  INFO      [stage12_benchmark]  
+  Average Recall=0.000  Precision=0.000
+2026-05-03 23:35:00  INFO      [stage12_benchmark]    Low precision is expected (ontology predicts beyond gold standard)
+2026-05-03 23:35:00  INFO      [stage12_benchmark]  Stage 12 complete.
+2026-05-03 23:51:52  INFO      [stage12_benchmark]  ==================================================================
+2026-05-03 23:51:52  INFO      [stage12_benchmark]    STAGE 12: Known-Biology Benchmark
+2026-05-03 23:51:52  INFO      [stage12_benchmark]  ==================================================================
+2026-05-03 23:51:52  INFO      [stage12_benchmark]  Gold standard: 976 rows from input\gold_standard_relationships.tsv
+2026-05-03 23:51:52  INFO      [stage12_benchmark]    Types: {'function_tag': 328, 'binding_target': 325, 'positional_category': 193, 'topology_context': 70, 'proximity_categories': 60}
+2026-05-03 23:51:52  INFO      [stage12_benchmark]  Predicted: {'function_tag': 328, 'binding_target': 325, 'positional_category': 193, 'copy_number_property': 167, 'topology_context': 187, 'proximity_categories': 60}
+2026-05-03 23:51:52  INFO      [stage12_benchmark]  Saved 0 rows → output\stage12_benchmark\benchmark_matched.tsv
+2026-05-03 23:51:52  INFO      [stage12_benchmark]  Saved 976 rows → output\stage12_benchmark\benchmark_missed.tsv
+2026-05-03 23:51:52  INFO      [stage12_benchmark]  Saved 1093 rows → output\stage12_benchmark\benchmark_unexpected.tsv
+2026-05-03 23:51:52  INFO      [stage12_benchmark]  Saved 5 rows → output\stage12_benchmark\benchmark_summary.tsv
+2026-05-03 23:51:53  INFO      [stage12_benchmark]  
+2026-05-03 23:51:53  INFO      [stage12_benchmark]    [binding_target           ]  P=0.000  R=0.000  F1=0.000  (gold=325, pred=325, TP=0)
+2026-05-03 23:51:53  INFO      [stage12_benchmark]    [function_tag             ]  P=0.000  R=0.000  F1=0.000  (gold=328, pred=328, TP=0)
+2026-05-03 23:51:53  INFO      [stage12_benchmark]    [positional_category      ]  P=0.000  R=0.000  F1=0.000  (gold=193, pred=193, TP=0)
+2026-05-03 23:51:53  INFO      [stage12_benchmark]    [proximity_categories     ]  P=0.000  R=0.000  F1=0.000  (gold=60, pred=60, TP=0)
+2026-05-03 23:51:53  INFO      [stage12_benchmark]    [topology_context         ]  P=0.000  R=0.000  F1=0.000  (gold=70, pred=187, TP=0)
+2026-05-03 23:51:53  INFO      [stage12_benchmark]  
+  Average Recall=0.000  Precision=0.000
+2026-05-03 23:51:53  INFO      [stage12_benchmark]    Low precision is expected (ontology predicts beyond gold standard)
+2026-05-03 23:51:53  INFO      [stage12_benchmark]  Stage 12 complete.
+2026-05-04 00:16:11  INFO      [stage12_benchmark]  ==================================================================
+2026-05-04 00:16:11  INFO      [stage12_benchmark]    STAGE 12: Known-Biology Benchmark
+2026-05-04 00:16:11  INFO      [stage12_benchmark]  ==================================================================
+2026-05-04 00:16:11  INFO      [stage12_benchmark]  Gold standard: 976 rows from input\gold_standard_relationships.tsv
+2026-05-04 00:16:11  INFO      [stage12_benchmark]    Types: {'function_tag': 328, 'binding_target': 325, 'positional_category': 193, 'topology_context': 70, 'proximity_categories': 60}
+2026-05-04 00:16:12  INFO      [stage12_benchmark]  Predicted: {'function_tag': 328, 'binding_target': 325, 'positional_category': 193, 'copy_number_property': 167, 'topology_context': 187, 'proximity_categories': 60}
+2026-05-04 00:16:12  INFO      [stage12_benchmark]  Saved 0 rows → output\stage12_benchmark\benchmark_matched.tsv
+2026-05-04 00:16:12  INFO      [stage12_benchmark]  Saved 976 rows → output\stage12_benchmark\benchmark_missed.tsv
+2026-05-04 00:16:12  INFO      [stage12_benchmark]  Saved 1093 rows → output\stage12_benchmark\benchmark_unexpected.tsv
+2026-05-04 00:16:12  INFO      [stage12_benchmark]  Saved 5 rows → output\stage12_benchmark\benchmark_summary.tsv
+2026-05-04 00:16:13  INFO      [stage12_benchmark]  
+2026-05-04 00:16:13  INFO      [stage12_benchmark]    [binding_target           ]  P=0.000  R=0.000  F1=0.000  (gold=325, pred=325, TP=0)
+2026-05-04 00:16:13  INFO      [stage12_benchmark]    [function_tag             ]  P=0.000  R=0.000  F1=0.000  (gold=328, pred=328, TP=0)
+2026-05-04 00:16:13  INFO      [stage12_benchmark]    [positional_category      ]  P=0.000  R=0.000  F1=0.000  (gold=193, pred=193, TP=0)
+2026-05-04 00:16:13  INFO      [stage12_benchmark]    [proximity_categories     ]  P=0.000  R=0.000  F1=0.000  (gold=60, pred=60, TP=0)
+2026-05-04 00:16:13  INFO      [stage12_benchmark]    [topology_context         ]  P=0.000  R=0.000  F1=0.000  (gold=70, pred=187, TP=0)
+2026-05-04 00:16:13  INFO      [stage12_benchmark]  
+  Average Recall=0.000  Precision=0.000
+2026-05-04 00:16:13  INFO      [stage12_benchmark]    Low precision is expected (ontology predicts beyond gold standard)
+2026-05-04 00:16:13  INFO      [stage12_benchmark]  Stage 12 complete.
+2026-05-04 01:16:02  INFO      [stage12_benchmark]  ==================================================================
+2026-05-04 01:16:02  INFO      [stage12_benchmark]    STAGE 12: Known-Biology Benchmark
+2026-05-04 01:16:02  INFO      [stage12_benchmark]  ==================================================================
+2026-05-04 01:16:02  INFO      [stage12_benchmark]  Gold standard: 976 rows from input\gold_standard_relationships.tsv
+2026-05-04 01:16:02  INFO      [stage12_benchmark]    Types: {'function_tag': 328, 'binding_target': 325, 'positional_category': 193, 'topology_context': 70, 'proximity_categories': 60}
+2026-05-04 01:16:02  INFO      [stage12_benchmark]  Predicted: {'function_tag': 328, 'binding_target': 325, 'positional_category': 193, 'copy_number_property': 167, 'topology_context': 187, 'proximity_categories': 60}
+2026-05-04 01:16:02  INFO      [stage12_benchmark]  Saved 0 rows → output\stage12_benchmark\benchmark_matched.tsv
+2026-05-04 01:16:02  INFO      [stage12_benchmark]  Saved 976 rows → output\stage12_benchmark\benchmark_missed.tsv
+2026-05-04 01:16:02  INFO      [stage12_benchmark]  Saved 1093 rows → output\stage12_benchmark\benchmark_unexpected.tsv
+2026-05-04 01:16:02  INFO      [stage12_benchmark]  Saved 5 rows → output\stage12_benchmark\benchmark_summary.tsv
+2026-05-04 01:16:03  INFO      [stage12_benchmark]  
+2026-05-04 01:16:03  INFO      [stage12_benchmark]    [binding_target           ]  P=0.000  R=0.000  F1=0.000  (gold=325, pred=325, TP=0)
+2026-05-04 01:16:03  INFO      [stage12_benchmark]    [function_tag             ]  P=0.000  R=0.000  F1=0.000  (gold=328, pred=328, TP=0)
+2026-05-04 01:16:03  INFO      [stage12_benchmark]    [positional_category      ]  P=0.000  R=0.000  F1=0.000  (gold=193, pred=193, TP=0)
+2026-05-04 01:16:03  INFO      [stage12_benchmark]    [proximity_categories     ]  P=0.000  R=0.000  F1=0.000  (gold=60, pred=60, TP=0)
+2026-05-04 01:16:03  INFO      [stage12_benchmark]    [topology_context         ]  P=0.000  R=0.000  F1=0.000  (gold=70, pred=187, TP=0)
+2026-05-04 01:16:03  INFO      [stage12_benchmark]  
+  Average Recall=0.000  Precision=0.000
+2026-05-04 01:16:03  INFO      [stage12_benchmark]    Low precision is expected (ontology predicts beyond gold standard)
+2026-05-04 01:16:03  INFO      [stage12_benchmark]  Stage 12 complete.
+2026-05-04 02:09:38  INFO      [stage12_benchmark]  ==================================================================
+2026-05-04 02:09:38  INFO      [stage12_benchmark]    STAGE 12: Known-Biology Benchmark
+2026-05-04 02:09:38  INFO      [stage12_benchmark]  ==================================================================
+2026-05-04 02:09:38  INFO      [stage12_benchmark]  Gold standard: 976 rows from input\gold_standard_relationships.tsv
+2026-05-04 02:09:38  INFO      [stage12_benchmark]    Types: {'function_tag': 328, 'binding_target': 325, 'positional_category': 193, 'topology_context': 70, 'proximity_categories': 60}
+2026-05-04 02:09:38  INFO      [stage12_benchmark]  Predicted: {'function_tag': 328, 'binding_target': 325, 'positional_category': 193, 'copy_number_property': 167, 'topology_context': 187, 'proximity_categories': 60}
+2026-05-04 02:09:38  INFO      [stage12_benchmark]  Saved 0 rows → output\stage12_benchmark\benchmark_matched.tsv
+2026-05-04 02:09:38  INFO      [stage12_benchmark]  Saved 976 rows → output\stage12_benchmark\benchmark_missed.tsv
+2026-05-04 02:09:38  INFO      [stage12_benchmark]  Saved 1093 rows → output\stage12_benchmark\benchmark_unexpected.tsv
+2026-05-04 02:09:38  INFO      [stage12_benchmark]  Saved 5 rows → output\stage12_benchmark\benchmark_summary.tsv
+2026-05-04 02:09:39  INFO      [stage12_benchmark]  
+2026-05-04 02:09:39  INFO      [stage12_benchmark]    [binding_target           ]  P=0.000  R=0.000  F1=0.000  (gold=325, pred=325, TP=0)
+2026-05-04 02:09:39  INFO      [stage12_benchmark]    [function_tag             ]  P=0.000  R=0.000  F1=0.000  (gold=328, pred=328, TP=0)
+2026-05-04 02:09:39  INFO      [stage12_benchmark]    [positional_category      ]  P=0.000  R=0.000  F1=0.000  (gold=193, pred=193, TP=0)
+2026-05-04 02:09:39  INFO      [stage12_benchmark]    [proximity_categories     ]  P=0.000  R=0.000  F1=0.000  (gold=60, pred=60, TP=0)
+2026-05-04 02:09:39  INFO      [stage12_benchmark]    [topology_context         ]  P=0.000  R=0.000  F1=0.000  (gold=70, pred=187, TP=0)
+2026-05-04 02:09:39  INFO      [stage12_benchmark]  
+  Average Recall=0.000  Precision=0.000
+2026-05-04 02:09:39  INFO      [stage12_benchmark]    Low precision is expected (ontology predicts beyond gold standard)
+2026-05-04 02:09:39  INFO      [stage12_benchmark]  Stage 12 complete.
+2026-05-04 04:34:57  INFO      [stage12_benchmark]  ==================================================================
+2026-05-04 04:34:57  INFO      [stage12_benchmark]    STAGE 12: Known-Biology Benchmark
+2026-05-04 04:34:57  INFO      [stage12_benchmark]  ==================================================================
+2026-05-04 04:34:58  INFO      [stage12_benchmark]  Gold standard: 346 rows from input\gold_standard_relationships.tsv
+2026-05-04 04:34:58  INFO      [stage12_benchmark]    Types: {'function_tag': 122, 'binding_target': 91, 'positional_category': 71, 'topology_context': 36, 'proximity_categories': 26}
+2026-05-04 04:34:58  INFO      [stage12_benchmark]  Predicted: {'function_tag': 122, 'binding_target': 100, 'positional_category': 71, 'copy_number_property': 62, 'topology_context': 74, 'proximity_categories': 26}
+2026-05-04 04:34:58  INFO      [stage12_benchmark]  Saved 0 rows → output\stage12_benchmark\benchmark_matched.tsv
+2026-05-04 04:34:58  INFO      [stage12_benchmark]  Saved 346 rows → output\stage12_benchmark\benchmark_missed.tsv
+2026-05-04 04:34:58  INFO      [stage12_benchmark]  Saved 393 rows → output\stage12_benchmark\benchmark_unexpected.tsv
+2026-05-04 04:34:58  INFO      [stage12_benchmark]  Saved 5 rows → output\stage12_benchmark\benchmark_summary.tsv
+2026-05-04 04:34:59  INFO      [stage12_benchmark]  
+2026-05-04 04:34:59  INFO      [stage12_benchmark]    [binding_target           ]  P=0.000  R=0.000  F1=0.000  (gold=91, pred=100, TP=0)
+2026-05-04 04:34:59  INFO      [stage12_benchmark]    [function_tag             ]  P=0.000  R=0.000  F1=0.000  (gold=122, pred=122, TP=0)
+2026-05-04 04:34:59  INFO      [stage12_benchmark]    [positional_category      ]  P=0.000  R=0.000  F1=0.000  (gold=71, pred=71, TP=0)
+2026-05-04 04:34:59  INFO      [stage12_benchmark]    [proximity_categories     ]  P=0.000  R=0.000  F1=0.000  (gold=26, pred=26, TP=0)
+2026-05-04 04:34:59  INFO      [stage12_benchmark]    [topology_context         ]  P=0.000  R=0.000  F1=0.000  (gold=36, pred=74, TP=0)
+2026-05-04 04:34:59  INFO      [stage12_benchmark]  
+  Average Recall=0.000  Precision=0.000
+2026-05-04 04:34:59  INFO      [stage12_benchmark]    Low precision is expected (ontology predicts beyond gold standard)
+2026-05-04 04:34:59  INFO      [stage12_benchmark]  Stage 12 complete.
+2026-05-04 04:42:29  INFO      [stage12_benchmark]  ==================================================================
+2026-05-04 04:42:29  INFO      [stage12_benchmark]    STAGE 12: Known-Biology Benchmark
+2026-05-04 04:42:29  INFO      [stage12_benchmark]  ==================================================================
+2026-05-04 04:42:29  INFO      [stage12_benchmark]  Gold standard: 346 rows from input\gold_standard_relationships.tsv
+2026-05-04 04:42:29  INFO      [stage12_benchmark]    Types: {'function_tag': 122, 'binding_target': 91, 'positional_category': 71, 'topology_context': 36, 'proximity_categories': 26}
+2026-05-04 04:42:29  INFO      [stage12_benchmark]  Predicted: {'function_tag': 122, 'binding_target': 100, 'positional_category': 71, 'copy_number_property': 62, 'topology_context': 74, 'proximity_categories': 26}
+2026-05-04 04:42:29  INFO      [stage12_benchmark]  Saved 0 rows → output\stage12_benchmark\benchmark_matched.tsv
+2026-05-04 04:42:29  INFO      [stage12_benchmark]  Saved 346 rows → output\stage12_benchmark\benchmark_missed.tsv
+2026-05-04 04:42:29  INFO      [stage12_benchmark]  Saved 393 rows → output\stage12_benchmark\benchmark_unexpected.tsv
+2026-05-04 04:42:29  INFO      [stage12_benchmark]  Saved 5 rows → output\stage12_benchmark\benchmark_summary.tsv
+2026-05-04 04:42:30  INFO      [stage12_benchmark]  
+2026-05-04 04:42:30  INFO      [stage12_benchmark]    [binding_target           ]  P=0.000  R=0.000  F1=0.000  (gold=91, pred=100, TP=0)
+2026-05-04 04:42:30  INFO      [stage12_benchmark]    [function_tag             ]  P=0.000  R=0.000  F1=0.000  (gold=122, pred=122, TP=0)
+2026-05-04 04:42:30  INFO      [stage12_benchmark]    [positional_category      ]  P=0.000  R=0.000  F1=0.000  (gold=71, pred=71, TP=0)
+2026-05-04 04:42:30  INFO      [stage12_benchmark]    [proximity_categories     ]  P=0.000  R=0.000  F1=0.000  (gold=26, pred=26, TP=0)
+2026-05-04 04:42:30  INFO      [stage12_benchmark]    [topology_context         ]  P=0.000  R=0.000  F1=0.000  (gold=36, pred=74, TP=0)
+2026-05-04 04:42:30  INFO      [stage12_benchmark]  
+  Average Recall=0.000  Precision=0.000
+2026-05-04 04:42:30  INFO      [stage12_benchmark]    Low precision is expected (ontology predicts beyond gold standard)
+2026-05-04 04:42:30  INFO      [stage12_benchmark]  Stage 12 complete.
+2026-05-04 09:33:45  INFO      [stage12_benchmark]  ==================================================================
+2026-05-04 09:33:45  INFO      [stage12_benchmark]    STAGE 12: Known-Biology Benchmark
+2026-05-04 09:33:45  INFO      [stage12_benchmark]  ==================================================================
+2026-05-04 09:33:45  INFO      [stage12_benchmark]  Gold standard: 346 rows from input\gold_standard_relationships.tsv
+2026-05-04 09:33:45  INFO      [stage12_benchmark]    Types: {'function_tag': 122, 'binding_target': 91, 'positional_category': 71, 'topology_context': 36, 'proximity_categories': 26}
+2026-05-04 09:33:46  INFO      [stage12_benchmark]  Predicted: {'function_tag': 122, 'binding_target': 100, 'positional_category': 71, 'copy_number_property': 62, 'topology_context': 74, 'proximity_categories': 26}
+2026-05-04 09:33:46  INFO      [stage12_benchmark]  Saved 0 rows → output\stage12_benchmark\benchmark_matched.tsv
+2026-05-04 09:33:46  INFO      [stage12_benchmark]  Saved 346 rows → output\stage12_benchmark\benchmark_missed.tsv
+2026-05-04 09:33:46  INFO      [stage12_benchmark]  Saved 393 rows → output\stage12_benchmark\benchmark_unexpected.tsv
+2026-05-04 09:33:46  INFO      [stage12_benchmark]  Saved 5 rows → output\stage12_benchmark\benchmark_summary.tsv
+2026-05-04 09:33:47  INFO      [stage12_benchmark]  
+2026-05-04 09:33:47  INFO      [stage12_benchmark]    [binding_target           ]  P=0.000  R=0.000  F1=0.000  (gold=91, pred=100, TP=0)
+2026-05-04 09:33:47  INFO      [stage12_benchmark]    [function_tag             ]  P=0.000  R=0.000  F1=0.000  (gold=122, pred=122, TP=0)
+2026-05-04 09:33:47  INFO      [stage12_benchmark]    [positional_category      ]  P=0.000  R=0.000  F1=0.000  (gold=71, pred=71, TP=0)
+2026-05-04 09:33:47  INFO      [stage12_benchmark]    [proximity_categories     ]  P=0.000  R=0.000  F1=0.000  (gold=26, pred=26, TP=0)
+2026-05-04 09:33:47  INFO      [stage12_benchmark]    [topology_context         ]  P=0.000  R=0.000  F1=0.000  (gold=36, pred=74, TP=0)
+2026-05-04 09:33:47  INFO      [stage12_benchmark]  
+  Average Recall=0.000  Precision=0.000
+2026-05-04 09:33:47  INFO      [stage12_benchmark]    Low precision is expected (ontology predicts beyond gold standard)
+2026-05-04 09:33:47  INFO      [stage12_benchmark]  Stage 12 complete.
+2026-05-04 09:35:27  INFO      [stage12_benchmark]  ==================================================================
+2026-05-04 09:35:27  INFO      [stage12_benchmark]    STAGE 12: Known-Biology Benchmark
+2026-05-04 09:35:27  INFO      [stage12_benchmark]  ==================================================================
+2026-05-04 09:35:27  INFO      [stage12_benchmark]  Gold standard: 346 rows from input\gold_standard_relationships.tsv
+2026-05-04 09:35:27  INFO      [stage12_benchmark]    Types: {'function_tag': 122, 'binding_target': 91, 'positional_category': 71, 'topology_context': 36, 'proximity_categories': 26}
+2026-05-04 09:35:27  INFO      [stage12_benchmark]  Predicted: {'function_tag': 122, 'binding_target': 100, 'positional_category': 71, 'copy_number_property': 62, 'topology_context': 74, 'proximity_categories': 26}
+2026-05-04 09:35:27  INFO      [stage12_benchmark]  Saved 0 rows → output\stage12_benchmark\benchmark_matched.tsv
+2026-05-04 09:35:27  INFO      [stage12_benchmark]  Saved 346 rows → output\stage12_benchmark\benchmark_missed.tsv
+2026-05-04 09:35:27  INFO      [stage12_benchmark]  Saved 393 rows → output\stage12_benchmark\benchmark_unexpected.tsv
+2026-05-04 09:35:27  INFO      [stage12_benchmark]  Saved 5 rows → output\stage12_benchmark\benchmark_summary.tsv
+2026-05-04 09:35:30  INFO      [stage12_benchmark]  
+2026-05-04 09:35:30  INFO      [stage12_benchmark]    [binding_target           ]  P=0.000  R=0.000  F1=0.000  (gold=91, pred=100, TP=0)
+2026-05-04 09:35:30  INFO      [stage12_benchmark]    [function_tag             ]  P=0.000  R=0.000  F1=0.000  (gold=122, pred=122, TP=0)
+2026-05-04 09:35:30  INFO      [stage12_benchmark]    [positional_category      ]  P=0.000  R=0.000  F1=0.000  (gold=71, pred=71, TP=0)
+2026-05-04 09:35:30  INFO      [stage12_benchmark]    [proximity_categories     ]  P=0.000  R=0.000  F1=0.000  (gold=26, pred=26, TP=0)
+2026-05-04 09:35:30  INFO      [stage12_benchmark]    [topology_context         ]  P=0.000  R=0.000  F1=0.000  (gold=36, pred=74, TP=0)
+2026-05-04 09:35:30  INFO      [stage12_benchmark]  
+  Average Recall=0.000  Precision=0.000
+2026-05-04 09:35:30  INFO      [stage12_benchmark]    Low precision is expected (ontology predicts beyond gold standard)
+2026-05-04 09:35:30  INFO      [stage12_benchmark]  Stage 12 complete.
+2026-05-04 09:58:11  INFO      [stage12_benchmark]  ==================================================================
+2026-05-04 09:58:11  INFO      [stage12_benchmark]    STAGE 12: Known-Biology Benchmark
+2026-05-04 09:58:11  INFO      [stage12_benchmark]  ==================================================================
+2026-05-04 09:58:12  INFO      [stage12_benchmark]  Gold standard: 346 rows from input\gold_standard_relationships.tsv
+2026-05-04 09:58:13  INFO      [stage12_benchmark]    Types: {'function_tag': 122, 'binding_target': 91, 'positional_category': 71, 'topology_context': 36, 'proximity_categories': 26}
+2026-05-04 09:58:14  INFO      [stage12_benchmark]  Predicted: {'function_tag': 122, 'binding_target': 100, 'positional_category': 71, 'copy_number_property': 62, 'topology_context': 74, 'proximity_categories': 26}
+2026-05-04 09:58:14  INFO      [stage12_benchmark]  Saved 0 rows → output\stage12_benchmark\benchmark_matched.tsv
+2026-05-04 09:58:14  INFO      [stage12_benchmark]  Saved 346 rows → output\stage12_benchmark\benchmark_missed.tsv
+2026-05-04 09:58:14  INFO      [stage12_benchmark]  Saved 393 rows → output\stage12_benchmark\benchmark_unexpected.tsv
+2026-05-04 09:58:14  INFO      [stage12_benchmark]  Saved 5 rows → output\stage12_benchmark\benchmark_summary.tsv
+2026-05-04 09:58:17  INFO      [stage12_benchmark]  
+2026-05-04 09:58:17  INFO      [stage12_benchmark]    [binding_target           ]  P=0.000  R=0.000  F1=0.000  (gold=91, pred=100, TP=0)
+2026-05-04 09:58:17  INFO      [stage12_benchmark]    [function_tag             ]  P=0.000  R=0.000  F1=0.000  (gold=122, pred=122, TP=0)
+2026-05-04 09:58:17  INFO      [stage12_benchmark]    [positional_category      ]  P=0.000  R=0.000  F1=0.000  (gold=71, pred=71, TP=0)
+2026-05-04 09:58:17  INFO      [stage12_benchmark]    [proximity_categories     ]  P=0.000  R=0.000  F1=0.000  (gold=26, pred=26, TP=0)
+2026-05-04 09:58:17  INFO      [stage12_benchmark]    [topology_context         ]  P=0.000  R=0.000  F1=0.000  (gold=36, pred=74, TP=0)
+2026-05-04 09:58:17  INFO      [stage12_benchmark]  
+  Average Recall=0.000  Precision=0.000
+2026-05-04 09:58:17  INFO      [stage12_benchmark]    Low precision is expected (ontology predicts beyond gold standard)
+2026-05-04 09:58:17  INFO      [stage12_benchmark]  Stage 12 complete.
+2026-05-04 10:27:52  INFO      [stage12_benchmark]  ==================================================================
+2026-05-04 10:27:52  INFO      [stage12_benchmark]    STAGE 12: Known-Biology Benchmark
+2026-05-04 10:27:52  INFO      [stage12_benchmark]  ==================================================================
+2026-05-04 10:27:52  INFO      [stage12_benchmark]  Gold standard: 346 rows from input\gold_standard_relationships.tsv
+2026-05-04 10:27:52  INFO      [stage12_benchmark]    Types: {'function_tag': 122, 'binding_target': 91, 'positional_category': 71, 'topology_context': 36, 'proximity_categories': 26}
+2026-05-04 10:27:52  INFO      [stage12_benchmark]  Predicted: {'function_tag': 122, 'binding_target': 100, 'positional_category': 71, 'copy_number_property': 62, 'topology_context': 74, 'proximity_categories': 26}
+2026-05-04 10:27:52  INFO      [stage12_benchmark]  Saved 0 rows → output\stage12_benchmark\benchmark_matched.tsv
+2026-05-04 10:27:52  INFO      [stage12_benchmark]  Saved 346 rows → output\stage12_benchmark\benchmark_missed.tsv
+2026-05-04 10:27:52  INFO      [stage12_benchmark]  Saved 393 rows → output\stage12_benchmark\benchmark_unexpected.tsv
+2026-05-04 10:27:52  INFO      [stage12_benchmark]  Saved 5 rows → output\stage12_benchmark\benchmark_summary.tsv
+2026-05-04 10:27:53  INFO      [stage12_benchmark]  
+2026-05-04 10:27:53  INFO      [stage12_benchmark]    [binding_target           ]  P=0.000  R=0.000  F1=0.000  (gold=91, pred=100, TP=0)
+2026-05-04 10:27:53  INFO      [stage12_benchmark]    [function_tag             ]  P=0.000  R=0.000  F1=0.000  (gold=122, pred=122, TP=0)
+2026-05-04 10:27:53  INFO      [stage12_benchmark]    [positional_category      ]  P=0.000  R=0.000  F1=0.000  (gold=71, pred=71, TP=0)
+2026-05-04 10:27:53  INFO      [stage12_benchmark]    [proximity_categories     ]  P=0.000  R=0.000  F1=0.000  (gold=26, pred=26, TP=0)
+2026-05-04 10:27:53  INFO      [stage12_benchmark]    [topology_context         ]  P=0.000  R=0.000  F1=0.000  (gold=36, pred=74, TP=0)
+2026-05-04 10:27:53  INFO      [stage12_benchmark]  
+  Average Recall=0.000  Precision=0.000
+2026-05-04 10:27:53  INFO      [stage12_benchmark]    Low precision is expected (ontology predicts beyond gold standard)
+2026-05-04 10:27:53  INFO      [stage12_benchmark]  Stage 12 complete.
+2026-05-04 11:02:04  INFO      [stage12_benchmark]  ==================================================================
+2026-05-04 11:02:04  INFO      [stage12_benchmark]    STAGE 12: Known-Biology Benchmark
+2026-05-04 11:02:04  INFO      [stage12_benchmark]  ==================================================================
+2026-05-04 11:02:04  INFO      [stage12_benchmark]  Gold standard: 346 rows from input\gold_standard_relationships.tsv
+2026-05-04 11:02:04  INFO      [stage12_benchmark]    Types: {'function_tag': 122, 'binding_target': 91, 'positional_category': 71, 'topology_context': 36, 'proximity_categories': 26}
+2026-05-04 11:02:04  INFO      [stage12_benchmark]  Predicted: {'function_tag': 122, 'binding_target': 100, 'positional_category': 71, 'copy_number_property': 62, 'topology_context': 74, 'proximity_categories': 26}
+2026-05-04 11:02:04  INFO      [stage12_benchmark]  Saved 0 rows → output\stage12_benchmark\benchmark_matched.tsv
+2026-05-04 11:02:04  INFO      [stage12_benchmark]  Saved 346 rows → output\stage12_benchmark\benchmark_missed.tsv
+2026-05-04 11:02:04  INFO      [stage12_benchmark]  Saved 393 rows → output\stage12_benchmark\benchmark_unexpected.tsv
+2026-05-04 11:02:04  INFO      [stage12_benchmark]  Saved 5 rows → output\stage12_benchmark\benchmark_summary.tsv
+2026-05-04 11:02:04  INFO      [stage12_benchmark]  
+2026-05-04 11:02:04  INFO      [stage12_benchmark]    [binding_target           ]  P=0.000  R=0.000  F1=0.000  (gold=91, pred=100, TP=0)
+2026-05-04 11:02:04  INFO      [stage12_benchmark]    [function_tag             ]  P=0.000  R=0.000  F1=0.000  (gold=122, pred=122, TP=0)
+2026-05-04 11:02:04  INFO      [stage12_benchmark]    [positional_category      ]  P=0.000  R=0.000  F1=0.000  (gold=71, pred=71, TP=0)
+2026-05-04 11:02:04  INFO      [stage12_benchmark]    [proximity_categories     ]  P=0.000  R=0.000  F1=0.000  (gold=26, pred=26, TP=0)
+2026-05-04 11:02:04  INFO      [stage12_benchmark]    [topology_context         ]  P=0.000  R=0.000  F1=0.000  (gold=36, pred=74, TP=0)
+2026-05-04 11:02:04  INFO      [stage12_benchmark]  
+  Average Recall=0.000  Precision=0.000
+2026-05-04 11:02:04  INFO      [stage12_benchmark]    Low precision is expected (ontology predicts beyond gold standard)
+2026-05-04 11:02:04  INFO      [stage12_benchmark]  Stage 12 complete.
+2026-05-04 11:49:43  INFO      [stage12_benchmark]  ==================================================================
+2026-05-04 11:49:43  INFO      [stage12_benchmark]    STAGE 12: Known-Biology Benchmark
+2026-05-04 11:49:43  INFO      [stage12_benchmark]  ==================================================================
+2026-05-04 11:49:43  INFO      [stage12_benchmark]  Gold standard: 346 rows from input\gold_standard_relationships.tsv
+2026-05-04 11:49:43  INFO      [stage12_benchmark]    Types: {'function_tag': 122, 'binding_target': 91, 'positional_category': 71, 'topology_context': 36, 'proximity_categories': 26}
+2026-05-04 11:49:43  INFO      [stage12_benchmark]  Predicted: {'function_tag': 122, 'binding_target': 100, 'positional_category': 71, 'copy_number_property': 62, 'topology_context': 74, 'proximity_categories': 26}
+2026-05-04 11:49:43  INFO      [stage12_benchmark]  Saved 0 rows → output\stage12_benchmark\benchmark_matched.tsv
+2026-05-04 11:49:43  INFO      [stage12_benchmark]  Saved 346 rows → output\stage12_benchmark\benchmark_missed.tsv
+2026-05-04 11:49:43  INFO      [stage12_benchmark]  Saved 393 rows → output\stage12_benchmark\benchmark_unexpected.tsv
+2026-05-04 11:49:43  INFO      [stage12_benchmark]  Saved 5 rows → output\stage12_benchmark\benchmark_summary.tsv
+2026-05-04 11:49:44  INFO      [stage12_benchmark]  
+2026-05-04 11:49:44  INFO      [stage12_benchmark]    [binding_target           ]  P=0.000  R=0.000  F1=0.000  (gold=91, pred=100, TP=0)
+2026-05-04 11:49:44  INFO      [stage12_benchmark]    [function_tag             ]  P=0.000  R=0.000  F1=0.000  (gold=122, pred=122, TP=0)
+2026-05-04 11:49:44  INFO      [stage12_benchmark]    [positional_category      ]  P=0.000  R=0.000  F1=0.000  (gold=71, pred=71, TP=0)
+2026-05-04 11:49:44  INFO      [stage12_benchmark]    [proximity_categories     ]  P=0.000  R=0.000  F1=0.000  (gold=26, pred=26, TP=0)
+2026-05-04 11:49:44  INFO      [stage12_benchmark]    [topology_context         ]  P=0.000  R=0.000  F1=0.000  (gold=36, pred=74, TP=0)
+2026-05-04 11:49:44  INFO      [stage12_benchmark]  
+  Average Recall=0.000  Precision=0.000
+2026-05-04 11:49:44  INFO      [stage12_benchmark]    Low precision is expected (ontology predicts beyond gold standard)
+2026-05-04 11:49:44  INFO      [stage12_benchmark]  Stage 12 complete.

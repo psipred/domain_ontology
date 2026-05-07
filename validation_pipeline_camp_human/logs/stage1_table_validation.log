@@ -1,0 +1,388 @@
+2026-05-03 14:35:56  INFO      [stage1_table_validation]  ==================================================================
+2026-05-03 14:35:56  INFO      [stage1_table_validation]    STAGE 1: Table Validation (v3 — all gaps addressed)
+2026-05-03 14:35:56  INFO      [stage1_table_validation]  ==================================================================
+2026-05-03 14:35:56  ERROR     [stage1_table_validation]  annotation_table not found — cannot build CV lookup. Aborting.
+2026-05-03 14:43:04  INFO      [stage1_table_validation]  ==================================================================
+2026-05-03 14:43:04  INFO      [stage1_table_validation]    STAGE 1: Table Validation (v3 — all gaps addressed)
+2026-05-03 14:43:04  INFO      [stage1_table_validation]  ==================================================================
+2026-05-03 14:43:04  ERROR     [stage1_table_validation]  annotation_table not found — cannot build CV lookup. Aborting.
+2026-05-03 15:34:57  INFO      [stage1_table_validation]  ==================================================================
+2026-05-03 15:34:57  INFO      [stage1_table_validation]    STAGE 1: Table Validation (v3 — all gaps addressed)
+2026-05-03 15:34:57  INFO      [stage1_table_validation]  ==================================================================
+2026-05-03 15:34:58  INFO      [stage1_table_validation]  Annotation table loaded: 309 rows × 16 cols
+2026-05-03 15:34:58  INFO      [stage1_table_validation]  CV lookup: positional_or_topology_term=23 | CopyNumberCategory=8 | functional_term=58 | binding_target_term=772  (unique tokens per type, not counting lowercase duplicates)
+2026-05-03 15:34:58  INFO      [stage1_table_validation]  Annotation checks complete: 1
+2026-05-03 15:34:58  INFO      [stage1_table_validation]  Domain type table loaded: 509 rows × 14 cols
+2026-05-03 15:34:58  INFO      [stage1_table_validation]  Domain type checks complete: 9
+2026-05-03 16:15:31  INFO      [stage1_table_validation]  ==================================================================
+2026-05-03 16:15:31  INFO      [stage1_table_validation]    STAGE 1: Table Validation (v3 — all gaps addressed)
+2026-05-03 16:15:31  INFO      [stage1_table_validation]  ==================================================================
+2026-05-03 16:15:32  INFO      [stage1_table_validation]  Annotation table loaded: 309 rows × 16 cols
+2026-05-03 16:15:32  INFO      [stage1_table_validation]  CV lookup: positional_or_topology_term=23 | CopyNumberCategory=8 | functional_term=58 | binding_target_term=772  (unique tokens per type, not counting lowercase duplicates)
+2026-05-03 16:15:32  INFO      [stage1_table_validation]  Annotation checks complete: 1
+2026-05-03 16:15:32  INFO      [stage1_table_validation]  Domain type table loaded: 509 rows × 14 cols
+2026-05-03 16:15:32  INFO      [stage1_table_validation]  Domain type checks complete: 9
+2026-05-03 16:15:32  INFO      [stage1_table_validation]  Occurrence table loaded: 475 rows × 79 cols
+2026-05-03 16:15:32  INFO      [stage1_table_validation]  Occurrence checks complete: 1
+2026-05-03 16:15:33  INFO      [stage1_table_validation]  Saved 11 rows → output\stage1_validation\validation_report_table_level.tsv
+2026-05-03 16:15:33  INFO      [stage1_table_validation]  Saved 58 rows → output\stage1_validation\invalid_rows.tsv
+2026-05-03 16:15:33  INFO      [stage1_table_validation]  Saved 36 rows → output\stage1_validation\missing_term_report.tsv
+2026-05-03 16:15:33  INFO      [stage1_table_validation]  Text summary → output\stage1_validation\validation_summary.txt
+2026-05-03 16:15:33  INFO      [stage1_table_validation]  Checks: 11 | PASS 6 | FAIL 5 | WARN 0
+2026-05-03 16:15:33  INFO      [stage1_table_validation]  Flagged rows: 58 | Missing CV tokens: 36
+2026-05-03 16:15:33  WARNING   [stage1_table_validation]    [A1] FAIL (HIGH) — Required columns present — 1 issues  |  
+2026-05-03 16:15:33  WARNING   [stage1_table_validation]    [O1] FAIL (HIGH) — Required columns present — 1 issues  |  
+2026-05-03 16:15:33  WARNING   [stage1_table_validation]    [T4] FAIL (MED) — domain_type_id format — 1 issues  |  Fix domain_type_id format e.g. PFAM:PF00001
+2026-05-03 16:15:33  WARNING   [stage1_table_validation]    [T5a] FAIL (MED) — source_db in controlled vocabulary — 1 issues  |  Use only allowed source_db values
+2026-05-03 16:15:33  WARNING   [stage1_table_validation]    [T8] FAIL (MED) — function_tags ontology-backed (functional_term) — 67 issues  |  Add functional_term tokens to annotation_table.xlsx or fix spelling
+2026-05-03 16:15:33  INFO      [stage1_table_validation]  Stage 1 complete.
+2026-05-03 16:27:19  INFO      [stage1_table_validation]  ==================================================================
+2026-05-03 16:27:19  INFO      [stage1_table_validation]    STAGE 1: Table Validation (v3 — all gaps addressed)
+2026-05-03 16:27:19  INFO      [stage1_table_validation]  ==================================================================
+2026-05-03 16:27:19  INFO      [stage1_table_validation]  Annotation table loaded: 309 rows × 16 cols
+2026-05-03 16:27:19  INFO      [stage1_table_validation]  CV lookup: positional_or_topology_term=23 | CopyNumberCategory=8 | functional_term=58 | binding_target_term=772  (unique tokens per type, not counting lowercase duplicates)
+2026-05-03 16:27:19  INFO      [stage1_table_validation]  Annotation checks complete: 1
+2026-05-03 16:27:19  INFO      [stage1_table_validation]  Domain type table loaded: 509 rows × 14 cols
+2026-05-03 16:27:19  INFO      [stage1_table_validation]  Domain type checks complete: 9
+2026-05-03 16:27:19  INFO      [stage1_table_validation]  Occurrence table loaded: 475 rows × 79 cols
+2026-05-03 16:27:19  INFO      [stage1_table_validation]  Occurrence checks complete: 1
+2026-05-03 16:27:19  INFO      [stage1_table_validation]  Saved 11 rows → output\stage1_validation\validation_report_table_level.tsv
+2026-05-03 16:27:19  INFO      [stage1_table_validation]  Saved 58 rows → output\stage1_validation\invalid_rows.tsv
+2026-05-03 16:27:19  INFO      [stage1_table_validation]  Saved 36 rows → output\stage1_validation\missing_term_report.tsv
+2026-05-03 16:27:19  INFO      [stage1_table_validation]  Text summary → output\stage1_validation\validation_summary.txt
+2026-05-03 16:27:19  INFO      [stage1_table_validation]  Checks: 11 | PASS 6 | FAIL 5 | WARN 0
+2026-05-03 16:27:19  INFO      [stage1_table_validation]  Flagged rows: 58 | Missing CV tokens: 36
+2026-05-03 16:27:19  WARNING   [stage1_table_validation]    [A1] FAIL (HIGH) — Required columns present — 1 issues  |  
+2026-05-03 16:27:19  WARNING   [stage1_table_validation]    [O1] FAIL (HIGH) — Required columns present — 1 issues  |  
+2026-05-03 16:27:19  WARNING   [stage1_table_validation]    [T4] FAIL (MED) — domain_type_id format — 1 issues  |  Fix domain_type_id format e.g. PFAM:PF00001
+2026-05-03 16:27:19  WARNING   [stage1_table_validation]    [T5a] FAIL (MED) — source_db in controlled vocabulary — 1 issues  |  Use only allowed source_db values
+2026-05-03 16:27:19  WARNING   [stage1_table_validation]    [T8] FAIL (MED) — function_tags ontology-backed (functional_term) — 67 issues  |  Add functional_term tokens to annotation_table.xlsx or fix spelling
+2026-05-03 16:27:19  INFO      [stage1_table_validation]  Stage 1 complete.
+2026-05-03 16:38:47  INFO      [stage1_table_validation]  ==================================================================
+2026-05-03 16:38:47  INFO      [stage1_table_validation]    STAGE 1: Table Validation (v3 — all gaps addressed)
+2026-05-03 16:38:47  INFO      [stage1_table_validation]  ==================================================================
+2026-05-03 16:38:47  INFO      [stage1_table_validation]  Annotation table loaded: 309 rows × 16 cols
+2026-05-03 16:38:47  INFO      [stage1_table_validation]  CV lookup: positional_or_topology_term=23 | CopyNumberCategory=8 | functional_term=58 | binding_target_term=772  (unique tokens per type, not counting lowercase duplicates)
+2026-05-03 16:38:47  INFO      [stage1_table_validation]  Annotation checks complete: 1
+2026-05-03 16:38:47  INFO      [stage1_table_validation]  Domain type table loaded: 509 rows × 14 cols
+2026-05-03 16:38:47  INFO      [stage1_table_validation]  Domain type checks complete: 9
+2026-05-03 16:38:47  INFO      [stage1_table_validation]  Occurrence table loaded: 475 rows × 79 cols
+2026-05-03 16:38:47  INFO      [stage1_table_validation]  Occurrence checks complete: 1
+2026-05-03 16:38:48  INFO      [stage1_table_validation]  Saved 11 rows → output\stage1_validation\validation_report_table_level.tsv
+2026-05-03 16:38:48  INFO      [stage1_table_validation]  Saved 58 rows → output\stage1_validation\invalid_rows.tsv
+2026-05-03 16:38:48  INFO      [stage1_table_validation]  Saved 36 rows → output\stage1_validation\missing_term_report.tsv
+2026-05-03 16:38:48  INFO      [stage1_table_validation]  Text summary → output\stage1_validation\validation_summary.txt
+2026-05-03 16:38:48  INFO      [stage1_table_validation]  Checks: 11 | PASS 6 | FAIL 5 | WARN 0
+2026-05-03 16:38:48  INFO      [stage1_table_validation]  Flagged rows: 58 | Missing CV tokens: 36
+2026-05-03 16:38:48  WARNING   [stage1_table_validation]    [A1] FAIL (HIGH) — Required columns present — 1 issues  |  
+2026-05-03 16:38:48  WARNING   [stage1_table_validation]    [O1] FAIL (HIGH) — Required columns present — 1 issues  |  
+2026-05-03 16:38:48  WARNING   [stage1_table_validation]    [T4] FAIL (MED) — domain_type_id format — 1 issues  |  Fix domain_type_id format e.g. PFAM:PF00001
+2026-05-03 16:38:48  WARNING   [stage1_table_validation]    [T5a] FAIL (MED) — source_db in controlled vocabulary — 1 issues  |  Use only allowed source_db values
+2026-05-03 16:38:48  WARNING   [stage1_table_validation]    [T8] FAIL (MED) — function_tags ontology-backed (functional_term) — 67 issues  |  Add functional_term tokens to annotation_table.xlsx or fix spelling
+2026-05-03 16:38:48  INFO      [stage1_table_validation]  Stage 1 complete.
+2026-05-03 17:14:22  INFO      [stage1_table_validation]  ==================================================================
+2026-05-03 17:14:22  INFO      [stage1_table_validation]    STAGE 1: Table Validation (v3 — all gaps addressed)
+2026-05-03 17:14:22  INFO      [stage1_table_validation]  ==================================================================
+2026-05-03 17:14:23  INFO      [stage1_table_validation]  Annotation table loaded: 309 rows × 16 cols
+2026-05-03 17:14:23  INFO      [stage1_table_validation]  CV lookup: positional_or_topology_term=23 | CopyNumberCategory=8 | functional_term=58 | binding_target_term=772  (unique tokens per type, not counting lowercase duplicates)
+2026-05-03 17:14:23  INFO      [stage1_table_validation]  Annotation checks complete: 1
+2026-05-03 17:14:23  INFO      [stage1_table_validation]  Domain type table loaded: 509 rows × 14 cols
+2026-05-03 17:14:23  INFO      [stage1_table_validation]  Domain type checks complete: 9
+2026-05-03 17:14:23  INFO      [stage1_table_validation]  Occurrence table loaded: 473 rows × 74 cols
+2026-05-03 17:14:23  INFO      [stage1_table_validation]  Occurrence checks complete: 1
+2026-05-03 17:14:23  INFO      [stage1_table_validation]  Saved 11 rows → output\stage1_validation\validation_report_table_level.tsv
+2026-05-03 17:14:23  INFO      [stage1_table_validation]  Saved 58 rows → output\stage1_validation\invalid_rows.tsv
+2026-05-03 17:14:23  INFO      [stage1_table_validation]  Saved 35 rows → output\stage1_validation\missing_term_report.tsv
+2026-05-03 17:14:23  INFO      [stage1_table_validation]  Text summary → output\stage1_validation\validation_summary.txt
+2026-05-03 17:14:23  INFO      [stage1_table_validation]  Checks: 11 | PASS 6 | FAIL 5 | WARN 0
+2026-05-03 17:14:23  INFO      [stage1_table_validation]  Flagged rows: 58 | Missing CV tokens: 35
+2026-05-03 17:14:23  WARNING   [stage1_table_validation]    [A1] FAIL (HIGH) — Required columns present — 1 issues  |  
+2026-05-03 17:14:23  WARNING   [stage1_table_validation]    [O1] FAIL (HIGH) — Required columns present — 1 issues  |  
+2026-05-03 17:14:23  WARNING   [stage1_table_validation]    [T4] FAIL (MED) — domain_type_id format — 1 issues  |  Fix domain_type_id format e.g. PFAM:PF00001
+2026-05-03 17:14:23  WARNING   [stage1_table_validation]    [T5a] FAIL (MED) — source_db in controlled vocabulary — 1 issues  |  Use only allowed source_db values
+2026-05-03 17:14:23  WARNING   [stage1_table_validation]    [T8] FAIL (MED) — function_tags ontology-backed (functional_term) — 67 issues  |  Add functional_term tokens to annotation_table.xlsx or fix spelling
+2026-05-03 17:14:23  INFO      [stage1_table_validation]  Stage 1 complete.
+2026-05-03 22:56:36  INFO      [stage1_table_validation]  ==================================================================
+2026-05-03 22:56:36  INFO      [stage1_table_validation]    STAGE 1: Table Validation (v3 — all gaps addressed)
+2026-05-03 22:56:36  INFO      [stage1_table_validation]  ==================================================================
+2026-05-03 22:56:37  INFO      [stage1_table_validation]  Annotation table loaded: 309 rows × 16 cols
+2026-05-03 22:56:37  INFO      [stage1_table_validation]  CV lookup: positional_or_topology_term=23 | CopyNumberCategory=8 | functional_term=58 | binding_target_term=772  (unique tokens per type, not counting lowercase duplicates)
+2026-05-03 22:56:37  INFO      [stage1_table_validation]  Annotation checks complete: 1
+2026-05-03 22:56:37  INFO      [stage1_table_validation]  Domain type table loaded: 509 rows × 15 cols
+2026-05-03 22:56:37  INFO      [stage1_table_validation]  Domain type checks complete: 9
+2026-05-03 22:56:37  INFO      [stage1_table_validation]  Occurrence table loaded: 473 rows × 74 cols
+2026-05-03 22:56:37  INFO      [stage1_table_validation]  Occurrence checks complete: 1
+2026-05-03 22:56:37  INFO      [stage1_table_validation]  Saved 11 rows → output\stage1_validation\validation_report_table_level.tsv
+2026-05-03 22:56:37  INFO      [stage1_table_validation]  Saved 4 rows → output\stage1_validation\invalid_rows.tsv
+2026-05-03 22:56:37  INFO      [stage1_table_validation]  Saved 2 rows → output\stage1_validation\missing_term_report.tsv
+2026-05-03 22:56:37  INFO      [stage1_table_validation]  Text summary → output\stage1_validation\validation_summary.txt
+2026-05-03 22:56:37  INFO      [stage1_table_validation]  Checks: 11 | PASS 8 | FAIL 3 | WARN 0
+2026-05-03 22:56:37  INFO      [stage1_table_validation]  Flagged rows: 4 | Missing CV tokens: 2
+2026-05-03 22:56:37  WARNING   [stage1_table_validation]    [A1] FAIL (HIGH) — Required columns present — 1 issues  |  
+2026-05-03 22:56:37  WARNING   [stage1_table_validation]    [O1] FAIL (HIGH) — Required columns present — 1 issues  |  
+2026-05-03 22:56:37  WARNING   [stage1_table_validation]    [T8] FAIL (MED) — function_tags ontology-backed (functional_term) — 4 issues  |  Add functional_term tokens to annotation_table.xlsx or fix spelling
+2026-05-03 22:56:37  INFO      [stage1_table_validation]  Stage 1 complete.
+2026-05-03 23:21:37  INFO      [stage1_table_validation]  ==================================================================
+2026-05-03 23:21:37  INFO      [stage1_table_validation]    STAGE 1: Table Validation (v3 — all gaps addressed)
+2026-05-03 23:21:37  INFO      [stage1_table_validation]  ==================================================================
+2026-05-03 23:21:37  INFO      [stage1_table_validation]  Annotation table loaded: 309 rows × 16 cols
+2026-05-03 23:21:38  INFO      [stage1_table_validation]  CV lookup: positional_or_topology_term=23 | CopyNumberCategory=8 | functional_term=58 | binding_target_term=772  (unique tokens per type, not counting lowercase duplicates)
+2026-05-03 23:21:38  INFO      [stage1_table_validation]  Annotation checks complete: 1
+2026-05-03 23:21:38  INFO      [stage1_table_validation]  Domain type table loaded: 509 rows × 15 cols
+2026-05-03 23:21:38  INFO      [stage1_table_validation]  Domain type checks complete: 9
+2026-05-03 23:21:38  INFO      [stage1_table_validation]  Occurrence table loaded: 473 rows × 74 cols
+2026-05-03 23:21:38  INFO      [stage1_table_validation]  Occurrence checks complete: 1
+2026-05-03 23:21:38  INFO      [stage1_table_validation]  Saved 11 rows → output\stage1_validation\validation_report_table_level.tsv
+2026-05-03 23:27:42  INFO      [stage1_table_validation]  ==================================================================
+2026-05-03 23:27:42  INFO      [stage1_table_validation]    STAGE 1: Table Validation (v3 — all gaps addressed)
+2026-05-03 23:27:42  INFO      [stage1_table_validation]  ==================================================================
+2026-05-03 23:27:42  INFO      [stage1_table_validation]  Annotation table loaded: 309 rows × 16 cols
+2026-05-03 23:27:42  INFO      [stage1_table_validation]  CV lookup: positional_or_topology_term=23 | CopyNumberCategory=8 | functional_term=58 | binding_target_term=772  (unique tokens per type, not counting lowercase duplicates)
+2026-05-03 23:27:42  INFO      [stage1_table_validation]  Annotation checks complete: 1
+2026-05-03 23:27:42  INFO      [stage1_table_validation]  Domain type table loaded: 509 rows × 15 cols
+2026-05-03 23:27:43  INFO      [stage1_table_validation]  Domain type checks complete: 9
+2026-05-03 23:27:43  INFO      [stage1_table_validation]  Occurrence table loaded: 473 rows × 74 cols
+2026-05-03 23:27:43  INFO      [stage1_table_validation]  Occurrence checks complete: 1
+2026-05-03 23:27:43  INFO      [stage1_table_validation]  Saved 11 rows → output\stage1_validation\validation_report_table_level.tsv
+2026-05-03 23:33:42  INFO      [stage1_table_validation]  ==================================================================
+2026-05-03 23:33:42  INFO      [stage1_table_validation]    STAGE 1: Table Validation (v3 — all gaps addressed)
+2026-05-03 23:33:42  INFO      [stage1_table_validation]  ==================================================================
+2026-05-03 23:33:42  INFO      [stage1_table_validation]  Annotation table loaded: 309 rows × 16 cols
+2026-05-03 23:33:42  INFO      [stage1_table_validation]  CV lookup: positional_or_topology_term=23 | CopyNumberCategory=8 | functional_term=58 | binding_target_term=772  (unique tokens per type, not counting lowercase duplicates)
+2026-05-03 23:33:42  INFO      [stage1_table_validation]  Annotation checks complete: 1
+2026-05-03 23:33:42  INFO      [stage1_table_validation]  Domain type table loaded: 509 rows × 15 cols
+2026-05-03 23:33:43  INFO      [stage1_table_validation]  Domain type checks complete: 9
+2026-05-03 23:33:43  INFO      [stage1_table_validation]  Occurrence table loaded: 473 rows × 74 cols
+2026-05-03 23:33:43  INFO      [stage1_table_validation]  Occurrence checks complete: 1
+2026-05-03 23:33:43  INFO      [stage1_table_validation]  Saved 11 rows → output\stage1_validation\validation_report_table_level.tsv
+2026-05-03 23:33:43  INFO      [stage1_table_validation]  Saved 1022 rows → output\stage1_validation\invalid_rows.tsv
+2026-05-03 23:33:43  INFO      [stage1_table_validation]  Saved 1 rows → output\stage1_validation\missing_term_report.tsv
+2026-05-03 23:33:43  INFO      [stage1_table_validation]  Text summary → output\stage1_validation\validation_summary.txt
+2026-05-03 23:33:43  INFO      [stage1_table_validation]  Checks: 11 | PASS 6 | FAIL 5 | WARN 0
+2026-05-03 23:33:43  INFO      [stage1_table_validation]  Flagged rows: 1022 | Missing CV tokens: 1
+2026-05-03 23:33:43  WARNING   [stage1_table_validation]    [A1] FAIL (HIGH) — Required columns present — 1 issues  |  
+2026-05-03 23:33:43  WARNING   [stage1_table_validation]    [O1] FAIL (HIGH) — Required columns present — 1 issues  |  
+2026-05-03 23:33:43  WARNING   [stage1_table_validation]    [T4] FAIL (MED) — domain_type_id format — 509 issues  |  Fix domain_type_id format e.g. PFAM:PF00001
+2026-05-03 23:33:43  WARNING   [stage1_table_validation]    [T5b] FAIL (MED) — source_db prefix matches domain_type_id prefix — 509 issues  |  source_db and domain_type_id prefix must match
+2026-05-03 23:33:43  WARNING   [stage1_table_validation]    [T8] FAIL (MED) — function_tags ontology-backed (functional_term) — 4 issues  |  Add functional_term tokens to annotation_table.xlsx or fix spelling
+2026-05-03 23:33:43  INFO      [stage1_table_validation]  Stage 1 complete.
+2026-05-03 23:51:08  INFO      [stage1_table_validation]  ==================================================================
+2026-05-03 23:51:08  INFO      [stage1_table_validation]    STAGE 1: Table Validation (v3 — all gaps addressed)
+2026-05-03 23:51:08  INFO      [stage1_table_validation]  ==================================================================
+2026-05-03 23:51:08  INFO      [stage1_table_validation]  Annotation table loaded: 309 rows × 16 cols
+2026-05-03 23:51:08  INFO      [stage1_table_validation]  CV lookup: positional_or_topology_term=23 | CopyNumberCategory=8 | functional_term=58 | binding_target_term=772  (unique tokens per type, not counting lowercase duplicates)
+2026-05-03 23:51:08  INFO      [stage1_table_validation]  Annotation checks complete: 1
+2026-05-03 23:51:08  INFO      [stage1_table_validation]  Domain type table loaded: 509 rows × 15 cols
+2026-05-03 23:51:08  INFO      [stage1_table_validation]  Domain type checks complete: 9
+2026-05-03 23:51:08  INFO      [stage1_table_validation]  Occurrence table loaded: 473 rows × 74 cols
+2026-05-03 23:51:08  INFO      [stage1_table_validation]  Occurrence checks complete: 1
+2026-05-03 23:51:09  INFO      [stage1_table_validation]  Saved 11 rows → output\stage1_validation\validation_report_table_level.tsv
+2026-05-03 23:51:09  INFO      [stage1_table_validation]  Saved 4 rows → output\stage1_validation\invalid_rows.tsv
+2026-05-03 23:51:09  INFO      [stage1_table_validation]  Saved 1 rows → output\stage1_validation\missing_term_report.tsv
+2026-05-03 23:51:09  INFO      [stage1_table_validation]  Text summary → output\stage1_validation\validation_summary.txt
+2026-05-03 23:51:09  INFO      [stage1_table_validation]  Checks: 11 | PASS 8 | FAIL 3 | WARN 0
+2026-05-03 23:51:09  INFO      [stage1_table_validation]  Flagged rows: 4 | Missing CV tokens: 1
+2026-05-03 23:51:09  WARNING   [stage1_table_validation]    [A1] FAIL (HIGH) — Required columns present — 1 issues  |  
+2026-05-03 23:51:09  WARNING   [stage1_table_validation]    [O1] FAIL (HIGH) — Required columns present — 1 issues  |  
+2026-05-03 23:51:09  WARNING   [stage1_table_validation]    [T8] FAIL (MED) — function_tags ontology-backed (functional_term) — 4 issues  |  Add functional_term tokens to annotation_table.xlsx or fix spelling
+2026-05-03 23:51:09  INFO      [stage1_table_validation]  Stage 1 complete.
+2026-05-04 00:15:12  INFO      [stage1_table_validation]  ==================================================================
+2026-05-04 00:15:12  INFO      [stage1_table_validation]    STAGE 1: Table Validation (v3 — all gaps addressed)
+2026-05-04 00:15:12  INFO      [stage1_table_validation]  ==================================================================
+2026-05-04 00:15:12  INFO      [stage1_table_validation]  Annotation table loaded: 309 rows × 16 cols
+2026-05-04 00:15:12  INFO      [stage1_table_validation]  CV lookup: positional_or_topology_term=23 | CopyNumberCategory=8 | functional_term=58 | binding_target_term=772  (unique tokens per type, not counting lowercase duplicates)
+2026-05-04 00:15:12  INFO      [stage1_table_validation]  Annotation checks complete: 1
+2026-05-04 00:15:12  INFO      [stage1_table_validation]  Domain type table loaded: 509 rows × 15 cols
+2026-05-04 00:15:12  INFO      [stage1_table_validation]  Domain type checks complete: 9
+2026-05-04 00:15:12  INFO      [stage1_table_validation]  Occurrence table loaded: 473 rows × 74 cols
+2026-05-04 00:15:12  INFO      [stage1_table_validation]  Occurrence checks complete: 1
+2026-05-04 00:15:12  INFO      [stage1_table_validation]  Saved 11 rows → output\stage1_validation\validation_report_table_level.tsv
+2026-05-04 00:15:12  INFO      [stage1_table_validation]  Saved 0 rows → output\stage1_validation\invalid_rows.tsv
+2026-05-04 00:15:12  INFO      [stage1_table_validation]  Saved 0 rows → output\stage1_validation\missing_term_report.tsv
+2026-05-04 00:15:12  INFO      [stage1_table_validation]  Text summary → output\stage1_validation\validation_summary.txt
+2026-05-04 00:15:12  INFO      [stage1_table_validation]  Checks: 11 | PASS 9 | FAIL 2 | WARN 0
+2026-05-04 00:15:12  INFO      [stage1_table_validation]  Flagged rows: 0 | Missing CV tokens: 0
+2026-05-04 00:15:12  WARNING   [stage1_table_validation]    [A1] FAIL (HIGH) — Required columns present — 1 issues  |  
+2026-05-04 00:15:12  WARNING   [stage1_table_validation]    [O1] FAIL (HIGH) — Required columns present — 1 issues  |  
+2026-05-04 00:15:12  INFO      [stage1_table_validation]  Stage 1 complete.
+2026-05-04 01:15:11  INFO      [stage1_table_validation]  ==================================================================
+2026-05-04 01:15:11  INFO      [stage1_table_validation]    STAGE 1: Table Validation (v3 — all gaps addressed)
+2026-05-04 01:15:11  INFO      [stage1_table_validation]  ==================================================================
+2026-05-04 01:15:11  INFO      [stage1_table_validation]  Annotation table loaded: 309 rows × 17 cols
+2026-05-04 01:15:11  INFO      [stage1_table_validation]  CV lookup: positional_or_topology_term=23 | CopyNumberCategory=8 | functional_term=58 | binding_target_term=772  (unique tokens per type, not counting lowercase duplicates)
+2026-05-04 01:15:11  INFO      [stage1_table_validation]  Annotation checks complete: 7
+2026-05-04 01:15:11  INFO      [stage1_table_validation]  Domain type table loaded: 509 rows × 15 cols
+2026-05-04 01:15:11  INFO      [stage1_table_validation]  Domain type checks complete: 9
+2026-05-04 01:15:11  INFO      [stage1_table_validation]  Occurrence table loaded: 473 rows × 74 cols
+2026-05-04 01:15:11  INFO      [stage1_table_validation]  Occurrence checks complete: 19
+2026-05-04 01:15:11  INFO      [stage1_table_validation]  Saved 35 rows → output\stage1_validation\validation_report_table_level.tsv
+2026-05-04 01:15:11  INFO      [stage1_table_validation]  Saved 677 rows → output\stage1_validation\invalid_rows.tsv
+2026-05-04 01:15:11  INFO      [stage1_table_validation]  Saved 0 rows → output\stage1_validation\missing_term_report.tsv
+2026-05-04 01:15:11  INFO      [stage1_table_validation]  Text summary → output\stage1_validation\validation_summary.txt
+2026-05-04 01:15:11  INFO      [stage1_table_validation]  Checks: 35 | PASS 32 | FAIL 2 | WARN 1
+2026-05-04 01:15:11  INFO      [stage1_table_validation]  Flagged rows: 677 | Missing CV tokens: 0
+2026-05-04 01:15:11  WARNING   [stage1_table_validation]    [O12] WARN (MED) — binding_parnter ontology-backed (binding_target_term) — 0 issues  |  Add free-text binding partners to binding_target_term in annotation_table.xlsx
+2026-05-04 01:15:11  WARNING   [stage1_table_validation]    [O13] FAIL (HIGH) — binding_target_chebi format (CHEBI:nnnnn) — 204 issues  |  Remove duplicate CHEBI: prefix: CHEBI:CHEBI:nnn → CHEBI:nnn
+2026-05-04 01:15:11  WARNING   [stage1_table_validation]    [O8] FAIL (HIGH) — copy_number_property ontology-backed (CopyNumberCategory) — 473 issues  |  Add MultiCopy→MultipleCopy, TripleCopy to CopyNumberCategory in annotation_table.xlsx
+2026-05-04 01:15:11  INFO      [stage1_table_validation]  Stage 1 complete.
+2026-05-04 02:08:24  INFO      [stage1_table_validation]  ==================================================================
+2026-05-04 02:08:24  INFO      [stage1_table_validation]    STAGE 1: Table Validation (v3 — all gaps addressed)
+2026-05-04 02:08:24  INFO      [stage1_table_validation]  ==================================================================
+2026-05-04 02:08:24  INFO      [stage1_table_validation]  Annotation table loaded: 309 rows × 17 cols
+2026-05-04 02:08:24  INFO      [stage1_table_validation]  CV lookup: positional_or_topology_term=23 | CopyNumberCategory=8 | functional_term=58 | binding_target_term=772  (unique tokens per type, not counting lowercase duplicates)
+2026-05-04 02:08:24  INFO      [stage1_table_validation]  Annotation checks complete: 7
+2026-05-04 02:08:24  INFO      [stage1_table_validation]  Domain type table loaded: 509 rows × 15 cols
+2026-05-04 02:08:24  INFO      [stage1_table_validation]  Domain type checks complete: 9
+2026-05-04 02:08:24  INFO      [stage1_table_validation]  Occurrence table loaded: 473 rows × 74 cols
+2026-05-04 02:08:24  INFO      [stage1_table_validation]  Occurrence checks complete: 18
+2026-05-04 02:08:24  INFO      [stage1_table_validation]  Saved 34 rows → output\stage1_validation\validation_report_table_level.tsv
+2026-05-04 02:08:24  INFO      [stage1_table_validation]  Saved 204 rows → output\stage1_validation\invalid_rows.tsv
+2026-05-04 02:08:24  INFO      [stage1_table_validation]  Saved 0 rows → output\stage1_validation\missing_term_report.tsv
+2026-05-04 02:08:24  INFO      [stage1_table_validation]  Text summary → output\stage1_validation\validation_summary.txt
+2026-05-04 02:08:24  INFO      [stage1_table_validation]  Checks: 34 | PASS 32 | FAIL 1 | WARN 1
+2026-05-04 02:08:24  INFO      [stage1_table_validation]  Flagged rows: 204 | Missing CV tokens: 0
+2026-05-04 02:08:24  WARNING   [stage1_table_validation]    [O12] WARN (MED) — binding_parnter ontology-backed (binding_target_term) — 0 issues  |  Add free-text binding partners to binding_target_term in annotation_table.xlsx
+2026-05-04 02:08:24  WARNING   [stage1_table_validation]    [O13] FAIL (HIGH) — binding_target_chebi format (CHEBI:nnnnn) — 204 issues  |  Remove duplicate CHEBI: prefix: CHEBI:CHEBI:nnn → CHEBI:nnn
+2026-05-04 02:08:24  INFO      [stage1_table_validation]  Stage 1 complete.
+2026-05-04 04:34:00  INFO      [stage1_table_validation]  ==================================================================
+2026-05-04 04:34:00  INFO      [stage1_table_validation]    STAGE 1: Table Validation (v3 — all gaps addressed)
+2026-05-04 04:34:00  INFO      [stage1_table_validation]  ==================================================================
+2026-05-04 04:34:01  INFO      [stage1_table_validation]  Annotation table loaded: 332 rows × 17 cols
+2026-05-04 04:34:01  INFO      [stage1_table_validation]  CV lookup: positional_or_topology_term=23 | CopyNumberCategory=8 | functional_term=67 | binding_target_term=843  (unique tokens per type, not counting lowercase duplicates)
+2026-05-04 04:34:01  INFO      [stage1_table_validation]  Annotation checks complete: 7
+2026-05-04 04:34:01  INFO      [stage1_table_validation]  Domain type table loaded: 186 rows × 14 cols
+2026-05-04 04:34:01  INFO      [stage1_table_validation]  Domain type checks complete: 9
+2026-05-04 04:34:01  INFO      [stage1_table_validation]  Occurrence table loaded: 269 rows × 71 cols
+2026-05-04 04:34:01  INFO      [stage1_table_validation]  Occurrence checks complete: 18
+2026-05-04 04:34:01  INFO      [stage1_table_validation]  Saved 34 rows → output\stage1_validation\validation_report_table_level.tsv
+2026-05-04 04:34:01  INFO      [stage1_table_validation]  Saved 114 rows → output\stage1_validation\invalid_rows.tsv
+2026-05-04 04:34:01  INFO      [stage1_table_validation]  Saved 26 rows → output\stage1_validation\missing_term_report.tsv
+2026-05-04 04:34:01  INFO      [stage1_table_validation]  Text summary → output\stage1_validation\validation_summary.txt
+2026-05-04 04:34:01  INFO      [stage1_table_validation]  Checks: 34 | PASS 31 | FAIL 2 | WARN 1
+2026-05-04 04:34:01  INFO      [stage1_table_validation]  Flagged rows: 114 | Missing CV tokens: 26
+2026-05-04 04:34:01  WARNING   [stage1_table_validation]    [O12] WARN (MED) — binding_parnter ontology-backed (binding_target_term) — 0 issues  |  Add free-text binding partners to binding_target_term in annotation_table.xlsx
+2026-05-04 04:34:01  WARNING   [stage1_table_validation]    [O13] FAIL (HIGH) — binding_target_chebi format (CHEBI:nnnnn) — 90 issues  |  Remove duplicate CHEBI: prefix: CHEBI:CHEBI:nnn → CHEBI:nnn
+2026-05-04 04:34:01  WARNING   [stage1_table_validation]    [T8] FAIL (MED) — function_tags ontology-backed (functional_term) — 29 issues  |  Add functional_term tokens to annotation_table.xlsx or fix spelling
+2026-05-04 04:34:01  INFO      [stage1_table_validation]  Stage 1 complete.
+2026-05-04 04:41:27  INFO      [stage1_table_validation]  ==================================================================
+2026-05-04 04:41:27  INFO      [stage1_table_validation]    STAGE 1: Table Validation (v3 — all gaps addressed)
+2026-05-04 04:41:27  INFO      [stage1_table_validation]  ==================================================================
+2026-05-04 04:41:27  INFO      [stage1_table_validation]  Annotation table loaded: 332 rows × 17 cols
+2026-05-04 04:41:27  INFO      [stage1_table_validation]  CV lookup: positional_or_topology_term=23 | CopyNumberCategory=8 | functional_term=67 | binding_target_term=843  (unique tokens per type, not counting lowercase duplicates)
+2026-05-04 04:41:27  INFO      [stage1_table_validation]  Annotation checks complete: 7
+2026-05-04 04:41:27  INFO      [stage1_table_validation]  Domain type table loaded: 186 rows × 14 cols
+2026-05-04 04:41:27  INFO      [stage1_table_validation]  Domain type checks complete: 9
+2026-05-04 04:41:27  INFO      [stage1_table_validation]  Occurrence table loaded: 269 rows × 71 cols
+2026-05-04 04:41:27  INFO      [stage1_table_validation]  Occurrence checks complete: 18
+2026-05-04 04:41:27  INFO      [stage1_table_validation]  Saved 34 rows → output\stage1_validation\validation_report_table_level.tsv
+2026-05-04 04:41:27  INFO      [stage1_table_validation]  Saved 114 rows → output\stage1_validation\invalid_rows.tsv
+2026-05-04 04:41:27  INFO      [stage1_table_validation]  Saved 26 rows → output\stage1_validation\missing_term_report.tsv
+2026-05-04 04:41:27  INFO      [stage1_table_validation]  Text summary → output\stage1_validation\validation_summary.txt
+2026-05-04 04:41:27  INFO      [stage1_table_validation]  Checks: 34 | PASS 31 | FAIL 2 | WARN 1
+2026-05-04 04:41:27  INFO      [stage1_table_validation]  Flagged rows: 114 | Missing CV tokens: 26
+2026-05-04 04:41:27  WARNING   [stage1_table_validation]    [O12] WARN (MED) — binding_parnter ontology-backed (binding_target_term) — 0 issues  |  Add free-text binding partners to binding_target_term in annotation_table.xlsx
+2026-05-04 04:41:27  WARNING   [stage1_table_validation]    [O13] FAIL (HIGH) — binding_target_chebi format (CHEBI:nnnnn) — 90 issues  |  Remove duplicate CHEBI: prefix: CHEBI:CHEBI:nnn → CHEBI:nnn
+2026-05-04 04:41:27  WARNING   [stage1_table_validation]    [T8] FAIL (MED) — function_tags ontology-backed (functional_term) — 29 issues  |  Add functional_term tokens to annotation_table.xlsx or fix spelling
+2026-05-04 04:41:27  INFO      [stage1_table_validation]  Stage 1 complete.
+2026-05-04 09:32:52  INFO      [stage1_table_validation]  ==================================================================
+2026-05-04 09:32:52  INFO      [stage1_table_validation]    STAGE 1: Table Validation (v3 — all gaps addressed)
+2026-05-04 09:32:52  INFO      [stage1_table_validation]  ==================================================================
+2026-05-04 09:32:52  INFO      [stage1_table_validation]  Annotation table loaded: 332 rows × 17 cols
+2026-05-04 09:32:52  INFO      [stage1_table_validation]  CV lookup: positional_or_topology_term=23 | CopyNumberCategory=8 | functional_term=67 | binding_target_term=843  (unique tokens per type, not counting lowercase duplicates)
+2026-05-04 09:32:52  INFO      [stage1_table_validation]  Annotation checks complete: 7
+2026-05-04 09:32:52  INFO      [stage1_table_validation]  Domain type table loaded: 186 rows × 14 cols
+2026-05-04 09:32:52  INFO      [stage1_table_validation]  Domain type checks complete: 9
+2026-05-04 09:32:52  INFO      [stage1_table_validation]  Occurrence table loaded: 269 rows × 71 cols
+2026-05-04 09:32:52  INFO      [stage1_table_validation]  Occurrence checks complete: 18
+2026-05-04 09:32:52  INFO      [stage1_table_validation]  Saved 34 rows → output\stage1_validation\validation_report_table_level.tsv
+2026-05-04 09:34:48  INFO      [stage1_table_validation]  ==================================================================
+2026-05-04 09:34:48  INFO      [stage1_table_validation]    STAGE 1: Table Validation (v3 — all gaps addressed)
+2026-05-04 09:34:48  INFO      [stage1_table_validation]  ==================================================================
+2026-05-04 09:34:48  INFO      [stage1_table_validation]  Annotation table loaded: 332 rows × 17 cols
+2026-05-04 09:34:48  INFO      [stage1_table_validation]  CV lookup: positional_or_topology_term=23 | CopyNumberCategory=8 | functional_term=67 | binding_target_term=843  (unique tokens per type, not counting lowercase duplicates)
+2026-05-04 09:34:49  INFO      [stage1_table_validation]  Annotation checks complete: 7
+2026-05-04 09:34:49  INFO      [stage1_table_validation]  Domain type table loaded: 186 rows × 14 cols
+2026-05-04 09:34:49  INFO      [stage1_table_validation]  Domain type checks complete: 9
+2026-05-04 09:34:49  INFO      [stage1_table_validation]  Occurrence table loaded: 269 rows × 71 cols
+2026-05-04 09:34:49  INFO      [stage1_table_validation]  Occurrence checks complete: 18
+2026-05-04 09:34:49  INFO      [stage1_table_validation]  Saved 34 rows → output\stage1_validation\validation_report_table_level.tsv
+2026-05-04 09:34:49  INFO      [stage1_table_validation]  Saved 3 rows → output\stage1_validation\invalid_rows.tsv
+2026-05-04 09:34:49  INFO      [stage1_table_validation]  Saved 1 rows → output\stage1_validation\missing_term_report.tsv
+2026-05-04 09:34:49  INFO      [stage1_table_validation]  Text summary → output\stage1_validation\validation_summary.txt
+2026-05-04 09:34:49  INFO      [stage1_table_validation]  Checks: 34 | PASS 32 | FAIL 1 | WARN 1
+2026-05-04 09:34:49  INFO      [stage1_table_validation]  Flagged rows: 3 | Missing CV tokens: 1
+2026-05-04 09:34:49  WARNING   [stage1_table_validation]    [O12] WARN (MED) — binding_parnter ontology-backed (binding_target_term) — 0 issues  |  Add free-text binding partners to binding_target_term in annotation_table.xlsx
+2026-05-04 09:34:49  WARNING   [stage1_table_validation]    [T8] FAIL (MED) — function_tags ontology-backed (functional_term) — 3 issues  |  Add functional_term tokens to annotation_table.xlsx or fix spelling
+2026-05-04 09:34:49  INFO      [stage1_table_validation]  Stage 1 complete.
+2026-05-04 09:57:16  INFO      [stage1_table_validation]  ==================================================================
+2026-05-04 09:57:16  INFO      [stage1_table_validation]    STAGE 1: Table Validation (v3 — all gaps addressed)
+2026-05-04 09:57:16  INFO      [stage1_table_validation]  ==================================================================
+2026-05-04 09:57:16  INFO      [stage1_table_validation]  Annotation table loaded: 332 rows × 17 cols
+2026-05-04 09:57:16  INFO      [stage1_table_validation]  CV lookup: positional_or_topology_term=23 | CopyNumberCategory=8 | functional_term=67 | binding_target_term=843  (unique tokens per type, not counting lowercase duplicates)
+2026-05-04 09:57:16  INFO      [stage1_table_validation]  Annotation checks complete: 7
+2026-05-04 09:57:16  INFO      [stage1_table_validation]  Domain type table loaded: 186 rows × 14 cols
+2026-05-04 09:57:16  INFO      [stage1_table_validation]  Domain type checks complete: 9
+2026-05-04 09:57:16  INFO      [stage1_table_validation]  Occurrence table loaded: 269 rows × 71 cols
+2026-05-04 09:57:17  INFO      [stage1_table_validation]  Occurrence checks complete: 18
+2026-05-04 09:57:17  INFO      [stage1_table_validation]  Saved 34 rows → output\stage1_validation\validation_report_table_level.tsv
+2026-05-04 09:57:17  INFO      [stage1_table_validation]  Saved 0 rows → output\stage1_validation\invalid_rows.tsv
+2026-05-04 09:57:17  INFO      [stage1_table_validation]  Saved 0 rows → output\stage1_validation\missing_term_report.tsv
+2026-05-04 09:57:17  INFO      [stage1_table_validation]  Text summary → output\stage1_validation\validation_summary.txt
+2026-05-04 09:57:17  INFO      [stage1_table_validation]  Checks: 34 | PASS 33 | FAIL 0 | WARN 1
+2026-05-04 09:57:17  INFO      [stage1_table_validation]  Flagged rows: 0 | Missing CV tokens: 0
+2026-05-04 09:57:17  WARNING   [stage1_table_validation]    [O12] WARN (MED) — binding_parnter ontology-backed (binding_target_term) — 0 issues  |  Add free-text binding partners to binding_target_term in annotation_table.xlsx
+2026-05-04 09:57:17  INFO      [stage1_table_validation]  Stage 1 complete.
+2026-05-04 10:27:00  INFO      [stage1_table_validation]  ==================================================================
+2026-05-04 10:27:00  INFO      [stage1_table_validation]    STAGE 1: Table Validation (v3 — all gaps addressed)
+2026-05-04 10:27:00  INFO      [stage1_table_validation]  ==================================================================
+2026-05-04 10:27:00  INFO      [stage1_table_validation]  Annotation table loaded: 332 rows × 17 cols
+2026-05-04 10:27:00  INFO      [stage1_table_validation]  CV lookup: positional_or_topology_term=23 | CopyNumberCategory=8 | functional_term=67 | binding_target_term=843  (unique tokens per type, not counting lowercase duplicates)
+2026-05-04 10:27:00  INFO      [stage1_table_validation]  Annotation checks complete: 7
+2026-05-04 10:27:00  INFO      [stage1_table_validation]  Domain type table loaded: 186 rows × 14 cols
+2026-05-04 10:27:00  INFO      [stage1_table_validation]  Domain type checks complete: 9
+2026-05-04 10:27:00  INFO      [stage1_table_validation]  Occurrence table loaded: 269 rows × 71 cols
+2026-05-04 10:27:00  INFO      [stage1_table_validation]  Occurrence checks complete: 18
+2026-05-04 10:27:00  INFO      [stage1_table_validation]  Saved 34 rows → output\stage1_validation\validation_report_table_level.tsv
+2026-05-04 10:27:00  INFO      [stage1_table_validation]  Saved 0 rows → output\stage1_validation\invalid_rows.tsv
+2026-05-04 10:27:00  INFO      [stage1_table_validation]  Saved 0 rows → output\stage1_validation\missing_term_report.tsv
+2026-05-04 10:27:00  INFO      [stage1_table_validation]  Text summary → output\stage1_validation\validation_summary.txt
+2026-05-04 10:27:00  INFO      [stage1_table_validation]  Checks: 34 | PASS 33 | FAIL 0 | WARN 1
+2026-05-04 10:27:00  INFO      [stage1_table_validation]  Flagged rows: 0 | Missing CV tokens: 0
+2026-05-04 10:27:00  WARNING   [stage1_table_validation]    [O12] WARN (MED) — binding_parnter ontology-backed (binding_target_term) — 0 issues  |  Add free-text binding partners to binding_target_term in annotation_table.xlsx
+2026-05-04 10:27:00  INFO      [stage1_table_validation]  Stage 1 complete.
+2026-05-04 11:01:24  INFO      [stage1_table_validation]  ==================================================================
+2026-05-04 11:01:24  INFO      [stage1_table_validation]    STAGE 1: Table Validation (v3 — all gaps addressed)
+2026-05-04 11:01:24  INFO      [stage1_table_validation]  ==================================================================
+2026-05-04 11:01:25  INFO      [stage1_table_validation]  Annotation table loaded: 332 rows × 17 cols
+2026-05-04 11:01:25  INFO      [stage1_table_validation]  CV lookup: positional_or_topology_term=23 | CopyNumberCategory=8 | functional_term=67 | binding_target_term=843  (unique tokens per type, not counting lowercase duplicates)
+2026-05-04 11:01:25  INFO      [stage1_table_validation]  Annotation checks complete: 7
+2026-05-04 11:01:25  INFO      [stage1_table_validation]  Domain type table loaded: 186 rows × 14 cols
+2026-05-04 11:01:25  INFO      [stage1_table_validation]  Domain type checks complete: 9
+2026-05-04 11:01:25  INFO      [stage1_table_validation]  Occurrence table loaded: 269 rows × 71 cols
+2026-05-04 11:01:25  INFO      [stage1_table_validation]  Occurrence checks complete: 18
+2026-05-04 11:01:25  INFO      [stage1_table_validation]  Saved 34 rows → output\stage1_validation\validation_report_table_level.tsv
+2026-05-04 11:01:25  INFO      [stage1_table_validation]  Saved 0 rows → output\stage1_validation\invalid_rows.tsv
+2026-05-04 11:01:25  INFO      [stage1_table_validation]  Saved 0 rows → output\stage1_validation\missing_term_report.tsv
+2026-05-04 11:01:25  INFO      [stage1_table_validation]  Text summary → output\stage1_validation\validation_summary.txt
+2026-05-04 11:01:25  INFO      [stage1_table_validation]  Checks: 34 | PASS 33 | FAIL 0 | WARN 1
+2026-05-04 11:01:25  INFO      [stage1_table_validation]  Flagged rows: 0 | Missing CV tokens: 0
+2026-05-04 11:01:25  WARNING   [stage1_table_validation]    [O12] WARN (MED) — binding_parnter ontology-backed (binding_target_term) — 0 issues  |  Add free-text binding partners to binding_target_term in annotation_table.xlsx
+2026-05-04 11:01:25  INFO      [stage1_table_validation]  Stage 1 complete.
+2026-05-04 11:48:54  INFO      [stage1_table_validation]  ==================================================================
+2026-05-04 11:48:54  INFO      [stage1_table_validation]    STAGE 1: Table Validation (v3 — all gaps addressed)
+2026-05-04 11:48:54  INFO      [stage1_table_validation]  ==================================================================
+2026-05-04 11:48:54  INFO      [stage1_table_validation]  Annotation table loaded: 332 rows × 17 cols
+2026-05-04 11:48:54  INFO      [stage1_table_validation]  CV lookup: positional_or_topology_term=23 | CopyNumberCategory=8 | functional_term=67 | binding_target_term=843  (unique tokens per type, not counting lowercase duplicates)
+2026-05-04 11:48:54  INFO      [stage1_table_validation]  Annotation checks complete: 7
+2026-05-04 11:48:54  INFO      [stage1_table_validation]  Domain type table loaded: 186 rows × 14 cols
+2026-05-04 11:48:54  INFO      [stage1_table_validation]  Domain type checks complete: 9
+2026-05-04 11:48:54  INFO      [stage1_table_validation]  Occurrence table loaded: 269 rows × 71 cols
+2026-05-04 11:48:54  INFO      [stage1_table_validation]  Occurrence checks complete: 18
+2026-05-04 11:48:54  INFO      [stage1_table_validation]  Saved 34 rows → output\stage1_validation\validation_report_table_level.tsv
+2026-05-04 11:48:54  INFO      [stage1_table_validation]  Saved 0 rows → output\stage1_validation\invalid_rows.tsv
+2026-05-04 11:48:54  INFO      [stage1_table_validation]  Saved 0 rows → output\stage1_validation\missing_term_report.tsv
+2026-05-04 11:48:54  INFO      [stage1_table_validation]  Text summary → output\stage1_validation\validation_summary.txt
+2026-05-04 11:48:54  INFO      [stage1_table_validation]  Checks: 34 | PASS 33 | FAIL 0 | WARN 1
+2026-05-04 11:48:54  INFO      [stage1_table_validation]  Flagged rows: 0 | Missing CV tokens: 0
+2026-05-04 11:48:54  WARNING   [stage1_table_validation]    [O12] WARN (MED) — binding_parnter ontology-backed (binding_target_term) — 0 issues  |  Add free-text binding partners to binding_target_term in annotation_table.xlsx
+2026-05-04 11:48:54  INFO      [stage1_table_validation]  Stage 1 complete.

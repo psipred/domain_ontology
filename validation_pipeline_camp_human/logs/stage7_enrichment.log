@@ -1,0 +1,152 @@
+2026-05-03 14:35:59  INFO      [stage7_enrichment]  ==================================================================
+2026-05-03 14:35:59  INFO      [stage7_enrichment]    STAGE 7: Domain Enrichment Analysis
+2026-05-03 14:35:59  INFO      [stage7_enrichment]  ==================================================================
+2026-05-03 14:35:59  WARNING   [stage7_enrichment]  No input data found — skipping Stage 7
+2026-05-03 14:43:12  INFO      [stage7_enrichment]  ==================================================================
+2026-05-03 14:43:12  INFO      [stage7_enrichment]    STAGE 7: Domain Enrichment Analysis
+2026-05-03 14:43:12  INFO      [stage7_enrichment]  ==================================================================
+2026-05-03 14:43:12  WARNING   [stage7_enrichment]  No input data found — skipping Stage 7
+2026-05-03 15:35:10  INFO      [stage7_enrichment]  ==================================================================
+2026-05-03 15:35:10  INFO      [stage7_enrichment]    STAGE 7: Domain Enrichment Analysis
+2026-05-03 15:35:10  INFO      [stage7_enrichment]  ==================================================================
+2026-05-03 15:35:15  INFO      [stage7_enrichment]  Foreground: 142 proteins  Background: 19781 proteins
+2026-05-03 15:35:15  INFO      [stage7_enrichment]  Saved 78 rows → output\stage7_enrichment\enrichment_results.tsv
+2026-05-03 15:35:15  INFO      [stage7_enrichment]  Significant at FDR<0.05: 73/78 domains
+2026-05-03 15:35:15  INFO      [stage7_enrichment]  Stage 7 complete.
+2026-05-03 16:15:56  INFO      [stage7_enrichment]  ==================================================================
+2026-05-03 16:15:56  INFO      [stage7_enrichment]    STAGE 7: Domain Enrichment Analysis
+2026-05-03 16:15:56  INFO      [stage7_enrichment]  ==================================================================
+2026-05-03 16:16:02  INFO      [stage7_enrichment]  Foreground: 142 proteins  Background: 19781 proteins
+2026-05-03 16:16:02  INFO      [stage7_enrichment]  Saved 78 rows → output\stage7_enrichment\enrichment_results.tsv
+2026-05-03 16:16:02  INFO      [stage7_enrichment]  Significant at FDR<0.05: 73/78 domains
+2026-05-03 16:16:02  INFO      [stage7_enrichment]  Stage 7 complete.
+2026-05-03 16:27:32  INFO      [stage7_enrichment]  ==================================================================
+2026-05-03 16:27:32  INFO      [stage7_enrichment]    STAGE 7: Domain Enrichment Analysis
+2026-05-03 16:27:32  INFO      [stage7_enrichment]  ==================================================================
+2026-05-03 16:27:36  INFO      [stage7_enrichment]  Foreground: 142 proteins  Background: 19781 proteins
+2026-05-03 16:27:36  INFO      [stage7_enrichment]  Saved 78 rows → output\stage7_enrichment\enrichment_results.tsv
+2026-05-03 16:27:36  INFO      [stage7_enrichment]  Significant at FDR<0.05: 73/78 domains
+2026-05-03 16:27:36  INFO      [stage7_enrichment]  Stage 7 complete.
+2026-05-03 16:39:01  INFO      [stage7_enrichment]  ==================================================================
+2026-05-03 16:39:01  INFO      [stage7_enrichment]    STAGE 7: Domain Enrichment Analysis
+2026-05-03 16:39:01  INFO      [stage7_enrichment]  ==================================================================
+2026-05-03 16:39:04  INFO      [stage7_enrichment]  Foreground: 142 proteins  Background: 19781 proteins
+2026-05-03 16:39:04  INFO      [stage7_enrichment]  Saved 78 rows → output\stage7_enrichment\enrichment_results.tsv
+2026-05-03 16:39:04  INFO      [stage7_enrichment]  Significant at FDR<0.05: 73/78 domains
+2026-05-03 16:39:04  INFO      [stage7_enrichment]  Stage 7 complete.
+2026-05-03 17:14:36  INFO      [stage7_enrichment]  ==================================================================
+2026-05-03 17:14:36  INFO      [stage7_enrichment]    STAGE 7: Domain Enrichment Analysis
+2026-05-03 17:14:36  INFO      [stage7_enrichment]  ==================================================================
+2026-05-03 17:14:39  INFO      [stage7_enrichment]  Foreground: 142 proteins  Background: 19781 proteins
+2026-05-03 17:14:39  INFO      [stage7_enrichment]  Saved 78 rows → output\stage7_enrichment\enrichment_results.tsv
+2026-05-03 17:14:39  INFO      [stage7_enrichment]  Significant at FDR<0.05: 73/78 domains
+2026-05-03 17:14:39  INFO      [stage7_enrichment]  Stage 7 complete.
+2026-05-03 22:57:00  INFO      [stage7_enrichment]  ==================================================================
+2026-05-03 22:57:00  INFO      [stage7_enrichment]    STAGE 7: Domain Enrichment Analysis
+2026-05-03 22:57:00  INFO      [stage7_enrichment]  ==================================================================
+2026-05-03 22:57:14  INFO      [stage7_enrichment]  Foreground: 142 proteins  Background: 19781 proteins
+2026-05-03 22:57:14  INFO      [stage7_enrichment]  Saved 78 rows → output\stage7_enrichment\enrichment_results.tsv
+2026-05-03 22:57:14  INFO      [stage7_enrichment]  Significant at FDR<0.05: 73/78 domains
+2026-05-03 22:57:15  INFO      [stage7_enrichment]  Stage 7 complete.
+2026-05-03 23:21:50  INFO      [stage7_enrichment]  ==================================================================
+2026-05-03 23:21:50  INFO      [stage7_enrichment]    STAGE 7: Domain Enrichment Analysis
+2026-05-03 23:21:50  INFO      [stage7_enrichment]  ==================================================================
+2026-05-03 23:21:54  INFO      [stage7_enrichment]  Foreground: 142 proteins  Background: 19781 proteins
+2026-05-03 23:21:54  INFO      [stage7_enrichment]  Saved 78 rows → output\stage7_enrichment\enrichment_results.tsv
+2026-05-03 23:21:54  INFO      [stage7_enrichment]  Significant at FDR<0.05: 73/78 domains
+2026-05-03 23:21:54  INFO      [stage7_enrichment]  Stage 7 complete.
+2026-05-03 23:27:56  INFO      [stage7_enrichment]  ==================================================================
+2026-05-03 23:27:56  INFO      [stage7_enrichment]    STAGE 7: Domain Enrichment Analysis
+2026-05-03 23:27:56  INFO      [stage7_enrichment]  ==================================================================
+2026-05-03 23:27:59  INFO      [stage7_enrichment]  Foreground: 142 proteins  Background: 19781 proteins
+2026-05-03 23:27:59  INFO      [stage7_enrichment]  Saved 78 rows → output\stage7_enrichment\enrichment_results.tsv
+2026-05-03 23:27:59  INFO      [stage7_enrichment]  Significant at FDR<0.05: 73/78 domains
+2026-05-03 23:28:00  INFO      [stage7_enrichment]  Stage 7 complete.
+2026-05-03 23:34:08  INFO      [stage7_enrichment]  ==================================================================
+2026-05-03 23:34:08  INFO      [stage7_enrichment]    STAGE 7: Domain Enrichment Analysis
+2026-05-03 23:34:08  INFO      [stage7_enrichment]  ==================================================================
+2026-05-03 23:34:15  INFO      [stage7_enrichment]  Foreground: 142 proteins  Background: 19781 proteins
+2026-05-03 23:34:15  INFO      [stage7_enrichment]  Saved 78 rows → output\stage7_enrichment\enrichment_results.tsv
+2026-05-03 23:34:15  INFO      [stage7_enrichment]  Significant at FDR<0.05: 73/78 domains
+2026-05-03 23:34:15  INFO      [stage7_enrichment]  Stage 7 complete.
+2026-05-03 23:51:21  INFO      [stage7_enrichment]  ==================================================================
+2026-05-03 23:51:21  INFO      [stage7_enrichment]    STAGE 7: Domain Enrichment Analysis
+2026-05-03 23:51:21  INFO      [stage7_enrichment]  ==================================================================
+2026-05-03 23:51:24  INFO      [stage7_enrichment]  Foreground: 142 proteins  Background: 19781 proteins
+2026-05-03 23:51:24  INFO      [stage7_enrichment]  Saved 78 rows → output\stage7_enrichment\enrichment_results.tsv
+2026-05-03 23:51:24  INFO      [stage7_enrichment]  Significant at FDR<0.05: 73/78 domains
+2026-05-03 23:51:25  INFO      [stage7_enrichment]  Stage 7 complete.
+2026-05-04 00:15:26  INFO      [stage7_enrichment]  ==================================================================
+2026-05-04 00:15:26  INFO      [stage7_enrichment]    STAGE 7: Domain Enrichment Analysis
+2026-05-04 00:15:26  INFO      [stage7_enrichment]  ==================================================================
+2026-05-04 00:15:29  INFO      [stage7_enrichment]  Foreground: 142 proteins  Background: 19781 proteins
+2026-05-04 00:15:29  INFO      [stage7_enrichment]  Saved 78 rows → output\stage7_enrichment\enrichment_results.tsv
+2026-05-04 00:15:29  INFO      [stage7_enrichment]  Significant at FDR<0.05: 73/78 domains
+2026-05-04 00:15:30  INFO      [stage7_enrichment]  Stage 7 complete.
+2026-05-04 01:15:18  INFO      [stage7_enrichment]  ==================================================================
+2026-05-04 01:15:18  INFO      [stage7_enrichment]    STAGE 7: Domain Enrichment Analysis
+2026-05-04 01:15:18  INFO      [stage7_enrichment]  ==================================================================
+2026-05-04 01:15:21  INFO      [stage7_enrichment]  Foreground: 142 proteins  Background: 19781 proteins
+2026-05-04 02:08:39  INFO      [stage7_enrichment]  ==================================================================
+2026-05-04 02:08:39  INFO      [stage7_enrichment]    STAGE 7: Domain Enrichment Analysis
+2026-05-04 02:08:39  INFO      [stage7_enrichment]  ==================================================================
+2026-05-04 02:08:43  INFO      [stage7_enrichment]  Foreground: 142 proteins  Background: 19781 proteins
+2026-05-04 02:08:43  INFO      [stage7_enrichment]  Saved 78 rows → output\stage7_enrichment\enrichment_results.tsv
+2026-05-04 02:08:43  INFO      [stage7_enrichment]  Significant at FDR<0.05: 73/78 domains
+2026-05-04 02:08:44  INFO      [stage7_enrichment]  Stage 7 complete.
+2026-05-04 04:34:19  INFO      [stage7_enrichment]  ==================================================================
+2026-05-04 04:34:19  INFO      [stage7_enrichment]    STAGE 7: Domain Enrichment Analysis
+2026-05-04 04:34:19  INFO      [stage7_enrichment]  ==================================================================
+2026-05-04 04:34:26  INFO      [stage7_enrichment]  Foreground: 60 proteins  Background: 19781 proteins
+2026-05-04 04:34:26  INFO      [stage7_enrichment]  Saved 45 rows → output\stage7_enrichment\enrichment_results.tsv
+2026-05-04 04:34:26  INFO      [stage7_enrichment]  Significant at FDR<0.05: 45/45 domains
+2026-05-04 04:34:27  INFO      [stage7_enrichment]  Stage 7 complete.
+2026-05-04 04:41:42  INFO      [stage7_enrichment]  ==================================================================
+2026-05-04 04:41:42  INFO      [stage7_enrichment]    STAGE 7: Domain Enrichment Analysis
+2026-05-04 04:41:42  INFO      [stage7_enrichment]  ==================================================================
+2026-05-04 04:41:51  INFO      [stage7_enrichment]  Foreground: 60 proteins  Background: 19781 proteins
+2026-05-04 04:41:51  INFO      [stage7_enrichment]  Saved 45 rows → output\stage7_enrichment\enrichment_results.tsv
+2026-05-04 04:41:51  INFO      [stage7_enrichment]  Significant at FDR<0.05: 45/45 domains
+2026-05-04 04:41:51  INFO      [stage7_enrichment]  Stage 7 complete.
+2026-05-04 09:33:06  INFO      [stage7_enrichment]  ==================================================================
+2026-05-04 09:33:06  INFO      [stage7_enrichment]    STAGE 7: Domain Enrichment Analysis
+2026-05-04 09:33:06  INFO      [stage7_enrichment]  ==================================================================
+2026-05-04 09:33:12  INFO      [stage7_enrichment]  Foreground: 60 proteins  Background: 19781 proteins
+2026-05-04 09:33:12  INFO      [stage7_enrichment]  Saved 45 rows → output\stage7_enrichment\enrichment_results.tsv
+2026-05-04 09:33:12  INFO      [stage7_enrichment]  Significant at FDR<0.05: 45/45 domains
+2026-05-04 09:33:14  INFO      [stage7_enrichment]  Stage 7 complete.
+2026-05-04 09:34:57  INFO      [stage7_enrichment]  ==================================================================
+2026-05-04 09:34:57  INFO      [stage7_enrichment]    STAGE 7: Domain Enrichment Analysis
+2026-05-04 09:34:57  INFO      [stage7_enrichment]  ==================================================================
+2026-05-04 09:35:05  INFO      [stage7_enrichment]  Foreground: 60 proteins  Background: 19781 proteins
+2026-05-04 09:35:05  INFO      [stage7_enrichment]  Saved 45 rows → output\stage7_enrichment\enrichment_results.tsv
+2026-05-04 09:35:05  INFO      [stage7_enrichment]  Significant at FDR<0.05: 45/45 domains
+2026-05-04 09:35:05  INFO      [stage7_enrichment]  Stage 7 complete.
+2026-05-04 09:57:27  INFO      [stage7_enrichment]  ==================================================================
+2026-05-04 09:57:27  INFO      [stage7_enrichment]    STAGE 7: Domain Enrichment Analysis
+2026-05-04 09:57:27  INFO      [stage7_enrichment]  ==================================================================
+2026-05-04 09:57:35  INFO      [stage7_enrichment]  Foreground: 60 proteins  Background: 19781 proteins
+2026-05-04 09:57:35  INFO      [stage7_enrichment]  Saved 45 rows → output\stage7_enrichment\enrichment_results.tsv
+2026-05-04 09:57:35  INFO      [stage7_enrichment]  Significant at FDR<0.05: 45/45 domains
+2026-05-04 09:57:36  INFO      [stage7_enrichment]  Stage 7 complete.
+2026-05-04 10:27:12  INFO      [stage7_enrichment]  ==================================================================
+2026-05-04 10:27:12  INFO      [stage7_enrichment]    STAGE 7: Domain Enrichment Analysis
+2026-05-04 10:27:12  INFO      [stage7_enrichment]  ==================================================================
+2026-05-04 10:27:21  INFO      [stage7_enrichment]  Foreground: 60 proteins  Background: 19781 proteins
+2026-05-04 10:27:21  INFO      [stage7_enrichment]  Saved 45 rows → output\stage7_enrichment\enrichment_results.tsv
+2026-05-04 10:27:21  INFO      [stage7_enrichment]  Significant at FDR<0.05: 45/45 domains
+2026-05-04 10:27:21  INFO      [stage7_enrichment]  Stage 7 complete.
+2026-05-04 11:01:38  INFO      [stage7_enrichment]  ==================================================================
+2026-05-04 11:01:38  INFO      [stage7_enrichment]    STAGE 7: Domain Enrichment Analysis
+2026-05-04 11:01:38  INFO      [stage7_enrichment]  ==================================================================
+2026-05-04 11:01:43  INFO      [stage7_enrichment]  Foreground: 60 proteins  Background: 19781 proteins
+2026-05-04 11:01:43  INFO      [stage7_enrichment]  Saved 45 rows → output\stage7_enrichment\enrichment_results.tsv
+2026-05-04 11:01:43  INFO      [stage7_enrichment]  Significant at FDR<0.05: 45/45 domains
+2026-05-04 11:01:44  INFO      [stage7_enrichment]  Stage 7 complete.
+2026-05-04 11:49:07  INFO      [stage7_enrichment]  ==================================================================
+2026-05-04 11:49:07  INFO      [stage7_enrichment]    STAGE 7: Domain Enrichment Analysis
+2026-05-04 11:49:07  INFO      [stage7_enrichment]  ==================================================================
+2026-05-04 11:49:13  INFO      [stage7_enrichment]  Foreground: 60 proteins  Background: 19781 proteins
+2026-05-04 11:49:13  INFO      [stage7_enrichment]  Saved 45 rows → output\stage7_enrichment\enrichment_results.tsv
+2026-05-04 11:49:13  INFO      [stage7_enrichment]  Significant at FDR<0.05: 45/45 domains
+2026-05-04 11:49:14  INFO      [stage7_enrichment]  Stage 7 complete.

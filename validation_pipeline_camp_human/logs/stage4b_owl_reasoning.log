@@ -1,0 +1,796 @@
+2026-05-03 14:36:00  INFO      [stage4b_owl_reasoning]  ==================================================================
+2026-05-03 14:36:00  INFO      [stage4b_owl_reasoning]    STAGE 4b: OWL Reasoning (Python — no Java required)
+2026-05-03 14:36:00  INFO      [stage4b_owl_reasoning]  ==================================================================
+2026-05-03 14:36:00  ERROR     [stage4b_owl_reasoning]  core_ontology not found — aborting stage 4b
+2026-05-03 14:36:00  ERROR     [stage4b_owl_reasoning]  Set  core_ontology: input/core_ontology.ttl  in config
+2026-05-03 14:43:14  INFO      [stage4b_owl_reasoning]  ==================================================================
+2026-05-03 14:43:14  INFO      [stage4b_owl_reasoning]    STAGE 4b: OWL Reasoning (Python — no Java required)
+2026-05-03 14:43:14  INFO      [stage4b_owl_reasoning]  ==================================================================
+2026-05-03 14:43:14  ERROR     [stage4b_owl_reasoning]  Population TTL not found — run stage 4 first, or set  instance_data: input/population.ttl  in config
+2026-05-03 15:36:25  INFO      [stage4b_owl_reasoning]  ==================================================================
+2026-05-03 15:36:25  INFO      [stage4b_owl_reasoning]    STAGE 4b: OWL Reasoning (Python — no Java required)
+2026-05-03 15:36:25  INFO      [stage4b_owl_reasoning]  ==================================================================
+2026-05-03 15:36:25  INFO      [stage4b_owl_reasoning]  Loading ontology files …
+2026-05-03 15:36:25  INFO      [stage4b_owl_reasoning]    Loaded core: 302 triples  (input\core_new.ttl)
+2026-05-03 15:36:28  INFO      [stage4b_owl_reasoning]    Loaded population: 25,002 triples  (input\camp_population.ttl)
+2026-05-03 15:36:28  INFO      [stage4b_owl_reasoning]  Total before reasoning: 25,304 triples
+2026-05-03 15:36:28  INFO      [stage4b_owl_reasoning]  Running OWL RL reasoning (owlrl.DeductiveClosure) …
+2026-05-03 15:36:52  INFO      [stage4b_owl_reasoning]  After reasoning: 42,585 triples  (+17,281 inferred)
+2026-05-03 15:36:55  INFO      [stage4b_owl_reasoning]    Consistency: PASS — no unsatisfiable individuals
+2026-05-03 15:36:57  INFO      [stage4b_owl_reasoning]  Inferred triples saved → output\stage4b_owl_reasoning\inferred_triples.ttl
+2026-05-03 15:36:57  INFO      [stage4b_owl_reasoning]  Saved 5 rows → output\stage4b_owl_reasoning\consistency_report.tsv
+2026-05-03 15:36:57  INFO      [stage4b_owl_reasoning]  
+Running 10 DL queries against reasoned graph …
+2026-05-03 15:36:58  INFO      [stage4b_owl_reasoning]    DL01: Domain types with catalytic function  → 0 results
+2026-05-03 15:36:58  INFO      [stage4b_owl_reasoning]    DL02: Domain types with receptor function  → 0 results
+2026-05-03 15:36:58  INFO      [stage4b_owl_reasoning]    DL03: Transmembrane domain occurrences  → 0 results
+2026-05-03 15:37:00  INFO      [stage4b_owl_reasoning]    DL04: Proteins with catalytic transmembrane domain  → 0 results
+2026-05-03 15:37:01  INFO      [stage4b_owl_reasoning]    DL05: Co-occurring domain pairs  → 2582 results
+2026-05-03 15:37:02  INFO      [stage4b_owl_reasoning]    DL06: Proteins with multiple domain types  → 79 results
+2026-05-03 15:37:02  INFO      [stage4b_owl_reasoning]    DL07: Consistency check — unsatisfiable individuals  → 0 results
+2026-05-03 15:37:02  INFO      [stage4b_owl_reasoning]    DL08: Domain types with GO annotations  → 128 results
+2026-05-03 15:37:02  INFO      [stage4b_owl_reasoning]    DL09: Domain order chains  → 621 results
+2026-05-03 15:37:02  INFO      [stage4b_owl_reasoning]    DL10: Binding target coverage  → 962 results
+2026-05-03 15:37:02  INFO      [stage4b_owl_reasoning]  Saved 10 rows → output\stage4b_owl_reasoning\dl_query_summary.tsv
+2026-05-03 15:37:02  INFO      [stage4b_owl_reasoning]  
+2026-05-03 15:37:02  INFO      [stage4b_owl_reasoning]  ============================================================
+2026-05-03 15:37:02  INFO      [stage4b_owl_reasoning]    STAGE 4b COMPLETE
+2026-05-03 15:37:02  INFO      [stage4b_owl_reasoning]  ============================================================
+2026-05-03 15:37:02  INFO      [stage4b_owl_reasoning]    Consistency:     PASS
+2026-05-03 15:37:02  INFO      [stage4b_owl_reasoning]    Triples before:  25,304
+2026-05-03 15:37:02  INFO      [stage4b_owl_reasoning]    Triples inferred:17,281
+2026-05-03 15:37:02  INFO      [stage4b_owl_reasoning]    DL queries:      10/10 passed
+2026-05-03 15:37:02  INFO      [stage4b_owl_reasoning]  
+2026-05-03 15:37:02  INFO      [stage4b_owl_reasoning]    Output files:
+2026-05-03 15:37:02  INFO      [stage4b_owl_reasoning]      inferred_triples.ttl     — new triples from reasoning
+2026-05-03 15:37:02  INFO      [stage4b_owl_reasoning]      consistency_report.tsv   — pass/fail + counts
+2026-05-03 15:37:02  INFO      [stage4b_owl_reasoning]      dl_query_summary.tsv     — all DL query results
+2026-05-03 15:37:02  INFO      [stage4b_owl_reasoning]      dl_query_DL01.tsv …      — per-query result tables
+2026-05-03 15:37:02  INFO      [stage4b_owl_reasoning]  
+2026-05-03 15:37:02  INFO      [stage4b_owl_reasoning]    Comparison with Protege:
+2026-05-03 15:37:02  INFO      [stage4b_owl_reasoning]      owlrl = OWL RL reasoning  (rule-based, no Java)
+2026-05-03 15:37:02  INFO      [stage4b_owl_reasoning]      HermiT in Protege = OWL DL reasoning (needs Java)
+2026-05-03 15:37:02  INFO      [stage4b_owl_reasoning]      Both detect inconsistencies for annotation ontologies.
+2026-05-03 15:37:02  INFO      [stage4b_owl_reasoning]      HermiT additionally supports nominals + cardinality.
+2026-05-03 15:37:02  INFO      [stage4b_owl_reasoning]      For your cAMP ontology, owlrl coverage is sufficient.
+2026-05-03 16:18:12  INFO      [stage4b_owl_reasoning]  ==================================================================
+2026-05-03 16:18:12  INFO      [stage4b_owl_reasoning]    STAGE 4b: OWL Reasoning (Python — no Java required)
+2026-05-03 16:18:12  INFO      [stage4b_owl_reasoning]  ==================================================================
+2026-05-03 16:18:12  INFO      [stage4b_owl_reasoning]  Loading ontology files …
+2026-05-03 16:18:12  INFO      [stage4b_owl_reasoning]    Loaded core: 302 triples  (input\core_new.ttl)
+2026-05-03 16:18:15  INFO      [stage4b_owl_reasoning]    Loaded population: 25,002 triples  (input\camp_population.ttl)
+2026-05-03 16:18:15  INFO      [stage4b_owl_reasoning]  Total before reasoning: 25,304 triples
+2026-05-03 16:18:15  INFO      [stage4b_owl_reasoning]  Running OWL RL reasoning (owlrl.DeductiveClosure) …
+2026-05-03 16:19:02  INFO      [stage4b_owl_reasoning]  After reasoning: 42,585 triples  (+17,281 inferred)
+2026-05-03 16:19:06  INFO      [stage4b_owl_reasoning]    Consistency: PASS — no unsatisfiable individuals
+2026-05-03 16:19:09  INFO      [stage4b_owl_reasoning]  Inferred triples saved → output\stage4b_owl_reasoning\inferred_triples.ttl
+2026-05-03 16:19:09  INFO      [stage4b_owl_reasoning]  Saved 5 rows → output\stage4b_owl_reasoning\consistency_report.tsv
+2026-05-03 16:19:09  INFO      [stage4b_owl_reasoning]  
+Running 10 DL queries against reasoned graph …
+2026-05-03 16:19:10  INFO      [stage4b_owl_reasoning]    DL01: Domain types with catalytic function  → 0 results
+2026-05-03 16:19:10  INFO      [stage4b_owl_reasoning]    DL02: Domain types with receptor function  → 0 results
+2026-05-03 16:19:11  INFO      [stage4b_owl_reasoning]    DL03: Transmembrane domain occurrences  → 0 results
+2026-05-03 16:19:13  INFO      [stage4b_owl_reasoning]    DL04: Proteins with catalytic transmembrane domain  → 0 results
+2026-05-03 16:19:16  INFO      [stage4b_owl_reasoning]    DL05: Co-occurring domain pairs  → 2582 results
+2026-05-03 16:19:16  INFO      [stage4b_owl_reasoning]    DL06: Proteins with multiple domain types  → 79 results
+2026-05-03 16:19:16  INFO      [stage4b_owl_reasoning]    DL07: Consistency check — unsatisfiable individuals  → 0 results
+2026-05-03 16:19:16  INFO      [stage4b_owl_reasoning]    DL08: Domain types with GO annotations  → 128 results
+2026-05-03 16:19:17  INFO      [stage4b_owl_reasoning]    DL09: Domain order chains  → 621 results
+2026-05-03 16:19:17  INFO      [stage4b_owl_reasoning]    DL10: Binding target coverage  → 962 results
+2026-05-03 16:19:17  INFO      [stage4b_owl_reasoning]  Saved 10 rows → output\stage4b_owl_reasoning\dl_query_summary.tsv
+2026-05-03 16:19:17  INFO      [stage4b_owl_reasoning]  
+2026-05-03 16:19:17  INFO      [stage4b_owl_reasoning]  ============================================================
+2026-05-03 16:19:17  INFO      [stage4b_owl_reasoning]    STAGE 4b COMPLETE
+2026-05-03 16:19:17  INFO      [stage4b_owl_reasoning]  ============================================================
+2026-05-03 16:19:17  INFO      [stage4b_owl_reasoning]    Consistency:     PASS
+2026-05-03 16:19:17  INFO      [stage4b_owl_reasoning]    Triples before:  25,304
+2026-05-03 16:19:17  INFO      [stage4b_owl_reasoning]    Triples inferred:17,281
+2026-05-03 16:19:17  INFO      [stage4b_owl_reasoning]    DL queries:      10/10 passed
+2026-05-03 16:19:17  INFO      [stage4b_owl_reasoning]  
+2026-05-03 16:19:17  INFO      [stage4b_owl_reasoning]    Output files:
+2026-05-03 16:19:17  INFO      [stage4b_owl_reasoning]      inferred_triples.ttl     — new triples from reasoning
+2026-05-03 16:19:17  INFO      [stage4b_owl_reasoning]      consistency_report.tsv   — pass/fail + counts
+2026-05-03 16:19:17  INFO      [stage4b_owl_reasoning]      dl_query_summary.tsv     — all DL query results
+2026-05-03 16:19:17  INFO      [stage4b_owl_reasoning]      dl_query_DL01.tsv …      — per-query result tables
+2026-05-03 16:19:17  INFO      [stage4b_owl_reasoning]  
+2026-05-03 16:19:17  INFO      [stage4b_owl_reasoning]    Comparison with Protege:
+2026-05-03 16:19:17  INFO      [stage4b_owl_reasoning]      owlrl = OWL RL reasoning  (rule-based, no Java)
+2026-05-03 16:19:17  INFO      [stage4b_owl_reasoning]      HermiT in Protege = OWL DL reasoning (needs Java)
+2026-05-03 16:19:17  INFO      [stage4b_owl_reasoning]      Both detect inconsistencies for annotation ontologies.
+2026-05-03 16:19:17  INFO      [stage4b_owl_reasoning]      HermiT additionally supports nominals + cardinality.
+2026-05-03 16:19:17  INFO      [stage4b_owl_reasoning]      For your cAMP ontology, owlrl coverage is sufficient.
+2026-05-03 16:29:34  INFO      [stage4b_owl_reasoning]  ==================================================================
+2026-05-03 16:29:34  INFO      [stage4b_owl_reasoning]    STAGE 4b: OWL Reasoning (Python — no Java required)
+2026-05-03 16:29:34  INFO      [stage4b_owl_reasoning]  ==================================================================
+2026-05-03 16:29:34  INFO      [stage4b_owl_reasoning]  Loading ontology files …
+2026-05-03 16:29:34  INFO      [stage4b_owl_reasoning]    Loaded core: 302 triples  (input\core_new.ttl)
+2026-05-03 16:29:35  INFO      [stage4b_owl_reasoning]    Loaded population: 25,002 triples  (input\camp_population.ttl)
+2026-05-03 16:29:35  INFO      [stage4b_owl_reasoning]  Total before reasoning: 25,304 triples
+2026-05-03 16:29:35  INFO      [stage4b_owl_reasoning]  Running OWL RL reasoning (owlrl.DeductiveClosure) …
+2026-05-03 16:30:05  INFO      [stage4b_owl_reasoning]  After reasoning: 42,585 triples  (+17,281 inferred)
+2026-05-03 16:30:08  INFO      [stage4b_owl_reasoning]    Consistency: PASS — no unsatisfiable individuals
+2026-05-03 16:30:10  INFO      [stage4b_owl_reasoning]  Inferred triples saved → output\stage4b_owl_reasoning\inferred_triples.ttl
+2026-05-03 16:30:10  INFO      [stage4b_owl_reasoning]  Saved 5 rows → output\stage4b_owl_reasoning\consistency_report.tsv
+2026-05-03 16:30:10  INFO      [stage4b_owl_reasoning]  
+Running 10 DL queries against reasoned graph …
+2026-05-03 16:30:10  INFO      [stage4b_owl_reasoning]    DL01: Domain types with catalytic function  → 0 results
+2026-05-03 16:30:11  INFO      [stage4b_owl_reasoning]    DL02: Domain types with receptor function  → 0 results
+2026-05-03 16:30:11  INFO      [stage4b_owl_reasoning]    DL03: Transmembrane domain occurrences  → 0 results
+2026-05-03 16:30:13  INFO      [stage4b_owl_reasoning]    DL04: Proteins with catalytic transmembrane domain  → 0 results
+2026-05-03 16:30:14  INFO      [stage4b_owl_reasoning]    DL05: Co-occurring domain pairs  → 2582 results
+2026-05-03 16:30:14  INFO      [stage4b_owl_reasoning]    DL06: Proteins with multiple domain types  → 79 results
+2026-05-03 16:30:14  INFO      [stage4b_owl_reasoning]    DL07: Consistency check — unsatisfiable individuals  → 0 results
+2026-05-03 16:30:14  INFO      [stage4b_owl_reasoning]    DL08: Domain types with GO annotations  → 128 results
+2026-05-03 16:30:15  INFO      [stage4b_owl_reasoning]    DL09: Domain order chains  → 621 results
+2026-05-03 16:30:15  INFO      [stage4b_owl_reasoning]    DL10: Binding target coverage  → 962 results
+2026-05-03 16:30:15  INFO      [stage4b_owl_reasoning]  Saved 10 rows → output\stage4b_owl_reasoning\dl_query_summary.tsv
+2026-05-03 16:30:15  INFO      [stage4b_owl_reasoning]  
+2026-05-03 16:30:15  INFO      [stage4b_owl_reasoning]  ============================================================
+2026-05-03 16:30:15  INFO      [stage4b_owl_reasoning]    STAGE 4b COMPLETE
+2026-05-03 16:30:15  INFO      [stage4b_owl_reasoning]  ============================================================
+2026-05-03 16:30:15  INFO      [stage4b_owl_reasoning]    Consistency:     PASS
+2026-05-03 16:30:15  INFO      [stage4b_owl_reasoning]    Triples before:  25,304
+2026-05-03 16:30:15  INFO      [stage4b_owl_reasoning]    Triples inferred:17,281
+2026-05-03 16:30:15  INFO      [stage4b_owl_reasoning]    DL queries:      10/10 passed
+2026-05-03 16:30:15  INFO      [stage4b_owl_reasoning]  
+2026-05-03 16:30:15  INFO      [stage4b_owl_reasoning]    Output files:
+2026-05-03 16:30:15  INFO      [stage4b_owl_reasoning]      inferred_triples.ttl     — new triples from reasoning
+2026-05-03 16:30:15  INFO      [stage4b_owl_reasoning]      consistency_report.tsv   — pass/fail + counts
+2026-05-03 16:30:15  INFO      [stage4b_owl_reasoning]      dl_query_summary.tsv     — all DL query results
+2026-05-03 16:30:15  INFO      [stage4b_owl_reasoning]      dl_query_DL01.tsv …      — per-query result tables
+2026-05-03 16:30:15  INFO      [stage4b_owl_reasoning]  
+2026-05-03 16:30:15  INFO      [stage4b_owl_reasoning]    Comparison with Protege:
+2026-05-03 16:30:15  INFO      [stage4b_owl_reasoning]      owlrl = OWL RL reasoning  (rule-based, no Java)
+2026-05-03 16:30:15  INFO      [stage4b_owl_reasoning]      HermiT in Protege = OWL DL reasoning (needs Java)
+2026-05-03 16:30:15  INFO      [stage4b_owl_reasoning]      Both detect inconsistencies for annotation ontologies.
+2026-05-03 16:30:15  INFO      [stage4b_owl_reasoning]      HermiT additionally supports nominals + cardinality.
+2026-05-03 16:30:15  INFO      [stage4b_owl_reasoning]      For your cAMP ontology, owlrl coverage is sufficient.
+2026-05-03 16:40:49  INFO      [stage4b_owl_reasoning]  ==================================================================
+2026-05-03 16:40:49  INFO      [stage4b_owl_reasoning]    STAGE 4b: OWL Reasoning (Python — no Java required)
+2026-05-03 16:40:49  INFO      [stage4b_owl_reasoning]  ==================================================================
+2026-05-03 16:40:49  INFO      [stage4b_owl_reasoning]  Loading ontology files …
+2026-05-03 16:40:49  INFO      [stage4b_owl_reasoning]    Loaded core: 302 triples  (input\core_new.ttl)
+2026-05-03 16:40:50  INFO      [stage4b_owl_reasoning]    Loaded population: 25,002 triples  (input\camp_population.ttl)
+2026-05-03 16:40:50  INFO      [stage4b_owl_reasoning]  Total before reasoning: 25,304 triples
+2026-05-03 16:40:50  INFO      [stage4b_owl_reasoning]  Running OWL RL reasoning (owlrl.DeductiveClosure) …
+2026-05-03 16:41:22  INFO      [stage4b_owl_reasoning]  After reasoning: 42,585 triples  (+17,281 inferred)
+2026-05-03 16:41:24  INFO      [stage4b_owl_reasoning]    Consistency: PASS — no unsatisfiable individuals
+2026-05-03 16:41:26  INFO      [stage4b_owl_reasoning]  Inferred triples saved → output\stage4b_owl_reasoning\inferred_triples.ttl
+2026-05-03 16:41:26  INFO      [stage4b_owl_reasoning]  Saved 5 rows → output\stage4b_owl_reasoning\consistency_report.tsv
+2026-05-03 16:41:26  INFO      [stage4b_owl_reasoning]  
+Running 10 DL queries against reasoned graph …
+2026-05-03 16:41:26  INFO      [stage4b_owl_reasoning]    DL01: Domain types with catalytic function  → 0 results
+2026-05-03 16:41:26  INFO      [stage4b_owl_reasoning]    DL02: Domain types with receptor function  → 0 results
+2026-05-03 16:41:27  INFO      [stage4b_owl_reasoning]    DL03: Transmembrane domain occurrences  → 0 results
+2026-05-03 16:41:29  INFO      [stage4b_owl_reasoning]    DL04: Proteins with catalytic transmembrane domain  → 0 results
+2026-05-03 16:41:30  INFO      [stage4b_owl_reasoning]    DL05: Co-occurring domain pairs  → 2582 results
+2026-05-03 16:41:30  INFO      [stage4b_owl_reasoning]    DL06: Proteins with multiple domain types  → 79 results
+2026-05-03 16:41:30  INFO      [stage4b_owl_reasoning]    DL07: Consistency check — unsatisfiable individuals  → 0 results
+2026-05-03 16:41:30  INFO      [stage4b_owl_reasoning]    DL08: Domain types with GO annotations  → 128 results
+2026-05-03 16:41:31  INFO      [stage4b_owl_reasoning]    DL09: Domain order chains  → 621 results
+2026-05-03 16:41:31  INFO      [stage4b_owl_reasoning]    DL10: Binding target coverage  → 962 results
+2026-05-03 16:41:31  INFO      [stage4b_owl_reasoning]  Saved 10 rows → output\stage4b_owl_reasoning\dl_query_summary.tsv
+2026-05-03 16:41:31  INFO      [stage4b_owl_reasoning]  
+2026-05-03 16:41:31  INFO      [stage4b_owl_reasoning]  ============================================================
+2026-05-03 16:41:31  INFO      [stage4b_owl_reasoning]    STAGE 4b COMPLETE
+2026-05-03 16:41:31  INFO      [stage4b_owl_reasoning]  ============================================================
+2026-05-03 16:41:31  INFO      [stage4b_owl_reasoning]    Consistency:     PASS
+2026-05-03 16:41:31  INFO      [stage4b_owl_reasoning]    Triples before:  25,304
+2026-05-03 16:41:31  INFO      [stage4b_owl_reasoning]    Triples inferred:17,281
+2026-05-03 16:41:31  INFO      [stage4b_owl_reasoning]    DL queries:      10/10 passed
+2026-05-03 16:41:31  INFO      [stage4b_owl_reasoning]  
+2026-05-03 16:41:31  INFO      [stage4b_owl_reasoning]    Output files:
+2026-05-03 16:41:31  INFO      [stage4b_owl_reasoning]      inferred_triples.ttl     — new triples from reasoning
+2026-05-03 16:41:31  INFO      [stage4b_owl_reasoning]      consistency_report.tsv   — pass/fail + counts
+2026-05-03 16:41:31  INFO      [stage4b_owl_reasoning]      dl_query_summary.tsv     — all DL query results
+2026-05-03 16:41:31  INFO      [stage4b_owl_reasoning]      dl_query_DL01.tsv …      — per-query result tables
+2026-05-03 16:41:31  INFO      [stage4b_owl_reasoning]  
+2026-05-03 16:41:31  INFO      [stage4b_owl_reasoning]    Comparison with Protege:
+2026-05-03 16:41:31  INFO      [stage4b_owl_reasoning]      owlrl = OWL RL reasoning  (rule-based, no Java)
+2026-05-03 16:41:31  INFO      [stage4b_owl_reasoning]      HermiT in Protege = OWL DL reasoning (needs Java)
+2026-05-03 16:41:31  INFO      [stage4b_owl_reasoning]      Both detect inconsistencies for annotation ontologies.
+2026-05-03 16:41:31  INFO      [stage4b_owl_reasoning]      HermiT additionally supports nominals + cardinality.
+2026-05-03 16:41:31  INFO      [stage4b_owl_reasoning]      For your cAMP ontology, owlrl coverage is sufficient.
+2026-05-03 17:16:53  INFO      [stage4b_owl_reasoning]  ==================================================================
+2026-05-03 17:16:53  INFO      [stage4b_owl_reasoning]    STAGE 4b: OWL Reasoning (Python — no Java required)
+2026-05-03 17:16:53  INFO      [stage4b_owl_reasoning]  ==================================================================
+2026-05-03 17:16:53  INFO      [stage4b_owl_reasoning]  Loading ontology files …
+2026-05-03 17:16:53  INFO      [stage4b_owl_reasoning]    Loaded core: 302 triples  (input\core_new.ttl)
+2026-05-03 17:16:55  INFO      [stage4b_owl_reasoning]    Loaded population: 25,002 triples  (input\camp_population.ttl)
+2026-05-03 17:16:55  INFO      [stage4b_owl_reasoning]  Total before reasoning: 25,304 triples
+2026-05-03 17:16:55  INFO      [stage4b_owl_reasoning]  Running OWL RL reasoning (owlrl.DeductiveClosure) …
+2026-05-03 17:17:26  INFO      [stage4b_owl_reasoning]  After reasoning: 42,585 triples  (+17,281 inferred)
+2026-05-03 17:17:28  INFO      [stage4b_owl_reasoning]    Consistency: PASS — no unsatisfiable individuals
+2026-05-03 17:17:30  INFO      [stage4b_owl_reasoning]  Inferred triples saved → output\stage4b_owl_reasoning\inferred_triples.ttl
+2026-05-03 17:17:30  INFO      [stage4b_owl_reasoning]  Saved 5 rows → output\stage4b_owl_reasoning\consistency_report.tsv
+2026-05-03 17:17:30  INFO      [stage4b_owl_reasoning]  
+Running 10 DL queries against reasoned graph …
+2026-05-03 17:17:30  INFO      [stage4b_owl_reasoning]    DL01: Domain types with catalytic function  → 0 results
+2026-05-03 17:17:31  INFO      [stage4b_owl_reasoning]    DL02: Domain types with receptor function  → 0 results
+2026-05-03 17:17:31  INFO      [stage4b_owl_reasoning]    DL03: Transmembrane domain occurrences  → 0 results
+2026-05-03 17:17:33  INFO      [stage4b_owl_reasoning]    DL04: Proteins with catalytic transmembrane domain  → 0 results
+2026-05-03 17:17:35  INFO      [stage4b_owl_reasoning]    DL05: Co-occurring domain pairs  → 2582 results
+2026-05-03 17:17:35  INFO      [stage4b_owl_reasoning]    DL06: Proteins with multiple domain types  → 79 results
+2026-05-03 17:17:35  INFO      [stage4b_owl_reasoning]    DL07: Consistency check — unsatisfiable individuals  → 0 results
+2026-05-03 17:17:35  INFO      [stage4b_owl_reasoning]    DL08: Domain types with GO annotations  → 128 results
+2026-05-03 17:17:36  INFO      [stage4b_owl_reasoning]    DL09: Domain order chains  → 621 results
+2026-05-03 17:17:36  INFO      [stage4b_owl_reasoning]    DL10: Binding target coverage  → 962 results
+2026-05-03 17:17:36  INFO      [stage4b_owl_reasoning]  Saved 10 rows → output\stage4b_owl_reasoning\dl_query_summary.tsv
+2026-05-03 17:17:36  INFO      [stage4b_owl_reasoning]  
+2026-05-03 17:17:36  INFO      [stage4b_owl_reasoning]  ============================================================
+2026-05-03 17:17:36  INFO      [stage4b_owl_reasoning]    STAGE 4b COMPLETE
+2026-05-03 17:17:36  INFO      [stage4b_owl_reasoning]  ============================================================
+2026-05-03 17:17:36  INFO      [stage4b_owl_reasoning]    Consistency:     PASS
+2026-05-03 17:17:36  INFO      [stage4b_owl_reasoning]    Triples before:  25,304
+2026-05-03 17:17:36  INFO      [stage4b_owl_reasoning]    Triples inferred:17,281
+2026-05-03 17:17:36  INFO      [stage4b_owl_reasoning]    DL queries:      10/10 passed
+2026-05-03 17:17:36  INFO      [stage4b_owl_reasoning]  
+2026-05-03 17:17:36  INFO      [stage4b_owl_reasoning]    Output files:
+2026-05-03 17:17:36  INFO      [stage4b_owl_reasoning]      inferred_triples.ttl     — new triples from reasoning
+2026-05-03 17:17:36  INFO      [stage4b_owl_reasoning]      consistency_report.tsv   — pass/fail + counts
+2026-05-03 17:17:36  INFO      [stage4b_owl_reasoning]      dl_query_summary.tsv     — all DL query results
+2026-05-03 17:17:36  INFO      [stage4b_owl_reasoning]      dl_query_DL01.tsv …      — per-query result tables
+2026-05-03 17:17:36  INFO      [stage4b_owl_reasoning]  
+2026-05-03 17:17:36  INFO      [stage4b_owl_reasoning]    Comparison with Protege:
+2026-05-03 17:17:36  INFO      [stage4b_owl_reasoning]      owlrl = OWL RL reasoning  (rule-based, no Java)
+2026-05-03 17:17:36  INFO      [stage4b_owl_reasoning]      HermiT in Protege = OWL DL reasoning (needs Java)
+2026-05-03 17:17:36  INFO      [stage4b_owl_reasoning]      Both detect inconsistencies for annotation ontologies.
+2026-05-03 17:17:36  INFO      [stage4b_owl_reasoning]      HermiT additionally supports nominals + cardinality.
+2026-05-03 17:17:36  INFO      [stage4b_owl_reasoning]      For your cAMP ontology, owlrl coverage is sufficient.
+2026-05-03 23:02:30  INFO      [stage4b_owl_reasoning]  ==================================================================
+2026-05-03 23:02:30  INFO      [stage4b_owl_reasoning]    STAGE 4b: OWL Reasoning (Python — no Java required)
+2026-05-03 23:02:30  INFO      [stage4b_owl_reasoning]  ==================================================================
+2026-05-03 23:02:30  INFO      [stage4b_owl_reasoning]  Loading ontology files …
+2026-05-03 23:02:30  INFO      [stage4b_owl_reasoning]    Loaded core: 302 triples  (input\core_new.ttl)
+2026-05-03 23:02:33  INFO      [stage4b_owl_reasoning]    Loaded population: 25,002 triples  (input\camp_population.ttl)
+2026-05-03 23:02:33  INFO      [stage4b_owl_reasoning]  Total before reasoning: 25,304 triples
+2026-05-03 23:02:33  INFO      [stage4b_owl_reasoning]  Running OWL RL reasoning (owlrl.DeductiveClosure) …
+2026-05-03 23:03:35  INFO      [stage4b_owl_reasoning]  After reasoning: 42,585 triples  (+17,281 inferred)
+2026-05-03 23:03:41  INFO      [stage4b_owl_reasoning]    Consistency: PASS — no unsatisfiable individuals
+2026-05-03 23:03:45  INFO      [stage4b_owl_reasoning]  Inferred triples saved → output\stage4b_owl_reasoning\inferred_triples.ttl
+2026-05-03 23:03:45  INFO      [stage4b_owl_reasoning]  Saved 5 rows → output\stage4b_owl_reasoning\consistency_report.tsv
+2026-05-03 23:03:45  INFO      [stage4b_owl_reasoning]  
+Running 10 DL queries against reasoned graph …
+2026-05-03 23:03:46  INFO      [stage4b_owl_reasoning]    DL01: Domain types with catalytic function  → 0 results
+2026-05-03 23:03:46  INFO      [stage4b_owl_reasoning]    DL02: Domain types with receptor function  → 0 results
+2026-05-03 23:03:47  INFO      [stage4b_owl_reasoning]    DL03: Transmembrane domain occurrences  → 0 results
+2026-05-03 23:03:50  INFO      [stage4b_owl_reasoning]    DL04: Proteins with catalytic transmembrane domain  → 0 results
+2026-05-03 23:03:54  INFO      [stage4b_owl_reasoning]    DL05: Co-occurring domain pairs  → 2582 results
+2026-05-03 23:03:54  INFO      [stage4b_owl_reasoning]    DL06: Proteins with multiple domain types  → 79 results
+2026-05-03 23:03:54  INFO      [stage4b_owl_reasoning]    DL07: Consistency check — unsatisfiable individuals  → 0 results
+2026-05-03 23:03:54  INFO      [stage4b_owl_reasoning]    DL08: Domain types with GO annotations  → 128 results
+2026-05-03 23:03:55  INFO      [stage4b_owl_reasoning]    DL09: Domain order chains  → 621 results
+2026-05-03 23:03:55  INFO      [stage4b_owl_reasoning]    DL10: Binding target coverage  → 962 results
+2026-05-03 23:03:55  INFO      [stage4b_owl_reasoning]  Saved 10 rows → output\stage4b_owl_reasoning\dl_query_summary.tsv
+2026-05-03 23:03:55  INFO      [stage4b_owl_reasoning]  
+2026-05-03 23:03:55  INFO      [stage4b_owl_reasoning]  ============================================================
+2026-05-03 23:03:55  INFO      [stage4b_owl_reasoning]    STAGE 4b COMPLETE
+2026-05-03 23:03:55  INFO      [stage4b_owl_reasoning]  ============================================================
+2026-05-03 23:03:55  INFO      [stage4b_owl_reasoning]    Consistency:     PASS
+2026-05-03 23:03:55  INFO      [stage4b_owl_reasoning]    Triples before:  25,304
+2026-05-03 23:03:55  INFO      [stage4b_owl_reasoning]    Triples inferred:17,281
+2026-05-03 23:03:55  INFO      [stage4b_owl_reasoning]    DL queries:      10/10 passed
+2026-05-03 23:03:55  INFO      [stage4b_owl_reasoning]  
+2026-05-03 23:03:55  INFO      [stage4b_owl_reasoning]    Output files:
+2026-05-03 23:03:55  INFO      [stage4b_owl_reasoning]      inferred_triples.ttl     — new triples from reasoning
+2026-05-03 23:03:55  INFO      [stage4b_owl_reasoning]      consistency_report.tsv   — pass/fail + counts
+2026-05-03 23:03:55  INFO      [stage4b_owl_reasoning]      dl_query_summary.tsv     — all DL query results
+2026-05-03 23:03:55  INFO      [stage4b_owl_reasoning]      dl_query_DL01.tsv …      — per-query result tables
+2026-05-03 23:03:55  INFO      [stage4b_owl_reasoning]  
+2026-05-03 23:03:55  INFO      [stage4b_owl_reasoning]    Comparison with Protege:
+2026-05-03 23:03:55  INFO      [stage4b_owl_reasoning]      owlrl = OWL RL reasoning  (rule-based, no Java)
+2026-05-03 23:03:55  INFO      [stage4b_owl_reasoning]      HermiT in Protege = OWL DL reasoning (needs Java)
+2026-05-03 23:03:55  INFO      [stage4b_owl_reasoning]      Both detect inconsistencies for annotation ontologies.
+2026-05-03 23:03:55  INFO      [stage4b_owl_reasoning]      HermiT additionally supports nominals + cardinality.
+2026-05-03 23:03:55  INFO      [stage4b_owl_reasoning]      For your cAMP ontology, owlrl coverage is sufficient.
+2026-05-03 23:24:22  INFO      [stage4b_owl_reasoning]  ==================================================================
+2026-05-03 23:24:22  INFO      [stage4b_owl_reasoning]    STAGE 4b: OWL Reasoning (Python — no Java required)
+2026-05-03 23:24:22  INFO      [stage4b_owl_reasoning]  ==================================================================
+2026-05-03 23:24:22  INFO      [stage4b_owl_reasoning]  Loading ontology files …
+2026-05-03 23:24:22  INFO      [stage4b_owl_reasoning]    Loaded core: 302 triples  (input\core_new.ttl)
+2026-05-03 23:24:24  INFO      [stage4b_owl_reasoning]    Loaded population: 25,002 triples  (input\camp_population.ttl)
+2026-05-03 23:24:24  INFO      [stage4b_owl_reasoning]  Total before reasoning: 25,304 triples
+2026-05-03 23:24:24  INFO      [stage4b_owl_reasoning]  Running OWL RL reasoning (owlrl.DeductiveClosure) …
+2026-05-03 23:24:58  INFO      [stage4b_owl_reasoning]  After reasoning: 42,585 triples  (+17,281 inferred)
+2026-05-03 23:25:01  INFO      [stage4b_owl_reasoning]    Consistency: PASS — no unsatisfiable individuals
+2026-05-03 23:25:03  INFO      [stage4b_owl_reasoning]  Inferred triples saved → output\stage4b_owl_reasoning\inferred_triples.ttl
+2026-05-03 23:25:03  INFO      [stage4b_owl_reasoning]  Saved 5 rows → output\stage4b_owl_reasoning\consistency_report.tsv
+2026-05-03 23:25:03  INFO      [stage4b_owl_reasoning]  
+Running 10 DL queries against reasoned graph …
+2026-05-03 23:25:03  INFO      [stage4b_owl_reasoning]    DL01: Domain types with catalytic function  → 0 results
+2026-05-03 23:25:03  INFO      [stage4b_owl_reasoning]    DL02: Domain types with receptor function  → 0 results
+2026-05-03 23:25:04  INFO      [stage4b_owl_reasoning]    DL03: Transmembrane domain occurrences  → 0 results
+2026-05-03 23:25:06  INFO      [stage4b_owl_reasoning]    DL04: Proteins with catalytic transmembrane domain  → 0 results
+2026-05-03 23:25:08  INFO      [stage4b_owl_reasoning]    DL05: Co-occurring domain pairs  → 2582 results
+2026-05-03 23:25:08  INFO      [stage4b_owl_reasoning]    DL06: Proteins with multiple domain types  → 79 results
+2026-05-03 23:25:08  INFO      [stage4b_owl_reasoning]    DL07: Consistency check — unsatisfiable individuals  → 0 results
+2026-05-03 23:25:08  INFO      [stage4b_owl_reasoning]    DL08: Domain types with GO annotations  → 128 results
+2026-05-03 23:25:09  INFO      [stage4b_owl_reasoning]    DL09: Domain order chains  → 621 results
+2026-05-03 23:25:09  INFO      [stage4b_owl_reasoning]    DL10: Binding target coverage  → 962 results
+2026-05-03 23:25:09  INFO      [stage4b_owl_reasoning]  Saved 10 rows → output\stage4b_owl_reasoning\dl_query_summary.tsv
+2026-05-03 23:25:09  INFO      [stage4b_owl_reasoning]  
+2026-05-03 23:25:09  INFO      [stage4b_owl_reasoning]  ============================================================
+2026-05-03 23:25:09  INFO      [stage4b_owl_reasoning]    STAGE 4b COMPLETE
+2026-05-03 23:25:09  INFO      [stage4b_owl_reasoning]  ============================================================
+2026-05-03 23:25:09  INFO      [stage4b_owl_reasoning]    Consistency:     PASS
+2026-05-03 23:25:09  INFO      [stage4b_owl_reasoning]    Triples before:  25,304
+2026-05-03 23:25:09  INFO      [stage4b_owl_reasoning]    Triples inferred:17,281
+2026-05-03 23:25:09  INFO      [stage4b_owl_reasoning]    DL queries:      10/10 passed
+2026-05-03 23:25:09  INFO      [stage4b_owl_reasoning]  
+2026-05-03 23:25:09  INFO      [stage4b_owl_reasoning]    Output files:
+2026-05-03 23:25:09  INFO      [stage4b_owl_reasoning]      inferred_triples.ttl     — new triples from reasoning
+2026-05-03 23:25:09  INFO      [stage4b_owl_reasoning]      consistency_report.tsv   — pass/fail + counts
+2026-05-03 23:25:09  INFO      [stage4b_owl_reasoning]      dl_query_summary.tsv     — all DL query results
+2026-05-03 23:25:09  INFO      [stage4b_owl_reasoning]      dl_query_DL01.tsv …      — per-query result tables
+2026-05-03 23:25:09  INFO      [stage4b_owl_reasoning]  
+2026-05-03 23:25:09  INFO      [stage4b_owl_reasoning]    Comparison with Protege:
+2026-05-03 23:25:09  INFO      [stage4b_owl_reasoning]      owlrl = OWL RL reasoning  (rule-based, no Java)
+2026-05-03 23:25:09  INFO      [stage4b_owl_reasoning]      HermiT in Protege = OWL DL reasoning (needs Java)
+2026-05-03 23:25:09  INFO      [stage4b_owl_reasoning]      Both detect inconsistencies for annotation ontologies.
+2026-05-03 23:25:09  INFO      [stage4b_owl_reasoning]      HermiT additionally supports nominals + cardinality.
+2026-05-03 23:25:09  INFO      [stage4b_owl_reasoning]      For your cAMP ontology, owlrl coverage is sufficient.
+2026-05-03 23:30:14  INFO      [stage4b_owl_reasoning]  ==================================================================
+2026-05-03 23:30:14  INFO      [stage4b_owl_reasoning]    STAGE 4b: OWL Reasoning (Python — no Java required)
+2026-05-03 23:30:14  INFO      [stage4b_owl_reasoning]  ==================================================================
+2026-05-03 23:30:14  INFO      [stage4b_owl_reasoning]  Loading ontology files …
+2026-05-03 23:30:14  INFO      [stage4b_owl_reasoning]    Loaded core: 302 triples  (input\core_new.ttl)
+2026-05-03 23:30:16  INFO      [stage4b_owl_reasoning]    Loaded population: 25,002 triples  (input\camp_population.ttl)
+2026-05-03 23:30:16  INFO      [stage4b_owl_reasoning]  Total before reasoning: 25,304 triples
+2026-05-03 23:30:16  INFO      [stage4b_owl_reasoning]  Running OWL RL reasoning (owlrl.DeductiveClosure) …
+2026-05-03 23:31:10  INFO      [stage4b_owl_reasoning]  After reasoning: 42,585 triples  (+17,281 inferred)
+2026-05-03 23:31:13  INFO      [stage4b_owl_reasoning]    Consistency: PASS — no unsatisfiable individuals
+2026-05-03 23:31:15  INFO      [stage4b_owl_reasoning]  Inferred triples saved → output\stage4b_owl_reasoning\inferred_triples.ttl
+2026-05-03 23:31:15  INFO      [stage4b_owl_reasoning]  Saved 5 rows → output\stage4b_owl_reasoning\consistency_report.tsv
+2026-05-03 23:31:15  INFO      [stage4b_owl_reasoning]  
+Running 10 DL queries against reasoned graph …
+2026-05-03 23:31:15  INFO      [stage4b_owl_reasoning]    DL01: Domain types with catalytic function  → 0 results
+2026-05-03 23:31:15  INFO      [stage4b_owl_reasoning]    DL02: Domain types with receptor function  → 0 results
+2026-05-03 23:31:16  INFO      [stage4b_owl_reasoning]    DL03: Transmembrane domain occurrences  → 0 results
+2026-05-03 23:31:18  INFO      [stage4b_owl_reasoning]    DL04: Proteins with catalytic transmembrane domain  → 0 results
+2026-05-03 23:31:20  INFO      [stage4b_owl_reasoning]    DL05: Co-occurring domain pairs  → 2582 results
+2026-05-03 23:31:20  INFO      [stage4b_owl_reasoning]    DL06: Proteins with multiple domain types  → 79 results
+2026-05-03 23:31:20  INFO      [stage4b_owl_reasoning]    DL07: Consistency check — unsatisfiable individuals  → 0 results
+2026-05-03 23:31:20  INFO      [stage4b_owl_reasoning]    DL08: Domain types with GO annotations  → 128 results
+2026-05-03 23:31:21  INFO      [stage4b_owl_reasoning]    DL09: Domain order chains  → 621 results
+2026-05-03 23:31:21  INFO      [stage4b_owl_reasoning]    DL10: Binding target coverage  → 962 results
+2026-05-03 23:31:21  INFO      [stage4b_owl_reasoning]  Saved 10 rows → output\stage4b_owl_reasoning\dl_query_summary.tsv
+2026-05-03 23:31:21  INFO      [stage4b_owl_reasoning]  
+2026-05-03 23:31:21  INFO      [stage4b_owl_reasoning]  ============================================================
+2026-05-03 23:31:21  INFO      [stage4b_owl_reasoning]    STAGE 4b COMPLETE
+2026-05-03 23:31:21  INFO      [stage4b_owl_reasoning]  ============================================================
+2026-05-03 23:31:21  INFO      [stage4b_owl_reasoning]    Consistency:     PASS
+2026-05-03 23:31:21  INFO      [stage4b_owl_reasoning]    Triples before:  25,304
+2026-05-03 23:31:21  INFO      [stage4b_owl_reasoning]    Triples inferred:17,281
+2026-05-03 23:31:21  INFO      [stage4b_owl_reasoning]    DL queries:      10/10 passed
+2026-05-03 23:31:21  INFO      [stage4b_owl_reasoning]  
+2026-05-03 23:31:21  INFO      [stage4b_owl_reasoning]    Output files:
+2026-05-03 23:31:21  INFO      [stage4b_owl_reasoning]      inferred_triples.ttl     — new triples from reasoning
+2026-05-03 23:31:21  INFO      [stage4b_owl_reasoning]      consistency_report.tsv   — pass/fail + counts
+2026-05-03 23:31:21  INFO      [stage4b_owl_reasoning]      dl_query_summary.tsv     — all DL query results
+2026-05-03 23:31:21  INFO      [stage4b_owl_reasoning]      dl_query_DL01.tsv …      — per-query result tables
+2026-05-03 23:31:21  INFO      [stage4b_owl_reasoning]  
+2026-05-03 23:31:21  INFO      [stage4b_owl_reasoning]    Comparison with Protege:
+2026-05-03 23:31:21  INFO      [stage4b_owl_reasoning]      owlrl = OWL RL reasoning  (rule-based, no Java)
+2026-05-03 23:31:21  INFO      [stage4b_owl_reasoning]      HermiT in Protege = OWL DL reasoning (needs Java)
+2026-05-03 23:31:21  INFO      [stage4b_owl_reasoning]      Both detect inconsistencies for annotation ontologies.
+2026-05-03 23:31:21  INFO      [stage4b_owl_reasoning]      HermiT additionally supports nominals + cardinality.
+2026-05-03 23:31:21  INFO      [stage4b_owl_reasoning]      For your cAMP ontology, owlrl coverage is sufficient.
+2026-05-03 23:36:56  INFO      [stage4b_owl_reasoning]  ==================================================================
+2026-05-03 23:36:56  INFO      [stage4b_owl_reasoning]    STAGE 4b: OWL Reasoning (Python — no Java required)
+2026-05-03 23:36:56  INFO      [stage4b_owl_reasoning]  ==================================================================
+2026-05-03 23:36:56  INFO      [stage4b_owl_reasoning]  Loading ontology files …
+2026-05-03 23:36:56  INFO      [stage4b_owl_reasoning]    Loaded core: 302 triples  (input\core_new.ttl)
+2026-05-03 23:36:58  INFO      [stage4b_owl_reasoning]    Loaded population: 25,002 triples  (input\camp_population.ttl)
+2026-05-03 23:36:58  INFO      [stage4b_owl_reasoning]  Total before reasoning: 25,304 triples
+2026-05-03 23:36:58  INFO      [stage4b_owl_reasoning]  Running OWL RL reasoning (owlrl.DeductiveClosure) …
+2026-05-03 23:37:29  INFO      [stage4b_owl_reasoning]  After reasoning: 42,585 triples  (+17,281 inferred)
+2026-05-03 23:37:32  INFO      [stage4b_owl_reasoning]    Consistency: PASS — no unsatisfiable individuals
+2026-05-03 23:37:34  INFO      [stage4b_owl_reasoning]  Inferred triples saved → output\stage4b_owl_reasoning\inferred_triples.ttl
+2026-05-03 23:37:34  INFO      [stage4b_owl_reasoning]  Saved 5 rows → output\stage4b_owl_reasoning\consistency_report.tsv
+2026-05-03 23:37:34  INFO      [stage4b_owl_reasoning]  
+Running 10 DL queries against reasoned graph …
+2026-05-03 23:37:34  INFO      [stage4b_owl_reasoning]    DL01: Domain types with catalytic function  → 0 results
+2026-05-03 23:37:35  INFO      [stage4b_owl_reasoning]    DL02: Domain types with receptor function  → 0 results
+2026-05-03 23:37:35  INFO      [stage4b_owl_reasoning]    DL03: Transmembrane domain occurrences  → 0 results
+2026-05-03 23:37:36  INFO      [stage4b_owl_reasoning]    DL04: Proteins with catalytic transmembrane domain  → 0 results
+2026-05-03 23:37:38  INFO      [stage4b_owl_reasoning]    DL05: Co-occurring domain pairs  → 2582 results
+2026-05-03 23:37:38  INFO      [stage4b_owl_reasoning]    DL06: Proteins with multiple domain types  → 79 results
+2026-05-03 23:37:38  INFO      [stage4b_owl_reasoning]    DL07: Consistency check — unsatisfiable individuals  → 0 results
+2026-05-03 23:37:38  INFO      [stage4b_owl_reasoning]    DL08: Domain types with GO annotations  → 128 results
+2026-05-03 23:37:39  INFO      [stage4b_owl_reasoning]    DL09: Domain order chains  → 621 results
+2026-05-03 23:37:39  INFO      [stage4b_owl_reasoning]    DL10: Binding target coverage  → 962 results
+2026-05-03 23:37:39  INFO      [stage4b_owl_reasoning]  Saved 10 rows → output\stage4b_owl_reasoning\dl_query_summary.tsv
+2026-05-03 23:37:39  INFO      [stage4b_owl_reasoning]  
+2026-05-03 23:37:39  INFO      [stage4b_owl_reasoning]  ============================================================
+2026-05-03 23:37:39  INFO      [stage4b_owl_reasoning]    STAGE 4b COMPLETE
+2026-05-03 23:37:39  INFO      [stage4b_owl_reasoning]  ============================================================
+2026-05-03 23:37:39  INFO      [stage4b_owl_reasoning]    Consistency:     PASS
+2026-05-03 23:37:39  INFO      [stage4b_owl_reasoning]    Triples before:  25,304
+2026-05-03 23:37:39  INFO      [stage4b_owl_reasoning]    Triples inferred:17,281
+2026-05-03 23:37:39  INFO      [stage4b_owl_reasoning]    DL queries:      10/10 passed
+2026-05-03 23:37:39  INFO      [stage4b_owl_reasoning]  
+2026-05-03 23:37:39  INFO      [stage4b_owl_reasoning]    Output files:
+2026-05-03 23:37:39  INFO      [stage4b_owl_reasoning]      inferred_triples.ttl     — new triples from reasoning
+2026-05-03 23:37:39  INFO      [stage4b_owl_reasoning]      consistency_report.tsv   — pass/fail + counts
+2026-05-03 23:37:39  INFO      [stage4b_owl_reasoning]      dl_query_summary.tsv     — all DL query results
+2026-05-03 23:37:39  INFO      [stage4b_owl_reasoning]      dl_query_DL01.tsv …      — per-query result tables
+2026-05-03 23:37:39  INFO      [stage4b_owl_reasoning]  
+2026-05-03 23:37:39  INFO      [stage4b_owl_reasoning]    Comparison with Protege:
+2026-05-03 23:37:39  INFO      [stage4b_owl_reasoning]      owlrl = OWL RL reasoning  (rule-based, no Java)
+2026-05-03 23:37:39  INFO      [stage4b_owl_reasoning]      HermiT in Protege = OWL DL reasoning (needs Java)
+2026-05-03 23:37:39  INFO      [stage4b_owl_reasoning]      Both detect inconsistencies for annotation ontologies.
+2026-05-03 23:37:39  INFO      [stage4b_owl_reasoning]      HermiT additionally supports nominals + cardinality.
+2026-05-03 23:37:39  INFO      [stage4b_owl_reasoning]      For your cAMP ontology, owlrl coverage is sufficient.
+2026-05-03 23:53:22  INFO      [stage4b_owl_reasoning]  ==================================================================
+2026-05-03 23:53:22  INFO      [stage4b_owl_reasoning]    STAGE 4b: OWL Reasoning (Python — no Java required)
+2026-05-03 23:53:22  INFO      [stage4b_owl_reasoning]  ==================================================================
+2026-05-03 23:53:22  INFO      [stage4b_owl_reasoning]  Loading ontology files …
+2026-05-03 23:53:22  INFO      [stage4b_owl_reasoning]    Loaded core: 302 triples  (input\core_new.ttl)
+2026-05-03 23:53:24  INFO      [stage4b_owl_reasoning]    Loaded population: 25,002 triples  (input\camp_population.ttl)
+2026-05-03 23:53:24  INFO      [stage4b_owl_reasoning]  Total before reasoning: 25,304 triples
+2026-05-03 23:53:24  INFO      [stage4b_owl_reasoning]  Running OWL RL reasoning (owlrl.DeductiveClosure) …
+2026-05-03 23:53:54  INFO      [stage4b_owl_reasoning]  After reasoning: 42,585 triples  (+17,281 inferred)
+2026-05-03 23:53:56  INFO      [stage4b_owl_reasoning]    Consistency: PASS — no unsatisfiable individuals
+2026-05-03 23:53:59  INFO      [stage4b_owl_reasoning]  Inferred triples saved → output\stage4b_owl_reasoning\inferred_triples.ttl
+2026-05-03 23:53:59  INFO      [stage4b_owl_reasoning]  Saved 5 rows → output\stage4b_owl_reasoning\consistency_report.tsv
+2026-05-03 23:53:59  INFO      [stage4b_owl_reasoning]  
+Running 10 DL queries against reasoned graph …
+2026-05-03 23:53:59  INFO      [stage4b_owl_reasoning]    DL01: Domain types with catalytic function  → 0 results
+2026-05-03 23:53:59  INFO      [stage4b_owl_reasoning]    DL02: Domain types with receptor function  → 0 results
+2026-05-03 23:54:00  INFO      [stage4b_owl_reasoning]    DL03: Transmembrane domain occurrences  → 0 results
+2026-05-03 23:54:02  INFO      [stage4b_owl_reasoning]    DL04: Proteins with catalytic transmembrane domain  → 0 results
+2026-05-03 23:54:05  INFO      [stage4b_owl_reasoning]    DL05: Co-occurring domain pairs  → 2582 results
+2026-05-03 23:54:05  INFO      [stage4b_owl_reasoning]    DL06: Proteins with multiple domain types  → 79 results
+2026-05-03 23:54:05  INFO      [stage4b_owl_reasoning]    DL07: Consistency check — unsatisfiable individuals  → 0 results
+2026-05-03 23:54:05  INFO      [stage4b_owl_reasoning]    DL08: Domain types with GO annotations  → 128 results
+2026-05-03 23:54:05  INFO      [stage4b_owl_reasoning]    DL09: Domain order chains  → 621 results
+2026-05-03 23:54:06  INFO      [stage4b_owl_reasoning]    DL10: Binding target coverage  → 962 results
+2026-05-03 23:54:06  INFO      [stage4b_owl_reasoning]  Saved 10 rows → output\stage4b_owl_reasoning\dl_query_summary.tsv
+2026-05-03 23:54:06  INFO      [stage4b_owl_reasoning]  
+2026-05-03 23:54:06  INFO      [stage4b_owl_reasoning]  ============================================================
+2026-05-03 23:54:06  INFO      [stage4b_owl_reasoning]    STAGE 4b COMPLETE
+2026-05-03 23:54:06  INFO      [stage4b_owl_reasoning]  ============================================================
+2026-05-03 23:54:06  INFO      [stage4b_owl_reasoning]    Consistency:     PASS
+2026-05-03 23:54:06  INFO      [stage4b_owl_reasoning]    Triples before:  25,304
+2026-05-03 23:54:06  INFO      [stage4b_owl_reasoning]    Triples inferred:17,281
+2026-05-03 23:54:06  INFO      [stage4b_owl_reasoning]    DL queries:      10/10 passed
+2026-05-03 23:54:06  INFO      [stage4b_owl_reasoning]  
+2026-05-03 23:54:06  INFO      [stage4b_owl_reasoning]    Output files:
+2026-05-03 23:54:06  INFO      [stage4b_owl_reasoning]      inferred_triples.ttl     — new triples from reasoning
+2026-05-03 23:54:06  INFO      [stage4b_owl_reasoning]      consistency_report.tsv   — pass/fail + counts
+2026-05-03 23:54:06  INFO      [stage4b_owl_reasoning]      dl_query_summary.tsv     — all DL query results
+2026-05-03 23:54:06  INFO      [stage4b_owl_reasoning]      dl_query_DL01.tsv …      — per-query result tables
+2026-05-03 23:54:06  INFO      [stage4b_owl_reasoning]  
+2026-05-03 23:54:06  INFO      [stage4b_owl_reasoning]    Comparison with Protege:
+2026-05-03 23:54:06  INFO      [stage4b_owl_reasoning]      owlrl = OWL RL reasoning  (rule-based, no Java)
+2026-05-03 23:54:06  INFO      [stage4b_owl_reasoning]      HermiT in Protege = OWL DL reasoning (needs Java)
+2026-05-03 23:54:06  INFO      [stage4b_owl_reasoning]      Both detect inconsistencies for annotation ontologies.
+2026-05-03 23:54:06  INFO      [stage4b_owl_reasoning]      HermiT additionally supports nominals + cardinality.
+2026-05-03 23:54:06  INFO      [stage4b_owl_reasoning]      For your cAMP ontology, owlrl coverage is sufficient.
+2026-05-04 00:18:05  INFO      [stage4b_owl_reasoning]  ==================================================================
+2026-05-04 00:18:05  INFO      [stage4b_owl_reasoning]    STAGE 4b: OWL Reasoning (Python — no Java required)
+2026-05-04 00:18:05  INFO      [stage4b_owl_reasoning]  ==================================================================
+2026-05-04 00:18:05  INFO      [stage4b_owl_reasoning]  Loading ontology files …
+2026-05-04 00:18:05  INFO      [stage4b_owl_reasoning]    Loaded core: 302 triples  (input\core_new.ttl)
+2026-05-04 00:18:07  INFO      [stage4b_owl_reasoning]    Loaded population: 25,002 triples  (input\camp_population.ttl)
+2026-05-04 00:18:07  INFO      [stage4b_owl_reasoning]  Total before reasoning: 25,304 triples
+2026-05-04 00:18:07  INFO      [stage4b_owl_reasoning]  Running OWL RL reasoning (owlrl.DeductiveClosure) …
+2026-05-04 00:18:44  INFO      [stage4b_owl_reasoning]  After reasoning: 42,585 triples  (+17,281 inferred)
+2026-05-04 00:18:47  INFO      [stage4b_owl_reasoning]    Consistency: PASS — no unsatisfiable individuals
+2026-05-04 00:18:50  INFO      [stage4b_owl_reasoning]  Inferred triples saved → output\stage4b_owl_reasoning\inferred_triples.ttl
+2026-05-04 00:18:50  INFO      [stage4b_owl_reasoning]  Saved 5 rows → output\stage4b_owl_reasoning\consistency_report.tsv
+2026-05-04 00:18:50  INFO      [stage4b_owl_reasoning]  
+Running 10 DL queries against reasoned graph …
+2026-05-04 00:18:50  INFO      [stage4b_owl_reasoning]    DL01: Domain types with catalytic function  → 0 results
+2026-05-04 00:18:50  INFO      [stage4b_owl_reasoning]    DL02: Domain types with receptor function  → 0 results
+2026-05-04 00:18:51  INFO      [stage4b_owl_reasoning]    DL03: Transmembrane domain occurrences  → 0 results
+2026-05-04 00:18:53  INFO      [stage4b_owl_reasoning]    DL04: Proteins with catalytic transmembrane domain  → 0 results
+2026-05-04 00:18:55  INFO      [stage4b_owl_reasoning]    DL05: Co-occurring domain pairs  → 2582 results
+2026-05-04 00:18:55  INFO      [stage4b_owl_reasoning]    DL06: Proteins with multiple domain types  → 79 results
+2026-05-04 00:18:55  INFO      [stage4b_owl_reasoning]    DL07: Consistency check — unsatisfiable individuals  → 0 results
+2026-05-04 00:18:55  INFO      [stage4b_owl_reasoning]    DL08: Domain types with GO annotations  → 128 results
+2026-05-04 00:18:55  INFO      [stage4b_owl_reasoning]    DL09: Domain order chains  → 621 results
+2026-05-04 00:18:56  INFO      [stage4b_owl_reasoning]    DL10: Binding target coverage  → 962 results
+2026-05-04 00:18:56  INFO      [stage4b_owl_reasoning]  Saved 10 rows → output\stage4b_owl_reasoning\dl_query_summary.tsv
+2026-05-04 00:18:56  INFO      [stage4b_owl_reasoning]  
+2026-05-04 00:18:56  INFO      [stage4b_owl_reasoning]  ============================================================
+2026-05-04 00:18:56  INFO      [stage4b_owl_reasoning]    STAGE 4b COMPLETE
+2026-05-04 00:18:56  INFO      [stage4b_owl_reasoning]  ============================================================
+2026-05-04 00:18:56  INFO      [stage4b_owl_reasoning]    Consistency:     PASS
+2026-05-04 00:18:56  INFO      [stage4b_owl_reasoning]    Triples before:  25,304
+2026-05-04 00:18:56  INFO      [stage4b_owl_reasoning]    Triples inferred:17,281
+2026-05-04 00:18:56  INFO      [stage4b_owl_reasoning]    DL queries:      10/10 passed
+2026-05-04 00:18:56  INFO      [stage4b_owl_reasoning]  
+2026-05-04 00:18:56  INFO      [stage4b_owl_reasoning]    Output files:
+2026-05-04 00:18:56  INFO      [stage4b_owl_reasoning]      inferred_triples.ttl     — new triples from reasoning
+2026-05-04 00:18:56  INFO      [stage4b_owl_reasoning]      consistency_report.tsv   — pass/fail + counts
+2026-05-04 00:18:56  INFO      [stage4b_owl_reasoning]      dl_query_summary.tsv     — all DL query results
+2026-05-04 00:18:56  INFO      [stage4b_owl_reasoning]      dl_query_DL01.tsv …      — per-query result tables
+2026-05-04 00:18:56  INFO      [stage4b_owl_reasoning]  
+2026-05-04 00:18:56  INFO      [stage4b_owl_reasoning]    Comparison with Protege:
+2026-05-04 00:18:56  INFO      [stage4b_owl_reasoning]      owlrl = OWL RL reasoning  (rule-based, no Java)
+2026-05-04 00:18:56  INFO      [stage4b_owl_reasoning]      HermiT in Protege = OWL DL reasoning (needs Java)
+2026-05-04 00:18:56  INFO      [stage4b_owl_reasoning]      Both detect inconsistencies for annotation ontologies.
+2026-05-04 00:18:56  INFO      [stage4b_owl_reasoning]      HermiT additionally supports nominals + cardinality.
+2026-05-04 00:18:56  INFO      [stage4b_owl_reasoning]      For your cAMP ontology, owlrl coverage is sufficient.
+2026-05-04 01:17:47  INFO      [stage4b_owl_reasoning]  ==================================================================
+2026-05-04 01:17:47  INFO      [stage4b_owl_reasoning]    STAGE 4b: OWL Reasoning (Python — no Java required)
+2026-05-04 01:17:47  INFO      [stage4b_owl_reasoning]  ==================================================================
+2026-05-04 01:17:47  INFO      [stage4b_owl_reasoning]  Loading ontology files …
+2026-05-04 01:17:47  INFO      [stage4b_owl_reasoning]    Loaded core: 302 triples  (input\core_new.ttl)
+2026-05-04 04:35:36  INFO      [stage4b_owl_reasoning]  ==================================================================
+2026-05-04 04:35:36  INFO      [stage4b_owl_reasoning]    STAGE 4b: OWL Reasoning (Python — no Java required)
+2026-05-04 04:35:36  INFO      [stage4b_owl_reasoning]  ==================================================================
+2026-05-04 04:35:36  INFO      [stage4b_owl_reasoning]  Loading ontology files …
+2026-05-04 04:35:36  INFO      [stage4b_owl_reasoning]    Loaded core: 302 triples  (input\core_new.ttl)
+2026-05-04 04:35:37  INFO      [stage4b_owl_reasoning]    Loaded population: 14,102 triples  (input\calcium_population.ttl)
+2026-05-04 04:35:37  INFO      [stage4b_owl_reasoning]  Total before reasoning: 14,404 triples
+2026-05-04 04:35:37  INFO      [stage4b_owl_reasoning]  Running OWL RL reasoning (owlrl.DeductiveClosure) …
+2026-05-04 04:35:58  INFO      [stage4b_owl_reasoning]  After reasoning: 25,113 triples  (+10,709 inferred)
+2026-05-04 04:35:59  INFO      [stage4b_owl_reasoning]    Consistency: PASS — no unsatisfiable individuals
+2026-05-04 04:36:01  INFO      [stage4b_owl_reasoning]  Inferred triples saved → output\stage4b_owl_reasoning\inferred_triples.ttl
+2026-05-04 04:36:01  INFO      [stage4b_owl_reasoning]  Saved 5 rows → output\stage4b_owl_reasoning\consistency_report.tsv
+2026-05-04 04:36:01  INFO      [stage4b_owl_reasoning]  
+Running 10 DL queries against reasoned graph …
+2026-05-04 04:36:01  INFO      [stage4b_owl_reasoning]    DL01: Domain types with catalytic function  → 35 results
+2026-05-04 04:36:01  INFO      [stage4b_owl_reasoning]    DL02: Domain types with receptor function  → 8 results
+2026-05-04 04:36:01  INFO      [stage4b_owl_reasoning]    DL03: Transmembrane domain occurrences  → 49 results
+2026-05-04 04:36:04  INFO      [stage4b_owl_reasoning]    DL04: Proteins with catalytic transmembrane domain  → 0 results
+2026-05-04 04:36:07  INFO      [stage4b_owl_reasoning]    DL05: Co-occurring domain pairs  → 1814 results
+2026-05-04 04:36:08  INFO      [stage4b_owl_reasoning]    DL06: Proteins with multiple domain types  → 36 results
+2026-05-04 04:36:08  INFO      [stage4b_owl_reasoning]    DL07: Consistency check — unsatisfiable individuals  → 0 results
+2026-05-04 04:36:08  INFO      [stage4b_owl_reasoning]    DL08: Domain types with GO annotations  → 52 results
+2026-05-04 04:36:08  INFO      [stage4b_owl_reasoning]    DL09: Domain order chains  → 406 results
+2026-05-04 04:36:08  INFO      [stage4b_owl_reasoning]    DL10: Binding target coverage  → 490 results
+2026-05-04 04:36:08  INFO      [stage4b_owl_reasoning]  Saved 10 rows → output\stage4b_owl_reasoning\dl_query_summary.tsv
+2026-05-04 04:36:08  INFO      [stage4b_owl_reasoning]  
+2026-05-04 04:36:08  INFO      [stage4b_owl_reasoning]  ============================================================
+2026-05-04 04:36:08  INFO      [stage4b_owl_reasoning]    STAGE 4b COMPLETE
+2026-05-04 04:36:08  INFO      [stage4b_owl_reasoning]  ============================================================
+2026-05-04 04:36:08  INFO      [stage4b_owl_reasoning]    Consistency:     PASS
+2026-05-04 04:36:08  INFO      [stage4b_owl_reasoning]    Triples before:  14,404
+2026-05-04 04:36:08  INFO      [stage4b_owl_reasoning]    Triples inferred:10,709
+2026-05-04 04:36:08  INFO      [stage4b_owl_reasoning]    DL queries:      10/10 passed
+2026-05-04 04:36:08  INFO      [stage4b_owl_reasoning]  
+2026-05-04 04:36:08  INFO      [stage4b_owl_reasoning]    Output files:
+2026-05-04 04:36:08  INFO      [stage4b_owl_reasoning]      inferred_triples.ttl     — new triples from reasoning
+2026-05-04 04:36:08  INFO      [stage4b_owl_reasoning]      consistency_report.tsv   — pass/fail + counts
+2026-05-04 04:36:08  INFO      [stage4b_owl_reasoning]      dl_query_summary.tsv     — all DL query results
+2026-05-04 04:36:08  INFO      [stage4b_owl_reasoning]      dl_query_DL01.tsv …      — per-query result tables
+2026-05-04 04:36:08  INFO      [stage4b_owl_reasoning]  
+2026-05-04 04:36:08  INFO      [stage4b_owl_reasoning]    Comparison with Protege:
+2026-05-04 04:36:08  INFO      [stage4b_owl_reasoning]      owlrl = OWL RL reasoning  (rule-based, no Java)
+2026-05-04 04:36:08  INFO      [stage4b_owl_reasoning]      HermiT in Protege = OWL DL reasoning (needs Java)
+2026-05-04 04:36:08  INFO      [stage4b_owl_reasoning]      Both detect inconsistencies for annotation ontologies.
+2026-05-04 04:36:08  INFO      [stage4b_owl_reasoning]      HermiT additionally supports nominals + cardinality.
+2026-05-04 04:36:08  INFO      [stage4b_owl_reasoning]      For your cAMP ontology, owlrl coverage is sufficient.
+2026-05-04 04:43:26  INFO      [stage4b_owl_reasoning]  ==================================================================
+2026-05-04 04:43:26  INFO      [stage4b_owl_reasoning]    STAGE 4b: OWL Reasoning (Python — no Java required)
+2026-05-04 04:43:26  INFO      [stage4b_owl_reasoning]  ==================================================================
+2026-05-04 04:43:26  INFO      [stage4b_owl_reasoning]  Loading ontology files …
+2026-05-04 04:43:26  INFO      [stage4b_owl_reasoning]    Loaded core: 302 triples  (input\core_new.ttl)
+2026-05-04 04:43:27  INFO      [stage4b_owl_reasoning]    Loaded population: 14,102 triples  (input\calcium_population.ttl)
+2026-05-04 04:43:27  INFO      [stage4b_owl_reasoning]  Total before reasoning: 14,404 triples
+2026-05-04 04:43:27  INFO      [stage4b_owl_reasoning]  Running OWL RL reasoning (owlrl.DeductiveClosure) …
+2026-05-04 04:43:46  INFO      [stage4b_owl_reasoning]  After reasoning: 25,113 triples  (+10,709 inferred)
+2026-05-04 04:43:47  INFO      [stage4b_owl_reasoning]    Consistency: PASS — no unsatisfiable individuals
+2026-05-04 04:43:48  INFO      [stage4b_owl_reasoning]  Inferred triples saved → output\stage4b_owl_reasoning\inferred_triples.ttl
+2026-05-04 04:43:48  INFO      [stage4b_owl_reasoning]  Saved 5 rows → output\stage4b_owl_reasoning\consistency_report.tsv
+2026-05-04 04:43:48  INFO      [stage4b_owl_reasoning]  
+Running 10 DL queries against reasoned graph …
+2026-05-04 04:43:49  INFO      [stage4b_owl_reasoning]    DL01: Domain types with scaffold function (DOF:000016)  → 91 results
+2026-05-04 04:43:49  INFO      [stage4b_owl_reasoning]    DL02: Domain types with receptor-binding function (DOF:000038)  → 0 results
+2026-05-04 04:43:49  INFO      [stage4b_owl_reasoning]    DL03: Transmembrane domain occurrences (DOP:000008)  → 49 results
+2026-05-04 04:43:50  INFO      [stage4b_owl_reasoning]    DL04: Proteins with scaffold domain in transmembrane context  → 0 results
+2026-05-04 04:43:51  INFO      [stage4b_owl_reasoning]    DL05: Co-occurring domain pairs  → 1814 results
+2026-05-04 04:43:51  INFO      [stage4b_owl_reasoning]    DL06: Proteins with multiple domain types  → 36 results
+2026-05-04 04:43:51  INFO      [stage4b_owl_reasoning]    DL07: Consistency check — unsatisfiable individuals  → 0 results
+2026-05-04 04:43:51  INFO      [stage4b_owl_reasoning]    DL08: Domain types with GO annotations  → 52 results
+2026-05-04 04:43:51  INFO      [stage4b_owl_reasoning]    DL09: Domain order chains  → 406 results
+2026-05-04 04:43:51  INFO      [stage4b_owl_reasoning]    DL10: Binding target coverage  → 490 results
+2026-05-04 04:43:51  INFO      [stage4b_owl_reasoning]  Saved 10 rows → output\stage4b_owl_reasoning\dl_query_summary.tsv
+2026-05-04 04:43:51  INFO      [stage4b_owl_reasoning]  
+2026-05-04 04:43:51  INFO      [stage4b_owl_reasoning]  ============================================================
+2026-05-04 04:43:51  INFO      [stage4b_owl_reasoning]    STAGE 4b COMPLETE
+2026-05-04 04:43:51  INFO      [stage4b_owl_reasoning]  ============================================================
+2026-05-04 04:43:51  INFO      [stage4b_owl_reasoning]    Consistency:     PASS
+2026-05-04 04:43:51  INFO      [stage4b_owl_reasoning]    Triples before:  14,404
+2026-05-04 04:43:51  INFO      [stage4b_owl_reasoning]    Triples inferred:10,709
+2026-05-04 04:43:51  INFO      [stage4b_owl_reasoning]    DL queries:      10/10 passed
+2026-05-04 04:43:51  INFO      [stage4b_owl_reasoning]  
+2026-05-04 04:43:51  INFO      [stage4b_owl_reasoning]    Output files:
+2026-05-04 04:43:51  INFO      [stage4b_owl_reasoning]      inferred_triples.ttl     — new triples from reasoning
+2026-05-04 04:43:51  INFO      [stage4b_owl_reasoning]      consistency_report.tsv   — pass/fail + counts
+2026-05-04 04:43:51  INFO      [stage4b_owl_reasoning]      dl_query_summary.tsv     — all DL query results
+2026-05-04 04:43:52  INFO      [stage4b_owl_reasoning]      dl_query_DL01.tsv …      — per-query result tables
+2026-05-04 04:43:52  INFO      [stage4b_owl_reasoning]  
+2026-05-04 04:43:52  INFO      [stage4b_owl_reasoning]    Comparison with Protege:
+2026-05-04 04:43:52  INFO      [stage4b_owl_reasoning]      owlrl = OWL RL reasoning  (rule-based, no Java)
+2026-05-04 04:43:52  INFO      [stage4b_owl_reasoning]      HermiT in Protege = OWL DL reasoning (needs Java)
+2026-05-04 04:43:52  INFO      [stage4b_owl_reasoning]      Both detect inconsistencies for annotation ontologies.
+2026-05-04 04:43:52  INFO      [stage4b_owl_reasoning]      HermiT additionally supports nominals + cardinality.
+2026-05-04 04:43:52  INFO      [stage4b_owl_reasoning]      For your cAMP ontology, owlrl coverage is sufficient.
+2026-05-04 09:34:19  INFO      [stage4b_owl_reasoning]  ==================================================================
+2026-05-04 09:34:19  INFO      [stage4b_owl_reasoning]    STAGE 4b: OWL Reasoning (Python — no Java required)
+2026-05-04 09:34:19  INFO      [stage4b_owl_reasoning]  ==================================================================
+2026-05-04 09:34:19  INFO      [stage4b_owl_reasoning]  Loading ontology files …
+2026-05-04 09:34:19  INFO      [stage4b_owl_reasoning]    Loaded core: 302 triples  (input\core_new.ttl)
+2026-05-04 09:34:20  INFO      [stage4b_owl_reasoning]    Loaded population: 14,102 triples  (input\calcium_population.ttl)
+2026-05-04 09:34:20  INFO      [stage4b_owl_reasoning]  Total before reasoning: 14,404 triples
+2026-05-04 09:34:20  INFO      [stage4b_owl_reasoning]  Running OWL RL reasoning (owlrl.DeductiveClosure) …
+2026-05-04 09:34:36  INFO      [stage4b_owl_reasoning]  After reasoning: 25,113 triples  (+10,709 inferred)
+2026-05-04 09:34:37  INFO      [stage4b_owl_reasoning]    Consistency: PASS — no unsatisfiable individuals
+2026-05-04 09:34:38  INFO      [stage4b_owl_reasoning]  Inferred triples saved → output\stage4b_owl_reasoning\inferred_triples.ttl
+2026-05-04 09:34:38  INFO      [stage4b_owl_reasoning]  Saved 5 rows → output\stage4b_owl_reasoning\consistency_report.tsv
+2026-05-04 09:34:38  INFO      [stage4b_owl_reasoning]  
+Running 10 DL queries against reasoned graph …
+2026-05-04 09:34:38  INFO      [stage4b_owl_reasoning]    DL01: Domain types with scaffold function (DOF:000016)  → 91 results
+2026-05-04 09:34:38  INFO      [stage4b_owl_reasoning]    DL02: Domain types with receptor-binding function (DOF:000038)  → 0 results
+2026-05-04 09:34:39  INFO      [stage4b_owl_reasoning]    DL03: Transmembrane domain occurrences (DOP:000008)  → 49 results
+2026-05-04 09:34:39  INFO      [stage4b_owl_reasoning]    DL04: Proteins with scaffold domain in transmembrane context  → 0 results
+2026-05-04 09:34:40  INFO      [stage4b_owl_reasoning]    DL05: Co-occurring domain pairs  → 1814 results
+2026-05-04 09:34:40  INFO      [stage4b_owl_reasoning]    DL06: Proteins with multiple domain types  → 36 results
+2026-05-04 09:34:40  INFO      [stage4b_owl_reasoning]    DL07: Consistency check — unsatisfiable individuals  → 0 results
+2026-05-04 09:34:40  INFO      [stage4b_owl_reasoning]    DL08: Domain types with GO annotations  → 52 results
+2026-05-04 09:34:41  INFO      [stage4b_owl_reasoning]    DL09: Domain order chains  → 406 results
+2026-05-04 09:34:41  INFO      [stage4b_owl_reasoning]    DL10: Binding target coverage  → 490 results
+2026-05-04 09:34:41  INFO      [stage4b_owl_reasoning]  Saved 10 rows → output\stage4b_owl_reasoning\dl_query_summary.tsv
+2026-05-04 09:34:41  INFO      [stage4b_owl_reasoning]  
+2026-05-04 09:34:41  INFO      [stage4b_owl_reasoning]  ============================================================
+2026-05-04 09:34:41  INFO      [stage4b_owl_reasoning]    STAGE 4b COMPLETE
+2026-05-04 09:34:41  INFO      [stage4b_owl_reasoning]  ============================================================
+2026-05-04 09:34:41  INFO      [stage4b_owl_reasoning]    Consistency:     PASS
+2026-05-04 09:34:41  INFO      [stage4b_owl_reasoning]    Triples before:  14,404
+2026-05-04 09:34:41  INFO      [stage4b_owl_reasoning]    Triples inferred:10,709
+2026-05-04 09:34:41  INFO      [stage4b_owl_reasoning]    DL queries:      10/10 passed
+2026-05-04 09:34:41  INFO      [stage4b_owl_reasoning]  
+2026-05-04 09:34:41  INFO      [stage4b_owl_reasoning]    Output files:
+2026-05-04 09:34:41  INFO      [stage4b_owl_reasoning]      inferred_triples.ttl     — new triples from reasoning
+2026-05-04 09:34:41  INFO      [stage4b_owl_reasoning]      consistency_report.tsv   — pass/fail + counts
+2026-05-04 09:34:41  INFO      [stage4b_owl_reasoning]      dl_query_summary.tsv     — all DL query results
+2026-05-04 09:34:41  INFO      [stage4b_owl_reasoning]      dl_query_DL01.tsv …      — per-query result tables
+2026-05-04 09:34:41  INFO      [stage4b_owl_reasoning]  
+2026-05-04 09:34:41  INFO      [stage4b_owl_reasoning]    Comparison with Protege:
+2026-05-04 09:34:41  INFO      [stage4b_owl_reasoning]      owlrl = OWL RL reasoning  (rule-based, no Java)
+2026-05-04 09:34:41  INFO      [stage4b_owl_reasoning]      HermiT in Protege = OWL DL reasoning (needs Java)
+2026-05-04 09:34:41  INFO      [stage4b_owl_reasoning]      Both detect inconsistencies for annotation ontologies.
+2026-05-04 09:34:41  INFO      [stage4b_owl_reasoning]      HermiT additionally supports nominals + cardinality.
+2026-05-04 09:34:41  INFO      [stage4b_owl_reasoning]      For your cAMP ontology, owlrl coverage is sufficient.
+2026-05-04 09:36:06  INFO      [stage4b_owl_reasoning]  ==================================================================
+2026-05-04 09:36:06  INFO      [stage4b_owl_reasoning]    STAGE 4b: OWL Reasoning (Python — no Java required)
+2026-05-04 09:36:06  INFO      [stage4b_owl_reasoning]  ==================================================================
+2026-05-04 09:36:06  INFO      [stage4b_owl_reasoning]  Loading ontology files …
+2026-05-04 09:36:06  INFO      [stage4b_owl_reasoning]    Loaded core: 302 triples  (input\core_new.ttl)
+2026-05-04 09:36:07  INFO      [stage4b_owl_reasoning]    Loaded population: 14,102 triples  (input\calcium_population.ttl)
+2026-05-04 09:36:07  INFO      [stage4b_owl_reasoning]  Total before reasoning: 14,404 triples
+2026-05-04 09:36:07  INFO      [stage4b_owl_reasoning]  Running OWL RL reasoning (owlrl.DeductiveClosure) …
+2026-05-04 09:36:24  INFO      [stage4b_owl_reasoning]  After reasoning: 25,113 triples  (+10,709 inferred)
+2026-05-04 09:36:26  INFO      [stage4b_owl_reasoning]    Consistency: PASS — no unsatisfiable individuals
+2026-05-04 09:36:30  INFO      [stage4b_owl_reasoning]  Inferred triples saved → output\stage4b_owl_reasoning\inferred_triples.ttl
+2026-05-04 09:36:30  INFO      [stage4b_owl_reasoning]  Saved 5 rows → output\stage4b_owl_reasoning\consistency_report.tsv
+2026-05-04 09:36:30  INFO      [stage4b_owl_reasoning]  
+Running 10 DL queries against reasoned graph …
+2026-05-04 09:36:32  INFO      [stage4b_owl_reasoning]    DL01: Domain types with scaffold function (DOF:000016)  → 91 results
+2026-05-04 09:36:32  INFO      [stage4b_owl_reasoning]    DL02: Domain types with receptor-binding function (DOF:000038)  → 0 results
+2026-05-04 09:36:33  INFO      [stage4b_owl_reasoning]    DL03: Transmembrane domain occurrences (DOP:000008)  → 49 results
+2026-05-04 09:36:35  INFO      [stage4b_owl_reasoning]    DL04: Proteins with scaffold domain in transmembrane context  → 0 results
+2026-05-04 09:36:36  INFO      [stage4b_owl_reasoning]    DL05: Co-occurring domain pairs  → 1814 results
+2026-05-04 09:36:36  INFO      [stage4b_owl_reasoning]    DL06: Proteins with multiple domain types  → 36 results
+2026-05-04 09:36:36  INFO      [stage4b_owl_reasoning]    DL07: Consistency check — unsatisfiable individuals  → 0 results
+2026-05-04 09:36:36  INFO      [stage4b_owl_reasoning]    DL08: Domain types with GO annotations  → 52 results
+2026-05-04 09:36:37  INFO      [stage4b_owl_reasoning]    DL09: Domain order chains  → 406 results
+2026-05-04 09:36:37  INFO      [stage4b_owl_reasoning]    DL10: Binding target coverage  → 490 results
+2026-05-04 09:36:37  INFO      [stage4b_owl_reasoning]  Saved 10 rows → output\stage4b_owl_reasoning\dl_query_summary.tsv
+2026-05-04 09:36:37  INFO      [stage4b_owl_reasoning]  
+2026-05-04 09:36:37  INFO      [stage4b_owl_reasoning]  ============================================================
+2026-05-04 09:36:37  INFO      [stage4b_owl_reasoning]    STAGE 4b COMPLETE
+2026-05-04 09:36:37  INFO      [stage4b_owl_reasoning]  ============================================================
+2026-05-04 09:36:37  INFO      [stage4b_owl_reasoning]    Consistency:     PASS
+2026-05-04 09:36:37  INFO      [stage4b_owl_reasoning]    Triples before:  14,404
+2026-05-04 09:36:37  INFO      [stage4b_owl_reasoning]    Triples inferred:10,709
+2026-05-04 09:36:37  INFO      [stage4b_owl_reasoning]    DL queries:      10/10 passed
+2026-05-04 09:36:37  INFO      [stage4b_owl_reasoning]  
+2026-05-04 09:36:37  INFO      [stage4b_owl_reasoning]    Output files:
+2026-05-04 09:36:37  INFO      [stage4b_owl_reasoning]      inferred_triples.ttl     — new triples from reasoning
+2026-05-04 09:36:37  INFO      [stage4b_owl_reasoning]      consistency_report.tsv   — pass/fail + counts
+2026-05-04 09:36:37  INFO      [stage4b_owl_reasoning]      dl_query_summary.tsv     — all DL query results
+2026-05-04 09:36:37  INFO      [stage4b_owl_reasoning]      dl_query_DL01.tsv …      — per-query result tables
+2026-05-04 09:36:37  INFO      [stage4b_owl_reasoning]  
+2026-05-04 09:36:37  INFO      [stage4b_owl_reasoning]    Comparison with Protege:
+2026-05-04 09:36:37  INFO      [stage4b_owl_reasoning]      owlrl = OWL RL reasoning  (rule-based, no Java)
+2026-05-04 09:36:37  INFO      [stage4b_owl_reasoning]      HermiT in Protege = OWL DL reasoning (needs Java)
+2026-05-04 09:36:37  INFO      [stage4b_owl_reasoning]      Both detect inconsistencies for annotation ontologies.
+2026-05-04 09:36:37  INFO      [stage4b_owl_reasoning]      HermiT additionally supports nominals + cardinality.
+2026-05-04 09:36:37  INFO      [stage4b_owl_reasoning]      For your cAMP ontology, owlrl coverage is sufficient.
+2026-05-04 09:59:30  INFO      [stage4b_owl_reasoning]  ==================================================================
+2026-05-04 09:59:30  INFO      [stage4b_owl_reasoning]    STAGE 4b: OWL Reasoning (Python — no Java required)
+2026-05-04 09:59:30  INFO      [stage4b_owl_reasoning]  ==================================================================
+2026-05-04 09:59:30  INFO      [stage4b_owl_reasoning]  Loading ontology files …
+2026-05-04 09:59:30  INFO      [stage4b_owl_reasoning]    Loaded core: 302 triples  (input\core_new.ttl)
+2026-05-04 09:59:31  INFO      [stage4b_owl_reasoning]    Loaded population: 14,102 triples  (input\calcium_population.ttl)
+2026-05-04 09:59:31  INFO      [stage4b_owl_reasoning]  Total before reasoning: 14,404 triples
+2026-05-04 09:59:31  INFO      [stage4b_owl_reasoning]  Running OWL RL reasoning (owlrl.DeductiveClosure) …
+2026-05-04 09:59:55  INFO      [stage4b_owl_reasoning]  After reasoning: 25,113 triples  (+10,709 inferred)
+2026-05-04 09:59:57  INFO      [stage4b_owl_reasoning]    Consistency: PASS — no unsatisfiable individuals
+2026-05-04 09:59:58  INFO      [stage4b_owl_reasoning]  Inferred triples saved → output\stage4b_owl_reasoning\inferred_triples.ttl
+2026-05-04 09:59:58  INFO      [stage4b_owl_reasoning]  Saved 5 rows → output\stage4b_owl_reasoning\consistency_report.tsv
+2026-05-04 09:59:58  INFO      [stage4b_owl_reasoning]  
+Running 10 DL queries against reasoned graph …
+2026-05-04 09:59:58  INFO      [stage4b_owl_reasoning]    DL01: Domain types with scaffold function (DOF:000016)  → 91 results
+2026-05-04 09:59:59  INFO      [stage4b_owl_reasoning]    DL02: Domain types with receptor-binding function (DOF:000038)  → 0 results
+2026-05-04 09:59:59  INFO      [stage4b_owl_reasoning]    DL03: Transmembrane domain occurrences (DOP:000008)  → 49 results
+2026-05-04 10:00:00  INFO      [stage4b_owl_reasoning]    DL04: Proteins with scaffold domain in transmembrane context  → 0 results
+2026-05-04 10:00:01  INFO      [stage4b_owl_reasoning]    DL05: Co-occurring domain pairs  → 1814 results
+2026-05-04 10:00:01  INFO      [stage4b_owl_reasoning]    DL06: Proteins with multiple domain types  → 36 results
+2026-05-04 10:00:01  INFO      [stage4b_owl_reasoning]    DL07: Consistency check — unsatisfiable individuals  → 0 results
+2026-05-04 10:00:01  INFO      [stage4b_owl_reasoning]    DL08: Domain types with GO annotations  → 52 results
+2026-05-04 10:00:02  INFO      [stage4b_owl_reasoning]    DL09: Domain order chains  → 406 results
+2026-05-04 10:00:02  INFO      [stage4b_owl_reasoning]    DL10: Binding target coverage  → 490 results
+2026-05-04 10:00:02  INFO      [stage4b_owl_reasoning]  Saved 10 rows → output\stage4b_owl_reasoning\dl_query_summary.tsv
+2026-05-04 10:00:02  INFO      [stage4b_owl_reasoning]  
+2026-05-04 10:00:02  INFO      [stage4b_owl_reasoning]  ============================================================
+2026-05-04 10:00:02  INFO      [stage4b_owl_reasoning]    STAGE 4b COMPLETE
+2026-05-04 10:00:02  INFO      [stage4b_owl_reasoning]  ============================================================
+2026-05-04 10:00:02  INFO      [stage4b_owl_reasoning]    Consistency:     PASS
+2026-05-04 10:00:02  INFO      [stage4b_owl_reasoning]    Triples before:  14,404
+2026-05-04 10:00:02  INFO      [stage4b_owl_reasoning]    Triples inferred:10,709
+2026-05-04 10:00:02  INFO      [stage4b_owl_reasoning]    DL queries:      10/10 passed
+2026-05-04 10:00:02  INFO      [stage4b_owl_reasoning]  
+2026-05-04 10:00:02  INFO      [stage4b_owl_reasoning]    Output files:
+2026-05-04 10:00:02  INFO      [stage4b_owl_reasoning]      inferred_triples.ttl     — new triples from reasoning
+2026-05-04 10:00:02  INFO      [stage4b_owl_reasoning]      consistency_report.tsv   — pass/fail + counts
+2026-05-04 10:00:02  INFO      [stage4b_owl_reasoning]      dl_query_summary.tsv     — all DL query results
+2026-05-04 10:00:02  INFO      [stage4b_owl_reasoning]      dl_query_DL01.tsv …      — per-query result tables
+2026-05-04 10:00:02  INFO      [stage4b_owl_reasoning]  
+2026-05-04 10:00:02  INFO      [stage4b_owl_reasoning]    Comparison with Protege:
+2026-05-04 10:00:02  INFO      [stage4b_owl_reasoning]      owlrl = OWL RL reasoning  (rule-based, no Java)
+2026-05-04 10:00:02  INFO      [stage4b_owl_reasoning]      HermiT in Protege = OWL DL reasoning (needs Java)
+2026-05-04 10:00:02  INFO      [stage4b_owl_reasoning]      Both detect inconsistencies for annotation ontologies.
+2026-05-04 10:00:02  INFO      [stage4b_owl_reasoning]      HermiT additionally supports nominals + cardinality.
+2026-05-04 10:00:02  INFO      [stage4b_owl_reasoning]      For your cAMP ontology, owlrl coverage is sufficient.
+2026-05-04 11:15:13  INFO      [stage4b_owl_reasoning]  ==================================================================
+2026-05-04 11:15:13  INFO      [stage4b_owl_reasoning]    STAGE 4b: OWL Reasoning (Python — no Java required)
+2026-05-04 11:15:13  INFO      [stage4b_owl_reasoning]  ==================================================================
+2026-05-04 11:15:13  INFO      [stage4b_owl_reasoning]  Loading ontology files …
+2026-05-04 11:15:13  INFO      [stage4b_owl_reasoning]    Loaded core: 302 triples  (input\core_new.ttl)
+2026-05-04 11:15:14  INFO      [stage4b_owl_reasoning]    Loaded population: 14,102 triples  (input\calcium_population.ttl)
+2026-05-04 11:15:14  INFO      [stage4b_owl_reasoning]  Total before reasoning: 14,404 triples
+2026-05-04 11:15:14  INFO      [stage4b_owl_reasoning]  Running OWL RL reasoning (owlrl.DeductiveClosure) …
+2026-05-04 11:15:26  INFO      [stage4b_owl_reasoning]  After reasoning: 25,113 triples  (+10,709 inferred)
+2026-05-04 11:15:27  INFO      [stage4b_owl_reasoning]    Consistency: PASS — no unsatisfiable individuals
+2026-05-04 11:15:28  INFO      [stage4b_owl_reasoning]  Inferred triples saved → output\stage4b_owl_reasoning\inferred_triples.ttl
+2026-05-04 11:15:28  INFO      [stage4b_owl_reasoning]  Saved 5 rows → output\stage4b_owl_reasoning\consistency_report.tsv
+2026-05-04 11:15:28  INFO      [stage4b_owl_reasoning]  
+Running 10 DL queries against reasoned graph …
+2026-05-04 11:15:28  INFO      [stage4b_owl_reasoning]    DL01: Domain types with scaffold function (DOF:000016)  → 91 results
+2026-05-04 11:15:28  INFO      [stage4b_owl_reasoning]    DL02: Domain types with receptor-binding function (DOF:000038)  → 0 results
+2026-05-04 11:15:29  INFO      [stage4b_owl_reasoning]    DL03: Transmembrane domain occurrences (DOP:000008)  → 49 results
+2026-05-04 11:15:29  INFO      [stage4b_owl_reasoning]    DL04: Proteins with scaffold domain in transmembrane context  → 0 results
+2026-05-04 11:15:31  INFO      [stage4b_owl_reasoning]    DL05: Co-occurring domain pairs  → 1814 results
+2026-05-04 11:15:31  INFO      [stage4b_owl_reasoning]    DL06: Proteins with multiple domain types  → 36 results
+2026-05-04 11:15:31  INFO      [stage4b_owl_reasoning]    DL07: Consistency check — unsatisfiable individuals  → 0 results
+2026-05-04 11:15:31  INFO      [stage4b_owl_reasoning]    DL08: Domain types with GO annotations  → 52 results
+2026-05-04 11:15:31  INFO      [stage4b_owl_reasoning]    DL09: Domain order chains  → 406 results
+2026-05-04 11:15:31  INFO      [stage4b_owl_reasoning]    DL10: Binding target coverage  → 490 results
+2026-05-04 11:15:31  INFO      [stage4b_owl_reasoning]  Saved 10 rows → output\stage4b_owl_reasoning\dl_query_summary.tsv
+2026-05-04 11:15:31  INFO      [stage4b_owl_reasoning]  
+2026-05-04 11:15:31  INFO      [stage4b_owl_reasoning]  ============================================================
+2026-05-04 11:15:31  INFO      [stage4b_owl_reasoning]    STAGE 4b COMPLETE
+2026-05-04 11:15:31  INFO      [stage4b_owl_reasoning]  ============================================================
+2026-05-04 11:15:31  INFO      [stage4b_owl_reasoning]    Consistency:     PASS
+2026-05-04 11:15:31  INFO      [stage4b_owl_reasoning]    Triples before:  14,404
+2026-05-04 11:15:31  INFO      [stage4b_owl_reasoning]    Triples inferred:10,709
+2026-05-04 11:15:31  INFO      [stage4b_owl_reasoning]    DL queries:      10/10 passed
+2026-05-04 11:15:31  INFO      [stage4b_owl_reasoning]  
+2026-05-04 11:15:31  INFO      [stage4b_owl_reasoning]    Output files:
+2026-05-04 11:15:31  INFO      [stage4b_owl_reasoning]      inferred_triples.ttl     — new triples from reasoning
+2026-05-04 11:15:31  INFO      [stage4b_owl_reasoning]      consistency_report.tsv   — pass/fail + counts
+2026-05-04 11:15:31  INFO      [stage4b_owl_reasoning]      dl_query_summary.tsv     — all DL query results
+2026-05-04 11:15:31  INFO      [stage4b_owl_reasoning]      dl_query_DL01.tsv …      — per-query result tables
+2026-05-04 11:15:31  INFO      [stage4b_owl_reasoning]  
+2026-05-04 11:15:31  INFO      [stage4b_owl_reasoning]    Comparison with Protege:
+2026-05-04 11:15:31  INFO      [stage4b_owl_reasoning]      owlrl = OWL RL reasoning  (rule-based, no Java)
+2026-05-04 11:15:31  INFO      [stage4b_owl_reasoning]      HermiT in Protege = OWL DL reasoning (needs Java)
+2026-05-04 11:15:31  INFO      [stage4b_owl_reasoning]      Both detect inconsistencies for annotation ontologies.
+2026-05-04 11:15:31  INFO      [stage4b_owl_reasoning]      HermiT additionally supports nominals + cardinality.
+2026-05-04 11:15:31  INFO      [stage4b_owl_reasoning]      For your cAMP ontology, owlrl coverage is sufficient.

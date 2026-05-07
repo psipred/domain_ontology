@@ -1,0 +1,251 @@
+2026-05-03 14:36:00  INFO      [stage9_network]  ==================================================================
+2026-05-03 14:36:00  INFO      [stage9_network]    STAGE 9: Ontology-Derived Network
+2026-05-03 14:36:00  INFO      [stage9_network]  ==================================================================
+2026-05-03 14:36:00  WARNING   [stage9_network]  domain_occurrence_table not found — skipping Stage 9
+2026-05-03 14:43:13  INFO      [stage9_network]  ==================================================================
+2026-05-03 14:43:13  INFO      [stage9_network]    STAGE 9: Ontology-Derived Network
+2026-05-03 14:43:13  INFO      [stage9_network]  ==================================================================
+2026-05-03 14:43:13  WARNING   [stage9_network]  domain_occurrence_table not found — skipping Stage 9
+2026-05-03 15:35:16  INFO      [stage9_network]  ==================================================================
+2026-05-03 15:35:16  INFO      [stage9_network]    STAGE 9: Ontology-Derived Network
+2026-05-03 15:35:16  INFO      [stage9_network]  ==================================================================
+2026-05-03 16:16:06  INFO      [stage9_network]  ==================================================================
+2026-05-03 16:16:06  INFO      [stage9_network]    STAGE 9: Ontology-Derived Network
+2026-05-03 16:16:06  INFO      [stage9_network]  ==================================================================
+2026-05-03 16:16:07  INFO      [stage9_network]  Network: 431 nodes, 1059 edges
+2026-05-03 16:16:07  INFO      [stage9_network]  Saved 431 rows → output\stage9_network\network_nodes.tsv
+2026-05-03 16:16:07  INFO      [stage9_network]  Saved 1059 rows → output\stage9_network\network_edges.tsv
+2026-05-03 16:16:07  INFO      [stage9_network]  Generating network plots …
+2026-05-03 16:16:07  INFO      [stage9_network]  Generating full network layout (316 nodes) …
+2026-05-03 16:16:09  INFO      [stage9_network]  Saved full network → ontology_network.png
+2026-05-03 16:16:09  INFO      [stage9_network]  Generating hub subgraph layout (60 nodes) …
+2026-05-03 16:16:10  INFO      [stage9_network]  Saved hub network → ontology_network_hubs.png
+2026-05-03 16:16:10  INFO      [stage9_network]  Stage 9 complete.
+2026-05-03 16:27:39  INFO      [stage9_network]  ==================================================================
+2026-05-03 16:27:39  INFO      [stage9_network]    STAGE 9: Ontology-Derived Network
+2026-05-03 16:27:39  INFO      [stage9_network]  ==================================================================
+2026-05-03 16:27:39  INFO      [stage9_network]  Network: 431 nodes, 1059 edges
+2026-05-03 16:27:39  INFO      [stage9_network]  Saved 431 rows → output\stage9_network\network_nodes.tsv
+2026-05-03 16:27:39  INFO      [stage9_network]  Saved 1059 rows → output\stage9_network\network_edges.tsv
+2026-05-03 16:27:39  INFO      [stage9_network]  Generating network plots …
+2026-05-03 16:27:39  INFO      [stage9_network]  Generating full network layout (316 nodes) …
+2026-05-03 16:27:40  INFO      [stage9_network]  Saved full network → ontology_network.png
+2026-05-03 16:27:40  INFO      [stage9_network]  Generating hub subgraph layout (60 nodes) …
+2026-05-03 16:27:40  INFO      [stage9_network]  Saved hub network → ontology_network_hubs.png
+2026-05-03 16:27:40  INFO      [stage9_network]  Stage 9 complete.
+2026-05-03 16:39:07  INFO      [stage9_network]  ==================================================================
+2026-05-03 16:39:07  INFO      [stage9_network]    STAGE 9: Ontology-Derived Network
+2026-05-03 16:39:07  INFO      [stage9_network]  ==================================================================
+2026-05-03 16:39:07  INFO      [stage9_network]  Network: 431 nodes, 1059 edges
+2026-05-03 16:39:07  INFO      [stage9_network]  Saved 431 rows → output\stage9_network\network_nodes.tsv
+2026-05-03 16:39:07  INFO      [stage9_network]  Saved 1059 rows → output\stage9_network\network_edges.tsv
+2026-05-03 16:39:07  INFO      [stage9_network]  Generating network plots …
+2026-05-03 16:39:07  INFO      [stage9_network]  Generating full network layout (316 nodes) …
+2026-05-03 16:39:08  INFO      [stage9_network]  Saved full network → ontology_network.png
+2026-05-03 16:39:08  INFO      [stage9_network]  Generating hub subgraph layout (60 nodes) …
+2026-05-03 16:39:08  INFO      [stage9_network]  Saved hub network → ontology_network_hubs.png
+2026-05-03 16:39:08  INFO      [stage9_network]  Stage 9 complete.
+2026-05-03 17:14:42  INFO      [stage9_network]  ==================================================================
+2026-05-03 17:14:42  INFO      [stage9_network]    STAGE 9: Ontology-Derived Network
+2026-05-03 17:14:42  INFO      [stage9_network]  ==================================================================
+2026-05-03 17:14:42  INFO      [stage9_network]  Network: 431 nodes, 1059 edges
+2026-05-03 17:14:42  INFO      [stage9_network]  Saved 431 rows → output\stage9_network\network_nodes.tsv
+2026-05-03 17:14:42  INFO      [stage9_network]  Saved 1059 rows → output\stage9_network\network_edges.tsv
+2026-05-03 17:14:42  INFO      [stage9_network]  Generating network plots …
+2026-05-03 17:14:42  INFO      [stage9_network]  Generating full network layout (316 nodes) …
+2026-05-03 17:14:43  INFO      [stage9_network]  Saved full network → ontology_network.png
+2026-05-03 17:14:43  INFO      [stage9_network]  Generating hub subgraph layout (60 nodes) …
+2026-05-03 17:14:43  INFO      [stage9_network]  Saved hub network → ontology_network_hubs.png
+2026-05-03 17:14:43  INFO      [stage9_network]  Stage 9 complete.
+2026-05-03 22:57:24  INFO      [stage9_network]  ==================================================================
+2026-05-03 22:57:24  INFO      [stage9_network]    STAGE 9: Ontology-Derived Network
+2026-05-03 22:57:24  INFO      [stage9_network]  ==================================================================
+2026-05-03 22:57:24  INFO      [stage9_network]  Network: 431 nodes, 1059 edges
+2026-05-03 22:57:24  INFO      [stage9_network]  Saved 431 rows → output\stage9_network\network_nodes.tsv
+2026-05-03 22:57:24  INFO      [stage9_network]  Saved 1059 rows → output\stage9_network\network_edges.tsv
+2026-05-03 22:57:24  INFO      [stage9_network]  Generating network plots …
+2026-05-03 22:57:24  INFO      [stage9_network]  Generating full network layout (316 nodes) …
+2026-05-03 22:57:27  INFO      [stage9_network]  Saved full network → ontology_network.png
+2026-05-03 22:57:27  INFO      [stage9_network]  Generating hub subgraph layout (60 nodes) …
+2026-05-03 22:57:28  INFO      [stage9_network]  Saved hub network → ontology_network_hubs.png
+2026-05-03 22:57:28  INFO      [stage9_network]  Stage 9 complete.
+2026-05-03 23:21:58  INFO      [stage9_network]  ==================================================================
+2026-05-03 23:21:58  INFO      [stage9_network]    STAGE 9: Ontology-Derived Network
+2026-05-03 23:21:58  INFO      [stage9_network]  ==================================================================
+2026-05-03 23:21:58  INFO      [stage9_network]  Network: 430 nodes, 1058 edges
+2026-05-03 23:21:58  INFO      [stage9_network]  Saved 430 rows → output\stage9_network\network_nodes.tsv
+2026-05-03 23:21:58  INFO      [stage9_network]  Saved 1058 rows → output\stage9_network\network_edges.tsv
+2026-05-03 23:21:58  INFO      [stage9_network]  Generating network plots …
+2026-05-03 23:21:58  INFO      [stage9_network]  Generating full network layout (316 nodes) …
+2026-05-03 23:21:59  INFO      [stage9_network]  Saved full network → ontology_network.png
+2026-05-03 23:21:59  INFO      [stage9_network]  Generating hub subgraph layout (60 nodes) …
+2026-05-03 23:22:00  INFO      [stage9_network]  Saved hub network → ontology_network_hubs.png
+2026-05-03 23:22:00  INFO      [stage9_network]  Stage 9 complete.
+2026-05-03 23:28:02  INFO      [stage9_network]  ==================================================================
+2026-05-03 23:28:02  INFO      [stage9_network]    STAGE 9: Ontology-Derived Network
+2026-05-03 23:28:02  INFO      [stage9_network]  ==================================================================
+2026-05-03 23:28:02  INFO      [stage9_network]  Network: 430 nodes, 1058 edges
+2026-05-03 23:28:02  INFO      [stage9_network]  Saved 430 rows → output\stage9_network\network_nodes.tsv
+2026-05-03 23:28:02  INFO      [stage9_network]  Saved 1058 rows → output\stage9_network\network_edges.tsv
+2026-05-03 23:28:02  INFO      [stage9_network]  Generating network plots …
+2026-05-03 23:28:02  INFO      [stage9_network]  Generating full network layout (316 nodes) …
+2026-05-03 23:28:03  INFO      [stage9_network]  Saved full network → ontology_network.png
+2026-05-03 23:28:03  INFO      [stage9_network]  Generating hub subgraph layout (60 nodes) …
+2026-05-03 23:28:03  INFO      [stage9_network]  Saved hub network → ontology_network_hubs.png
+2026-05-03 23:28:03  INFO      [stage9_network]  Stage 9 complete.
+2026-05-03 23:34:19  INFO      [stage9_network]  ==================================================================
+2026-05-03 23:34:19  INFO      [stage9_network]    STAGE 9: Ontology-Derived Network
+2026-05-03 23:34:19  INFO      [stage9_network]  ==================================================================
+2026-05-03 23:34:19  INFO      [stage9_network]  Network: 430 nodes, 1058 edges
+2026-05-03 23:34:19  INFO      [stage9_network]  Saved 430 rows → output\stage9_network\network_nodes.tsv
+2026-05-03 23:34:19  INFO      [stage9_network]  Saved 1058 rows → output\stage9_network\network_edges.tsv
+2026-05-03 23:34:19  INFO      [stage9_network]  Generating network plots …
+2026-05-03 23:34:19  INFO      [stage9_network]  Generating full network layout (316 nodes) …
+2026-05-03 23:34:20  INFO      [stage9_network]  Saved full network → ontology_network.png
+2026-05-03 23:34:20  INFO      [stage9_network]  Generating hub subgraph layout (60 nodes) …
+2026-05-03 23:34:21  INFO      [stage9_network]  Saved hub network → ontology_network_hubs.png
+2026-05-03 23:34:21  INFO      [stage9_network]  Stage 9 complete.
+2026-05-03 23:51:27  INFO      [stage9_network]  ==================================================================
+2026-05-03 23:51:27  INFO      [stage9_network]    STAGE 9: Ontology-Derived Network
+2026-05-03 23:51:27  INFO      [stage9_network]  ==================================================================
+2026-05-03 23:51:27  INFO      [stage9_network]  Network: 430 nodes, 1058 edges
+2026-05-03 23:51:27  INFO      [stage9_network]  Saved 430 rows → output\stage9_network\network_nodes.tsv
+2026-05-03 23:51:27  INFO      [stage9_network]  Saved 1058 rows → output\stage9_network\network_edges.tsv
+2026-05-03 23:51:27  INFO      [stage9_network]  Generating network plots …
+2026-05-03 23:51:27  INFO      [stage9_network]  Generating full network layout (316 nodes) …
+2026-05-03 23:51:28  INFO      [stage9_network]  Saved full network → ontology_network.png
+2026-05-03 23:51:28  INFO      [stage9_network]  Generating hub subgraph layout (60 nodes) …
+2026-05-03 23:51:28  INFO      [stage9_network]  Saved hub network → ontology_network_hubs.png
+2026-05-03 23:51:28  INFO      [stage9_network]  Stage 9 complete.
+2026-05-04 00:15:32  INFO      [stage9_network]  ==================================================================
+2026-05-04 00:15:32  INFO      [stage9_network]    STAGE 9: Ontology-Derived Network
+2026-05-04 00:15:32  INFO      [stage9_network]  ==================================================================
+2026-05-04 00:15:32  INFO      [stage9_network]  Network: 430 nodes, 1058 edges
+2026-05-04 00:15:32  INFO      [stage9_network]  Saved 430 rows → output\stage9_network\network_nodes.tsv
+2026-05-04 00:15:32  INFO      [stage9_network]  Saved 1058 rows → output\stage9_network\network_edges.tsv
+2026-05-04 00:15:32  INFO      [stage9_network]  Generating network plots …
+2026-05-04 00:15:32  INFO      [stage9_network]  Generating full network layout (316 nodes) …
+2026-05-04 00:15:33  INFO      [stage9_network]  Saved full network → ontology_network.png
+2026-05-04 00:15:33  INFO      [stage9_network]  Generating hub subgraph layout (60 nodes) …
+2026-05-04 00:15:33  INFO      [stage9_network]  Saved hub network → ontology_network_hubs.png
+2026-05-04 00:15:33  INFO      [stage9_network]  Stage 9 complete.
+2026-05-04 01:15:24  INFO      [stage9_network]  ==================================================================
+2026-05-04 01:15:24  INFO      [stage9_network]    STAGE 9: Ontology-Derived Network
+2026-05-04 01:15:24  INFO      [stage9_network]  ==================================================================
+2026-05-04 01:15:24  INFO      [stage9_network]  Network: 430 nodes, 1058 edges
+2026-05-04 01:15:24  INFO      [stage9_network]  Saved 430 rows → output\stage9_network\network_nodes.tsv
+2026-05-04 01:15:24  INFO      [stage9_network]  Saved 1058 rows → output\stage9_network\network_edges.tsv
+2026-05-04 01:15:24  INFO      [stage9_network]  Generating network plots …
+2026-05-04 01:15:24  INFO      [stage9_network]  Generating full network layout (316 nodes) …
+2026-05-04 01:15:25  INFO      [stage9_network]  Saved full network → ontology_network.png
+2026-05-04 01:15:25  INFO      [stage9_network]  Generating hub subgraph layout (60 nodes) …
+2026-05-04 01:15:26  INFO      [stage9_network]  Saved hub network → ontology_network_hubs.png
+2026-05-04 01:15:26  INFO      [stage9_network]  Stage 9 complete.
+2026-05-04 02:08:51  INFO      [stage9_network]  ==================================================================
+2026-05-04 02:08:51  INFO      [stage9_network]    STAGE 9: Ontology-Derived Network
+2026-05-04 02:08:51  INFO      [stage9_network]  ==================================================================
+2026-05-04 02:08:51  INFO      [stage9_network]  Network: 430 nodes, 1058 edges
+2026-05-04 02:08:51  INFO      [stage9_network]  Saved 430 rows → output\stage9_network\network_nodes.tsv
+2026-05-04 02:08:51  INFO      [stage9_network]  Saved 1058 rows → output\stage9_network\network_edges.tsv
+2026-05-04 02:08:51  INFO      [stage9_network]  Generating network plots …
+2026-05-04 02:08:51  INFO      [stage9_network]  Generating full network layout (316 nodes) …
+2026-05-04 02:08:52  INFO      [stage9_network]  Saved full network → ontology_network.png
+2026-05-04 02:08:52  INFO      [stage9_network]  Generating hub subgraph layout (60 nodes) …
+2026-05-04 02:08:53  INFO      [stage9_network]  Saved hub network → ontology_network_hubs.png
+2026-05-04 02:08:53  INFO      [stage9_network]  Stage 9 complete.
+2026-05-04 04:34:31  INFO      [stage9_network]  ==================================================================
+2026-05-04 04:34:31  INFO      [stage9_network]    STAGE 9: Ontology-Derived Network
+2026-05-04 04:34:31  INFO      [stage9_network]  ==================================================================
+2026-05-04 04:34:31  INFO      [stage9_network]  Network: 192 nodes, 432 edges
+2026-05-04 04:34:31  INFO      [stage9_network]  Saved 192 rows → output\stage9_network\network_nodes.tsv
+2026-05-04 04:34:31  INFO      [stage9_network]  Saved 432 rows → output\stage9_network\network_edges.tsv
+2026-05-04 04:34:31  INFO      [stage9_network]  Generating network plots …
+2026-05-04 04:34:31  INFO      [stage9_network]  Generating full network layout (131 nodes) …
+2026-05-04 04:34:32  INFO      [stage9_network]  Saved full network → ontology_network.png
+2026-05-04 04:34:32  INFO      [stage9_network]  Generating hub subgraph layout (60 nodes) …
+2026-05-04 04:34:33  INFO      [stage9_network]  Saved hub network → ontology_network_hubs.png
+2026-05-04 04:34:33  INFO      [stage9_network]  Stage 9 complete.
+2026-05-04 04:41:55  INFO      [stage9_network]  ==================================================================
+2026-05-04 04:41:55  INFO      [stage9_network]    STAGE 9: Ontology-Derived Network
+2026-05-04 04:41:55  INFO      [stage9_network]  ==================================================================
+2026-05-04 04:41:56  INFO      [stage9_network]  Network: 192 nodes, 432 edges
+2026-05-04 04:41:56  INFO      [stage9_network]  Saved 192 rows → output\stage9_network\network_nodes.tsv
+2026-05-04 04:41:56  INFO      [stage9_network]  Saved 432 rows → output\stage9_network\network_edges.tsv
+2026-05-04 04:41:56  INFO      [stage9_network]  Generating network plots …
+2026-05-04 04:41:56  INFO      [stage9_network]  Generating full network layout (131 nodes) …
+2026-05-04 04:41:56  INFO      [stage9_network]  Saved full network → ontology_network.png
+2026-05-04 04:41:56  INFO      [stage9_network]  Generating hub subgraph layout (60 nodes) …
+2026-05-04 04:41:57  INFO      [stage9_network]  Saved hub network → ontology_network_hubs.png
+2026-05-04 04:41:57  INFO      [stage9_network]  Stage 9 complete.
+2026-05-04 09:33:19  INFO      [stage9_network]  ==================================================================
+2026-05-04 09:33:19  INFO      [stage9_network]    STAGE 9: Ontology-Derived Network
+2026-05-04 09:33:19  INFO      [stage9_network]  ==================================================================
+2026-05-04 09:33:19  INFO      [stage9_network]  Network: 191 nodes, 432 edges
+2026-05-04 09:33:19  INFO      [stage9_network]  Saved 191 rows → output\stage9_network\network_nodes.tsv
+2026-05-04 09:33:19  INFO      [stage9_network]  Saved 432 rows → output\stage9_network\network_edges.tsv
+2026-05-04 09:33:19  INFO      [stage9_network]  Generating network plots …
+2026-05-04 09:33:19  INFO      [stage9_network]  Generating full network layout (132 nodes) …
+2026-05-04 09:33:20  INFO      [stage9_network]  Saved full network → ontology_network.png
+2026-05-04 09:33:20  INFO      [stage9_network]  Generating hub subgraph layout (60 nodes) …
+2026-05-04 09:33:21  INFO      [stage9_network]  Saved hub network → ontology_network_hubs.png
+2026-05-04 09:33:21  INFO      [stage9_network]  Stage 9 complete.
+2026-05-04 09:35:08  INFO      [stage9_network]  ==================================================================
+2026-05-04 09:35:08  INFO      [stage9_network]    STAGE 9: Ontology-Derived Network
+2026-05-04 09:35:08  INFO      [stage9_network]  ==================================================================
+2026-05-04 09:35:08  INFO      [stage9_network]  Network: 191 nodes, 432 edges
+2026-05-04 09:35:08  INFO      [stage9_network]  Saved 191 rows → output\stage9_network\network_nodes.tsv
+2026-05-04 09:35:08  INFO      [stage9_network]  Saved 432 rows → output\stage9_network\network_edges.tsv
+2026-05-04 09:35:08  INFO      [stage9_network]  Generating network plots …
+2026-05-04 09:35:08  INFO      [stage9_network]  Generating full network layout (132 nodes) …
+2026-05-04 09:35:08  INFO      [stage9_network]  Saved full network → ontology_network.png
+2026-05-04 09:35:08  INFO      [stage9_network]  Generating hub subgraph layout (60 nodes) …
+2026-05-04 09:35:08  INFO      [stage9_network]  Saved hub network → ontology_network_hubs.png
+2026-05-04 09:35:09  INFO      [stage9_network]  Stage 9 complete.
+2026-05-04 09:57:40  INFO      [stage9_network]  ==================================================================
+2026-05-04 09:57:40  INFO      [stage9_network]    STAGE 9: Ontology-Derived Network
+2026-05-04 09:57:40  INFO      [stage9_network]  ==================================================================
+2026-05-04 09:57:40  INFO      [stage9_network]  Network: 191 nodes, 432 edges
+2026-05-04 09:57:40  INFO      [stage9_network]  Saved 191 rows → output\stage9_network\network_nodes.tsv
+2026-05-04 09:57:40  INFO      [stage9_network]  Saved 432 rows → output\stage9_network\network_edges.tsv
+2026-05-04 09:57:40  INFO      [stage9_network]  Generating network plots …
+2026-05-04 09:57:40  INFO      [stage9_network]  Generating full network layout (132 nodes) …
+2026-05-04 09:57:40  INFO      [stage9_network]  Saved full network → ontology_network.png
+2026-05-04 09:57:40  INFO      [stage9_network]  Generating hub subgraph layout (60 nodes) …
+2026-05-04 09:57:41  INFO      [stage9_network]  Saved hub network → ontology_network_hubs.png
+2026-05-04 09:57:41  INFO      [stage9_network]  Stage 9 complete.
+2026-05-04 10:27:25  INFO      [stage9_network]  ==================================================================
+2026-05-04 10:27:25  INFO      [stage9_network]    STAGE 9: Ontology-Derived Network
+2026-05-04 10:27:25  INFO      [stage9_network]  ==================================================================
+2026-05-04 10:27:25  INFO      [stage9_network]  Network: 191 nodes, 432 edges
+2026-05-04 10:27:25  INFO      [stage9_network]  Saved 191 rows → output\stage9_network\network_nodes.tsv
+2026-05-04 10:27:25  INFO      [stage9_network]  Saved 432 rows → output\stage9_network\network_edges.tsv
+2026-05-04 10:27:25  INFO      [stage9_network]  Generating network plots …
+2026-05-04 10:27:25  INFO      [stage9_network]  Generating full network layout (132 nodes) …
+2026-05-04 10:27:26  INFO      [stage9_network]  Saved full network → ontology_network.png
+2026-05-04 10:27:26  INFO      [stage9_network]  Generating hub subgraph layout (60 nodes) …
+2026-05-04 10:27:27  INFO      [stage9_network]  Saved hub network → ontology_network_hubs.png
+2026-05-04 10:27:27  INFO      [stage9_network]  Stage 9 complete.
+2026-05-04 11:01:48  INFO      [stage9_network]  ==================================================================
+2026-05-04 11:01:48  INFO      [stage9_network]    STAGE 9: Ontology-Derived Network
+2026-05-04 11:01:48  INFO      [stage9_network]  ==================================================================
+2026-05-04 11:01:48  INFO      [stage9_network]  Network: 191 nodes, 432 edges
+2026-05-04 11:01:48  INFO      [stage9_network]  Saved 191 rows → output\stage9_network\network_nodes.tsv
+2026-05-04 11:01:48  INFO      [stage9_network]  Saved 432 rows → output\stage9_network\network_edges.tsv
+2026-05-04 11:01:48  INFO      [stage9_network]  Generating network plots …
+2026-05-04 11:01:48  INFO      [stage9_network]  Generating full network layout (132 nodes) …
+2026-05-04 11:01:49  INFO      [stage9_network]  Saved full network → ontology_network.png
+2026-05-04 11:01:49  INFO      [stage9_network]  Generating hub subgraph layout (60 nodes) …
+2026-05-04 11:01:49  INFO      [stage9_network]  Saved hub network → ontology_network_hubs.png
+2026-05-04 11:01:49  INFO      [stage9_network]  Stage 9 complete.
+2026-05-04 11:49:18  INFO      [stage9_network]  ==================================================================
+2026-05-04 11:49:18  INFO      [stage9_network]    STAGE 9: Ontology-Derived Network
+2026-05-04 11:49:18  INFO      [stage9_network]  ==================================================================
+2026-05-04 11:49:18  INFO      [stage9_network]  Network: 191 nodes, 432 edges
+2026-05-04 11:49:18  INFO      [stage9_network]  Saved 191 rows → output\stage9_network\network_nodes.tsv
+2026-05-04 11:49:18  INFO      [stage9_network]  Saved 432 rows → output\stage9_network\network_edges.tsv
+2026-05-04 11:49:18  INFO      [stage9_network]  Generating network plots …
+2026-05-04 11:49:18  INFO      [stage9_network]  Generating full network layout (132 nodes) …
+2026-05-04 11:49:19  INFO      [stage9_network]  Saved full network → ontology_network.png
+2026-05-04 11:49:19  INFO      [stage9_network]  Generating hub subgraph layout (60 nodes) …
+2026-05-04 11:49:19  INFO      [stage9_network]  Saved hub network → ontology_network_hubs.png
+2026-05-04 11:49:19  INFO      [stage9_network]  Stage 9 complete.

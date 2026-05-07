@@ -1,0 +1,454 @@
+2026-05-03 14:35:57  INFO      [stage6_competency]  ==================================================================
+2026-05-03 14:35:57  INFO      [stage6_competency]    STAGE 6: Competency Question Engine
+2026-05-03 14:35:57  INFO      [stage6_competency]  ==================================================================
+2026-05-03 14:35:57  ERROR     [stage6_competency]  domain_occurrence_table not found — cannot run competency questions
+2026-05-03 14:43:08  INFO      [stage6_competency]  ==================================================================
+2026-05-03 14:43:08  INFO      [stage6_competency]    STAGE 6: Competency Question Engine
+2026-05-03 14:43:08  INFO      [stage6_competency]  ==================================================================
+2026-05-03 14:43:08  ERROR     [stage6_competency]  domain_occurrence_table not found — cannot run competency questions
+2026-05-03 15:35:08  INFO      [stage6_competency]  ==================================================================
+2026-05-03 15:35:08  INFO      [stage6_competency]    STAGE 6: Competency Question Engine
+2026-05-03 15:35:08  INFO      [stage6_competency]  ==================================================================
+2026-05-03 15:35:09  INFO      [stage6_competency]  rdflib available — RDF graph loaded: 25,002 triples
+2026-05-03 16:15:51  INFO      [stage6_competency]  ==================================================================
+2026-05-03 16:15:51  INFO      [stage6_competency]    STAGE 6: Competency Question Engine
+2026-05-03 16:15:51  INFO      [stage6_competency]  ==================================================================
+2026-05-03 16:15:55  INFO      [stage6_competency]  rdflib available — RDF graph loaded: 25,002 triples
+2026-05-03 16:15:55  INFO      [stage6_competency]  Occurrence table loaded: 475 rows
+2026-05-03 16:15:55  INFO      [stage6_competency]  Running CQ01_protein_domain_function …
+2026-05-03 16:15:55  INFO      [stage6_competency]  Saved 798 rows → output\stage6_competency\CQ01_protein_domain_function.tsv
+2026-05-03 16:15:55  INFO      [stage6_competency]    CQ01_protein_domain_function → 798 rows
+2026-05-03 16:15:55  INFO      [stage6_competency]  Running CQ02_domain_cooccurrence …
+2026-05-03 16:15:55  INFO      [stage6_competency]  Saved 165 rows → output\stage6_competency\CQ02_domain_cooccurrence.tsv
+2026-05-03 16:15:55  INFO      [stage6_competency]    CQ02_domain_cooccurrence → 165 rows
+2026-05-03 16:15:55  INFO      [stage6_competency]  Running CQ03_process_linked_domains …
+2026-05-03 16:15:55  INFO      [stage6_competency]  Saved 0 rows → output\stage6_competency\CQ03_process_linked_domains.tsv
+2026-05-03 16:15:55  WARNING   [stage6_competency]    CQ03_process_linked_domains → 0 rows — check data coverage
+2026-05-03 16:15:55  INFO      [stage6_competency]  Running CQ04_binding_target_proteins …
+2026-05-03 16:15:55  INFO      [stage6_competency]  Saved 173 rows → output\stage6_competency\CQ04_binding_target_proteins.tsv
+2026-05-03 16:15:55  INFO      [stage6_competency]    CQ04_binding_target_proteins → 173 rows
+2026-05-03 16:15:55  INFO      [stage6_competency]  Running CQ05_positional_category_distribution …
+2026-05-03 16:15:55  INFO      [stage6_competency]  Saved 3 rows → output\stage6_competency\CQ05_positional_category_distribution.tsv
+2026-05-03 16:15:55  INFO      [stage6_competency]    CQ05_positional_category_distribution → 3 rows
+2026-05-03 16:15:55  INFO      [stage6_competency]  Saved 5 rows → output\stage6_competency\competency_question_summary.tsv
+2026-05-03 16:15:55  INFO      [stage6_competency]  Stage 6 complete — 5 queries: 4 OK, 1 empty, 0 errors
+2026-05-03 16:27:30  INFO      [stage6_competency]  ==================================================================
+2026-05-03 16:27:30  INFO      [stage6_competency]    STAGE 6: Competency Question Engine
+2026-05-03 16:27:30  INFO      [stage6_competency]  ==================================================================
+2026-05-03 16:27:31  INFO      [stage6_competency]  rdflib available — RDF graph loaded: 25,002 triples
+2026-05-03 16:27:31  INFO      [stage6_competency]  Occurrence table loaded: 475 rows
+2026-05-03 16:27:31  INFO      [stage6_competency]  Running CQ01_protein_domain_function …
+2026-05-03 16:27:31  INFO      [stage6_competency]  Saved 798 rows → output\stage6_competency\CQ01_protein_domain_function.tsv
+2026-05-03 16:27:31  INFO      [stage6_competency]    CQ01_protein_domain_function → 798 rows
+2026-05-03 16:27:31  INFO      [stage6_competency]  Running CQ02_domain_cooccurrence …
+2026-05-03 16:27:31  INFO      [stage6_competency]  Saved 165 rows → output\stage6_competency\CQ02_domain_cooccurrence.tsv
+2026-05-03 16:27:31  INFO      [stage6_competency]    CQ02_domain_cooccurrence → 165 rows
+2026-05-03 16:27:31  INFO      [stage6_competency]  Running CQ03_process_linked_domains …
+2026-05-03 16:27:31  INFO      [stage6_competency]  Saved 0 rows → output\stage6_competency\CQ03_process_linked_domains.tsv
+2026-05-03 16:27:31  WARNING   [stage6_competency]    CQ03_process_linked_domains → 0 rows — check data coverage
+2026-05-03 16:27:31  INFO      [stage6_competency]  Running CQ04_binding_target_proteins …
+2026-05-03 16:27:31  INFO      [stage6_competency]  Saved 173 rows → output\stage6_competency\CQ04_binding_target_proteins.tsv
+2026-05-03 16:27:31  INFO      [stage6_competency]    CQ04_binding_target_proteins → 173 rows
+2026-05-03 16:27:31  INFO      [stage6_competency]  Running CQ05_positional_category_distribution …
+2026-05-03 16:27:31  INFO      [stage6_competency]  Saved 3 rows → output\stage6_competency\CQ05_positional_category_distribution.tsv
+2026-05-03 16:27:31  INFO      [stage6_competency]    CQ05_positional_category_distribution → 3 rows
+2026-05-03 16:27:31  INFO      [stage6_competency]  Saved 5 rows → output\stage6_competency\competency_question_summary.tsv
+2026-05-03 16:27:31  INFO      [stage6_competency]  Stage 6 complete — 5 queries: 4 OK, 1 empty, 0 errors
+2026-05-03 16:38:59  INFO      [stage6_competency]  ==================================================================
+2026-05-03 16:38:59  INFO      [stage6_competency]    STAGE 6: Competency Question Engine
+2026-05-03 16:38:59  INFO      [stage6_competency]  ==================================================================
+2026-05-03 16:39:00  INFO      [stage6_competency]  rdflib available — RDF graph loaded: 25,002 triples
+2026-05-03 16:39:00  INFO      [stage6_competency]  Occurrence table loaded: 475 rows
+2026-05-03 16:39:00  INFO      [stage6_competency]  Running CQ01_protein_domain_function …
+2026-05-03 16:39:00  INFO      [stage6_competency]  Saved 798 rows → output\stage6_competency\CQ01_protein_domain_function.tsv
+2026-05-03 16:39:00  INFO      [stage6_competency]    CQ01_protein_domain_function → 798 rows
+2026-05-03 16:39:00  INFO      [stage6_competency]  Running CQ02_domain_cooccurrence …
+2026-05-03 16:39:00  INFO      [stage6_competency]  Saved 165 rows → output\stage6_competency\CQ02_domain_cooccurrence.tsv
+2026-05-03 16:39:00  INFO      [stage6_competency]    CQ02_domain_cooccurrence → 165 rows
+2026-05-03 16:39:00  INFO      [stage6_competency]  Running CQ03_process_linked_domains …
+2026-05-03 16:39:00  INFO      [stage6_competency]  Saved 0 rows → output\stage6_competency\CQ03_process_linked_domains.tsv
+2026-05-03 16:39:00  WARNING   [stage6_competency]    CQ03_process_linked_domains → 0 rows — check data coverage
+2026-05-03 16:39:00  INFO      [stage6_competency]  Running CQ04_binding_target_proteins …
+2026-05-03 16:39:00  INFO      [stage6_competency]  Saved 173 rows → output\stage6_competency\CQ04_binding_target_proteins.tsv
+2026-05-03 16:39:00  INFO      [stage6_competency]    CQ04_binding_target_proteins → 173 rows
+2026-05-03 16:39:00  INFO      [stage6_competency]  Running CQ05_positional_category_distribution …
+2026-05-03 16:39:00  INFO      [stage6_competency]  Saved 3 rows → output\stage6_competency\CQ05_positional_category_distribution.tsv
+2026-05-03 16:39:00  INFO      [stage6_competency]    CQ05_positional_category_distribution → 3 rows
+2026-05-03 16:39:00  INFO      [stage6_competency]  Saved 5 rows → output\stage6_competency\competency_question_summary.tsv
+2026-05-03 16:39:00  INFO      [stage6_competency]  Stage 6 complete — 5 queries: 4 OK, 1 empty, 0 errors
+2026-05-03 17:14:34  INFO      [stage6_competency]  ==================================================================
+2026-05-03 17:14:34  INFO      [stage6_competency]    STAGE 6: Competency Question Engine
+2026-05-03 17:14:34  INFO      [stage6_competency]  ==================================================================
+2026-05-03 17:14:35  INFO      [stage6_competency]  rdflib available — RDF graph loaded: 25,002 triples
+2026-05-03 17:14:35  INFO      [stage6_competency]  Occurrence table loaded: 473 rows
+2026-05-03 17:14:35  INFO      [stage6_competency]  Running CQ01_protein_domain_function …
+2026-05-03 17:14:35  INFO      [stage6_competency]  Saved 798 rows → output\stage6_competency\CQ01_protein_domain_function.tsv
+2026-05-03 17:14:35  INFO      [stage6_competency]    CQ01_protein_domain_function → 798 rows
+2026-05-03 17:14:35  INFO      [stage6_competency]  Running CQ02_domain_cooccurrence …
+2026-05-03 17:14:35  INFO      [stage6_competency]  Saved 165 rows → output\stage6_competency\CQ02_domain_cooccurrence.tsv
+2026-05-03 17:14:35  INFO      [stage6_competency]    CQ02_domain_cooccurrence → 165 rows
+2026-05-03 17:14:35  INFO      [stage6_competency]  Running CQ03_process_linked_domains …
+2026-05-03 17:14:35  INFO      [stage6_competency]  Saved 0 rows → output\stage6_competency\CQ03_process_linked_domains.tsv
+2026-05-03 17:14:35  WARNING   [stage6_competency]    CQ03_process_linked_domains → 0 rows — check data coverage
+2026-05-03 17:14:35  INFO      [stage6_competency]  Running CQ04_binding_target_proteins …
+2026-05-03 17:14:35  INFO      [stage6_competency]  Saved 173 rows → output\stage6_competency\CQ04_binding_target_proteins.tsv
+2026-05-03 17:14:35  INFO      [stage6_competency]    CQ04_binding_target_proteins → 173 rows
+2026-05-03 17:14:35  INFO      [stage6_competency]  Running CQ05_positional_category_distribution …
+2026-05-03 17:14:35  INFO      [stage6_competency]  Saved 3 rows → output\stage6_competency\CQ05_positional_category_distribution.tsv
+2026-05-03 17:14:35  INFO      [stage6_competency]    CQ05_positional_category_distribution → 3 rows
+2026-05-03 17:14:35  INFO      [stage6_competency]  Saved 5 rows → output\stage6_competency\competency_question_summary.tsv
+2026-05-03 17:14:35  INFO      [stage6_competency]  Stage 6 complete — 5 queries: 4 OK, 1 empty, 0 errors
+2026-05-03 22:56:52  INFO      [stage6_competency]  ==================================================================
+2026-05-03 22:56:52  INFO      [stage6_competency]    STAGE 6: Competency Question Engine
+2026-05-03 22:56:52  INFO      [stage6_competency]  ==================================================================
+2026-05-03 22:56:56  INFO      [stage6_competency]  rdflib available — RDF graph loaded: 25,002 triples
+2026-05-03 22:56:56  INFO      [stage6_competency]  Occurrence table loaded: 473 rows
+2026-05-03 22:56:56  INFO      [stage6_competency]  Running CQ01_protein_domain_function …
+2026-05-03 22:56:56  INFO      [stage6_competency]  Saved 798 rows → output\stage6_competency\CQ01_protein_domain_function.tsv
+2026-05-03 22:56:56  INFO      [stage6_competency]    CQ01_protein_domain_function → 798 rows
+2026-05-03 22:56:56  INFO      [stage6_competency]  Running CQ02_domain_cooccurrence …
+2026-05-03 22:56:57  INFO      [stage6_competency]  Saved 165 rows → output\stage6_competency\CQ02_domain_cooccurrence.tsv
+2026-05-03 22:56:57  INFO      [stage6_competency]    CQ02_domain_cooccurrence → 165 rows
+2026-05-03 22:56:57  INFO      [stage6_competency]  Running CQ03_process_linked_domains …
+2026-05-03 22:56:57  INFO      [stage6_competency]  Saved 0 rows → output\stage6_competency\CQ03_process_linked_domains.tsv
+2026-05-03 22:56:57  WARNING   [stage6_competency]    CQ03_process_linked_domains → 0 rows — check data coverage
+2026-05-03 22:56:57  INFO      [stage6_competency]  Running CQ04_binding_target_proteins …
+2026-05-03 22:56:57  INFO      [stage6_competency]  Saved 173 rows → output\stage6_competency\CQ04_binding_target_proteins.tsv
+2026-05-03 22:56:57  INFO      [stage6_competency]    CQ04_binding_target_proteins → 173 rows
+2026-05-03 22:56:57  INFO      [stage6_competency]  Running CQ05_positional_category_distribution …
+2026-05-03 22:56:57  INFO      [stage6_competency]  Saved 3 rows → output\stage6_competency\CQ05_positional_category_distribution.tsv
+2026-05-03 22:56:57  INFO      [stage6_competency]    CQ05_positional_category_distribution → 3 rows
+2026-05-03 22:56:57  INFO      [stage6_competency]  Saved 5 rows → output\stage6_competency\competency_question_summary.tsv
+2026-05-03 22:56:57  INFO      [stage6_competency]  Stage 6 complete — 5 queries: 4 OK, 1 empty, 0 errors
+2026-05-03 23:21:48  INFO      [stage6_competency]  ==================================================================
+2026-05-03 23:21:48  INFO      [stage6_competency]    STAGE 6: Competency Question Engine
+2026-05-03 23:21:48  INFO      [stage6_competency]  ==================================================================
+2026-05-03 23:21:49  INFO      [stage6_competency]  rdflib available — RDF graph loaded: 25,002 triples
+2026-05-03 23:21:49  INFO      [stage6_competency]  Occurrence table loaded: 473 rows
+2026-05-03 23:21:49  INFO      [stage6_competency]  Running CQ01_protein_domain_function …
+2026-05-03 23:21:49  INFO      [stage6_competency]  Saved 797 rows → output\stage6_competency\CQ01_protein_domain_function.tsv
+2026-05-03 23:21:49  INFO      [stage6_competency]    CQ01_protein_domain_function → 797 rows
+2026-05-03 23:21:49  INFO      [stage6_competency]  Running CQ02_domain_cooccurrence …
+2026-05-03 23:21:49  INFO      [stage6_competency]  Saved 165 rows → output\stage6_competency\CQ02_domain_cooccurrence.tsv
+2026-05-03 23:21:49  INFO      [stage6_competency]    CQ02_domain_cooccurrence → 165 rows
+2026-05-03 23:21:49  INFO      [stage6_competency]  Running CQ03_process_linked_domains …
+2026-05-03 23:21:49  INFO      [stage6_competency]  Saved 0 rows → output\stage6_competency\CQ03_process_linked_domains.tsv
+2026-05-03 23:21:49  WARNING   [stage6_competency]    CQ03_process_linked_domains → 0 rows — check data coverage
+2026-05-03 23:21:49  INFO      [stage6_competency]  Running CQ04_binding_target_proteins …
+2026-05-03 23:21:50  INFO      [stage6_competency]  Saved 173 rows → output\stage6_competency\CQ04_binding_target_proteins.tsv
+2026-05-03 23:21:50  INFO      [stage6_competency]    CQ04_binding_target_proteins → 173 rows
+2026-05-03 23:21:50  INFO      [stage6_competency]  Running CQ05_positional_category_distribution …
+2026-05-03 23:21:50  INFO      [stage6_competency]  Saved 3 rows → output\stage6_competency\CQ05_positional_category_distribution.tsv
+2026-05-03 23:21:50  INFO      [stage6_competency]    CQ05_positional_category_distribution → 3 rows
+2026-05-03 23:21:50  INFO      [stage6_competency]  Saved 5 rows → output\stage6_competency\competency_question_summary.tsv
+2026-05-03 23:21:50  INFO      [stage6_competency]  Stage 6 complete — 5 queries: 4 OK, 1 empty, 0 errors
+2026-05-03 23:27:54  INFO      [stage6_competency]  ==================================================================
+2026-05-03 23:27:54  INFO      [stage6_competency]    STAGE 6: Competency Question Engine
+2026-05-03 23:27:54  INFO      [stage6_competency]  ==================================================================
+2026-05-03 23:27:55  INFO      [stage6_competency]  rdflib available — RDF graph loaded: 25,002 triples
+2026-05-03 23:27:55  INFO      [stage6_competency]  Occurrence table loaded: 473 rows
+2026-05-03 23:27:55  INFO      [stage6_competency]  Running CQ01_protein_domain_function …
+2026-05-03 23:27:55  INFO      [stage6_competency]  Saved 797 rows → output\stage6_competency\CQ01_protein_domain_function.tsv
+2026-05-03 23:27:55  INFO      [stage6_competency]    CQ01_protein_domain_function → 797 rows
+2026-05-03 23:27:55  INFO      [stage6_competency]  Running CQ02_domain_cooccurrence …
+2026-05-03 23:27:55  INFO      [stage6_competency]  Saved 165 rows → output\stage6_competency\CQ02_domain_cooccurrence.tsv
+2026-05-03 23:27:55  INFO      [stage6_competency]    CQ02_domain_cooccurrence → 165 rows
+2026-05-03 23:27:55  INFO      [stage6_competency]  Running CQ03_process_linked_domains …
+2026-05-03 23:27:55  INFO      [stage6_competency]  Saved 0 rows → output\stage6_competency\CQ03_process_linked_domains.tsv
+2026-05-03 23:27:55  WARNING   [stage6_competency]    CQ03_process_linked_domains → 0 rows — check data coverage
+2026-05-03 23:27:55  INFO      [stage6_competency]  Running CQ04_binding_target_proteins …
+2026-05-03 23:27:55  INFO      [stage6_competency]  Saved 173 rows → output\stage6_competency\CQ04_binding_target_proteins.tsv
+2026-05-03 23:27:55  INFO      [stage6_competency]    CQ04_binding_target_proteins → 173 rows
+2026-05-03 23:27:55  INFO      [stage6_competency]  Running CQ05_positional_category_distribution …
+2026-05-03 23:27:55  INFO      [stage6_competency]  Saved 3 rows → output\stage6_competency\CQ05_positional_category_distribution.tsv
+2026-05-03 23:27:55  INFO      [stage6_competency]    CQ05_positional_category_distribution → 3 rows
+2026-05-03 23:27:55  INFO      [stage6_competency]  Saved 5 rows → output\stage6_competency\competency_question_summary.tsv
+2026-05-03 23:27:55  INFO      [stage6_competency]  Stage 6 complete — 5 queries: 4 OK, 1 empty, 0 errors
+2026-05-03 23:34:05  INFO      [stage6_competency]  ==================================================================
+2026-05-03 23:34:05  INFO      [stage6_competency]    STAGE 6: Competency Question Engine
+2026-05-03 23:34:05  INFO      [stage6_competency]  ==================================================================
+2026-05-03 23:34:07  INFO      [stage6_competency]  rdflib available — RDF graph loaded: 25,002 triples
+2026-05-03 23:34:07  INFO      [stage6_competency]  Occurrence table loaded: 473 rows
+2026-05-03 23:34:07  INFO      [stage6_competency]  Running CQ01_protein_domain_function …
+2026-05-03 23:34:07  INFO      [stage6_competency]  Saved 797 rows → output\stage6_competency\CQ01_protein_domain_function.tsv
+2026-05-03 23:34:07  INFO      [stage6_competency]    CQ01_protein_domain_function → 797 rows
+2026-05-03 23:34:07  INFO      [stage6_competency]  Running CQ02_domain_cooccurrence …
+2026-05-03 23:34:07  INFO      [stage6_competency]  Saved 165 rows → output\stage6_competency\CQ02_domain_cooccurrence.tsv
+2026-05-03 23:34:07  INFO      [stage6_competency]    CQ02_domain_cooccurrence → 165 rows
+2026-05-03 23:34:07  INFO      [stage6_competency]  Running CQ03_process_linked_domains …
+2026-05-03 23:34:07  INFO      [stage6_competency]  Saved 0 rows → output\stage6_competency\CQ03_process_linked_domains.tsv
+2026-05-03 23:34:07  WARNING   [stage6_competency]    CQ03_process_linked_domains → 0 rows — check data coverage
+2026-05-03 23:34:07  INFO      [stage6_competency]  Running CQ04_binding_target_proteins …
+2026-05-03 23:34:07  INFO      [stage6_competency]  Saved 173 rows → output\stage6_competency\CQ04_binding_target_proteins.tsv
+2026-05-03 23:34:07  INFO      [stage6_competency]    CQ04_binding_target_proteins → 173 rows
+2026-05-03 23:34:07  INFO      [stage6_competency]  Running CQ05_positional_category_distribution …
+2026-05-03 23:34:07  INFO      [stage6_competency]  Saved 3 rows → output\stage6_competency\CQ05_positional_category_distribution.tsv
+2026-05-03 23:34:07  INFO      [stage6_competency]    CQ05_positional_category_distribution → 3 rows
+2026-05-03 23:34:07  INFO      [stage6_competency]  Saved 5 rows → output\stage6_competency\competency_question_summary.tsv
+2026-05-03 23:34:07  INFO      [stage6_competency]  Stage 6 complete — 5 queries: 4 OK, 1 empty, 0 errors
+2026-05-03 23:51:19  INFO      [stage6_competency]  ==================================================================
+2026-05-03 23:51:19  INFO      [stage6_competency]    STAGE 6: Competency Question Engine
+2026-05-03 23:51:19  INFO      [stage6_competency]  ==================================================================
+2026-05-03 23:51:20  INFO      [stage6_competency]  rdflib available — RDF graph loaded: 25,002 triples
+2026-05-03 23:51:20  INFO      [stage6_competency]  Occurrence table loaded: 473 rows
+2026-05-03 23:51:20  INFO      [stage6_competency]  Running CQ01_protein_domain_function …
+2026-05-03 23:51:20  INFO      [stage6_competency]  Saved 797 rows → output\stage6_competency\CQ01_protein_domain_function.tsv
+2026-05-03 23:51:20  INFO      [stage6_competency]    CQ01_protein_domain_function → 797 rows
+2026-05-03 23:51:20  INFO      [stage6_competency]  Running CQ02_domain_cooccurrence …
+2026-05-03 23:51:20  INFO      [stage6_competency]  Saved 165 rows → output\stage6_competency\CQ02_domain_cooccurrence.tsv
+2026-05-03 23:51:20  INFO      [stage6_competency]    CQ02_domain_cooccurrence → 165 rows
+2026-05-03 23:51:20  INFO      [stage6_competency]  Running CQ03_process_linked_domains …
+2026-05-03 23:51:20  INFO      [stage6_competency]  Saved 0 rows → output\stage6_competency\CQ03_process_linked_domains.tsv
+2026-05-03 23:51:20  WARNING   [stage6_competency]    CQ03_process_linked_domains → 0 rows — check data coverage
+2026-05-03 23:51:20  INFO      [stage6_competency]  Running CQ04_binding_target_proteins …
+2026-05-03 23:51:20  INFO      [stage6_competency]  Saved 173 rows → output\stage6_competency\CQ04_binding_target_proteins.tsv
+2026-05-03 23:51:20  INFO      [stage6_competency]    CQ04_binding_target_proteins → 173 rows
+2026-05-03 23:51:20  INFO      [stage6_competency]  Running CQ05_positional_category_distribution …
+2026-05-03 23:51:20  INFO      [stage6_competency]  Saved 3 rows → output\stage6_competency\CQ05_positional_category_distribution.tsv
+2026-05-03 23:51:20  INFO      [stage6_competency]    CQ05_positional_category_distribution → 3 rows
+2026-05-03 23:51:20  INFO      [stage6_competency]  Saved 5 rows → output\stage6_competency\competency_question_summary.tsv
+2026-05-03 23:51:20  INFO      [stage6_competency]  Stage 6 complete — 5 queries: 4 OK, 1 empty, 0 errors
+2026-05-04 00:15:24  INFO      [stage6_competency]  ==================================================================
+2026-05-04 00:15:24  INFO      [stage6_competency]    STAGE 6: Competency Question Engine
+2026-05-04 00:15:24  INFO      [stage6_competency]  ==================================================================
+2026-05-04 00:15:25  INFO      [stage6_competency]  rdflib available — RDF graph loaded: 25,002 triples
+2026-05-04 00:15:25  INFO      [stage6_competency]  Occurrence table loaded: 473 rows
+2026-05-04 00:15:25  INFO      [stage6_competency]  Running CQ01_protein_domain_function …
+2026-05-04 00:15:25  INFO      [stage6_competency]  Saved 797 rows → output\stage6_competency\CQ01_protein_domain_function.tsv
+2026-05-04 00:15:25  INFO      [stage6_competency]    CQ01_protein_domain_function → 797 rows
+2026-05-04 00:15:25  INFO      [stage6_competency]  Running CQ02_domain_cooccurrence …
+2026-05-04 00:15:25  INFO      [stage6_competency]  Saved 165 rows → output\stage6_competency\CQ02_domain_cooccurrence.tsv
+2026-05-04 00:15:25  INFO      [stage6_competency]    CQ02_domain_cooccurrence → 165 rows
+2026-05-04 00:15:25  INFO      [stage6_competency]  Running CQ03_process_linked_domains …
+2026-05-04 00:15:25  INFO      [stage6_competency]  Saved 0 rows → output\stage6_competency\CQ03_process_linked_domains.tsv
+2026-05-04 00:15:25  WARNING   [stage6_competency]    CQ03_process_linked_domains → 0 rows — check data coverage
+2026-05-04 00:15:25  INFO      [stage6_competency]  Running CQ04_binding_target_proteins …
+2026-05-04 00:15:25  INFO      [stage6_competency]  Saved 173 rows → output\stage6_competency\CQ04_binding_target_proteins.tsv
+2026-05-04 00:15:25  INFO      [stage6_competency]    CQ04_binding_target_proteins → 173 rows
+2026-05-04 00:15:25  INFO      [stage6_competency]  Running CQ05_positional_category_distribution …
+2026-05-04 00:15:25  INFO      [stage6_competency]  Saved 3 rows → output\stage6_competency\CQ05_positional_category_distribution.tsv
+2026-05-04 00:15:25  INFO      [stage6_competency]    CQ05_positional_category_distribution → 3 rows
+2026-05-04 00:15:25  INFO      [stage6_competency]  Saved 5 rows → output\stage6_competency\competency_question_summary.tsv
+2026-05-04 00:15:25  INFO      [stage6_competency]  Stage 6 complete — 5 queries: 4 OK, 1 empty, 0 errors
+2026-05-04 01:15:15  INFO      [stage6_competency]  ==================================================================
+2026-05-04 01:15:15  INFO      [stage6_competency]    STAGE 6: Competency Question Engine
+2026-05-04 01:15:15  INFO      [stage6_competency]  ==================================================================
+2026-05-04 01:15:16  WARNING   [stage6_competency]  rdflib failed (at line 20673 of <>:
+Bad syntax (objectList expected) at ^ in:
+"...b'021 DNA-binding" ;\n\npop:FuncCat_DOF_000025_catalytic-support'^b' a core:FunctionalCategoryContext,\n        owl:NamedIndividu'...") — running pandas-based queries
+2026-05-04 01:15:16  INFO      [stage6_competency]  Occurrence table loaded: 473 rows
+2026-05-04 01:15:16  INFO      [stage6_competency]  Running CQ01_protein_domain_function …
+2026-05-04 01:15:16  INFO      [stage6_competency]  Saved 797 rows → output\stage6_competency\CQ01_protein_domain_function.tsv
+2026-05-04 01:15:16  INFO      [stage6_competency]    CQ01_protein_domain_function → 797 rows
+2026-05-04 01:15:16  INFO      [stage6_competency]  Running CQ02_domain_cooccurrence …
+2026-05-04 01:15:16  INFO      [stage6_competency]  Saved 165 rows → output\stage6_competency\CQ02_domain_cooccurrence.tsv
+2026-05-04 01:15:16  INFO      [stage6_competency]    CQ02_domain_cooccurrence → 165 rows
+2026-05-04 01:15:16  INFO      [stage6_competency]  Running CQ03_process_linked_domains …
+2026-05-04 01:15:16  INFO      [stage6_competency]  Saved 0 rows → output\stage6_competency\CQ03_process_linked_domains.tsv
+2026-05-04 01:15:16  WARNING   [stage6_competency]    CQ03_process_linked_domains → 0 rows — check data coverage
+2026-05-04 01:15:16  INFO      [stage6_competency]  Running CQ04_binding_target_proteins …
+2026-05-04 01:15:16  INFO      [stage6_competency]  Saved 173 rows → output\stage6_competency\CQ04_binding_target_proteins.tsv
+2026-05-04 01:15:16  INFO      [stage6_competency]    CQ04_binding_target_proteins → 173 rows
+2026-05-04 01:15:16  INFO      [stage6_competency]  Running CQ05_positional_category_distribution …
+2026-05-04 01:15:16  INFO      [stage6_competency]  Saved 3 rows → output\stage6_competency\CQ05_positional_category_distribution.tsv
+2026-05-04 01:15:16  INFO      [stage6_competency]    CQ05_positional_category_distribution → 3 rows
+2026-05-04 01:15:16  INFO      [stage6_competency]  Saved 5 rows → output\stage6_competency\competency_question_summary.tsv
+2026-05-04 01:15:16  INFO      [stage6_competency]  Stage 6 complete — 5 queries: 4 OK, 1 empty, 0 errors
+2026-05-04 02:08:36  INFO      [stage6_competency]  ==================================================================
+2026-05-04 02:08:36  INFO      [stage6_competency]    STAGE 6: Competency Question Engine
+2026-05-04 02:08:36  INFO      [stage6_competency]  ==================================================================
+2026-05-04 02:08:37  INFO      [stage6_competency]  rdflib available — RDF graph loaded: 25,045 triples
+2026-05-04 02:08:37  INFO      [stage6_competency]  Occurrence table loaded: 473 rows
+2026-05-04 02:08:37  INFO      [stage6_competency]  Running CQ01_protein_domain_function …
+2026-05-04 02:08:37  INFO      [stage6_competency]  Saved 797 rows → output\stage6_competency\CQ01_protein_domain_function.tsv
+2026-05-04 02:08:37  INFO      [stage6_competency]    CQ01_protein_domain_function → 797 rows
+2026-05-04 02:08:37  INFO      [stage6_competency]  Running CQ02_domain_cooccurrence …
+2026-05-04 02:08:37  INFO      [stage6_competency]  Saved 165 rows → output\stage6_competency\CQ02_domain_cooccurrence.tsv
+2026-05-04 02:08:37  INFO      [stage6_competency]    CQ02_domain_cooccurrence → 165 rows
+2026-05-04 02:08:37  INFO      [stage6_competency]  Running CQ03_process_linked_domains …
+2026-05-04 02:08:37  INFO      [stage6_competency]  Saved 0 rows → output\stage6_competency\CQ03_process_linked_domains.tsv
+2026-05-04 02:08:37  WARNING   [stage6_competency]    CQ03_process_linked_domains → 0 rows — check data coverage
+2026-05-04 02:08:37  INFO      [stage6_competency]  Running CQ04_binding_target_proteins …
+2026-05-04 02:08:37  INFO      [stage6_competency]  Saved 173 rows → output\stage6_competency\CQ04_binding_target_proteins.tsv
+2026-05-04 02:08:37  INFO      [stage6_competency]    CQ04_binding_target_proteins → 173 rows
+2026-05-04 02:08:37  INFO      [stage6_competency]  Running CQ05_positional_category_distribution …
+2026-05-04 02:08:37  INFO      [stage6_competency]  Saved 3 rows → output\stage6_competency\CQ05_positional_category_distribution.tsv
+2026-05-04 02:08:37  INFO      [stage6_competency]    CQ05_positional_category_distribution → 3 rows
+2026-05-04 02:08:37  INFO      [stage6_competency]  Saved 5 rows → output\stage6_competency\competency_question_summary.tsv
+2026-05-04 02:08:37  INFO      [stage6_competency]  Stage 6 complete — 5 queries: 4 OK, 1 empty, 0 errors
+2026-05-04 04:34:15  INFO      [stage6_competency]  ==================================================================
+2026-05-04 04:34:15  INFO      [stage6_competency]    STAGE 6: Competency Question Engine
+2026-05-04 04:34:15  INFO      [stage6_competency]  ==================================================================
+2026-05-04 04:34:16  INFO      [stage6_competency]  rdflib available — RDF graph loaded: 14,102 triples
+2026-05-04 04:34:16  INFO      [stage6_competency]  Occurrence table loaded: 269 rows
+2026-05-04 04:34:16  INFO      [stage6_competency]  Running CQ01_protein_domain_function …
+2026-05-04 04:34:16  INFO      [stage6_competency]  Saved 443 rows → output\stage6_competency\CQ01_protein_domain_function.tsv
+2026-05-04 04:34:16  INFO      [stage6_competency]    CQ01_protein_domain_function → 443 rows
+2026-05-04 04:34:16  INFO      [stage6_competency]  Running CQ02_domain_cooccurrence …
+2026-05-04 04:34:16  INFO      [stage6_competency]  Saved 157 rows → output\stage6_competency\CQ02_domain_cooccurrence.tsv
+2026-05-04 04:34:16  INFO      [stage6_competency]    CQ02_domain_cooccurrence → 157 rows
+2026-05-04 04:34:16  INFO      [stage6_competency]  Running CQ03_process_linked_domains …
+2026-05-04 04:34:16  INFO      [stage6_competency]  Saved 0 rows → output\stage6_competency\CQ03_process_linked_domains.tsv
+2026-05-04 04:34:16  WARNING   [stage6_competency]    CQ03_process_linked_domains → 0 rows — check data coverage
+2026-05-04 04:34:16  INFO      [stage6_competency]  Running CQ04_binding_target_proteins …
+2026-05-04 04:34:16  INFO      [stage6_competency]  Saved 79 rows → output\stage6_competency\CQ04_binding_target_proteins.tsv
+2026-05-04 04:34:16  INFO      [stage6_competency]    CQ04_binding_target_proteins → 79 rows
+2026-05-04 04:34:16  INFO      [stage6_competency]  Running CQ05_positional_category_distribution …
+2026-05-04 04:34:16  INFO      [stage6_competency]  Saved 3 rows → output\stage6_competency\CQ05_positional_category_distribution.tsv
+2026-05-04 04:34:16  INFO      [stage6_competency]    CQ05_positional_category_distribution → 3 rows
+2026-05-04 04:34:16  INFO      [stage6_competency]  Saved 5 rows → output\stage6_competency\competency_question_summary.tsv
+2026-05-04 04:34:16  INFO      [stage6_competency]  Stage 6 complete — 5 queries: 4 OK, 1 empty, 0 errors
+2026-05-04 04:41:39  INFO      [stage6_competency]  ==================================================================
+2026-05-04 04:41:39  INFO      [stage6_competency]    STAGE 6: Competency Question Engine
+2026-05-04 04:41:39  INFO      [stage6_competency]  ==================================================================
+2026-05-04 04:41:40  INFO      [stage6_competency]  rdflib available — RDF graph loaded: 14,102 triples
+2026-05-04 04:41:40  INFO      [stage6_competency]  Occurrence table loaded: 269 rows
+2026-05-04 04:41:40  INFO      [stage6_competency]  Running CQ01_protein_domain_function …
+2026-05-04 04:41:40  INFO      [stage6_competency]  Saved 443 rows → output\stage6_competency\CQ01_protein_domain_function.tsv
+2026-05-04 04:41:40  INFO      [stage6_competency]    CQ01_protein_domain_function → 443 rows
+2026-05-04 04:41:40  INFO      [stage6_competency]  Running CQ02_domain_cooccurrence …
+2026-05-04 04:41:41  INFO      [stage6_competency]  Saved 157 rows → output\stage6_competency\CQ02_domain_cooccurrence.tsv
+2026-05-04 04:41:41  INFO      [stage6_competency]    CQ02_domain_cooccurrence → 157 rows
+2026-05-04 04:41:41  INFO      [stage6_competency]  Running CQ03_process_linked_domains …
+2026-05-04 04:41:41  INFO      [stage6_competency]  Saved 0 rows → output\stage6_competency\CQ03_process_linked_domains.tsv
+2026-05-04 04:41:41  WARNING   [stage6_competency]    CQ03_process_linked_domains → 0 rows — check data coverage
+2026-05-04 04:41:41  INFO      [stage6_competency]  Running CQ04_binding_target_proteins …
+2026-05-04 04:41:41  INFO      [stage6_competency]  Saved 79 rows → output\stage6_competency\CQ04_binding_target_proteins.tsv
+2026-05-04 04:41:41  INFO      [stage6_competency]    CQ04_binding_target_proteins → 79 rows
+2026-05-04 04:41:41  INFO      [stage6_competency]  Running CQ05_positional_category_distribution …
+2026-05-04 04:41:41  INFO      [stage6_competency]  Saved 3 rows → output\stage6_competency\CQ05_positional_category_distribution.tsv
+2026-05-04 04:41:41  INFO      [stage6_competency]    CQ05_positional_category_distribution → 3 rows
+2026-05-04 04:41:41  INFO      [stage6_competency]  Saved 5 rows → output\stage6_competency\competency_question_summary.tsv
+2026-05-04 04:41:41  INFO      [stage6_competency]  Stage 6 complete — 5 queries: 4 OK, 1 empty, 0 errors
+2026-05-04 09:33:03  INFO      [stage6_competency]  ==================================================================
+2026-05-04 09:33:03  INFO      [stage6_competency]    STAGE 6: Competency Question Engine
+2026-05-04 09:33:03  INFO      [stage6_competency]  ==================================================================
+2026-05-04 09:33:04  INFO      [stage6_competency]  rdflib available — RDF graph loaded: 14,102 triples
+2026-05-04 09:33:04  INFO      [stage6_competency]  Occurrence table loaded: 269 rows
+2026-05-04 09:33:04  INFO      [stage6_competency]  Running CQ01_protein_domain_function …
+2026-05-04 09:33:04  INFO      [stage6_competency]  Saved 443 rows → output\stage6_competency\CQ01_protein_domain_function.tsv
+2026-05-04 09:33:04  INFO      [stage6_competency]    CQ01_protein_domain_function → 443 rows
+2026-05-04 09:33:04  INFO      [stage6_competency]  Running CQ02_domain_cooccurrence …
+2026-05-04 09:33:04  INFO      [stage6_competency]  Saved 157 rows → output\stage6_competency\CQ02_domain_cooccurrence.tsv
+2026-05-04 09:33:04  INFO      [stage6_competency]    CQ02_domain_cooccurrence → 157 rows
+2026-05-04 09:33:04  INFO      [stage6_competency]  Running CQ03_process_linked_domains …
+2026-05-04 09:33:04  INFO      [stage6_competency]  Saved 0 rows → output\stage6_competency\CQ03_process_linked_domains.tsv
+2026-05-04 09:33:04  WARNING   [stage6_competency]    CQ03_process_linked_domains → 0 rows — check data coverage
+2026-05-04 09:33:04  INFO      [stage6_competency]  Running CQ04_binding_target_proteins …
+2026-05-04 09:33:04  INFO      [stage6_competency]  Saved 79 rows → output\stage6_competency\CQ04_binding_target_proteins.tsv
+2026-05-04 09:33:04  INFO      [stage6_competency]    CQ04_binding_target_proteins → 79 rows
+2026-05-04 09:33:04  INFO      [stage6_competency]  Running CQ05_positional_category_distribution …
+2026-05-04 09:33:04  INFO      [stage6_competency]  Saved 3 rows → output\stage6_competency\CQ05_positional_category_distribution.tsv
+2026-05-04 09:33:04  INFO      [stage6_competency]    CQ05_positional_category_distribution → 3 rows
+2026-05-04 09:33:04  INFO      [stage6_competency]  Saved 5 rows → output\stage6_competency\competency_question_summary.tsv
+2026-05-04 09:33:04  INFO      [stage6_competency]  Stage 6 complete — 5 queries: 4 OK, 1 empty, 0 errors
+2026-05-04 09:34:56  INFO      [stage6_competency]  ==================================================================
+2026-05-04 09:34:56  INFO      [stage6_competency]    STAGE 6: Competency Question Engine
+2026-05-04 09:34:56  INFO      [stage6_competency]  ==================================================================
+2026-05-04 09:34:57  INFO      [stage6_competency]  rdflib available — RDF graph loaded: 14,102 triples
+2026-05-04 09:34:57  INFO      [stage6_competency]  Occurrence table loaded: 269 rows
+2026-05-04 09:34:57  INFO      [stage6_competency]  Running CQ01_protein_domain_function …
+2026-05-04 09:34:57  INFO      [stage6_competency]  Saved 443 rows → output\stage6_competency\CQ01_protein_domain_function.tsv
+2026-05-04 09:34:57  INFO      [stage6_competency]    CQ01_protein_domain_function → 443 rows
+2026-05-04 09:34:57  INFO      [stage6_competency]  Running CQ02_domain_cooccurrence …
+2026-05-04 09:34:57  INFO      [stage6_competency]  Saved 157 rows → output\stage6_competency\CQ02_domain_cooccurrence.tsv
+2026-05-04 09:34:57  INFO      [stage6_competency]    CQ02_domain_cooccurrence → 157 rows
+2026-05-04 09:34:57  INFO      [stage6_competency]  Running CQ03_process_linked_domains …
+2026-05-04 09:34:57  INFO      [stage6_competency]  Saved 0 rows → output\stage6_competency\CQ03_process_linked_domains.tsv
+2026-05-04 09:34:57  WARNING   [stage6_competency]    CQ03_process_linked_domains → 0 rows — check data coverage
+2026-05-04 09:34:57  INFO      [stage6_competency]  Running CQ04_binding_target_proteins …
+2026-05-04 09:34:57  INFO      [stage6_competency]  Saved 79 rows → output\stage6_competency\CQ04_binding_target_proteins.tsv
+2026-05-04 09:34:57  INFO      [stage6_competency]    CQ04_binding_target_proteins → 79 rows
+2026-05-04 09:34:57  INFO      [stage6_competency]  Running CQ05_positional_category_distribution …
+2026-05-04 09:34:57  INFO      [stage6_competency]  Saved 3 rows → output\stage6_competency\CQ05_positional_category_distribution.tsv
+2026-05-04 09:34:57  INFO      [stage6_competency]    CQ05_positional_category_distribution → 3 rows
+2026-05-04 09:34:57  INFO      [stage6_competency]  Saved 5 rows → output\stage6_competency\competency_question_summary.tsv
+2026-05-04 09:34:57  INFO      [stage6_competency]  Stage 6 complete — 5 queries: 4 OK, 1 empty, 0 errors
+2026-05-04 09:57:24  INFO      [stage6_competency]  ==================================================================
+2026-05-04 09:57:24  INFO      [stage6_competency]    STAGE 6: Competency Question Engine
+2026-05-04 09:57:24  INFO      [stage6_competency]  ==================================================================
+2026-05-04 09:57:25  INFO      [stage6_competency]  rdflib available — RDF graph loaded: 14,102 triples
+2026-05-04 09:57:25  INFO      [stage6_competency]  Occurrence table loaded: 269 rows
+2026-05-04 09:57:25  INFO      [stage6_competency]  Running CQ01_protein_domain_function …
+2026-05-04 09:57:25  INFO      [stage6_competency]  Saved 443 rows → output\stage6_competency\CQ01_protein_domain_function.tsv
+2026-05-04 09:57:25  INFO      [stage6_competency]    CQ01_protein_domain_function → 443 rows
+2026-05-04 09:57:25  INFO      [stage6_competency]  Running CQ02_domain_cooccurrence …
+2026-05-04 09:57:25  INFO      [stage6_competency]  Saved 157 rows → output\stage6_competency\CQ02_domain_cooccurrence.tsv
+2026-05-04 09:57:25  INFO      [stage6_competency]    CQ02_domain_cooccurrence → 157 rows
+2026-05-04 09:57:25  INFO      [stage6_competency]  Running CQ03_process_linked_domains …
+2026-05-04 09:57:25  INFO      [stage6_competency]  Saved 0 rows → output\stage6_competency\CQ03_process_linked_domains.tsv
+2026-05-04 09:57:25  WARNING   [stage6_competency]    CQ03_process_linked_domains → 0 rows — check data coverage
+2026-05-04 09:57:25  INFO      [stage6_competency]  Running CQ04_binding_target_proteins …
+2026-05-04 09:57:25  INFO      [stage6_competency]  Saved 79 rows → output\stage6_competency\CQ04_binding_target_proteins.tsv
+2026-05-04 09:57:25  INFO      [stage6_competency]    CQ04_binding_target_proteins → 79 rows
+2026-05-04 09:57:25  INFO      [stage6_competency]  Running CQ05_positional_category_distribution …
+2026-05-04 09:57:25  INFO      [stage6_competency]  Saved 3 rows → output\stage6_competency\CQ05_positional_category_distribution.tsv
+2026-05-04 09:57:25  INFO      [stage6_competency]    CQ05_positional_category_distribution → 3 rows
+2026-05-04 09:57:25  INFO      [stage6_competency]  Saved 5 rows → output\stage6_competency\competency_question_summary.tsv
+2026-05-04 09:57:25  INFO      [stage6_competency]  Stage 6 complete — 5 queries: 4 OK, 1 empty, 0 errors
+2026-05-04 10:27:10  INFO      [stage6_competency]  ==================================================================
+2026-05-04 10:27:10  INFO      [stage6_competency]    STAGE 6: Competency Question Engine
+2026-05-04 10:27:10  INFO      [stage6_competency]  ==================================================================
+2026-05-04 10:27:11  INFO      [stage6_competency]  rdflib available — RDF graph loaded: 14,102 triples
+2026-05-04 10:27:11  INFO      [stage6_competency]  Occurrence table loaded: 269 rows
+2026-05-04 10:27:11  INFO      [stage6_competency]  Running CQ01_protein_domain_function …
+2026-05-04 10:27:11  INFO      [stage6_competency]  Saved 443 rows → output\stage6_competency\CQ01_protein_domain_function.tsv
+2026-05-04 10:27:11  INFO      [stage6_competency]    CQ01_protein_domain_function → 443 rows
+2026-05-04 10:27:11  INFO      [stage6_competency]  Running CQ02_domain_cooccurrence …
+2026-05-04 10:27:11  INFO      [stage6_competency]  Saved 157 rows → output\stage6_competency\CQ02_domain_cooccurrence.tsv
+2026-05-04 10:27:11  INFO      [stage6_competency]    CQ02_domain_cooccurrence → 157 rows
+2026-05-04 10:27:11  INFO      [stage6_competency]  Running CQ03_process_linked_domains …
+2026-05-04 10:27:11  INFO      [stage6_competency]  Saved 0 rows → output\stage6_competency\CQ03_process_linked_domains.tsv
+2026-05-04 10:27:11  WARNING   [stage6_competency]    CQ03_process_linked_domains → 0 rows — check data coverage
+2026-05-04 10:27:11  INFO      [stage6_competency]  Running CQ04_binding_target_proteins …
+2026-05-04 10:27:11  INFO      [stage6_competency]  Saved 79 rows → output\stage6_competency\CQ04_binding_target_proteins.tsv
+2026-05-04 10:27:11  INFO      [stage6_competency]    CQ04_binding_target_proteins → 79 rows
+2026-05-04 10:27:11  INFO      [stage6_competency]  Running CQ05_positional_category_distribution …
+2026-05-04 10:27:11  INFO      [stage6_competency]  Saved 3 rows → output\stage6_competency\CQ05_positional_category_distribution.tsv
+2026-05-04 10:27:11  INFO      [stage6_competency]    CQ05_positional_category_distribution → 3 rows
+2026-05-04 10:27:11  INFO      [stage6_competency]  Saved 5 rows → output\stage6_competency\competency_question_summary.tsv
+2026-05-04 10:27:11  INFO      [stage6_competency]  Stage 6 complete — 5 queries: 4 OK, 1 empty, 0 errors
+2026-05-04 11:01:35  INFO      [stage6_competency]  ==================================================================
+2026-05-04 11:01:35  INFO      [stage6_competency]    STAGE 6: Competency Question Engine
+2026-05-04 11:01:35  INFO      [stage6_competency]  ==================================================================
+2026-05-04 11:01:36  INFO      [stage6_competency]  rdflib available — RDF graph loaded: 14,102 triples
+2026-05-04 11:01:36  INFO      [stage6_competency]  Occurrence table loaded: 269 rows
+2026-05-04 11:01:36  INFO      [stage6_competency]  Running CQ01_protein_domain_function …
+2026-05-04 11:01:36  INFO      [stage6_competency]  Saved 443 rows → output\stage6_competency\CQ01_protein_domain_function.tsv
+2026-05-04 11:01:36  INFO      [stage6_competency]    CQ01_protein_domain_function → 443 rows
+2026-05-04 11:01:36  INFO      [stage6_competency]  Running CQ02_domain_cooccurrence …
+2026-05-04 11:01:36  INFO      [stage6_competency]  Saved 157 rows → output\stage6_competency\CQ02_domain_cooccurrence.tsv
+2026-05-04 11:01:36  INFO      [stage6_competency]    CQ02_domain_cooccurrence → 157 rows
+2026-05-04 11:01:36  INFO      [stage6_competency]  Running CQ03_process_linked_domains …
+2026-05-04 11:01:36  INFO      [stage6_competency]  Saved 0 rows → output\stage6_competency\CQ03_process_linked_domains.tsv
+2026-05-04 11:01:36  WARNING   [stage6_competency]    CQ03_process_linked_domains → 0 rows — check data coverage
+2026-05-04 11:01:36  INFO      [stage6_competency]  Running CQ04_binding_target_proteins …
+2026-05-04 11:01:36  INFO      [stage6_competency]  Saved 79 rows → output\stage6_competency\CQ04_binding_target_proteins.tsv
+2026-05-04 11:01:36  INFO      [stage6_competency]    CQ04_binding_target_proteins → 79 rows
+2026-05-04 11:01:36  INFO      [stage6_competency]  Running CQ05_positional_category_distribution …
+2026-05-04 11:01:36  INFO      [stage6_competency]  Saved 3 rows → output\stage6_competency\CQ05_positional_category_distribution.tsv
+2026-05-04 11:01:36  INFO      [stage6_competency]    CQ05_positional_category_distribution → 3 rows
+2026-05-04 11:01:36  INFO      [stage6_competency]  Saved 5 rows → output\stage6_competency\competency_question_summary.tsv
+2026-05-04 11:01:36  INFO      [stage6_competency]  Stage 6 complete — 5 queries: 4 OK, 1 empty, 0 errors
+2026-05-04 11:49:05  INFO      [stage6_competency]  ==================================================================
+2026-05-04 11:49:05  INFO      [stage6_competency]    STAGE 6: Competency Question Engine
+2026-05-04 11:49:05  INFO      [stage6_competency]  ==================================================================
+2026-05-04 11:49:06  INFO      [stage6_competency]  rdflib available — RDF graph loaded: 14,102 triples
+2026-05-04 11:49:06  INFO      [stage6_competency]  Occurrence table loaded: 269 rows
+2026-05-04 11:49:06  INFO      [stage6_competency]  Running CQ01_protein_domain_function …
+2026-05-04 11:49:06  INFO      [stage6_competency]  Saved 443 rows → output\stage6_competency\CQ01_protein_domain_function.tsv
+2026-05-04 11:49:06  INFO      [stage6_competency]    CQ01_protein_domain_function → 443 rows
+2026-05-04 11:49:06  INFO      [stage6_competency]  Running CQ02_domain_cooccurrence …
+2026-05-04 11:49:06  INFO      [stage6_competency]  Saved 157 rows → output\stage6_competency\CQ02_domain_cooccurrence.tsv
+2026-05-04 11:49:06  INFO      [stage6_competency]    CQ02_domain_cooccurrence → 157 rows
+2026-05-04 11:49:06  INFO      [stage6_competency]  Running CQ03_process_linked_domains …
+2026-05-04 11:49:06  INFO      [stage6_competency]  Saved 0 rows → output\stage6_competency\CQ03_process_linked_domains.tsv
+2026-05-04 11:49:06  WARNING   [stage6_competency]    CQ03_process_linked_domains → 0 rows — check data coverage
+2026-05-04 11:49:06  INFO      [stage6_competency]  Running CQ04_binding_target_proteins …
+2026-05-04 11:49:06  INFO      [stage6_competency]  Saved 79 rows → output\stage6_competency\CQ04_binding_target_proteins.tsv
+2026-05-04 11:49:06  INFO      [stage6_competency]    CQ04_binding_target_proteins → 79 rows
+2026-05-04 11:49:06  INFO      [stage6_competency]  Running CQ05_positional_category_distribution …
+2026-05-04 11:49:06  INFO      [stage6_competency]  Saved 3 rows → output\stage6_competency\CQ05_positional_category_distribution.tsv
+2026-05-04 11:49:06  INFO      [stage6_competency]    CQ05_positional_category_distribution → 3 rows
+2026-05-04 11:49:06  INFO      [stage6_competency]  Saved 5 rows → output\stage6_competency\competency_question_summary.tsv
+2026-05-04 11:49:06  INFO      [stage6_competency]  Stage 6 complete — 5 queries: 4 OK, 1 empty, 0 errors

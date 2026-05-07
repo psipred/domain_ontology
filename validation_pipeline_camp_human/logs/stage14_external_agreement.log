@@ -1,0 +1,151 @@
+2026-05-03 14:36:00  INFO      [stage14_external_agreement]  ==================================================================
+2026-05-03 14:36:00  INFO      [stage14_external_agreement]    STAGE 14: External Database Agreement
+2026-05-03 14:36:00  INFO      [stage14_external_agreement]  ==================================================================
+2026-05-03 14:36:00  WARNING   [stage14_external_agreement]  domain_occurrence_table not found — skipping Stage 14
+2026-05-03 14:43:14  INFO      [stage14_external_agreement]  ==================================================================
+2026-05-03 14:43:14  INFO      [stage14_external_agreement]    STAGE 14: External Database Agreement
+2026-05-03 14:43:14  INFO      [stage14_external_agreement]  ==================================================================
+2026-05-03 14:43:14  WARNING   [stage14_external_agreement]  domain_occurrence_table not found — skipping Stage 14
+2026-05-03 15:35:54  INFO      [stage14_external_agreement]  ==================================================================
+2026-05-03 15:35:54  INFO      [stage14_external_agreement]    STAGE 14: External Database Agreement
+2026-05-03 15:35:54  INFO      [stage14_external_agreement]  ==================================================================
+2026-05-03 16:17:10  INFO      [stage14_external_agreement]  ==================================================================
+2026-05-03 16:17:10  INFO      [stage14_external_agreement]    STAGE 14: External Database Agreement
+2026-05-03 16:17:10  INFO      [stage14_external_agreement]  ==================================================================
+2026-05-03 16:17:11  INFO      [stage14_external_agreement]  Saved 142 rows → output\stage14_external_agreement\external_agreement_results.tsv
+2026-05-03 16:17:11  INFO      [stage14_external_agreement]  Saved 1 rows → output\stage14_external_agreement\external_agreement_summary.tsv
+2026-05-03 16:17:11  INFO      [stage14_external_agreement]    [go]  Jaccard=0.291  Overlap=0.930
+2026-05-03 16:17:11  INFO      [stage14_external_agreement]  Stage 14 complete.
+2026-05-03 16:28:25  INFO      [stage14_external_agreement]  ==================================================================
+2026-05-03 16:28:25  INFO      [stage14_external_agreement]    STAGE 14: External Database Agreement
+2026-05-03 16:28:25  INFO      [stage14_external_agreement]  ==================================================================
+2026-05-03 16:28:26  INFO      [stage14_external_agreement]  Saved 142 rows → output\stage14_external_agreement\external_agreement_results.tsv
+2026-05-03 16:28:26  INFO      [stage14_external_agreement]  Saved 1 rows → output\stage14_external_agreement\external_agreement_summary.tsv
+2026-05-03 16:28:26  INFO      [stage14_external_agreement]    [go]  Jaccard=0.291  Overlap=0.930
+2026-05-03 16:28:26  INFO      [stage14_external_agreement]  Stage 14 complete.
+2026-05-03 16:39:47  INFO      [stage14_external_agreement]  ==================================================================
+2026-05-03 16:39:47  INFO      [stage14_external_agreement]    STAGE 14: External Database Agreement
+2026-05-03 16:39:47  INFO      [stage14_external_agreement]  ==================================================================
+2026-05-03 16:39:47  INFO      [stage14_external_agreement]  Saved 142 rows → output\stage14_external_agreement\external_agreement_results.tsv
+2026-05-03 16:39:47  INFO      [stage14_external_agreement]  Saved 1 rows → output\stage14_external_agreement\external_agreement_summary.tsv
+2026-05-03 16:39:47  INFO      [stage14_external_agreement]    [go]  Jaccard=0.291  Overlap=0.930
+2026-05-03 16:39:47  INFO      [stage14_external_agreement]  Stage 14 complete.
+2026-05-03 17:15:25  INFO      [stage14_external_agreement]  ==================================================================
+2026-05-03 17:15:25  INFO      [stage14_external_agreement]    STAGE 14: External Database Agreement
+2026-05-03 17:15:25  INFO      [stage14_external_agreement]  ==================================================================
+2026-05-03 17:15:25  INFO      [stage14_external_agreement]  Saved 142 rows → output\stage14_external_agreement\external_agreement_results.tsv
+2026-05-03 17:15:25  INFO      [stage14_external_agreement]  Saved 1 rows → output\stage14_external_agreement\external_agreement_summary.tsv
+2026-05-03 17:15:26  INFO      [stage14_external_agreement]    [go]  Jaccard=0.291  Overlap=0.930
+2026-05-03 17:15:26  INFO      [stage14_external_agreement]  Stage 14 complete.
+2026-05-03 22:59:35  INFO      [stage14_external_agreement]  ==================================================================
+2026-05-03 22:59:35  INFO      [stage14_external_agreement]    STAGE 14: External Database Agreement
+2026-05-03 22:59:35  INFO      [stage14_external_agreement]  ==================================================================
+2026-05-03 22:59:37  INFO      [stage14_external_agreement]  Saved 142 rows → output\stage14_external_agreement\external_agreement_results.tsv
+2026-05-03 22:59:37  INFO      [stage14_external_agreement]  Saved 1 rows → output\stage14_external_agreement\external_agreement_summary.tsv
+2026-05-03 22:59:37  INFO      [stage14_external_agreement]    [go]  Jaccard=0.291  Overlap=0.930
+2026-05-03 22:59:37  INFO      [stage14_external_agreement]  Stage 14 complete.
+2026-05-03 23:22:58  INFO      [stage14_external_agreement]  ==================================================================
+2026-05-03 23:22:58  INFO      [stage14_external_agreement]    STAGE 14: External Database Agreement
+2026-05-03 23:22:58  INFO      [stage14_external_agreement]  ==================================================================
+2026-05-03 23:22:59  INFO      [stage14_external_agreement]  Saved 142 rows → output\stage14_external_agreement\external_agreement_results.tsv
+2026-05-03 23:22:59  INFO      [stage14_external_agreement]  Saved 1 rows → output\stage14_external_agreement\external_agreement_summary.tsv
+2026-05-03 23:22:59  INFO      [stage14_external_agreement]    [go]  Jaccard=0.291  Overlap=0.930
+2026-05-03 23:22:59  INFO      [stage14_external_agreement]  Stage 14 complete.
+2026-05-03 23:28:56  INFO      [stage14_external_agreement]  ==================================================================
+2026-05-03 23:28:56  INFO      [stage14_external_agreement]    STAGE 14: External Database Agreement
+2026-05-03 23:28:56  INFO      [stage14_external_agreement]  ==================================================================
+2026-05-03 23:28:57  INFO      [stage14_external_agreement]  Saved 142 rows → output\stage14_external_agreement\external_agreement_results.tsv
+2026-05-03 23:28:57  INFO      [stage14_external_agreement]  Saved 1 rows → output\stage14_external_agreement\external_agreement_summary.tsv
+2026-05-03 23:28:57  INFO      [stage14_external_agreement]    [go]  Jaccard=0.291  Overlap=0.930
+2026-05-03 23:28:57  INFO      [stage14_external_agreement]  Stage 14 complete.
+2026-05-03 23:35:15  INFO      [stage14_external_agreement]  ==================================================================
+2026-05-03 23:35:15  INFO      [stage14_external_agreement]    STAGE 14: External Database Agreement
+2026-05-03 23:35:15  INFO      [stage14_external_agreement]  ==================================================================
+2026-05-03 23:35:17  INFO      [stage14_external_agreement]  Saved 142 rows → output\stage14_external_agreement\external_agreement_results.tsv
+2026-05-03 23:35:17  INFO      [stage14_external_agreement]  Saved 1 rows → output\stage14_external_agreement\external_agreement_summary.tsv
+2026-05-03 23:35:17  INFO      [stage14_external_agreement]    [go]  Jaccard=0.291  Overlap=0.930
+2026-05-03 23:35:17  INFO      [stage14_external_agreement]  Stage 14 complete.
+2026-05-03 23:52:04  INFO      [stage14_external_agreement]  ==================================================================
+2026-05-03 23:52:04  INFO      [stage14_external_agreement]    STAGE 14: External Database Agreement
+2026-05-03 23:52:04  INFO      [stage14_external_agreement]  ==================================================================
+2026-05-03 23:52:04  INFO      [stage14_external_agreement]  Saved 142 rows → output\stage14_external_agreement\external_agreement_results.tsv
+2026-05-03 23:52:05  INFO      [stage14_external_agreement]  Saved 1 rows → output\stage14_external_agreement\external_agreement_summary.tsv
+2026-05-03 23:52:05  INFO      [stage14_external_agreement]    [go]  Jaccard=0.291  Overlap=0.930
+2026-05-03 23:52:05  INFO      [stage14_external_agreement]  Stage 14 complete.
+2026-05-04 00:16:32  INFO      [stage14_external_agreement]  ==================================================================
+2026-05-04 00:16:32  INFO      [stage14_external_agreement]    STAGE 14: External Database Agreement
+2026-05-04 00:16:32  INFO      [stage14_external_agreement]  ==================================================================
+2026-05-04 00:16:32  INFO      [stage14_external_agreement]  Saved 142 rows → output\stage14_external_agreement\external_agreement_results.tsv
+2026-05-04 00:16:32  INFO      [stage14_external_agreement]  Saved 1 rows → output\stage14_external_agreement\external_agreement_summary.tsv
+2026-05-04 00:16:33  INFO      [stage14_external_agreement]    [go]  Jaccard=0.291  Overlap=0.930
+2026-05-04 00:16:33  INFO      [stage14_external_agreement]  Stage 14 complete.
+2026-05-04 01:16:18  INFO      [stage14_external_agreement]  ==================================================================
+2026-05-04 01:16:18  INFO      [stage14_external_agreement]    STAGE 14: External Database Agreement
+2026-05-04 01:16:18  INFO      [stage14_external_agreement]  ==================================================================
+2026-05-04 01:16:19  INFO      [stage14_external_agreement]  Saved 142 rows → output\stage14_external_agreement\external_agreement_results.tsv
+2026-05-04 01:16:19  INFO      [stage14_external_agreement]  Saved 1 rows → output\stage14_external_agreement\external_agreement_summary.tsv
+2026-05-04 01:16:19  INFO      [stage14_external_agreement]    [go]  Jaccard=0.291  Overlap=0.930
+2026-05-04 01:16:19  INFO      [stage14_external_agreement]  Stage 14 complete.
+2026-05-04 02:10:01  INFO      [stage14_external_agreement]  ==================================================================
+2026-05-04 02:10:01  INFO      [stage14_external_agreement]    STAGE 14: External Database Agreement
+2026-05-04 02:10:01  INFO      [stage14_external_agreement]  ==================================================================
+2026-05-04 02:10:01  INFO      [stage14_external_agreement]  Saved 142 rows → output\stage14_external_agreement\external_agreement_results.tsv
+2026-05-04 02:10:01  INFO      [stage14_external_agreement]  Saved 1 rows → output\stage14_external_agreement\external_agreement_summary.tsv
+2026-05-04 02:10:01  INFO      [stage14_external_agreement]    [go]  Jaccard=0.291  Overlap=0.930
+2026-05-04 02:10:01  INFO      [stage14_external_agreement]  Stage 14 complete.
+2026-05-04 04:35:07  INFO      [stage14_external_agreement]  ==================================================================
+2026-05-04 04:35:07  INFO      [stage14_external_agreement]    STAGE 14: External Database Agreement
+2026-05-04 04:35:07  INFO      [stage14_external_agreement]  ==================================================================
+2026-05-04 04:35:07  INFO      [stage14_external_agreement]  Saved 60 rows → output\stage14_external_agreement\external_agreement_results.tsv
+2026-05-04 04:35:07  INFO      [stage14_external_agreement]  Saved 1 rows → output\stage14_external_agreement\external_agreement_summary.tsv
+2026-05-04 04:35:08  INFO      [stage14_external_agreement]    [go]  Jaccard=0.302  Overlap=0.950
+2026-05-04 04:35:08  INFO      [stage14_external_agreement]  Stage 14 complete.
+2026-05-04 04:42:46  INFO      [stage14_external_agreement]  ==================================================================
+2026-05-04 04:42:46  INFO      [stage14_external_agreement]    STAGE 14: External Database Agreement
+2026-05-04 04:42:46  INFO      [stage14_external_agreement]  ==================================================================
+2026-05-04 04:42:49  INFO      [stage14_external_agreement]  Saved 60 rows → output\stage14_external_agreement\external_agreement_results.tsv
+2026-05-04 04:42:49  INFO      [stage14_external_agreement]  Saved 1 rows → output\stage14_external_agreement\external_agreement_summary.tsv
+2026-05-04 04:42:49  INFO      [stage14_external_agreement]    [go]  Jaccard=0.302  Overlap=0.950
+2026-05-04 04:42:49  INFO      [stage14_external_agreement]  Stage 14 complete.
+2026-05-04 09:33:54  INFO      [stage14_external_agreement]  ==================================================================
+2026-05-04 09:33:54  INFO      [stage14_external_agreement]    STAGE 14: External Database Agreement
+2026-05-04 09:33:54  INFO      [stage14_external_agreement]  ==================================================================
+2026-05-04 09:33:55  INFO      [stage14_external_agreement]  Saved 60 rows → output\stage14_external_agreement\external_agreement_results.tsv
+2026-05-04 09:33:55  INFO      [stage14_external_agreement]  Saved 1 rows → output\stage14_external_agreement\external_agreement_summary.tsv
+2026-05-04 09:33:55  INFO      [stage14_external_agreement]    [go]  Jaccard=0.302  Overlap=0.950
+2026-05-04 09:33:55  INFO      [stage14_external_agreement]  Stage 14 complete.
+2026-05-04 09:35:42  INFO      [stage14_external_agreement]  ==================================================================
+2026-05-04 09:35:42  INFO      [stage14_external_agreement]    STAGE 14: External Database Agreement
+2026-05-04 09:35:42  INFO      [stage14_external_agreement]  ==================================================================
+2026-05-04 09:35:42  INFO      [stage14_external_agreement]  Saved 60 rows → output\stage14_external_agreement\external_agreement_results.tsv
+2026-05-04 09:35:42  INFO      [stage14_external_agreement]  Saved 1 rows → output\stage14_external_agreement\external_agreement_summary.tsv
+2026-05-04 09:35:42  INFO      [stage14_external_agreement]    [go]  Jaccard=0.302  Overlap=0.950
+2026-05-04 09:35:42  INFO      [stage14_external_agreement]  Stage 14 complete.
+2026-05-04 09:58:36  INFO      [stage14_external_agreement]  ==================================================================
+2026-05-04 09:58:36  INFO      [stage14_external_agreement]    STAGE 14: External Database Agreement
+2026-05-04 09:58:36  INFO      [stage14_external_agreement]  ==================================================================
+2026-05-04 09:58:37  INFO      [stage14_external_agreement]  Saved 60 rows → output\stage14_external_agreement\external_agreement_results.tsv
+2026-05-04 09:58:37  INFO      [stage14_external_agreement]  Saved 1 rows → output\stage14_external_agreement\external_agreement_summary.tsv
+2026-05-04 09:58:37  INFO      [stage14_external_agreement]    [go]  Jaccard=0.302  Overlap=0.950
+2026-05-04 09:58:37  INFO      [stage14_external_agreement]  Stage 14 complete.
+2026-05-04 10:28:10  INFO      [stage14_external_agreement]  ==================================================================
+2026-05-04 10:28:10  INFO      [stage14_external_agreement]    STAGE 14: External Database Agreement
+2026-05-04 10:28:10  INFO      [stage14_external_agreement]  ==================================================================
+2026-05-04 10:28:10  INFO      [stage14_external_agreement]  Saved 60 rows → output\stage14_external_agreement\external_agreement_results.tsv
+2026-05-04 10:28:10  INFO      [stage14_external_agreement]  Saved 1 rows → output\stage14_external_agreement\external_agreement_summary.tsv
+2026-05-04 10:28:11  INFO      [stage14_external_agreement]    [go]  Jaccard=0.302  Overlap=0.950
+2026-05-04 10:28:11  INFO      [stage14_external_agreement]  Stage 14 complete.
+2026-05-04 11:02:14  INFO      [stage14_external_agreement]  ==================================================================
+2026-05-04 11:02:14  INFO      [stage14_external_agreement]    STAGE 14: External Database Agreement
+2026-05-04 11:02:14  INFO      [stage14_external_agreement]  ==================================================================
+2026-05-04 11:02:14  INFO      [stage14_external_agreement]  Saved 60 rows → output\stage14_external_agreement\external_agreement_results.tsv
+2026-05-04 11:02:14  INFO      [stage14_external_agreement]  Saved 1 rows → output\stage14_external_agreement\external_agreement_summary.tsv
+2026-05-04 11:02:14  INFO      [stage14_external_agreement]    [go]  Jaccard=0.302  Overlap=0.950
+2026-05-04 11:02:14  INFO      [stage14_external_agreement]  Stage 14 complete.
+2026-05-04 11:49:56  INFO      [stage14_external_agreement]  ==================================================================
+2026-05-04 11:49:56  INFO      [stage14_external_agreement]    STAGE 14: External Database Agreement
+2026-05-04 11:49:56  INFO      [stage14_external_agreement]  ==================================================================
+2026-05-04 11:49:56  INFO      [stage14_external_agreement]  Saved 60 rows → output\stage14_external_agreement\external_agreement_results.tsv
+2026-05-04 11:49:56  INFO      [stage14_external_agreement]  Saved 1 rows → output\stage14_external_agreement\external_agreement_summary.tsv
+2026-05-04 11:49:57  INFO      [stage14_external_agreement]    [go]  Jaccard=0.302  Overlap=0.950
+2026-05-04 11:49:57  INFO      [stage14_external_agreement]  Stage 14 complete.

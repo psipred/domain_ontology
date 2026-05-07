@@ -1,0 +1,637 @@
+2026-05-03 16:28:49  INFO      [stage16_sequence_ontology_validation]  ==================================================================
+2026-05-03 16:28:49  INFO      [stage16_sequence_ontology_validation]    STAGE 16: Sequence vs Ontology Congruence Analysis
+2026-05-03 16:28:49  INFO      [stage16_sequence_ontology_validation]  ==================================================================
+2026-05-03 16:28:49  INFO      [stage16_sequence_ontology_validation]  Feature columns: ['domain_type_id', 'function_tags', 'topology_context', 'binding_partner']
+2026-05-03 16:28:49  INFO      [stage16_sequence_ontology_validation]  Feature matrix: (142, 295)  (proteins × features)
+2026-05-03 16:28:49  INFO      [stage16_sequence_ontology_validation]  Saved 142 rows → output\stage16_congruence\feature_matrix.tsv
+2026-05-03 16:28:49  INFO      [stage16_sequence_ontology_validation]  Saved 142 rows → output\stage16_congruence\distance_matrix_ontology.tsv
+2026-05-03 16:28:49  INFO      [stage16_sequence_ontology_validation]  Running PCoA on ontology distance matrix …
+2026-05-03 16:28:49  INFO      [stage16_sequence_ontology_validation]    PCoA stress: 396.8430  (high — interpret with caution)
+2026-05-03 16:28:49  INFO      [stage16_sequence_ontology_validation]  Saved 142 rows → output\stage16_congruence\pcoa_coordinates.tsv
+2026-05-03 16:28:49  INFO      [stage16_sequence_ontology_validation]  Loading MMseqs2 clusters from input\camp_family_cluster_ids.tsv …
+2026-05-03 16:28:49  INFO      [stage16_sequence_ontology_validation]    88 MMseqs2 clusters, 143 proteins
+2026-05-03 16:28:49  INFO      [stage16_sequence_ontology_validation]    No pairwise_identity.tsv found — using binary cluster-membership distance proxy
+2026-05-03 16:28:49  INFO      [stage16_sequence_ontology_validation]    To upgrade: set mmseqs2_search_results: input/pairwise_identity.tsv in config
+2026-05-03 16:28:49  INFO      [stage16_sequence_ontology_validation]  Saved 142 rows → output\stage16_congruence\distance_matrix_sequence.tsv
+2026-05-03 16:28:49  INFO      [stage16_sequence_ontology_validation]  Running Mantel test (9999 permutations) …
+2026-05-03 16:28:49  INFO      [stage16_sequence_ontology_validation]    Mantel test: n=142 proteins, 10011 pairwise distances, observed r=0.1607
+2026-05-03 16:29:14  INFO      [stage16_sequence_ontology_validation]    r = 0.1607, p = 0.0001
+2026-05-03 16:29:14  INFO      [stage16_sequence_ontology_validation]    weak positive correlation (r=0.161) between ontology and sequence distances — highly significant (p < 0.001). 
+2026-05-03 16:29:14  INFO      [stage16_sequence_ontology_validation]  Saved 1 rows → output\stage16_congruence\mantel_test_result.tsv
+2026-05-03 16:29:14  INFO      [stage16_sequence_ontology_validation]  Computing ARI/NMI  (ontology: 87 clusters, MMseqs2: 88 clusters) …
+2026-05-03 16:29:14  INFO      [stage16_sequence_ontology_validation]    ARI = 0.2798  NMI = 0.8953  (weak agreement)
+2026-05-03 16:29:14  INFO      [stage16_sequence_ontology_validation]  Saved 1 rows → output\stage16_congruence\ari_nmi_scores.tsv
+2026-05-03 16:29:14  INFO      [stage16_sequence_ontology_validation]  Running enrichment analysis …
+2026-05-03 16:29:30  INFO      [stage16_sequence_ontology_validation]    145 significant enrichments  (FDR < 0.05) across 87 clusters
+2026-05-03 16:29:30  INFO      [stage16_sequence_ontology_validation]  Saved 15921 rows → output\stage16_congruence\enrichment_results.tsv
+2026-05-03 16:29:30  INFO      [stage16_sequence_ontology_validation]  Saved 1 rows → output\stage16_congruence\validation_summary.tsv
+2026-05-03 16:29:30  INFO      [stage16_sequence_ontology_validation]  Generating congruence plot …
+2026-05-03 16:29:34  INFO      [stage16_sequence_ontology_validation]    Saved → output\stage16_congruence/congruence_plot.png
+2026-05-03 16:29:34  INFO      [stage16_sequence_ontology_validation]  
+2026-05-03 16:29:34  INFO      [stage16_sequence_ontology_validation]  ==================================================================
+2026-05-03 16:29:34  INFO      [stage16_sequence_ontology_validation]    STAGE 16 RESULTS SUMMARY
+2026-05-03 16:29:34  INFO      [stage16_sequence_ontology_validation]  ==================================================================
+2026-05-03 16:29:34  INFO      [stage16_sequence_ontology_validation]    Mantel r    = 0.1607  (p = 0.0001)
+2026-05-03 16:29:34  INFO      [stage16_sequence_ontology_validation]    ARI         = 0.2798  NMI = 0.8953
+2026-05-03 16:29:34  INFO      [stage16_sequence_ontology_validation]    Enrichment  = 145 significant term-cluster associations
+2026-05-03 16:29:34  INFO      [stage16_sequence_ontology_validation]  
+2026-05-03 16:29:34  INFO      [stage16_sequence_ontology_validation]    Interpretation:
+2026-05-03 16:29:34  INFO      [stage16_sequence_ontology_validation]    weak positive correlation (r=0.161) between ontology and sequence distances — highly significant (p < 0.001). 
+2026-05-03 16:29:34  INFO      [stage16_sequence_ontology_validation]  ==================================================================
+2026-05-03 16:29:34  INFO      [stage16_sequence_ontology_validation]  Stage 16 complete.
+2026-05-03 16:40:08  INFO      [stage16_sequence_ontology_validation]  ==================================================================
+2026-05-03 16:40:08  INFO      [stage16_sequence_ontology_validation]    STAGE 16: Sequence vs Ontology Congruence Analysis
+2026-05-03 16:40:08  INFO      [stage16_sequence_ontology_validation]  ==================================================================
+2026-05-03 16:40:08  INFO      [stage16_sequence_ontology_validation]  Feature columns: ['domain_type_id', 'function_tags', 'topology_context', 'binding_partner']
+2026-05-03 16:40:08  INFO      [stage16_sequence_ontology_validation]  Feature matrix: (142, 295)  (proteins × features)
+2026-05-03 16:40:08  INFO      [stage16_sequence_ontology_validation]  Saved 142 rows → output\stage16_congruence\feature_matrix.tsv
+2026-05-03 16:40:08  INFO      [stage16_sequence_ontology_validation]  Saved 142 rows → output\stage16_congruence\distance_matrix_ontology.tsv
+2026-05-03 16:40:08  INFO      [stage16_sequence_ontology_validation]  Running PCoA on ontology distance matrix …
+2026-05-03 16:40:08  INFO      [stage16_sequence_ontology_validation]    PCoA stress: 396.8430  (high — interpret with caution)
+2026-05-03 16:40:08  INFO      [stage16_sequence_ontology_validation]  Saved 142 rows → output\stage16_congruence\pcoa_coordinates.tsv
+2026-05-03 16:40:08  INFO      [stage16_sequence_ontology_validation]  Loading MMseqs2 clusters from input\camp_family_cluster_ids.tsv …
+2026-05-03 16:40:08  INFO      [stage16_sequence_ontology_validation]    88 MMseqs2 clusters, 143 proteins
+2026-05-03 16:40:08  INFO      [stage16_sequence_ontology_validation]    No pairwise_identity.tsv found — using binary cluster-membership distance proxy
+2026-05-03 16:40:08  INFO      [stage16_sequence_ontology_validation]    To upgrade: set mmseqs2_search_results: input/pairwise_identity.tsv in config
+2026-05-03 16:40:08  INFO      [stage16_sequence_ontology_validation]  Saved 142 rows → output\stage16_congruence\distance_matrix_sequence.tsv
+2026-05-03 16:40:08  INFO      [stage16_sequence_ontology_validation]  Running Mantel test (9999 permutations) …
+2026-05-03 16:40:08  INFO      [stage16_sequence_ontology_validation]    Mantel test: n=142 proteins, 10011 pairwise distances, observed r=0.1607
+2026-05-03 16:40:29  INFO      [stage16_sequence_ontology_validation]    r = 0.1607, p = 0.0001
+2026-05-03 16:40:29  INFO      [stage16_sequence_ontology_validation]    weak positive correlation (r=0.161) between ontology and sequence distances — highly significant (p < 0.001). 
+2026-05-03 16:40:29  INFO      [stage16_sequence_ontology_validation]  Saved 1 rows → output\stage16_congruence\mantel_test_result.tsv
+2026-05-03 16:40:29  INFO      [stage16_sequence_ontology_validation]  Computing ARI/NMI  (ontology: 87 clusters, MMseqs2: 88 clusters) …
+2026-05-03 16:40:29  INFO      [stage16_sequence_ontology_validation]    ARI = 0.2798  NMI = 0.8953  (weak agreement)
+2026-05-03 16:40:29  INFO      [stage16_sequence_ontology_validation]  Saved 1 rows → output\stage16_congruence\ari_nmi_scores.tsv
+2026-05-03 16:40:29  INFO      [stage16_sequence_ontology_validation]  Running enrichment analysis …
+2026-05-03 16:40:45  INFO      [stage16_sequence_ontology_validation]    145 significant enrichments  (FDR < 0.05) across 87 clusters
+2026-05-03 16:40:45  INFO      [stage16_sequence_ontology_validation]  Saved 15921 rows → output\stage16_congruence\enrichment_results.tsv
+2026-05-03 16:40:45  INFO      [stage16_sequence_ontology_validation]  Saved 1 rows → output\stage16_congruence\validation_summary.tsv
+2026-05-03 16:40:45  INFO      [stage16_sequence_ontology_validation]  Generating congruence plot …
+2026-05-03 16:40:49  INFO      [stage16_sequence_ontology_validation]    Saved → output\stage16_congruence/congruence_plot.png
+2026-05-03 16:40:49  INFO      [stage16_sequence_ontology_validation]  
+2026-05-03 16:40:49  INFO      [stage16_sequence_ontology_validation]  ==================================================================
+2026-05-03 16:40:49  INFO      [stage16_sequence_ontology_validation]    STAGE 16 RESULTS SUMMARY
+2026-05-03 16:40:49  INFO      [stage16_sequence_ontology_validation]  ==================================================================
+2026-05-03 16:40:49  INFO      [stage16_sequence_ontology_validation]    Mantel r    = 0.1607  (p = 0.0001)
+2026-05-03 16:40:49  INFO      [stage16_sequence_ontology_validation]    ARI         = 0.2798  NMI = 0.8953
+2026-05-03 16:40:49  INFO      [stage16_sequence_ontology_validation]    Enrichment  = 145 significant term-cluster associations
+2026-05-03 16:40:49  INFO      [stage16_sequence_ontology_validation]  
+2026-05-03 16:40:49  INFO      [stage16_sequence_ontology_validation]    Interpretation:
+2026-05-03 16:40:49  INFO      [stage16_sequence_ontology_validation]    weak positive correlation (r=0.161) between ontology and sequence distances — highly significant (p < 0.001). 
+2026-05-03 16:40:49  INFO      [stage16_sequence_ontology_validation]  ==================================================================
+2026-05-03 16:40:49  INFO      [stage16_sequence_ontology_validation]  Stage 16 complete.
+2026-05-03 17:16:06  INFO      [stage16_sequence_ontology_validation]  ==================================================================
+2026-05-03 17:16:06  INFO      [stage16_sequence_ontology_validation]    STAGE 16: Sequence vs Ontology Congruence Analysis
+2026-05-03 17:16:06  INFO      [stage16_sequence_ontology_validation]  ==================================================================
+2026-05-03 17:16:06  INFO      [stage16_sequence_ontology_validation]  Feature columns: ['domain_type_id', 'function_tags', 'topology_context', 'binding_partner']
+2026-05-03 17:16:07  INFO      [stage16_sequence_ontology_validation]  Feature matrix: (142, 294)  (proteins × features)
+2026-05-03 17:16:07  INFO      [stage16_sequence_ontology_validation]  Saved 142 rows → output\stage16_congruence\feature_matrix.tsv
+2026-05-03 17:16:07  INFO      [stage16_sequence_ontology_validation]  Saved 142 rows → output\stage16_congruence\distance_matrix_ontology.tsv
+2026-05-03 17:16:07  INFO      [stage16_sequence_ontology_validation]  Running PCoA on ontology distance matrix …
+2026-05-03 17:16:07  INFO      [stage16_sequence_ontology_validation]    PCoA stress: 396.6810  (high — interpret with caution)
+2026-05-03 17:16:07  INFO      [stage16_sequence_ontology_validation]  Saved 142 rows → output\stage16_congruence\pcoa_coordinates.tsv
+2026-05-03 17:16:07  INFO      [stage16_sequence_ontology_validation]  Loading MMseqs2 clusters from input\camp_family_cluster_ids.tsv …
+2026-05-03 17:16:07  INFO      [stage16_sequence_ontology_validation]    88 MMseqs2 clusters, 143 proteins
+2026-05-03 17:16:07  INFO      [stage16_sequence_ontology_validation]    No pairwise_identity.tsv found — using binary cluster-membership distance proxy
+2026-05-03 17:16:07  INFO      [stage16_sequence_ontology_validation]    To upgrade: set mmseqs2_search_results: input/pairwise_identity.tsv in config
+2026-05-03 17:16:07  INFO      [stage16_sequence_ontology_validation]  Saved 142 rows → output\stage16_congruence\distance_matrix_sequence.tsv
+2026-05-03 17:16:07  INFO      [stage16_sequence_ontology_validation]  Running Mantel test (9999 permutations) …
+2026-05-03 17:16:07  INFO      [stage16_sequence_ontology_validation]    Mantel test: n=142 proteins, 10011 pairwise distances, observed r=0.1607
+2026-05-03 17:16:34  INFO      [stage16_sequence_ontology_validation]    r = 0.1607, p = 0.0001
+2026-05-03 17:16:34  INFO      [stage16_sequence_ontology_validation]    weak positive correlation (r=0.161) between ontology and sequence distances — highly significant (p < 0.001). 
+2026-05-03 17:16:34  INFO      [stage16_sequence_ontology_validation]  Saved 1 rows → output\stage16_congruence\mantel_test_result.tsv
+2026-05-03 17:16:34  INFO      [stage16_sequence_ontology_validation]  Computing ARI/NMI  (ontology: 87 clusters, MMseqs2: 88 clusters) …
+2026-05-03 17:16:34  INFO      [stage16_sequence_ontology_validation]    ARI = 0.2815  NMI = 0.8954  (weak agreement)
+2026-05-03 17:16:34  INFO      [stage16_sequence_ontology_validation]  Saved 1 rows → output\stage16_congruence\ari_nmi_scores.tsv
+2026-05-03 17:16:34  INFO      [stage16_sequence_ontology_validation]  Running enrichment analysis …
+2026-05-03 17:16:50  INFO      [stage16_sequence_ontology_validation]    145 significant enrichments  (FDR < 0.05) across 87 clusters
+2026-05-03 17:16:50  INFO      [stage16_sequence_ontology_validation]  Saved 15921 rows → output\stage16_congruence\enrichment_results.tsv
+2026-05-03 17:16:50  INFO      [stage16_sequence_ontology_validation]  Saved 1 rows → output\stage16_congruence\validation_summary.tsv
+2026-05-03 17:16:50  INFO      [stage16_sequence_ontology_validation]  Generating congruence plot …
+2026-05-03 17:16:53  INFO      [stage16_sequence_ontology_validation]    Saved → output\stage16_congruence/congruence_plot.png
+2026-05-03 17:16:53  INFO      [stage16_sequence_ontology_validation]  
+2026-05-03 17:16:53  INFO      [stage16_sequence_ontology_validation]  ==================================================================
+2026-05-03 17:16:53  INFO      [stage16_sequence_ontology_validation]    STAGE 16 RESULTS SUMMARY
+2026-05-03 17:16:53  INFO      [stage16_sequence_ontology_validation]  ==================================================================
+2026-05-03 17:16:53  INFO      [stage16_sequence_ontology_validation]    Mantel r    = 0.1607  (p = 0.0001)
+2026-05-03 17:16:53  INFO      [stage16_sequence_ontology_validation]    ARI         = 0.2815  NMI = 0.8954
+2026-05-03 17:16:53  INFO      [stage16_sequence_ontology_validation]    Enrichment  = 145 significant term-cluster associations
+2026-05-03 17:16:53  INFO      [stage16_sequence_ontology_validation]  
+2026-05-03 17:16:53  INFO      [stage16_sequence_ontology_validation]    Interpretation:
+2026-05-03 17:16:53  INFO      [stage16_sequence_ontology_validation]    weak positive correlation (r=0.161) between ontology and sequence distances — highly significant (p < 0.001). 
+2026-05-03 17:16:53  INFO      [stage16_sequence_ontology_validation]  ==================================================================
+2026-05-03 17:16:53  INFO      [stage16_sequence_ontology_validation]  Stage 16 complete.
+2026-05-03 23:00:51  INFO      [stage16_sequence_ontology_validation]  ==================================================================
+2026-05-03 23:00:51  INFO      [stage16_sequence_ontology_validation]    STAGE 16: Sequence vs Ontology Congruence Analysis
+2026-05-03 23:00:51  INFO      [stage16_sequence_ontology_validation]  ==================================================================
+2026-05-03 23:00:51  INFO      [stage16_sequence_ontology_validation]  Feature columns: ['domain_type_id', 'function_tags', 'topology_context', 'binding_partner']
+2026-05-03 23:00:52  INFO      [stage16_sequence_ontology_validation]  Feature matrix: (142, 294)  (proteins × features)
+2026-05-03 23:00:52  INFO      [stage16_sequence_ontology_validation]  Saved 142 rows → output\stage16_congruence\feature_matrix.tsv
+2026-05-03 23:00:52  INFO      [stage16_sequence_ontology_validation]  Saved 142 rows → output\stage16_congruence\distance_matrix_ontology.tsv
+2026-05-03 23:00:52  INFO      [stage16_sequence_ontology_validation]  Running PCoA on ontology distance matrix …
+2026-05-03 23:00:53  INFO      [stage16_sequence_ontology_validation]    PCoA stress: 396.6810  (high — interpret with caution)
+2026-05-03 23:00:53  INFO      [stage16_sequence_ontology_validation]  Saved 142 rows → output\stage16_congruence\pcoa_coordinates.tsv
+2026-05-03 23:00:53  INFO      [stage16_sequence_ontology_validation]  Loading MMseqs2 clusters from input\camp_family_cluster_ids.tsv …
+2026-05-03 23:00:53  INFO      [stage16_sequence_ontology_validation]    88 MMseqs2 clusters, 143 proteins
+2026-05-03 23:00:53  INFO      [stage16_sequence_ontology_validation]    No pairwise_identity.tsv found — using binary cluster-membership distance proxy
+2026-05-03 23:00:53  INFO      [stage16_sequence_ontology_validation]    To upgrade: set mmseqs2_search_results: input/pairwise_identity.tsv in config
+2026-05-03 23:00:53  INFO      [stage16_sequence_ontology_validation]  Saved 142 rows → output\stage16_congruence\distance_matrix_sequence.tsv
+2026-05-03 23:00:53  INFO      [stage16_sequence_ontology_validation]  Running Mantel test (9999 permutations) …
+2026-05-03 23:00:53  INFO      [stage16_sequence_ontology_validation]    Mantel test: n=142 proteins, 10011 pairwise distances, observed r=0.1607
+2026-05-03 23:01:48  INFO      [stage16_sequence_ontology_validation]    r = 0.1607, p = 0.0001
+2026-05-03 23:01:48  INFO      [stage16_sequence_ontology_validation]    weak positive correlation (r=0.161) between ontology and sequence distances — highly significant (p < 0.001). 
+2026-05-03 23:01:48  INFO      [stage16_sequence_ontology_validation]  Saved 1 rows → output\stage16_congruence\mantel_test_result.tsv
+2026-05-03 23:01:48  INFO      [stage16_sequence_ontology_validation]  Computing ARI/NMI  (ontology: 87 clusters, MMseqs2: 88 clusters) …
+2026-05-03 23:01:48  INFO      [stage16_sequence_ontology_validation]    ARI = 0.2815  NMI = 0.8954  (weak agreement)
+2026-05-03 23:01:48  INFO      [stage16_sequence_ontology_validation]  Saved 1 rows → output\stage16_congruence\ari_nmi_scores.tsv
+2026-05-03 23:01:48  INFO      [stage16_sequence_ontology_validation]  Running enrichment analysis …
+2026-05-03 23:02:25  INFO      [stage16_sequence_ontology_validation]    145 significant enrichments  (FDR < 0.05) across 87 clusters
+2026-05-03 23:02:25  INFO      [stage16_sequence_ontology_validation]  Saved 15921 rows → output\stage16_congruence\enrichment_results.tsv
+2026-05-03 23:02:25  INFO      [stage16_sequence_ontology_validation]  Saved 1 rows → output\stage16_congruence\validation_summary.tsv
+2026-05-03 23:02:25  INFO      [stage16_sequence_ontology_validation]  Generating congruence plot …
+2026-05-03 23:02:30  INFO      [stage16_sequence_ontology_validation]    Saved → output\stage16_congruence/congruence_plot.png
+2026-05-03 23:02:30  INFO      [stage16_sequence_ontology_validation]  
+2026-05-03 23:02:30  INFO      [stage16_sequence_ontology_validation]  ==================================================================
+2026-05-03 23:02:30  INFO      [stage16_sequence_ontology_validation]    STAGE 16 RESULTS SUMMARY
+2026-05-03 23:02:30  INFO      [stage16_sequence_ontology_validation]  ==================================================================
+2026-05-03 23:02:30  INFO      [stage16_sequence_ontology_validation]    Mantel r    = 0.1607  (p = 0.0001)
+2026-05-03 23:02:30  INFO      [stage16_sequence_ontology_validation]    ARI         = 0.2815  NMI = 0.8954
+2026-05-03 23:02:30  INFO      [stage16_sequence_ontology_validation]    Enrichment  = 145 significant term-cluster associations
+2026-05-03 23:02:30  INFO      [stage16_sequence_ontology_validation]  
+2026-05-03 23:02:30  INFO      [stage16_sequence_ontology_validation]    Interpretation:
+2026-05-03 23:02:30  INFO      [stage16_sequence_ontology_validation]    weak positive correlation (r=0.161) between ontology and sequence distances — highly significant (p < 0.001). 
+2026-05-03 23:02:30  INFO      [stage16_sequence_ontology_validation]  ==================================================================
+2026-05-03 23:02:30  INFO      [stage16_sequence_ontology_validation]  Stage 16 complete.
+2026-05-03 23:23:34  INFO      [stage16_sequence_ontology_validation]  ==================================================================
+2026-05-03 23:23:34  INFO      [stage16_sequence_ontology_validation]    STAGE 16: Sequence vs Ontology Congruence Analysis
+2026-05-03 23:23:34  INFO      [stage16_sequence_ontology_validation]  ==================================================================
+2026-05-03 23:23:35  INFO      [stage16_sequence_ontology_validation]  Feature columns: ['domain_type_id', 'function_tags', 'topology_context', 'binding_partner']
+2026-05-03 23:23:35  INFO      [stage16_sequence_ontology_validation]  Feature matrix: (142, 293)  (proteins × features)
+2026-05-03 23:23:35  INFO      [stage16_sequence_ontology_validation]  Saved 142 rows → output\stage16_congruence\feature_matrix.tsv
+2026-05-03 23:23:35  INFO      [stage16_sequence_ontology_validation]  Saved 142 rows → output\stage16_congruence\distance_matrix_ontology.tsv
+2026-05-03 23:23:35  INFO      [stage16_sequence_ontology_validation]  Running PCoA on ontology distance matrix …
+2026-05-03 23:23:35  INFO      [stage16_sequence_ontology_validation]    PCoA stress: 396.7649  (high — interpret with caution)
+2026-05-03 23:23:35  INFO      [stage16_sequence_ontology_validation]  Saved 142 rows → output\stage16_congruence\pcoa_coordinates.tsv
+2026-05-03 23:23:35  INFO      [stage16_sequence_ontology_validation]  Loading MMseqs2 clusters from input\camp_family_cluster_ids.tsv …
+2026-05-03 23:23:35  INFO      [stage16_sequence_ontology_validation]    88 MMseqs2 clusters, 143 proteins
+2026-05-03 23:23:35  INFO      [stage16_sequence_ontology_validation]    No pairwise_identity.tsv found — using binary cluster-membership distance proxy
+2026-05-03 23:23:35  INFO      [stage16_sequence_ontology_validation]    To upgrade: set mmseqs2_search_results: input/pairwise_identity.tsv in config
+2026-05-03 23:23:35  INFO      [stage16_sequence_ontology_validation]  Saved 142 rows → output\stage16_congruence\distance_matrix_sequence.tsv
+2026-05-03 23:23:35  INFO      [stage16_sequence_ontology_validation]  Running Mantel test (9999 permutations) …
+2026-05-03 23:23:35  INFO      [stage16_sequence_ontology_validation]    Mantel test: n=142 proteins, 10011 pairwise distances, observed r=0.1607
+2026-05-03 23:24:00  INFO      [stage16_sequence_ontology_validation]    r = 0.1607, p = 0.0001
+2026-05-03 23:24:00  INFO      [stage16_sequence_ontology_validation]    weak positive correlation (r=0.161) between ontology and sequence distances — highly significant (p < 0.001). 
+2026-05-03 23:24:00  INFO      [stage16_sequence_ontology_validation]  Saved 1 rows → output\stage16_congruence\mantel_test_result.tsv
+2026-05-03 23:24:00  INFO      [stage16_sequence_ontology_validation]  Computing ARI/NMI  (ontology: 87 clusters, MMseqs2: 88 clusters) …
+2026-05-03 23:24:00  INFO      [stage16_sequence_ontology_validation]    ARI = 0.2815  NMI = 0.8954  (weak agreement)
+2026-05-03 23:24:00  INFO      [stage16_sequence_ontology_validation]  Saved 1 rows → output\stage16_congruence\ari_nmi_scores.tsv
+2026-05-03 23:24:00  INFO      [stage16_sequence_ontology_validation]  Running enrichment analysis …
+2026-05-03 23:24:19  INFO      [stage16_sequence_ontology_validation]    145 significant enrichments  (FDR < 0.05) across 87 clusters
+2026-05-03 23:24:20  INFO      [stage16_sequence_ontology_validation]  Saved 15834 rows → output\stage16_congruence\enrichment_results.tsv
+2026-05-03 23:24:20  INFO      [stage16_sequence_ontology_validation]  Saved 1 rows → output\stage16_congruence\validation_summary.tsv
+2026-05-03 23:24:20  INFO      [stage16_sequence_ontology_validation]  Generating congruence plot …
+2026-05-03 23:24:22  INFO      [stage16_sequence_ontology_validation]    Saved → output\stage16_congruence/congruence_plot.png
+2026-05-03 23:24:22  INFO      [stage16_sequence_ontology_validation]  
+2026-05-03 23:24:22  INFO      [stage16_sequence_ontology_validation]  ==================================================================
+2026-05-03 23:24:22  INFO      [stage16_sequence_ontology_validation]    STAGE 16 RESULTS SUMMARY
+2026-05-03 23:24:22  INFO      [stage16_sequence_ontology_validation]  ==================================================================
+2026-05-03 23:24:22  INFO      [stage16_sequence_ontology_validation]    Mantel r    = 0.1607  (p = 0.0001)
+2026-05-03 23:24:22  INFO      [stage16_sequence_ontology_validation]    ARI         = 0.2815  NMI = 0.8954
+2026-05-03 23:24:22  INFO      [stage16_sequence_ontology_validation]    Enrichment  = 145 significant term-cluster associations
+2026-05-03 23:24:22  INFO      [stage16_sequence_ontology_validation]  
+2026-05-03 23:24:22  INFO      [stage16_sequence_ontology_validation]    Interpretation:
+2026-05-03 23:24:22  INFO      [stage16_sequence_ontology_validation]    weak positive correlation (r=0.161) between ontology and sequence distances — highly significant (p < 0.001). 
+2026-05-03 23:24:22  INFO      [stage16_sequence_ontology_validation]  ==================================================================
+2026-05-03 23:24:22  INFO      [stage16_sequence_ontology_validation]  Stage 16 complete.
+2026-05-03 23:29:29  INFO      [stage16_sequence_ontology_validation]  ==================================================================
+2026-05-03 23:29:29  INFO      [stage16_sequence_ontology_validation]    STAGE 16: Sequence vs Ontology Congruence Analysis
+2026-05-03 23:29:29  INFO      [stage16_sequence_ontology_validation]  ==================================================================
+2026-05-03 23:29:29  INFO      [stage16_sequence_ontology_validation]  Feature columns: ['domain_type_id', 'function_tags', 'topology_context', 'binding_partner']
+2026-05-03 23:29:29  INFO      [stage16_sequence_ontology_validation]  Feature matrix: (142, 293)  (proteins × features)
+2026-05-03 23:29:29  INFO      [stage16_sequence_ontology_validation]  Saved 142 rows → output\stage16_congruence\feature_matrix.tsv
+2026-05-03 23:29:29  INFO      [stage16_sequence_ontology_validation]  Saved 142 rows → output\stage16_congruence\distance_matrix_ontology.tsv
+2026-05-03 23:29:29  INFO      [stage16_sequence_ontology_validation]  Running PCoA on ontology distance matrix …
+2026-05-03 23:29:30  INFO      [stage16_sequence_ontology_validation]    PCoA stress: 396.7649  (high — interpret with caution)
+2026-05-03 23:29:30  INFO      [stage16_sequence_ontology_validation]  Saved 142 rows → output\stage16_congruence\pcoa_coordinates.tsv
+2026-05-03 23:29:30  INFO      [stage16_sequence_ontology_validation]  Loading MMseqs2 clusters from input\camp_family_cluster_ids.tsv …
+2026-05-03 23:29:30  INFO      [stage16_sequence_ontology_validation]    88 MMseqs2 clusters, 143 proteins
+2026-05-03 23:29:30  INFO      [stage16_sequence_ontology_validation]    No pairwise_identity.tsv found — using binary cluster-membership distance proxy
+2026-05-03 23:29:30  INFO      [stage16_sequence_ontology_validation]    To upgrade: set mmseqs2_search_results: input/pairwise_identity.tsv in config
+2026-05-03 23:29:30  INFO      [stage16_sequence_ontology_validation]  Saved 142 rows → output\stage16_congruence\distance_matrix_sequence.tsv
+2026-05-03 23:29:30  INFO      [stage16_sequence_ontology_validation]  Running Mantel test (9999 permutations) …
+2026-05-03 23:29:30  INFO      [stage16_sequence_ontology_validation]    Mantel test: n=142 proteins, 10011 pairwise distances, observed r=0.1607
+2026-05-03 23:29:57  INFO      [stage16_sequence_ontology_validation]    r = 0.1607, p = 0.0001
+2026-05-03 23:29:57  INFO      [stage16_sequence_ontology_validation]    weak positive correlation (r=0.161) between ontology and sequence distances — highly significant (p < 0.001). 
+2026-05-03 23:29:57  INFO      [stage16_sequence_ontology_validation]  Saved 1 rows → output\stage16_congruence\mantel_test_result.tsv
+2026-05-03 23:29:57  INFO      [stage16_sequence_ontology_validation]  Computing ARI/NMI  (ontology: 87 clusters, MMseqs2: 88 clusters) …
+2026-05-03 23:29:57  INFO      [stage16_sequence_ontology_validation]    ARI = 0.2815  NMI = 0.8954  (weak agreement)
+2026-05-03 23:29:57  INFO      [stage16_sequence_ontology_validation]  Saved 1 rows → output\stage16_congruence\ari_nmi_scores.tsv
+2026-05-03 23:29:57  INFO      [stage16_sequence_ontology_validation]  Running enrichment analysis …
+2026-05-03 23:30:12  INFO      [stage16_sequence_ontology_validation]    145 significant enrichments  (FDR < 0.05) across 87 clusters
+2026-05-03 23:30:12  INFO      [stage16_sequence_ontology_validation]  Saved 15834 rows → output\stage16_congruence\enrichment_results.tsv
+2026-05-03 23:30:12  INFO      [stage16_sequence_ontology_validation]  Saved 1 rows → output\stage16_congruence\validation_summary.tsv
+2026-05-03 23:30:12  INFO      [stage16_sequence_ontology_validation]  Generating congruence plot …
+2026-05-03 23:30:14  INFO      [stage16_sequence_ontology_validation]    Saved → output\stage16_congruence/congruence_plot.png
+2026-05-03 23:30:14  INFO      [stage16_sequence_ontology_validation]  
+2026-05-03 23:30:14  INFO      [stage16_sequence_ontology_validation]  ==================================================================
+2026-05-03 23:30:14  INFO      [stage16_sequence_ontology_validation]    STAGE 16 RESULTS SUMMARY
+2026-05-03 23:30:14  INFO      [stage16_sequence_ontology_validation]  ==================================================================
+2026-05-03 23:30:14  INFO      [stage16_sequence_ontology_validation]    Mantel r    = 0.1607  (p = 0.0001)
+2026-05-03 23:30:14  INFO      [stage16_sequence_ontology_validation]    ARI         = 0.2815  NMI = 0.8954
+2026-05-03 23:30:14  INFO      [stage16_sequence_ontology_validation]    Enrichment  = 145 significant term-cluster associations
+2026-05-03 23:30:14  INFO      [stage16_sequence_ontology_validation]  
+2026-05-03 23:30:14  INFO      [stage16_sequence_ontology_validation]    Interpretation:
+2026-05-03 23:30:14  INFO      [stage16_sequence_ontology_validation]    weak positive correlation (r=0.161) between ontology and sequence distances — highly significant (p < 0.001). 
+2026-05-03 23:30:14  INFO      [stage16_sequence_ontology_validation]  ==================================================================
+2026-05-03 23:30:14  INFO      [stage16_sequence_ontology_validation]  Stage 16 complete.
+2026-05-03 23:36:04  INFO      [stage16_sequence_ontology_validation]  ==================================================================
+2026-05-03 23:36:04  INFO      [stage16_sequence_ontology_validation]    STAGE 16: Sequence vs Ontology Congruence Analysis
+2026-05-03 23:36:04  INFO      [stage16_sequence_ontology_validation]  ==================================================================
+2026-05-03 23:36:04  INFO      [stage16_sequence_ontology_validation]  Feature columns: ['domain_type_id', 'function_tags', 'topology_context', 'binding_partner']
+2026-05-03 23:36:05  INFO      [stage16_sequence_ontology_validation]  Feature matrix: (142, 293)  (proteins × features)
+2026-05-03 23:36:05  INFO      [stage16_sequence_ontology_validation]  Saved 142 rows → output\stage16_congruence\feature_matrix.tsv
+2026-05-03 23:36:05  INFO      [stage16_sequence_ontology_validation]  Saved 142 rows → output\stage16_congruence\distance_matrix_ontology.tsv
+2026-05-03 23:36:05  INFO      [stage16_sequence_ontology_validation]  Running PCoA on ontology distance matrix …
+2026-05-03 23:36:05  INFO      [stage16_sequence_ontology_validation]    PCoA stress: 396.7649  (high — interpret with caution)
+2026-05-03 23:36:05  INFO      [stage16_sequence_ontology_validation]  Saved 142 rows → output\stage16_congruence\pcoa_coordinates.tsv
+2026-05-03 23:36:05  INFO      [stage16_sequence_ontology_validation]  Loading MMseqs2 clusters from input\camp_family_cluster_ids.tsv …
+2026-05-03 23:36:05  INFO      [stage16_sequence_ontology_validation]    88 MMseqs2 clusters, 143 proteins
+2026-05-03 23:36:05  INFO      [stage16_sequence_ontology_validation]    No pairwise_identity.tsv found — using binary cluster-membership distance proxy
+2026-05-03 23:36:05  INFO      [stage16_sequence_ontology_validation]    To upgrade: set mmseqs2_search_results: input/pairwise_identity.tsv in config
+2026-05-03 23:36:05  INFO      [stage16_sequence_ontology_validation]  Saved 142 rows → output\stage16_congruence\distance_matrix_sequence.tsv
+2026-05-03 23:36:05  INFO      [stage16_sequence_ontology_validation]  Running Mantel test (9999 permutations) …
+2026-05-03 23:36:05  INFO      [stage16_sequence_ontology_validation]    Mantel test: n=142 proteins, 10011 pairwise distances, observed r=0.1607
+2026-05-03 23:36:37  INFO      [stage16_sequence_ontology_validation]    r = 0.1607, p = 0.0001
+2026-05-03 23:36:37  INFO      [stage16_sequence_ontology_validation]    weak positive correlation (r=0.161) between ontology and sequence distances — highly significant (p < 0.001). 
+2026-05-03 23:36:37  INFO      [stage16_sequence_ontology_validation]  Saved 1 rows → output\stage16_congruence\mantel_test_result.tsv
+2026-05-03 23:36:37  INFO      [stage16_sequence_ontology_validation]  Computing ARI/NMI  (ontology: 87 clusters, MMseqs2: 88 clusters) …
+2026-05-03 23:36:37  INFO      [stage16_sequence_ontology_validation]    ARI = 0.2815  NMI = 0.8954  (weak agreement)
+2026-05-03 23:36:37  INFO      [stage16_sequence_ontology_validation]  Saved 1 rows → output\stage16_congruence\ari_nmi_scores.tsv
+2026-05-03 23:36:37  INFO      [stage16_sequence_ontology_validation]  Running enrichment analysis …
+2026-05-03 23:36:53  INFO      [stage16_sequence_ontology_validation]    145 significant enrichments  (FDR < 0.05) across 87 clusters
+2026-05-03 23:36:54  INFO      [stage16_sequence_ontology_validation]  Saved 15834 rows → output\stage16_congruence\enrichment_results.tsv
+2026-05-03 23:36:54  INFO      [stage16_sequence_ontology_validation]  Saved 1 rows → output\stage16_congruence\validation_summary.tsv
+2026-05-03 23:36:54  INFO      [stage16_sequence_ontology_validation]  Generating congruence plot …
+2026-05-03 23:36:56  INFO      [stage16_sequence_ontology_validation]    Saved → output\stage16_congruence/congruence_plot.png
+2026-05-03 23:36:56  INFO      [stage16_sequence_ontology_validation]  
+2026-05-03 23:36:56  INFO      [stage16_sequence_ontology_validation]  ==================================================================
+2026-05-03 23:36:56  INFO      [stage16_sequence_ontology_validation]    STAGE 16 RESULTS SUMMARY
+2026-05-03 23:36:56  INFO      [stage16_sequence_ontology_validation]  ==================================================================
+2026-05-03 23:36:56  INFO      [stage16_sequence_ontology_validation]    Mantel r    = 0.1607  (p = 0.0001)
+2026-05-03 23:36:56  INFO      [stage16_sequence_ontology_validation]    ARI         = 0.2815  NMI = 0.8954
+2026-05-03 23:36:56  INFO      [stage16_sequence_ontology_validation]    Enrichment  = 145 significant term-cluster associations
+2026-05-03 23:36:56  INFO      [stage16_sequence_ontology_validation]  
+2026-05-03 23:36:56  INFO      [stage16_sequence_ontology_validation]    Interpretation:
+2026-05-03 23:36:56  INFO      [stage16_sequence_ontology_validation]    weak positive correlation (r=0.161) between ontology and sequence distances — highly significant (p < 0.001). 
+2026-05-03 23:36:56  INFO      [stage16_sequence_ontology_validation]  ==================================================================
+2026-05-03 23:36:56  INFO      [stage16_sequence_ontology_validation]  Stage 16 complete.
+2026-05-03 23:52:35  INFO      [stage16_sequence_ontology_validation]  ==================================================================
+2026-05-03 23:52:35  INFO      [stage16_sequence_ontology_validation]    STAGE 16: Sequence vs Ontology Congruence Analysis
+2026-05-03 23:52:35  INFO      [stage16_sequence_ontology_validation]  ==================================================================
+2026-05-03 23:52:35  INFO      [stage16_sequence_ontology_validation]  Feature columns: ['domain_type_id', 'function_tags', 'topology_context', 'binding_partner']
+2026-05-03 23:52:35  INFO      [stage16_sequence_ontology_validation]  Feature matrix: (142, 293)  (proteins × features)
+2026-05-03 23:52:35  INFO      [stage16_sequence_ontology_validation]  Saved 142 rows → output\stage16_congruence\feature_matrix.tsv
+2026-05-03 23:52:35  INFO      [stage16_sequence_ontology_validation]  Saved 142 rows → output\stage16_congruence\distance_matrix_ontology.tsv
+2026-05-03 23:52:35  INFO      [stage16_sequence_ontology_validation]  Running PCoA on ontology distance matrix …
+2026-05-03 23:52:35  INFO      [stage16_sequence_ontology_validation]    PCoA stress: 396.7649  (high — interpret with caution)
+2026-05-03 23:52:35  INFO      [stage16_sequence_ontology_validation]  Saved 142 rows → output\stage16_congruence\pcoa_coordinates.tsv
+2026-05-03 23:52:35  INFO      [stage16_sequence_ontology_validation]  Loading MMseqs2 clusters from input\camp_family_cluster_ids.tsv …
+2026-05-03 23:52:35  INFO      [stage16_sequence_ontology_validation]    88 MMseqs2 clusters, 143 proteins
+2026-05-03 23:52:35  INFO      [stage16_sequence_ontology_validation]    No pairwise_identity.tsv found — using binary cluster-membership distance proxy
+2026-05-03 23:52:35  INFO      [stage16_sequence_ontology_validation]    To upgrade: set mmseqs2_search_results: input/pairwise_identity.tsv in config
+2026-05-03 23:52:35  INFO      [stage16_sequence_ontology_validation]  Saved 142 rows → output\stage16_congruence\distance_matrix_sequence.tsv
+2026-05-03 23:52:35  INFO      [stage16_sequence_ontology_validation]  Running Mantel test (9999 permutations) …
+2026-05-03 23:52:35  INFO      [stage16_sequence_ontology_validation]    Mantel test: n=142 proteins, 10011 pairwise distances, observed r=0.1607
+2026-05-03 23:53:03  INFO      [stage16_sequence_ontology_validation]    r = 0.1607, p = 0.0001
+2026-05-03 23:53:03  INFO      [stage16_sequence_ontology_validation]    weak positive correlation (r=0.161) between ontology and sequence distances — highly significant (p < 0.001). 
+2026-05-03 23:53:03  INFO      [stage16_sequence_ontology_validation]  Saved 1 rows → output\stage16_congruence\mantel_test_result.tsv
+2026-05-03 23:53:03  INFO      [stage16_sequence_ontology_validation]  Computing ARI/NMI  (ontology: 87 clusters, MMseqs2: 88 clusters) …
+2026-05-03 23:53:03  INFO      [stage16_sequence_ontology_validation]    ARI = 0.2815  NMI = 0.8954  (weak agreement)
+2026-05-03 23:53:03  INFO      [stage16_sequence_ontology_validation]  Saved 1 rows → output\stage16_congruence\ari_nmi_scores.tsv
+2026-05-03 23:53:03  INFO      [stage16_sequence_ontology_validation]  Running enrichment analysis …
+2026-05-03 23:53:20  INFO      [stage16_sequence_ontology_validation]    145 significant enrichments  (FDR < 0.05) across 87 clusters
+2026-05-03 23:53:20  INFO      [stage16_sequence_ontology_validation]  Saved 15834 rows → output\stage16_congruence\enrichment_results.tsv
+2026-05-03 23:53:20  INFO      [stage16_sequence_ontology_validation]  Saved 1 rows → output\stage16_congruence\validation_summary.tsv
+2026-05-03 23:53:20  INFO      [stage16_sequence_ontology_validation]  Generating congruence plot …
+2026-05-03 23:53:22  INFO      [stage16_sequence_ontology_validation]    Saved → output\stage16_congruence/congruence_plot.png
+2026-05-03 23:53:22  INFO      [stage16_sequence_ontology_validation]  
+2026-05-03 23:53:22  INFO      [stage16_sequence_ontology_validation]  ==================================================================
+2026-05-03 23:53:22  INFO      [stage16_sequence_ontology_validation]    STAGE 16 RESULTS SUMMARY
+2026-05-03 23:53:22  INFO      [stage16_sequence_ontology_validation]  ==================================================================
+2026-05-03 23:53:22  INFO      [stage16_sequence_ontology_validation]    Mantel r    = 0.1607  (p = 0.0001)
+2026-05-03 23:53:22  INFO      [stage16_sequence_ontology_validation]    ARI         = 0.2815  NMI = 0.8954
+2026-05-03 23:53:22  INFO      [stage16_sequence_ontology_validation]    Enrichment  = 145 significant term-cluster associations
+2026-05-03 23:53:22  INFO      [stage16_sequence_ontology_validation]  
+2026-05-03 23:53:22  INFO      [stage16_sequence_ontology_validation]    Interpretation:
+2026-05-03 23:53:22  INFO      [stage16_sequence_ontology_validation]    weak positive correlation (r=0.161) between ontology and sequence distances — highly significant (p < 0.001). 
+2026-05-03 23:53:22  INFO      [stage16_sequence_ontology_validation]  ==================================================================
+2026-05-03 23:53:22  INFO      [stage16_sequence_ontology_validation]  Stage 16 complete.
+2026-05-04 00:17:13  INFO      [stage16_sequence_ontology_validation]  ==================================================================
+2026-05-04 00:17:13  INFO      [stage16_sequence_ontology_validation]    STAGE 16: Sequence vs Ontology Congruence Analysis
+2026-05-04 00:17:13  INFO      [stage16_sequence_ontology_validation]  ==================================================================
+2026-05-04 00:17:13  INFO      [stage16_sequence_ontology_validation]  Feature columns: ['domain_type_id', 'function_tags', 'topology_context', 'binding_partner']
+2026-05-04 00:17:13  INFO      [stage16_sequence_ontology_validation]  Feature matrix: (142, 293)  (proteins × features)
+2026-05-04 00:17:13  INFO      [stage16_sequence_ontology_validation]  Saved 142 rows → output\stage16_congruence\feature_matrix.tsv
+2026-05-04 00:17:13  INFO      [stage16_sequence_ontology_validation]  Saved 142 rows → output\stage16_congruence\distance_matrix_ontology.tsv
+2026-05-04 00:17:13  INFO      [stage16_sequence_ontology_validation]  Running PCoA on ontology distance matrix …
+2026-05-04 00:17:14  INFO      [stage16_sequence_ontology_validation]    PCoA stress: 396.7649  (high — interpret with caution)
+2026-05-04 00:17:14  INFO      [stage16_sequence_ontology_validation]  Saved 142 rows → output\stage16_congruence\pcoa_coordinates.tsv
+2026-05-04 00:17:14  INFO      [stage16_sequence_ontology_validation]  Loading MMseqs2 clusters from input\camp_family_cluster_ids.tsv …
+2026-05-04 00:17:14  INFO      [stage16_sequence_ontology_validation]    88 MMseqs2 clusters, 143 proteins
+2026-05-04 00:17:14  INFO      [stage16_sequence_ontology_validation]    No pairwise_identity.tsv found — using binary cluster-membership distance proxy
+2026-05-04 00:17:14  INFO      [stage16_sequence_ontology_validation]    To upgrade: set mmseqs2_search_results: input/pairwise_identity.tsv in config
+2026-05-04 00:17:14  INFO      [stage16_sequence_ontology_validation]  Saved 142 rows → output\stage16_congruence\distance_matrix_sequence.tsv
+2026-05-04 00:17:14  INFO      [stage16_sequence_ontology_validation]  Running Mantel test (9999 permutations) …
+2026-05-04 00:17:14  INFO      [stage16_sequence_ontology_validation]    Mantel test: n=142 proteins, 10011 pairwise distances, observed r=0.1607
+2026-05-04 00:17:46  INFO      [stage16_sequence_ontology_validation]    r = 0.1607, p = 0.0001
+2026-05-04 00:17:46  INFO      [stage16_sequence_ontology_validation]    weak positive correlation (r=0.161) between ontology and sequence distances — highly significant (p < 0.001). 
+2026-05-04 00:17:46  INFO      [stage16_sequence_ontology_validation]  Saved 1 rows → output\stage16_congruence\mantel_test_result.tsv
+2026-05-04 00:17:46  INFO      [stage16_sequence_ontology_validation]  Computing ARI/NMI  (ontology: 87 clusters, MMseqs2: 88 clusters) …
+2026-05-04 00:17:46  INFO      [stage16_sequence_ontology_validation]    ARI = 0.2815  NMI = 0.8954  (weak agreement)
+2026-05-04 00:17:46  INFO      [stage16_sequence_ontology_validation]  Saved 1 rows → output\stage16_congruence\ari_nmi_scores.tsv
+2026-05-04 00:17:46  INFO      [stage16_sequence_ontology_validation]  Running enrichment analysis …
+2026-05-04 00:18:03  INFO      [stage16_sequence_ontology_validation]    145 significant enrichments  (FDR < 0.05) across 87 clusters
+2026-05-04 00:18:03  INFO      [stage16_sequence_ontology_validation]  Saved 15834 rows → output\stage16_congruence\enrichment_results.tsv
+2026-05-04 00:18:03  INFO      [stage16_sequence_ontology_validation]  Saved 1 rows → output\stage16_congruence\validation_summary.tsv
+2026-05-04 00:18:03  INFO      [stage16_sequence_ontology_validation]  Generating congruence plot …
+2026-05-04 00:18:05  INFO      [stage16_sequence_ontology_validation]    Saved → output\stage16_congruence/congruence_plot.png
+2026-05-04 00:18:05  INFO      [stage16_sequence_ontology_validation]  
+2026-05-04 00:18:05  INFO      [stage16_sequence_ontology_validation]  ==================================================================
+2026-05-04 00:18:05  INFO      [stage16_sequence_ontology_validation]    STAGE 16 RESULTS SUMMARY
+2026-05-04 00:18:05  INFO      [stage16_sequence_ontology_validation]  ==================================================================
+2026-05-04 00:18:05  INFO      [stage16_sequence_ontology_validation]    Mantel r    = 0.1607  (p = 0.0001)
+2026-05-04 00:18:05  INFO      [stage16_sequence_ontology_validation]    ARI         = 0.2815  NMI = 0.8954
+2026-05-04 00:18:05  INFO      [stage16_sequence_ontology_validation]    Enrichment  = 145 significant term-cluster associations
+2026-05-04 00:18:05  INFO      [stage16_sequence_ontology_validation]  
+2026-05-04 00:18:05  INFO      [stage16_sequence_ontology_validation]    Interpretation:
+2026-05-04 00:18:05  INFO      [stage16_sequence_ontology_validation]    weak positive correlation (r=0.161) between ontology and sequence distances — highly significant (p < 0.001). 
+2026-05-04 00:18:05  INFO      [stage16_sequence_ontology_validation]  ==================================================================
+2026-05-04 00:18:05  INFO      [stage16_sequence_ontology_validation]  Stage 16 complete.
+2026-05-04 01:17:02  INFO      [stage16_sequence_ontology_validation]  ==================================================================
+2026-05-04 01:17:02  INFO      [stage16_sequence_ontology_validation]    STAGE 16: Sequence vs Ontology Congruence Analysis
+2026-05-04 01:17:02  INFO      [stage16_sequence_ontology_validation]  ==================================================================
+2026-05-04 01:17:02  INFO      [stage16_sequence_ontology_validation]  Feature columns: ['domain_type_id', 'function_tags', 'topology_context', 'binding_partner']
+2026-05-04 01:17:02  INFO      [stage16_sequence_ontology_validation]  Feature matrix: (142, 293)  (proteins × features)
+2026-05-04 01:17:02  INFO      [stage16_sequence_ontology_validation]  Saved 142 rows → output\stage16_congruence\feature_matrix.tsv
+2026-05-04 01:17:02  INFO      [stage16_sequence_ontology_validation]  Saved 142 rows → output\stage16_congruence\distance_matrix_ontology.tsv
+2026-05-04 01:17:02  INFO      [stage16_sequence_ontology_validation]  Running PCoA on ontology distance matrix …
+2026-05-04 01:17:03  INFO      [stage16_sequence_ontology_validation]    PCoA stress: 396.7649  (high — interpret with caution)
+2026-05-04 01:17:03  INFO      [stage16_sequence_ontology_validation]  Saved 142 rows → output\stage16_congruence\pcoa_coordinates.tsv
+2026-05-04 01:17:03  INFO      [stage16_sequence_ontology_validation]  Loading MMseqs2 clusters from input\camp_family_cluster_ids.tsv …
+2026-05-04 01:17:03  INFO      [stage16_sequence_ontology_validation]    88 MMseqs2 clusters, 143 proteins
+2026-05-04 01:17:03  INFO      [stage16_sequence_ontology_validation]    No pairwise_identity.tsv found — using binary cluster-membership distance proxy
+2026-05-04 01:17:03  INFO      [stage16_sequence_ontology_validation]    To upgrade: set mmseqs2_search_results: input/pairwise_identity.tsv in config
+2026-05-04 01:17:03  INFO      [stage16_sequence_ontology_validation]  Saved 142 rows → output\stage16_congruence\distance_matrix_sequence.tsv
+2026-05-04 01:17:03  INFO      [stage16_sequence_ontology_validation]  Running Mantel test (9999 permutations) …
+2026-05-04 01:17:03  INFO      [stage16_sequence_ontology_validation]    Mantel test: n=142 proteins, 10011 pairwise distances, observed r=0.1607
+2026-05-04 01:17:30  INFO      [stage16_sequence_ontology_validation]    r = 0.1607, p = 0.0001
+2026-05-04 01:17:30  INFO      [stage16_sequence_ontology_validation]    weak positive correlation (r=0.161) between ontology and sequence distances — highly significant (p < 0.001). 
+2026-05-04 01:17:30  INFO      [stage16_sequence_ontology_validation]  Saved 1 rows → output\stage16_congruence\mantel_test_result.tsv
+2026-05-04 01:17:30  INFO      [stage16_sequence_ontology_validation]  Computing ARI/NMI  (ontology: 87 clusters, MMseqs2: 88 clusters) …
+2026-05-04 01:17:30  INFO      [stage16_sequence_ontology_validation]    ARI = 0.2815  NMI = 0.8954  (weak agreement)
+2026-05-04 01:17:30  INFO      [stage16_sequence_ontology_validation]  Saved 1 rows → output\stage16_congruence\ari_nmi_scores.tsv
+2026-05-04 01:17:30  INFO      [stage16_sequence_ontology_validation]  Running enrichment analysis …
+2026-05-04 01:17:46  INFO      [stage16_sequence_ontology_validation]    145 significant enrichments  (FDR < 0.05) across 87 clusters
+2026-05-04 01:17:46  INFO      [stage16_sequence_ontology_validation]  Saved 15834 rows → output\stage16_congruence\enrichment_results.tsv
+2026-05-04 01:17:46  INFO      [stage16_sequence_ontology_validation]  Saved 1 rows → output\stage16_congruence\validation_summary.tsv
+2026-05-04 01:17:46  INFO      [stage16_sequence_ontology_validation]  Generating congruence plot …
+2026-05-04 01:17:47  INFO      [stage16_sequence_ontology_validation]    Saved → output\stage16_congruence/congruence_plot.png
+2026-05-04 01:17:47  INFO      [stage16_sequence_ontology_validation]  
+2026-05-04 01:17:47  INFO      [stage16_sequence_ontology_validation]  ==================================================================
+2026-05-04 01:17:47  INFO      [stage16_sequence_ontology_validation]    STAGE 16 RESULTS SUMMARY
+2026-05-04 01:17:47  INFO      [stage16_sequence_ontology_validation]  ==================================================================
+2026-05-04 01:17:47  INFO      [stage16_sequence_ontology_validation]    Mantel r    = 0.1607  (p = 0.0001)
+2026-05-04 01:17:47  INFO      [stage16_sequence_ontology_validation]    ARI         = 0.2815  NMI = 0.8954
+2026-05-04 01:17:47  INFO      [stage16_sequence_ontology_validation]    Enrichment  = 145 significant term-cluster associations
+2026-05-04 01:17:47  INFO      [stage16_sequence_ontology_validation]  
+2026-05-04 01:17:47  INFO      [stage16_sequence_ontology_validation]    Interpretation:
+2026-05-04 01:17:47  INFO      [stage16_sequence_ontology_validation]    weak positive correlation (r=0.161) between ontology and sequence distances — highly significant (p < 0.001). 
+2026-05-04 01:17:47  INFO      [stage16_sequence_ontology_validation]  ==================================================================
+2026-05-04 01:17:47  INFO      [stage16_sequence_ontology_validation]  Stage 16 complete.
+2026-05-04 02:10:36  INFO      [stage16_sequence_ontology_validation]  ==================================================================
+2026-05-04 02:10:36  INFO      [stage16_sequence_ontology_validation]    STAGE 16: Sequence vs Ontology Congruence Analysis
+2026-05-04 02:10:36  INFO      [stage16_sequence_ontology_validation]  ==================================================================
+2026-05-04 02:10:36  INFO      [stage16_sequence_ontology_validation]  Feature columns: ['domain_type_id', 'function_tags', 'topology_context', 'binding_partner']
+2026-05-04 02:10:36  INFO      [stage16_sequence_ontology_validation]  Feature matrix: (142, 293)  (proteins × features)
+2026-05-04 02:10:36  INFO      [stage16_sequence_ontology_validation]  Saved 142 rows → output\stage16_congruence\feature_matrix.tsv
+2026-05-04 02:10:36  INFO      [stage16_sequence_ontology_validation]  Saved 142 rows → output\stage16_congruence\distance_matrix_ontology.tsv
+2026-05-04 02:10:36  INFO      [stage16_sequence_ontology_validation]  Running PCoA on ontology distance matrix …
+2026-05-04 02:10:36  INFO      [stage16_sequence_ontology_validation]    PCoA stress: 396.7649  (high — interpret with caution)
+2026-05-04 02:10:36  INFO      [stage16_sequence_ontology_validation]  Saved 142 rows → output\stage16_congruence\pcoa_coordinates.tsv
+2026-05-04 02:10:36  INFO      [stage16_sequence_ontology_validation]  Loading MMseqs2 clusters from input\camp_family_cluster_ids.tsv …
+2026-05-04 02:10:36  INFO      [stage16_sequence_ontology_validation]    88 MMseqs2 clusters, 143 proteins
+2026-05-04 02:10:36  INFO      [stage16_sequence_ontology_validation]    No pairwise_identity.tsv found — using binary cluster-membership distance proxy
+2026-05-04 02:10:36  INFO      [stage16_sequence_ontology_validation]    To upgrade: set mmseqs2_search_results: input/pairwise_identity.tsv in config
+2026-05-04 02:10:37  INFO      [stage16_sequence_ontology_validation]  Saved 142 rows → output\stage16_congruence\distance_matrix_sequence.tsv
+2026-05-04 02:10:37  INFO      [stage16_sequence_ontology_validation]  Running Mantel test (9999 permutations) …
+2026-05-04 02:10:37  INFO      [stage16_sequence_ontology_validation]    Mantel test: n=142 proteins, 10011 pairwise distances, observed r=0.1607
+2026-05-04 04:35:35  INFO      [stage16_sequence_ontology_validation]  ==================================================================
+2026-05-04 04:35:35  INFO      [stage16_sequence_ontology_validation]    STAGE 16: Sequence vs Ontology Congruence Analysis
+2026-05-04 04:35:35  INFO      [stage16_sequence_ontology_validation]  ==================================================================
+2026-05-04 04:35:35  INFO      [stage16_sequence_ontology_validation]  Feature columns: ['domain_type_id', 'function_tags', 'topology_context', 'binding_partner']
+2026-05-04 04:35:35  INFO      [stage16_sequence_ontology_validation]  Feature matrix: (60, 137)  (proteins × features)
+2026-05-04 04:35:35  INFO      [stage16_sequence_ontology_validation]  Saved 60 rows → output\stage16_congruence\feature_matrix.tsv
+2026-05-04 04:35:35  INFO      [stage16_sequence_ontology_validation]  Saved 60 rows → output\stage16_congruence\distance_matrix_ontology.tsv
+2026-05-04 04:35:35  INFO      [stage16_sequence_ontology_validation]  Running PCoA on ontology distance matrix …
+2026-05-04 04:35:35  INFO      [stage16_sequence_ontology_validation]    PCoA stress: 45.8775  (high — interpret with caution)
+2026-05-04 04:35:35  INFO      [stage16_sequence_ontology_validation]  Saved 60 rows → output\stage16_congruence\pcoa_coordinates.tsv
+2026-05-04 04:35:35  INFO      [stage16_sequence_ontology_validation]  No MMseqs2 clusters file provided.
+  → Mantel test, ARI/NMI, and enrichment analysis will be skipped.
+  → To enable:
+      1. python fetch_sequences.py              (get FASTA)
+      2. sbatch mmseqs2_cluster.sh              (run on HPC)
+      3. Copy results/*.tsv to input/
+      4. Add to pipeline_config.yaml:
+           mmseqs2_clusters:       input/camp_family_cluster_ids.tsv
+           mmseqs2_search_results: input/pairwise_identity.tsv
+           protein_group_labels:   input/protein_group_labels_sequencing.tsv
+2026-05-04 04:35:35  INFO      [stage16_sequence_ontology_validation]  Saved 1 rows → output\stage16_congruence\validation_summary.tsv
+2026-05-04 04:35:35  INFO      [stage16_sequence_ontology_validation]  Generating congruence plot …
+2026-05-04 04:35:36  INFO      [stage16_sequence_ontology_validation]    Saved → output\stage16_congruence/congruence_plot.png
+2026-05-04 04:35:36  INFO      [stage16_sequence_ontology_validation]  
+2026-05-04 04:35:36  INFO      [stage16_sequence_ontology_validation]  ==================================================================
+2026-05-04 04:35:36  INFO      [stage16_sequence_ontology_validation]    STAGE 16 RESULTS SUMMARY
+2026-05-04 04:35:36  INFO      [stage16_sequence_ontology_validation]  ==================================================================
+2026-05-04 04:35:36  INFO      [stage16_sequence_ontology_validation]  
+2026-05-04 04:35:36  INFO      [stage16_sequence_ontology_validation]    Interpretation:
+2026-05-04 04:35:36  INFO      [stage16_sequence_ontology_validation]    Run with MMseqs2 data for full analysis
+2026-05-04 04:35:36  INFO      [stage16_sequence_ontology_validation]  ==================================================================
+2026-05-04 04:35:36  INFO      [stage16_sequence_ontology_validation]  Stage 16 complete.
+2026-05-04 04:43:25  INFO      [stage16_sequence_ontology_validation]  ==================================================================
+2026-05-04 04:43:25  INFO      [stage16_sequence_ontology_validation]    STAGE 16: Sequence vs Ontology Congruence Analysis
+2026-05-04 04:43:25  INFO      [stage16_sequence_ontology_validation]  ==================================================================
+2026-05-04 04:43:25  INFO      [stage16_sequence_ontology_validation]  Feature columns: ['domain_type_id', 'function_tags', 'topology_context', 'binding_partner']
+2026-05-04 04:43:25  INFO      [stage16_sequence_ontology_validation]  Feature matrix: (60, 137)  (proteins × features)
+2026-05-04 04:43:25  INFO      [stage16_sequence_ontology_validation]  Saved 60 rows → output\stage16_congruence\feature_matrix.tsv
+2026-05-04 04:43:25  INFO      [stage16_sequence_ontology_validation]  Saved 60 rows → output\stage16_congruence\distance_matrix_ontology.tsv
+2026-05-04 04:43:25  INFO      [stage16_sequence_ontology_validation]  Running PCoA on ontology distance matrix …
+2026-05-04 04:43:25  INFO      [stage16_sequence_ontology_validation]    PCoA stress: 45.8775  (high — interpret with caution)
+2026-05-04 04:43:25  INFO      [stage16_sequence_ontology_validation]  Saved 60 rows → output\stage16_congruence\pcoa_coordinates.tsv
+2026-05-04 04:43:25  INFO      [stage16_sequence_ontology_validation]  No MMseqs2 clusters file provided.
+  → Mantel test, ARI/NMI, and enrichment analysis will be skipped.
+  → To enable:
+      1. python fetch_sequences.py              (get FASTA)
+      2. sbatch mmseqs2_cluster.sh              (run on HPC)
+      3. Copy results/*.tsv to input/
+      4. Add to pipeline_config.yaml:
+           mmseqs2_clusters:       input/camp_family_cluster_ids.tsv
+           mmseqs2_search_results: input/pairwise_identity.tsv
+           protein_group_labels:   input/protein_group_labels_sequencing.tsv
+2026-05-04 04:43:25  INFO      [stage16_sequence_ontology_validation]  Saved 1 rows → output\stage16_congruence\validation_summary.tsv
+2026-05-04 04:43:25  INFO      [stage16_sequence_ontology_validation]  Generating congruence plot …
+2026-05-04 04:43:26  INFO      [stage16_sequence_ontology_validation]    Saved → output\stage16_congruence/congruence_plot.png
+2026-05-04 04:43:26  INFO      [stage16_sequence_ontology_validation]  
+2026-05-04 04:43:26  INFO      [stage16_sequence_ontology_validation]  ==================================================================
+2026-05-04 04:43:26  INFO      [stage16_sequence_ontology_validation]    STAGE 16 RESULTS SUMMARY
+2026-05-04 04:43:26  INFO      [stage16_sequence_ontology_validation]  ==================================================================
+2026-05-04 04:43:26  INFO      [stage16_sequence_ontology_validation]  
+2026-05-04 04:43:26  INFO      [stage16_sequence_ontology_validation]    Interpretation:
+2026-05-04 04:43:26  INFO      [stage16_sequence_ontology_validation]    Run with MMseqs2 data for full analysis
+2026-05-04 04:43:26  INFO      [stage16_sequence_ontology_validation]  ==================================================================
+2026-05-04 04:43:26  INFO      [stage16_sequence_ontology_validation]  Stage 16 complete.
+2026-05-04 09:34:18  INFO      [stage16_sequence_ontology_validation]  ==================================================================
+2026-05-04 09:34:18  INFO      [stage16_sequence_ontology_validation]    STAGE 16: Sequence vs Ontology Congruence Analysis
+2026-05-04 09:34:18  INFO      [stage16_sequence_ontology_validation]  ==================================================================
+2026-05-04 09:34:18  INFO      [stage16_sequence_ontology_validation]  Feature columns: ['domain_type_id', 'function_tags', 'topology_context', 'binding_partner']
+2026-05-04 09:34:18  INFO      [stage16_sequence_ontology_validation]  Feature matrix: (60, 136)  (proteins × features)
+2026-05-04 09:34:18  INFO      [stage16_sequence_ontology_validation]  Saved 60 rows → output\stage16_congruence\feature_matrix.tsv
+2026-05-04 09:34:18  INFO      [stage16_sequence_ontology_validation]  Saved 60 rows → output\stage16_congruence\distance_matrix_ontology.tsv
+2026-05-04 09:34:18  INFO      [stage16_sequence_ontology_validation]  Running PCoA on ontology distance matrix …
+2026-05-04 09:34:19  INFO      [stage16_sequence_ontology_validation]    PCoA stress: 46.1255  (high — interpret with caution)
+2026-05-04 09:34:19  INFO      [stage16_sequence_ontology_validation]  Saved 60 rows → output\stage16_congruence\pcoa_coordinates.tsv
+2026-05-04 09:34:19  INFO      [stage16_sequence_ontology_validation]  No MMseqs2 clusters file provided.
+  → Mantel test, ARI/NMI, and enrichment analysis will be skipped.
+  → To enable:
+      1. python fetch_sequences.py              (get FASTA)
+      2. sbatch mmseqs2_cluster.sh              (run on HPC)
+      3. Copy results/*.tsv to input/
+      4. Add to pipeline_config.yaml:
+           mmseqs2_clusters:       input/camp_family_cluster_ids.tsv
+           mmseqs2_search_results: input/pairwise_identity.tsv
+           protein_group_labels:   input/protein_group_labels_sequencing.tsv
+2026-05-04 09:34:19  INFO      [stage16_sequence_ontology_validation]  Saved 1 rows → output\stage16_congruence\validation_summary.tsv
+2026-05-04 09:34:19  INFO      [stage16_sequence_ontology_validation]  Generating congruence plot …
+2026-05-04 09:34:19  INFO      [stage16_sequence_ontology_validation]    Saved → output\stage16_congruence/congruence_plot.png
+2026-05-04 09:34:19  INFO      [stage16_sequence_ontology_validation]  
+2026-05-04 09:34:19  INFO      [stage16_sequence_ontology_validation]  ==================================================================
+2026-05-04 09:34:19  INFO      [stage16_sequence_ontology_validation]    STAGE 16 RESULTS SUMMARY
+2026-05-04 09:34:19  INFO      [stage16_sequence_ontology_validation]  ==================================================================
+2026-05-04 09:34:19  INFO      [stage16_sequence_ontology_validation]  
+2026-05-04 09:34:19  INFO      [stage16_sequence_ontology_validation]    Interpretation:
+2026-05-04 09:34:19  INFO      [stage16_sequence_ontology_validation]    Run with MMseqs2 data for full analysis
+2026-05-04 09:34:19  INFO      [stage16_sequence_ontology_validation]  ==================================================================
+2026-05-04 09:34:19  INFO      [stage16_sequence_ontology_validation]  Stage 16 complete.
+2026-05-04 09:36:05  INFO      [stage16_sequence_ontology_validation]  ==================================================================
+2026-05-04 09:36:05  INFO      [stage16_sequence_ontology_validation]    STAGE 16: Sequence vs Ontology Congruence Analysis
+2026-05-04 09:36:05  INFO      [stage16_sequence_ontology_validation]  ==================================================================
+2026-05-04 09:36:05  INFO      [stage16_sequence_ontology_validation]  Feature columns: ['domain_type_id', 'function_tags', 'topology_context', 'binding_partner']
+2026-05-04 09:36:05  INFO      [stage16_sequence_ontology_validation]  Feature matrix: (60, 136)  (proteins × features)
+2026-05-04 09:36:05  INFO      [stage16_sequence_ontology_validation]  Saved 60 rows → output\stage16_congruence\feature_matrix.tsv
+2026-05-04 09:36:05  INFO      [stage16_sequence_ontology_validation]  Saved 60 rows → output\stage16_congruence\distance_matrix_ontology.tsv
+2026-05-04 09:36:05  INFO      [stage16_sequence_ontology_validation]  Running PCoA on ontology distance matrix …
+2026-05-04 09:36:05  INFO      [stage16_sequence_ontology_validation]    PCoA stress: 46.1255  (high — interpret with caution)
+2026-05-04 09:36:05  INFO      [stage16_sequence_ontology_validation]  Saved 60 rows → output\stage16_congruence\pcoa_coordinates.tsv
+2026-05-04 09:36:05  INFO      [stage16_sequence_ontology_validation]  No MMseqs2 clusters file provided.
+  → Mantel test, ARI/NMI, and enrichment analysis will be skipped.
+  → To enable:
+      1. python fetch_sequences.py              (get FASTA)
+      2. sbatch mmseqs2_cluster.sh              (run on HPC)
+      3. Copy results/*.tsv to input/
+      4. Add to pipeline_config.yaml:
+           mmseqs2_clusters:       input/camp_family_cluster_ids.tsv
+           mmseqs2_search_results: input/pairwise_identity.tsv
+           protein_group_labels:   input/protein_group_labels_sequencing.tsv
+2026-05-04 09:36:05  INFO      [stage16_sequence_ontology_validation]  Saved 1 rows → output\stage16_congruence\validation_summary.tsv
+2026-05-04 09:36:05  INFO      [stage16_sequence_ontology_validation]  Generating congruence plot …
+2026-05-04 09:36:06  INFO      [stage16_sequence_ontology_validation]    Saved → output\stage16_congruence/congruence_plot.png
+2026-05-04 09:36:06  INFO      [stage16_sequence_ontology_validation]  
+2026-05-04 09:36:06  INFO      [stage16_sequence_ontology_validation]  ==================================================================
+2026-05-04 09:36:06  INFO      [stage16_sequence_ontology_validation]    STAGE 16 RESULTS SUMMARY
+2026-05-04 09:36:06  INFO      [stage16_sequence_ontology_validation]  ==================================================================
+2026-05-04 09:36:06  INFO      [stage16_sequence_ontology_validation]  
+2026-05-04 09:36:06  INFO      [stage16_sequence_ontology_validation]    Interpretation:
+2026-05-04 09:36:06  INFO      [stage16_sequence_ontology_validation]    Run with MMseqs2 data for full analysis
+2026-05-04 09:36:06  INFO      [stage16_sequence_ontology_validation]  ==================================================================
+2026-05-04 09:36:06  INFO      [stage16_sequence_ontology_validation]  Stage 16 complete.
+2026-05-04 09:59:02  INFO      [stage16_sequence_ontology_validation]  ==================================================================
+2026-05-04 09:59:02  INFO      [stage16_sequence_ontology_validation]    STAGE 16: Sequence vs Ontology Congruence Analysis
+2026-05-04 09:59:02  INFO      [stage16_sequence_ontology_validation]  ==================================================================
+2026-05-04 09:59:03  INFO      [stage16_sequence_ontology_validation]  Feature columns: ['domain_type_id', 'function_tags', 'topology_context', 'binding_partner']
+2026-05-04 09:59:03  INFO      [stage16_sequence_ontology_validation]  Feature matrix: (60, 136)  (proteins × features)
+2026-05-04 09:59:03  INFO      [stage16_sequence_ontology_validation]  Saved 60 rows → output\stage16_congruence\feature_matrix.tsv
+2026-05-04 09:59:03  INFO      [stage16_sequence_ontology_validation]  Saved 60 rows → output\stage16_congruence\distance_matrix_ontology.tsv
+2026-05-04 09:59:03  INFO      [stage16_sequence_ontology_validation]  Running PCoA on ontology distance matrix …
+2026-05-04 09:59:03  INFO      [stage16_sequence_ontology_validation]    PCoA stress: 46.1255  (high — interpret with caution)
+2026-05-04 09:59:03  INFO      [stage16_sequence_ontology_validation]  Saved 60 rows → output\stage16_congruence\pcoa_coordinates.tsv
+2026-05-04 09:59:03  INFO      [stage16_sequence_ontology_validation]  Loading MMseqs2 clusters from input\calcium_family_cluster_ids.tsv …
+2026-05-04 09:59:03  INFO      [stage16_sequence_ontology_validation]    31 MMseqs2 clusters, 60 proteins
+2026-05-04 09:59:03  INFO      [stage16_sequence_ontology_validation]    No pairwise_identity.tsv found — using binary cluster-membership distance proxy
+2026-05-04 09:59:03  INFO      [stage16_sequence_ontology_validation]    To upgrade: set mmseqs2_search_results: input/pairwise_identity.tsv in config
+2026-05-04 09:59:03  INFO      [stage16_sequence_ontology_validation]  Saved 60 rows → output\stage16_congruence\distance_matrix_sequence.tsv
+2026-05-04 09:59:03  INFO      [stage16_sequence_ontology_validation]  Running Mantel test (9999 permutations) …
+2026-05-04 09:59:03  INFO      [stage16_sequence_ontology_validation]    Mantel test: n=60 proteins, 1770 pairwise distances, observed r=0.2777
+2026-05-04 09:59:22  INFO      [stage16_sequence_ontology_validation]    r = 0.2777, p = 0.0001
+2026-05-04 09:59:22  INFO      [stage16_sequence_ontology_validation]    weak positive correlation (r=0.278) between ontology and sequence distances — highly significant (p < 0.001). 
+2026-05-04 09:59:22  INFO      [stage16_sequence_ontology_validation]  Saved 1 rows → output\stage16_congruence\mantel_test_result.tsv
+2026-05-04 09:59:22  INFO      [stage16_sequence_ontology_validation]  Computing ARI/NMI  (ontology: 31 clusters, MMseqs2: 31 clusters) …
+2026-05-04 09:59:22  INFO      [stage16_sequence_ontology_validation]    ARI = 0.3983  NMI = 0.8491  (weak agreement)
+2026-05-04 09:59:22  INFO      [stage16_sequence_ontology_validation]  Saved 1 rows → output\stage16_congruence\ari_nmi_scores.tsv
+2026-05-04 09:59:22  INFO      [stage16_sequence_ontology_validation]  Running enrichment analysis …
+2026-05-04 09:59:26  INFO      [stage16_sequence_ontology_validation]    95 significant enrichments  (FDR < 0.05) across 31 clusters
+2026-05-04 09:59:26  INFO      [stage16_sequence_ontology_validation]  Saved 3565 rows → output\stage16_congruence\enrichment_results.tsv
+2026-05-04 09:59:26  INFO      [stage16_sequence_ontology_validation]  Saved 1 rows → output\stage16_congruence\validation_summary.tsv
+2026-05-04 09:59:26  INFO      [stage16_sequence_ontology_validation]  Generating congruence plot …
+2026-05-04 09:59:30  INFO      [stage16_sequence_ontology_validation]    Saved → output\stage16_congruence/congruence_plot.png
+2026-05-04 09:59:30  INFO      [stage16_sequence_ontology_validation]  
+2026-05-04 09:59:30  INFO      [stage16_sequence_ontology_validation]  ==================================================================
+2026-05-04 09:59:30  INFO      [stage16_sequence_ontology_validation]    STAGE 16 RESULTS SUMMARY
+2026-05-04 09:59:30  INFO      [stage16_sequence_ontology_validation]  ==================================================================
+2026-05-04 09:59:30  INFO      [stage16_sequence_ontology_validation]    Mantel r    = 0.2777  (p = 0.0001)
+2026-05-04 09:59:30  INFO      [stage16_sequence_ontology_validation]    ARI         = 0.3983  NMI = 0.8491
+2026-05-04 09:59:30  INFO      [stage16_sequence_ontology_validation]    Enrichment  = 95 significant term-cluster associations
+2026-05-04 09:59:30  INFO      [stage16_sequence_ontology_validation]  
+2026-05-04 09:59:30  INFO      [stage16_sequence_ontology_validation]    Interpretation:
+2026-05-04 09:59:30  INFO      [stage16_sequence_ontology_validation]    weak positive correlation (r=0.278) between ontology and sequence distances — highly significant (p < 0.001). 
+2026-05-04 09:59:30  INFO      [stage16_sequence_ontology_validation]  ==================================================================
+2026-05-04 09:59:30  INFO      [stage16_sequence_ontology_validation]  Stage 16 complete.
+2026-05-04 11:14:57  INFO      [stage16_sequence_ontology_validation]  ==================================================================
+2026-05-04 11:14:57  INFO      [stage16_sequence_ontology_validation]    STAGE 16: Sequence vs Ontology Congruence Analysis
+2026-05-04 11:14:57  INFO      [stage16_sequence_ontology_validation]  ==================================================================
+2026-05-04 11:14:57  INFO      [stage16_sequence_ontology_validation]  Feature columns: ['domain_type_id', 'function_tags', 'topology_context', 'binding_partner']
+2026-05-04 11:14:57  INFO      [stage16_sequence_ontology_validation]  Feature matrix: (60, 136)  (proteins × features)
+2026-05-04 11:14:57  INFO      [stage16_sequence_ontology_validation]  Saved 60 rows → output\stage16_congruence\feature_matrix.tsv
+2026-05-04 11:14:57  INFO      [stage16_sequence_ontology_validation]  Saved 60 rows → output\stage16_congruence\distance_matrix_ontology.tsv
+2026-05-04 11:14:57  INFO      [stage16_sequence_ontology_validation]  Running PCoA on ontology distance matrix …
+2026-05-04 11:14:57  INFO      [stage16_sequence_ontology_validation]    PCoA stress: 46.1255  (high — interpret with caution)
+2026-05-04 11:14:57  INFO      [stage16_sequence_ontology_validation]  Saved 60 rows → output\stage16_congruence\pcoa_coordinates.tsv
+2026-05-04 11:14:57  INFO      [stage16_sequence_ontology_validation]  Loading MMseqs2 clusters from input\calcium_family_cluster_ids.tsv …
+2026-05-04 11:14:57  INFO      [stage16_sequence_ontology_validation]    31 MMseqs2 clusters, 60 proteins
+2026-05-04 11:14:57  INFO      [stage16_sequence_ontology_validation]    No pairwise_identity.tsv found — using binary cluster-membership distance proxy
+2026-05-04 11:14:57  INFO      [stage16_sequence_ontology_validation]    To upgrade: set mmseqs2_search_results: input/pairwise_identity.tsv in config
+2026-05-04 11:14:57  INFO      [stage16_sequence_ontology_validation]  Saved 60 rows → output\stage16_congruence\distance_matrix_sequence.tsv
+2026-05-04 11:14:57  INFO      [stage16_sequence_ontology_validation]  Running Mantel test (9999 permutations) …
+2026-05-04 11:14:57  INFO      [stage16_sequence_ontology_validation]    Mantel test: n=60 proteins, 1770 pairwise distances, observed r=0.2777
+2026-05-04 11:15:10  INFO      [stage16_sequence_ontology_validation]    r = 0.2777, p = 0.0001
+2026-05-04 11:15:10  INFO      [stage16_sequence_ontology_validation]    weak positive correlation (r=0.278) between ontology and sequence distances — highly significant (p < 0.001). 
+2026-05-04 11:15:10  INFO      [stage16_sequence_ontology_validation]  Saved 1 rows → output\stage16_congruence\mantel_test_result.tsv
+2026-05-04 11:15:10  INFO      [stage16_sequence_ontology_validation]  Computing ARI/NMI  (ontology: 31 clusters, MMseqs2: 31 clusters) …
+2026-05-04 11:15:10  INFO      [stage16_sequence_ontology_validation]    ARI = 0.3983  NMI = 0.8491  (weak agreement)
+2026-05-04 11:15:10  INFO      [stage16_sequence_ontology_validation]  Saved 1 rows → output\stage16_congruence\ari_nmi_scores.tsv
+2026-05-04 11:15:10  INFO      [stage16_sequence_ontology_validation]  Running enrichment analysis …
+2026-05-04 11:15:12  INFO      [stage16_sequence_ontology_validation]    95 significant enrichments  (FDR < 0.05) across 31 clusters
+2026-05-04 11:15:12  INFO      [stage16_sequence_ontology_validation]  Saved 3565 rows → output\stage16_congruence\enrichment_results.tsv
+2026-05-04 11:15:12  INFO      [stage16_sequence_ontology_validation]  Saved 1 rows → output\stage16_congruence\validation_summary.tsv
+2026-05-04 11:15:12  INFO      [stage16_sequence_ontology_validation]  Generating congruence plot …
+2026-05-04 11:15:13  INFO      [stage16_sequence_ontology_validation]    Saved → output\stage16_congruence/congruence_plot.png
+2026-05-04 11:15:13  INFO      [stage16_sequence_ontology_validation]  
+2026-05-04 11:15:13  INFO      [stage16_sequence_ontology_validation]  ==================================================================
+2026-05-04 11:15:13  INFO      [stage16_sequence_ontology_validation]    STAGE 16 RESULTS SUMMARY
+2026-05-04 11:15:13  INFO      [stage16_sequence_ontology_validation]  ==================================================================
+2026-05-04 11:15:13  INFO      [stage16_sequence_ontology_validation]    Mantel r    = 0.2777  (p = 0.0001)
+2026-05-04 11:15:13  INFO      [stage16_sequence_ontology_validation]    ARI         = 0.3983  NMI = 0.8491
+2026-05-04 11:15:13  INFO      [stage16_sequence_ontology_validation]    Enrichment  = 95 significant term-cluster associations
+2026-05-04 11:15:13  INFO      [stage16_sequence_ontology_validation]  
+2026-05-04 11:15:13  INFO      [stage16_sequence_ontology_validation]    Interpretation:
+2026-05-04 11:15:13  INFO      [stage16_sequence_ontology_validation]    weak positive correlation (r=0.278) between ontology and sequence distances — highly significant (p < 0.001). 
+2026-05-04 11:15:13  INFO      [stage16_sequence_ontology_validation]  ==================================================================
+2026-05-04 11:15:13  INFO      [stage16_sequence_ontology_validation]  Stage 16 complete.

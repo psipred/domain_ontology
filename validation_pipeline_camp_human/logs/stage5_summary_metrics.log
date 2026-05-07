@@ -1,0 +1,138 @@
+2026-05-03 14:35:57  INFO      [stage5_summary_metrics]  ==================================================================
+2026-05-03 14:35:57  INFO      [stage5_summary_metrics]    STAGE 5: Ontology Summary Metrics
+2026-05-03 14:35:57  INFO      [stage5_summary_metrics]  ==================================================================
+2026-05-03 14:35:57  INFO      [stage5_summary_metrics]  Saved 10 rows → output\stage5_metrics\ontology_summary_metrics.tsv
+2026-05-03 14:35:57  INFO      [stage5_summary_metrics]  Bar plot saved → output\stage5_metrics\ontology_summary_barplot.png
+2026-05-03 14:35:57  INFO      [stage5_summary_metrics]  Stage 5 complete.
+2026-05-03 14:43:06  INFO      [stage5_summary_metrics]  ==================================================================
+2026-05-03 14:43:06  INFO      [stage5_summary_metrics]    STAGE 5: Ontology Summary Metrics
+2026-05-03 14:43:06  INFO      [stage5_summary_metrics]  ==================================================================
+2026-05-03 14:43:07  INFO      [stage5_summary_metrics]  Saved 10 rows → output\stage5_metrics\ontology_summary_metrics.tsv
+2026-05-03 14:43:07  INFO      [stage5_summary_metrics]  Bar plot saved → output\stage5_metrics\ontology_summary_barplot.png
+2026-05-03 14:43:07  INFO      [stage5_summary_metrics]  Stage 5 complete.
+2026-05-03 15:35:07  INFO      [stage5_summary_metrics]  ==================================================================
+2026-05-03 15:35:07  INFO      [stage5_summary_metrics]    STAGE 5: Ontology Summary Metrics
+2026-05-03 15:35:07  INFO      [stage5_summary_metrics]  ==================================================================
+2026-05-03 16:15:49  INFO      [stage5_summary_metrics]  ==================================================================
+2026-05-03 16:15:49  INFO      [stage5_summary_metrics]    STAGE 5: Ontology Summary Metrics
+2026-05-03 16:15:49  INFO      [stage5_summary_metrics]  ==================================================================
+2026-05-03 16:15:51  INFO      [stage5_summary_metrics]  Saved 19 rows → output\stage5_metrics\ontology_summary_metrics.tsv
+2026-05-03 16:15:51  INFO      [stage5_summary_metrics]  Bar plot saved → output\stage5_metrics\ontology_summary_barplot.png
+2026-05-03 16:15:51  INFO      [stage5_summary_metrics]  Stage 5 complete.
+2026-05-03 16:27:29  INFO      [stage5_summary_metrics]  ==================================================================
+2026-05-03 16:27:29  INFO      [stage5_summary_metrics]    STAGE 5: Ontology Summary Metrics
+2026-05-03 16:27:29  INFO      [stage5_summary_metrics]  ==================================================================
+2026-05-03 16:27:30  INFO      [stage5_summary_metrics]  Saved 19 rows → output\stage5_metrics\ontology_summary_metrics.tsv
+2026-05-03 16:27:30  INFO      [stage5_summary_metrics]  Bar plot saved → output\stage5_metrics\ontology_summary_barplot.png
+2026-05-03 16:27:30  INFO      [stage5_summary_metrics]  Stage 5 complete.
+2026-05-03 16:38:58  INFO      [stage5_summary_metrics]  ==================================================================
+2026-05-03 16:38:58  INFO      [stage5_summary_metrics]    STAGE 5: Ontology Summary Metrics
+2026-05-03 16:38:58  INFO      [stage5_summary_metrics]  ==================================================================
+2026-05-03 16:38:59  INFO      [stage5_summary_metrics]  Saved 19 rows → output\stage5_metrics\ontology_summary_metrics.tsv
+2026-05-03 16:38:59  INFO      [stage5_summary_metrics]  Bar plot saved → output\stage5_metrics\ontology_summary_barplot.png
+2026-05-03 16:38:59  INFO      [stage5_summary_metrics]  Stage 5 complete.
+2026-05-03 17:14:32  INFO      [stage5_summary_metrics]  ==================================================================
+2026-05-03 17:14:32  INFO      [stage5_summary_metrics]    STAGE 5: Ontology Summary Metrics
+2026-05-03 17:14:32  INFO      [stage5_summary_metrics]  ==================================================================
+2026-05-03 17:14:34  INFO      [stage5_summary_metrics]  Saved 19 rows → output\stage5_metrics\ontology_summary_metrics.tsv
+2026-05-03 17:14:34  INFO      [stage5_summary_metrics]  Bar plot saved → output\stage5_metrics\ontology_summary_barplot.png
+2026-05-03 17:14:34  INFO      [stage5_summary_metrics]  Stage 5 complete.
+2026-05-03 22:56:50  INFO      [stage5_summary_metrics]  ==================================================================
+2026-05-03 22:56:50  INFO      [stage5_summary_metrics]    STAGE 5: Ontology Summary Metrics
+2026-05-03 22:56:50  INFO      [stage5_summary_metrics]  ==================================================================
+2026-05-03 22:56:52  INFO      [stage5_summary_metrics]  Saved 19 rows → output\stage5_metrics\ontology_summary_metrics.tsv
+2026-05-03 22:56:52  INFO      [stage5_summary_metrics]  Bar plot saved → output\stage5_metrics\ontology_summary_barplot.png
+2026-05-03 22:56:52  INFO      [stage5_summary_metrics]  Stage 5 complete.
+2026-05-03 23:21:47  INFO      [stage5_summary_metrics]  ==================================================================
+2026-05-03 23:21:47  INFO      [stage5_summary_metrics]    STAGE 5: Ontology Summary Metrics
+2026-05-03 23:21:47  INFO      [stage5_summary_metrics]  ==================================================================
+2026-05-03 23:21:48  INFO      [stage5_summary_metrics]  Saved 19 rows → output\stage5_metrics\ontology_summary_metrics.tsv
+2026-05-03 23:21:48  INFO      [stage5_summary_metrics]  Bar plot saved → output\stage5_metrics\ontology_summary_barplot.png
+2026-05-03 23:21:48  INFO      [stage5_summary_metrics]  Stage 5 complete.
+2026-05-03 23:27:53  INFO      [stage5_summary_metrics]  ==================================================================
+2026-05-03 23:27:53  INFO      [stage5_summary_metrics]    STAGE 5: Ontology Summary Metrics
+2026-05-03 23:27:53  INFO      [stage5_summary_metrics]  ==================================================================
+2026-05-03 23:27:54  INFO      [stage5_summary_metrics]  Saved 19 rows → output\stage5_metrics\ontology_summary_metrics.tsv
+2026-05-03 23:27:54  INFO      [stage5_summary_metrics]  Bar plot saved → output\stage5_metrics\ontology_summary_barplot.png
+2026-05-03 23:27:54  INFO      [stage5_summary_metrics]  Stage 5 complete.
+2026-05-03 23:34:03  INFO      [stage5_summary_metrics]  ==================================================================
+2026-05-03 23:34:03  INFO      [stage5_summary_metrics]    STAGE 5: Ontology Summary Metrics
+2026-05-03 23:34:03  INFO      [stage5_summary_metrics]  ==================================================================
+2026-05-03 23:34:05  INFO      [stage5_summary_metrics]  Saved 19 rows → output\stage5_metrics\ontology_summary_metrics.tsv
+2026-05-03 23:34:05  INFO      [stage5_summary_metrics]  Bar plot saved → output\stage5_metrics\ontology_summary_barplot.png
+2026-05-03 23:34:05  INFO      [stage5_summary_metrics]  Stage 5 complete.
+2026-05-03 23:51:18  INFO      [stage5_summary_metrics]  ==================================================================
+2026-05-03 23:51:18  INFO      [stage5_summary_metrics]    STAGE 5: Ontology Summary Metrics
+2026-05-03 23:51:18  INFO      [stage5_summary_metrics]  ==================================================================
+2026-05-03 23:51:19  INFO      [stage5_summary_metrics]  Saved 19 rows → output\stage5_metrics\ontology_summary_metrics.tsv
+2026-05-03 23:51:19  INFO      [stage5_summary_metrics]  Bar plot saved → output\stage5_metrics\ontology_summary_barplot.png
+2026-05-03 23:51:19  INFO      [stage5_summary_metrics]  Stage 5 complete.
+2026-05-04 00:15:23  INFO      [stage5_summary_metrics]  ==================================================================
+2026-05-04 00:15:23  INFO      [stage5_summary_metrics]    STAGE 5: Ontology Summary Metrics
+2026-05-04 00:15:23  INFO      [stage5_summary_metrics]  ==================================================================
+2026-05-04 00:15:24  INFO      [stage5_summary_metrics]  Saved 19 rows → output\stage5_metrics\ontology_summary_metrics.tsv
+2026-05-04 00:15:24  INFO      [stage5_summary_metrics]  Bar plot saved → output\stage5_metrics\ontology_summary_barplot.png
+2026-05-04 00:15:24  INFO      [stage5_summary_metrics]  Stage 5 complete.
+2026-05-04 01:15:14  INFO      [stage5_summary_metrics]  ==================================================================
+2026-05-04 01:15:14  INFO      [stage5_summary_metrics]    STAGE 5: Ontology Summary Metrics
+2026-05-04 01:15:14  INFO      [stage5_summary_metrics]  ==================================================================
+2026-05-04 01:15:14  WARNING   [stage5_summary_metrics]  RDF instance counting failed: at line 20673 of <>:
+Bad syntax (objectList expected) at ^ in:
+"...b'021 DNA-binding" ;\n\npop:FuncCat_DOF_000025_catalytic-support'^b' a core:FunctionalCategoryContext,\n        owl:NamedIndividu'..."
+2026-05-04 01:15:14  INFO      [stage5_summary_metrics]  Saved 11 rows → output\stage5_metrics\ontology_summary_metrics.tsv
+2026-05-04 01:15:15  INFO      [stage5_summary_metrics]  Bar plot saved → output\stage5_metrics\ontology_summary_barplot.png
+2026-05-04 01:15:15  INFO      [stage5_summary_metrics]  Stage 5 complete.
+2026-05-04 02:08:34  INFO      [stage5_summary_metrics]  ==================================================================
+2026-05-04 02:08:34  INFO      [stage5_summary_metrics]    STAGE 5: Ontology Summary Metrics
+2026-05-04 02:08:34  INFO      [stage5_summary_metrics]  ==================================================================
+2026-05-04 02:08:35  INFO      [stage5_summary_metrics]  Saved 18 rows → output\stage5_metrics\ontology_summary_metrics.tsv
+2026-05-04 02:08:36  INFO      [stage5_summary_metrics]  Bar plot saved → output\stage5_metrics\ontology_summary_barplot.png
+2026-05-04 02:08:36  INFO      [stage5_summary_metrics]  Stage 5 complete.
+2026-05-04 04:34:13  INFO      [stage5_summary_metrics]  ==================================================================
+2026-05-04 04:34:13  INFO      [stage5_summary_metrics]    STAGE 5: Ontology Summary Metrics
+2026-05-04 04:34:13  INFO      [stage5_summary_metrics]  ==================================================================
+2026-05-04 04:34:14  INFO      [stage5_summary_metrics]  Saved 18 rows → output\stage5_metrics\ontology_summary_metrics.tsv
+2026-05-04 04:34:15  INFO      [stage5_summary_metrics]  Bar plot saved → output\stage5_metrics\ontology_summary_barplot.png
+2026-05-04 04:34:15  INFO      [stage5_summary_metrics]  Stage 5 complete.
+2026-05-04 04:41:38  INFO      [stage5_summary_metrics]  ==================================================================
+2026-05-04 04:41:38  INFO      [stage5_summary_metrics]    STAGE 5: Ontology Summary Metrics
+2026-05-04 04:41:38  INFO      [stage5_summary_metrics]  ==================================================================
+2026-05-04 04:41:38  INFO      [stage5_summary_metrics]  Saved 18 rows → output\stage5_metrics\ontology_summary_metrics.tsv
+2026-05-04 04:41:39  INFO      [stage5_summary_metrics]  Bar plot saved → output\stage5_metrics\ontology_summary_barplot.png
+2026-05-04 04:41:39  INFO      [stage5_summary_metrics]  Stage 5 complete.
+2026-05-04 09:33:02  INFO      [stage5_summary_metrics]  ==================================================================
+2026-05-04 09:33:02  INFO      [stage5_summary_metrics]    STAGE 5: Ontology Summary Metrics
+2026-05-04 09:33:02  INFO      [stage5_summary_metrics]  ==================================================================
+2026-05-04 09:33:03  INFO      [stage5_summary_metrics]  Saved 18 rows → output\stage5_metrics\ontology_summary_metrics.tsv
+2026-05-04 09:33:03  INFO      [stage5_summary_metrics]  Bar plot saved → output\stage5_metrics\ontology_summary_barplot.png
+2026-05-04 09:33:03  INFO      [stage5_summary_metrics]  Stage 5 complete.
+2026-05-04 09:34:55  INFO      [stage5_summary_metrics]  ==================================================================
+2026-05-04 09:34:55  INFO      [stage5_summary_metrics]    STAGE 5: Ontology Summary Metrics
+2026-05-04 09:34:55  INFO      [stage5_summary_metrics]  ==================================================================
+2026-05-04 09:34:56  INFO      [stage5_summary_metrics]  Saved 18 rows → output\stage5_metrics\ontology_summary_metrics.tsv
+2026-05-04 09:34:56  INFO      [stage5_summary_metrics]  Bar plot saved → output\stage5_metrics\ontology_summary_barplot.png
+2026-05-04 09:34:56  INFO      [stage5_summary_metrics]  Stage 5 complete.
+2026-05-04 09:57:23  INFO      [stage5_summary_metrics]  ==================================================================
+2026-05-04 09:57:23  INFO      [stage5_summary_metrics]    STAGE 5: Ontology Summary Metrics
+2026-05-04 09:57:23  INFO      [stage5_summary_metrics]  ==================================================================
+2026-05-04 09:57:24  INFO      [stage5_summary_metrics]  Saved 18 rows → output\stage5_metrics\ontology_summary_metrics.tsv
+2026-05-04 09:57:24  INFO      [stage5_summary_metrics]  Bar plot saved → output\stage5_metrics\ontology_summary_barplot.png
+2026-05-04 09:57:24  INFO      [stage5_summary_metrics]  Stage 5 complete.
+2026-05-04 10:27:09  INFO      [stage5_summary_metrics]  ==================================================================
+2026-05-04 10:27:09  INFO      [stage5_summary_metrics]    STAGE 5: Ontology Summary Metrics
+2026-05-04 10:27:09  INFO      [stage5_summary_metrics]  ==================================================================
+2026-05-04 10:27:10  INFO      [stage5_summary_metrics]  Saved 18 rows → output\stage5_metrics\ontology_summary_metrics.tsv
+2026-05-04 10:27:10  INFO      [stage5_summary_metrics]  Bar plot saved → output\stage5_metrics\ontology_summary_barplot.png
+2026-05-04 10:27:10  INFO      [stage5_summary_metrics]  Stage 5 complete.
+2026-05-04 11:01:34  INFO      [stage5_summary_metrics]  ==================================================================
+2026-05-04 11:01:34  INFO      [stage5_summary_metrics]    STAGE 5: Ontology Summary Metrics
+2026-05-04 11:01:34  INFO      [stage5_summary_metrics]  ==================================================================
+2026-05-04 11:01:35  INFO      [stage5_summary_metrics]  Saved 18 rows → output\stage5_metrics\ontology_summary_metrics.tsv
+2026-05-04 11:01:35  INFO      [stage5_summary_metrics]  Bar plot saved → output\stage5_metrics\ontology_summary_barplot.png
+2026-05-04 11:01:35  INFO      [stage5_summary_metrics]  Stage 5 complete.
+2026-05-04 11:49:03  INFO      [stage5_summary_metrics]  ==================================================================
+2026-05-04 11:49:03  INFO      [stage5_summary_metrics]    STAGE 5: Ontology Summary Metrics
+2026-05-04 11:49:03  INFO      [stage5_summary_metrics]  ==================================================================
+2026-05-04 11:49:04  INFO      [stage5_summary_metrics]  Saved 18 rows → output\stage5_metrics\ontology_summary_metrics.tsv
+2026-05-04 11:49:05  INFO      [stage5_summary_metrics]  Bar plot saved → output\stage5_metrics\ontology_summary_barplot.png
+2026-05-04 11:49:05  INFO      [stage5_summary_metrics]  Stage 5 complete.

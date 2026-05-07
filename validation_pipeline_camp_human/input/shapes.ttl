@@ -1,0 +1,195 @@
+# shapes.ttl — SHACL shapes for the cAMP pathway domain ontology
+# Namespace: ex: = http://example.org/domain-ontology-core#
+# These shapes validate structural integrity, cardinality, and data quality
+# of the instance data (domain_occurrences.ttl).
+
+@prefix sh:   <http://www.w3.org/ns/shacl#> .
+@prefix ex:   <http://example.org/domain-ontology-core#> .
+@prefix xsd:  <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+# ══════════════════════════════════════════════════════════════════════════
+# DomainOccurrence — 10 constraints
+# ══════════════════════════════════════════════════════════════════════════
+
+ex:DomainOccurrenceShape
+    a sh:NodeShape ;
+    sh:targetClass ex:DomainOccurrence ;
+
+    # S1 — must link to exactly one Protein
+    sh:property [
+        sh:path ex:occursInProtein ;
+        sh:minCount 1 ;
+        sh:maxCount 1 ;
+        sh:class ex:Protein ;
+        sh:message "DomainOccurrence must link to exactly one Protein via ex:occursInProtein" ;
+    ] ;
+
+    # S2 — must link to exactly one DomainType
+    sh:property [
+        sh:path ex:hasDomainType ;
+        sh:minCount 1 ;
+        sh:maxCount 1 ;
+        sh:class ex:DomainType ;
+        sh:message "DomainOccurrence must link to exactly one DomainType via ex:hasDomainType" ;
+    ] ;
+
+    # S3 — startPos: required, integer, >= 1
+    sh:property [
+        sh:path ex:startPos ;
+        sh:minCount 1 ;
+        sh:maxCount 1 ;
+        sh:datatype xsd:integer ;
+        sh:minInclusive 1 ;
+        sh:message "startPos must be present, an integer, and >= 1" ;
+    ] ;
+
+    # S4 — endPos: required, integer, >= 1
+    sh:property [
+        sh:path ex:endPos ;
+        sh:minCount 1 ;
+        sh:maxCount 1 ;
+        sh:datatype xsd:integer ;
+        sh:minInclusive 1 ;
+        sh:message "endPos must be present, an integer, and >= 1" ;
+    ] ;
+
+    # S5 — relativeStart: optional float in [0.0, 1.0]
+    sh:property [
+        sh:path ex:relativeStart ;
+        sh:maxCount 1 ;
+        sh:datatype xsd:decimal ;
+        sh:minInclusive 0.0 ;
+        sh:maxInclusive 1.0 ;
+        sh:message "relativeStart must be a decimal in [0.0, 1.0]" ;
+    ] ;
+
+    # S6 — relativeEnd: optional float in [0.0, 1.0]
+    sh:property [
+        sh:path ex:relativeEnd ;
+        sh:maxCount 1 ;
+        sh:datatype xsd:decimal ;
+        sh:minInclusive 0.0 ;
+        sh:maxInclusive 1.0 ;
+        sh:message "relativeEnd must be a decimal in [0.0, 1.0]" ;
+    ] ;
+
+    # S7 — isRepresentative: optional boolean
+    sh:property [
+        sh:path ex:isRepresentative ;
+        sh:maxCount 1 ;
+        sh:datatype xsd:boolean ;
+        sh:message "isRepresentative must be a boolean (true/false)" ;
+    ] ;
+
+    # S8 — copyNumberProperty: required string (DOP: identifier + label)
+    sh:property [
+        sh:path ex:copyNumberProperty ;
+        sh:minCount 1 ;
+        sh:maxCount 1 ;
+        sh:message "copyNumberProperty must be present" ;
+    ] ;
+
+    # S9 — hasPositionalCategory: required, links to a PositionalCategory
+    sh:property [
+        sh:path ex:hasPositionalCategory ;
+        sh:minCount 1 ;
+        sh:maxCount 1 ;
+        sh:class ex:PositionalCategory ;
+        sh:message "DomainOccurrence must have exactly one PositionalCategory" ;
+    ] ;
+
+    # S10 — domainEvidenceLevel: required string
+    sh:property [
+        sh:path ex:domainEvidenceLevel ;
+        sh:minCount 1 ;
+        sh:maxCount 1 ;
+        sh:message "domainEvidenceLevel must be present" ;
+    ] ;
+
+    # S11 — hasTopologyContext: required, links to TopologyContext node
+    sh:property [
+        sh:path ex:hasTopologyContext ;
+        sh:minCount 1 ;
+        sh:maxCount 1 ;
+        sh:class ex:TopologyContext ;
+        sh:message "DomainOccurrence must have exactly one TopologyContext" ;
+    ] ;
+
+    # S12 — externalId: required string (occurrence key)
+    sh:property [
+        sh:path ex:externalId ;
+        sh:minCount 1 ;
+        sh:maxCount 1 ;
+        sh:message "DomainOccurrence must have exactly one externalId" ;
+    ] .
+
+# ══════════════════════════════════════════════════════════════════════════
+# Protein — 3 constraints
+# ══════════════════════════════════════════════════════════════════════════
+
+ex:ProteinShape
+    a sh:NodeShape ;
+    sh:targetClass ex:Protein ;
+
+    # S13 — externalId: required (UniProtKB accession)
+    sh:property [
+        sh:path ex:externalId ;
+        sh:minCount 1 ;
+        sh:datatype xsd:string ;
+        sh:message "Protein must have at least one externalId (UniProtKB accession)" ;
+    ] ;
+
+    # S14 — rdfs:label: required
+    sh:property [
+        sh:path rdfs:label ;
+        sh:minCount 1 ;
+        sh:message "Protein must have a rdfs:label" ;
+    ] .
+
+# ══════════════════════════════════════════════════════════════════════════
+# DomainType — 3 constraints
+# ══════════════════════════════════════════════════════════════════════════
+
+ex:DomainTypeShape
+    a sh:NodeShape ;
+    sh:targetClass ex:DomainType ;
+
+    # S15 — rdfs:label: required
+    sh:property [
+        sh:path rdfs:label ;
+        sh:minCount 1 ;
+        sh:message "DomainType must have a rdfs:label" ;
+    ] ;
+ .
+
+# ══════════════════════════════════════════════════════════════════════════
+# FunctionalTag — 1 constraint
+# ══════════════════════════════════════════════════════════════════════════
+
+ex:FunctionalTagShape
+    a sh:NodeShape ;
+    sh:targetClass ex:FunctionalTag ;
+
+    # S17 — rdfs:label: required
+    sh:property [
+        sh:path rdfs:label ;
+        sh:minCount 1 ;
+        sh:message "FunctionalTag must have a rdfs:label" ;
+    ] .
+
+# ══════════════════════════════════════════════════════════════════════════
+# ReactomePathway — 1 constraint
+# ══════════════════════════════════════════════════════════════════════════
+
+ex:ReactomePathwayShape
+    a sh:NodeShape ;
+    sh:targetClass ex:ReactomePathway ;
+
+    # S18 — externalId: required
+    sh:property [
+        sh:path ex:externalId ;
+        sh:minCount 1 ;
+        sh:message "ReactomePathway must have an externalId" ;
+    ] .

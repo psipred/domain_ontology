@@ -1,0 +1,662 @@
+2026-05-03 16:28:05  INFO      [stage13_protein_modules]  ==================================================================
+2026-05-03 16:28:05  INFO      [stage13_protein_modules]    STAGE 13: Protein Module Separation & Clustering
+2026-05-03 16:28:05  INFO      [stage13_protein_modules]  ==================================================================
+2026-05-03 16:28:05  INFO      [stage13_protein_modules]  Feature columns: ['domain_type_id', 'function_tags', 'topology_context', 'binding_partner']
+2026-05-03 16:28:05  INFO      [stage13_protein_modules]  Feature matrix: (142, 295) (proteins × features)
+2026-05-03 16:28:05  INFO      [stage13_protein_modules]  Saved 142 rows → output\stage13_modules\protein_feature_matrix.tsv
+2026-05-03 16:28:05  INFO      [stage13_protein_modules]  Saved 142 rows → output\stage13_modules\protein_similarity_matrix.tsv
+2026-05-03 16:28:06  INFO      [stage13_protein_modules]  Saved 142 rows → output\stage13_modules\pca_coordinates.tsv
+2026-05-03 16:28:06  INFO      [stage13_protein_modules]  Saved 10 rows → output\stage13_modules\pca_variance_explained.tsv
+2026-05-03 16:28:06  INFO      [stage13_protein_modules]  Running PCoA on Jaccard distance matrix …
+2026-05-03 16:28:06  INFO      [stage13_protein_modules]  Saved 142 rows → output\stage13_modules\pcoa_coordinates.tsv
+2026-05-03 16:28:06  INFO      [stage13_protein_modules]  Saved 62 rows → output\stage13_modules\pcoa_variance_explained.tsv
+2026-05-03 16:28:06  INFO      [stage13_protein_modules]    PCoA 2D goodness-of-fit=0.3644
+2026-05-03 16:28:06  INFO      [stage13_protein_modules]  Optimal k selection: tested k=[3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+2026-05-03 16:28:06  INFO      [stage13_protein_modules]    Silhouette scores: [(3, 0.2546), (4, 0.2925), (5, 0.3269), (6, 0.3447), (7, 0.3664), (8, 0.3831), (9, 0.4078), (10, 0.4289), (11, 0.4459), (12, 0.4591)]
+2026-05-03 16:28:06  INFO      [stage13_protein_modules]    Best k=12  (silhouette=0.4591)
+2026-05-03 16:28:06  INFO      [stage13_protein_modules]  Saved 10 rows → output\stage13_modules\k_selection_silhouette.tsv
+2026-05-03 16:28:06  INFO      [stage13_protein_modules]  Saved 142 rows → output\stage13_modules\clustering_assignments.tsv
+2026-05-03 16:28:06  INFO      [stage13_protein_modules]  Silhouette score (k=12): 0.4591
+2026-05-03 16:28:06  INFO      [stage13_protein_modules]  Protein group labels loaded: 41 groups for 142 proteins from input\protein_group_labels.tsv
+2026-05-03 16:28:06  INFO      [stage13_protein_modules]  Group assignments: 142/142 proteins assigned to named groups (41 unique groups)
+2026-05-03 16:28:06  INFO      [stage13_protein_modules]  Saved 28 rows → output\stage13_modules\group_similarity_stats.tsv
+2026-05-03 16:28:06  INFO      [stage13_protein_modules]  MMseqs2 clusters loaded: 88 clusters, 143 proteins, 142 overlap with feature matrix
+2026-05-03 16:28:06  INFO      [stage13_protein_modules]  ARI vs MMseqs2 clusters: 0.1027  NMI: 0.6575
+2026-05-03 16:28:06  INFO      [stage13_protein_modules]  Saved 7 rows → output\stage13_modules\module_separation_summary.tsv
+2026-05-03 16:28:06  INFO      [stage13_protein_modules]  Building top protein-pair similarity table …
+2026-05-03 16:28:07  INFO      [stage13_protein_modules]  Generating global clustering heatmap …
+2026-05-03 16:28:07  INFO      [stage13_protein_modules]  Generating cluster-level summary heatmap …
+2026-05-03 16:28:08  INFO      [stage13_protein_modules]  Generating per-cluster sub-heatmaps …
+2026-05-03 16:28:18  INFO      [stage13_protein_modules]  Generating within vs between cluster boxplot …
+2026-05-03 16:28:19  INFO      [stage13_protein_modules]  Generating PCA plot …
+2026-05-03 16:28:22  INFO      [stage13_protein_modules]  Generating PCoA plot (primary ordination on Jaccard distances) …
+2026-05-03 16:28:25  INFO      [stage13_protein_modules]  Stage 13 complete.
+2026-05-03 16:28:25  INFO      [stage13_protein_modules]  
+2026-05-03 16:28:25  INFO      [stage13_protein_modules]  Output files:
+2026-05-03 16:28:25  INFO      [stage13_protein_modules]    clustering_heatmap.png         — global heatmap (dendrogram order)
+2026-05-03 16:28:25  INFO      [stage13_protein_modules]    cluster_summary_heatmap.png    — cluster × cluster mean Jaccard
+2026-05-03 16:28:25  INFO      [stage13_protein_modules]    per_cluster_heatmaps/          — one readable heatmap per cluster
+2026-05-03 16:28:25  INFO      [stage13_protein_modules]    within_between_similarity.png  — statistical boxplot (Mann–Whitney)
+2026-05-03 16:28:25  INFO      [stage13_protein_modules]    top_similar_pairs.tsv          — ranked table of similar pairs
+2026-05-03 16:28:25  INFO      [stage13_protein_modules]    pcoa_plot.png                  — PCoA on Jaccard distance (primary)
+2026-05-03 16:28:25  INFO      [stage13_protein_modules]    pca_plot.png                   — PCA on feature variance
+2026-05-03 16:28:25  INFO      [stage13_protein_modules]    k_selection_plot.png           — silhouette vs k
+2026-05-03 16:28:25  INFO      [stage13_protein_modules]    k_selection_silhouette.tsv     — silhouette scores per k
+2026-05-03 16:39:33  INFO      [stage13_protein_modules]  ==================================================================
+2026-05-03 16:39:33  INFO      [stage13_protein_modules]    STAGE 13: Protein Module Separation & Clustering
+2026-05-03 16:39:33  INFO      [stage13_protein_modules]  ==================================================================
+2026-05-03 16:39:33  INFO      [stage13_protein_modules]  Feature columns: ['domain_type_id', 'function_tags', 'topology_context', 'binding_partner']
+2026-05-03 16:39:33  INFO      [stage13_protein_modules]  Feature matrix: (142, 295) (proteins × features)
+2026-05-03 16:39:33  INFO      [stage13_protein_modules]  Saved 142 rows → output\stage13_modules\protein_feature_matrix.tsv
+2026-05-03 16:39:33  INFO      [stage13_protein_modules]  Saved 142 rows → output\stage13_modules\protein_similarity_matrix.tsv
+2026-05-03 16:39:33  INFO      [stage13_protein_modules]  Saved 142 rows → output\stage13_modules\pca_coordinates.tsv
+2026-05-03 16:39:33  INFO      [stage13_protein_modules]  Saved 10 rows → output\stage13_modules\pca_variance_explained.tsv
+2026-05-03 16:39:33  INFO      [stage13_protein_modules]  Running PCoA on Jaccard distance matrix …
+2026-05-03 16:39:33  INFO      [stage13_protein_modules]  Saved 142 rows → output\stage13_modules\pcoa_coordinates.tsv
+2026-05-03 16:39:33  INFO      [stage13_protein_modules]  Saved 62 rows → output\stage13_modules\pcoa_variance_explained.tsv
+2026-05-03 16:39:33  INFO      [stage13_protein_modules]    PCoA 2D goodness-of-fit=0.3644
+2026-05-03 16:39:33  INFO      [stage13_protein_modules]  Optimal k selection: tested k=[3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+2026-05-03 16:39:33  INFO      [stage13_protein_modules]    Silhouette scores: [(3, 0.2546), (4, 0.2925), (5, 0.3269), (6, 0.3447), (7, 0.3664), (8, 0.3831), (9, 0.4078), (10, 0.4289), (11, 0.4459), (12, 0.4591)]
+2026-05-03 16:39:33  INFO      [stage13_protein_modules]    Best k=12  (silhouette=0.4591)
+2026-05-03 16:39:33  INFO      [stage13_protein_modules]  Saved 10 rows → output\stage13_modules\k_selection_silhouette.tsv
+2026-05-03 16:39:33  INFO      [stage13_protein_modules]  Saved 142 rows → output\stage13_modules\clustering_assignments.tsv
+2026-05-03 16:39:33  INFO      [stage13_protein_modules]  Silhouette score (k=12): 0.4591
+2026-05-03 16:39:33  INFO      [stage13_protein_modules]  Protein group labels loaded: 41 groups for 142 proteins from input\protein_group_labels.tsv
+2026-05-03 16:39:33  INFO      [stage13_protein_modules]  Group assignments: 142/142 proteins assigned to named groups (41 unique groups)
+2026-05-03 16:39:33  INFO      [stage13_protein_modules]  Saved 28 rows → output\stage13_modules\group_similarity_stats.tsv
+2026-05-03 16:39:33  INFO      [stage13_protein_modules]  MMseqs2 clusters loaded: 88 clusters, 143 proteins, 142 overlap with feature matrix
+2026-05-03 16:39:33  INFO      [stage13_protein_modules]  ARI vs MMseqs2 clusters: 0.1027  NMI: 0.6575
+2026-05-03 16:39:33  INFO      [stage13_protein_modules]  Saved 7 rows → output\stage13_modules\module_separation_summary.tsv
+2026-05-03 16:39:33  INFO      [stage13_protein_modules]  Building top protein-pair similarity table …
+2026-05-03 16:39:34  INFO      [stage13_protein_modules]  Generating global clustering heatmap …
+2026-05-03 16:39:34  INFO      [stage13_protein_modules]  Generating cluster-level summary heatmap …
+2026-05-03 16:39:34  INFO      [stage13_protein_modules]  Generating per-cluster sub-heatmaps …
+2026-05-03 16:39:43  INFO      [stage13_protein_modules]  Generating within vs between cluster boxplot …
+2026-05-03 16:39:43  INFO      [stage13_protein_modules]  Generating PCA plot …
+2026-05-03 16:39:45  INFO      [stage13_protein_modules]  Generating PCoA plot (primary ordination on Jaccard distances) …
+2026-05-03 16:39:47  INFO      [stage13_protein_modules]  Stage 13 complete.
+2026-05-03 16:39:47  INFO      [stage13_protein_modules]  
+2026-05-03 16:39:47  INFO      [stage13_protein_modules]  Output files:
+2026-05-03 16:39:47  INFO      [stage13_protein_modules]    clustering_heatmap.png         — global heatmap (dendrogram order)
+2026-05-03 16:39:47  INFO      [stage13_protein_modules]    cluster_summary_heatmap.png    — cluster × cluster mean Jaccard
+2026-05-03 16:39:47  INFO      [stage13_protein_modules]    per_cluster_heatmaps/          — one readable heatmap per cluster
+2026-05-03 16:39:47  INFO      [stage13_protein_modules]    within_between_similarity.png  — statistical boxplot (Mann–Whitney)
+2026-05-03 16:39:47  INFO      [stage13_protein_modules]    top_similar_pairs.tsv          — ranked table of similar pairs
+2026-05-03 16:39:47  INFO      [stage13_protein_modules]    pcoa_plot.png                  — PCoA on Jaccard distance (primary)
+2026-05-03 16:39:47  INFO      [stage13_protein_modules]    pca_plot.png                   — PCA on feature variance
+2026-05-03 16:39:47  INFO      [stage13_protein_modules]    k_selection_plot.png           — silhouette vs k
+2026-05-03 16:39:47  INFO      [stage13_protein_modules]    k_selection_silhouette.tsv     — silhouette scores per k
+2026-05-03 22:58:59  INFO      [stage13_protein_modules]  ==================================================================
+2026-05-03 22:58:59  INFO      [stage13_protein_modules]    STAGE 13: Protein Module Separation & Clustering
+2026-05-03 22:58:59  INFO      [stage13_protein_modules]  ==================================================================
+2026-05-03 22:58:59  INFO      [stage13_protein_modules]  Feature columns: ['domain_type_id', 'function_tags', 'topology_context', 'binding_partner']
+2026-05-03 22:58:59  INFO      [stage13_protein_modules]  Feature matrix: (142, 294) (proteins × features)
+2026-05-03 22:58:59  INFO      [stage13_protein_modules]  Saved 142 rows → output\stage13_modules\protein_feature_matrix.tsv
+2026-05-03 22:58:59  INFO      [stage13_protein_modules]  Saved 142 rows → output\stage13_modules\protein_similarity_matrix.tsv
+2026-05-03 22:58:59  INFO      [stage13_protein_modules]  Saved 142 rows → output\stage13_modules\pca_coordinates.tsv
+2026-05-03 22:58:59  INFO      [stage13_protein_modules]  Saved 10 rows → output\stage13_modules\pca_variance_explained.tsv
+2026-05-03 22:58:59  INFO      [stage13_protein_modules]  Running PCoA on Jaccard distance matrix …
+2026-05-03 22:58:59  INFO      [stage13_protein_modules]  Saved 142 rows → output\stage13_modules\pcoa_coordinates.tsv
+2026-05-03 22:58:59  INFO      [stage13_protein_modules]  Saved 62 rows → output\stage13_modules\pcoa_variance_explained.tsv
+2026-05-03 22:58:59  INFO      [stage13_protein_modules]    PCoA 2D goodness-of-fit=0.3648
+2026-05-03 22:58:59  INFO      [stage13_protein_modules]  Optimal k selection: tested k=[3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+2026-05-03 22:58:59  INFO      [stage13_protein_modules]    Silhouette scores: [(3, 0.2551), (4, 0.2931), (5, 0.3277), (6, 0.3456), (7, 0.3673), (8, 0.3841), (9, 0.4088), (10, 0.4298), (11, 0.4468), (12, 0.46)]
+2026-05-03 22:58:59  INFO      [stage13_protein_modules]    Best k=12  (silhouette=0.4600)
+2026-05-03 22:58:59  INFO      [stage13_protein_modules]  Saved 10 rows → output\stage13_modules\k_selection_silhouette.tsv
+2026-05-03 22:58:59  INFO      [stage13_protein_modules]  Saved 142 rows → output\stage13_modules\clustering_assignments.tsv
+2026-05-03 22:58:59  INFO      [stage13_protein_modules]  Silhouette score (k=12): 0.4600
+2026-05-03 22:58:59  INFO      [stage13_protein_modules]  Protein group labels loaded: 41 groups for 142 proteins from input\protein_group_labels.tsv
+2026-05-03 22:59:00  INFO      [stage13_protein_modules]  Group assignments: 142/142 proteins assigned to named groups (41 unique groups)
+2026-05-03 22:59:00  INFO      [stage13_protein_modules]  Saved 28 rows → output\stage13_modules\group_similarity_stats.tsv
+2026-05-03 22:59:00  INFO      [stage13_protein_modules]  MMseqs2 clusters loaded: 88 clusters, 143 proteins, 142 overlap with feature matrix
+2026-05-03 22:59:00  INFO      [stage13_protein_modules]  ARI vs MMseqs2 clusters: 0.1027  NMI: 0.6575
+2026-05-03 22:59:00  INFO      [stage13_protein_modules]  Saved 7 rows → output\stage13_modules\module_separation_summary.tsv
+2026-05-03 22:59:00  INFO      [stage13_protein_modules]  Building top protein-pair similarity table …
+2026-05-03 22:59:02  INFO      [stage13_protein_modules]  Generating global clustering heatmap …
+2026-05-03 22:59:03  INFO      [stage13_protein_modules]  Generating cluster-level summary heatmap …
+2026-05-03 22:59:05  INFO      [stage13_protein_modules]  Generating per-cluster sub-heatmaps …
+2026-05-03 22:59:34  INFO      [stage13_protein_modules]  Generating within vs between cluster boxplot …
+2026-05-03 23:22:42  INFO      [stage13_protein_modules]  ==================================================================
+2026-05-03 23:22:42  INFO      [stage13_protein_modules]    STAGE 13: Protein Module Separation & Clustering
+2026-05-03 23:22:42  INFO      [stage13_protein_modules]  ==================================================================
+2026-05-03 23:22:42  INFO      [stage13_protein_modules]  Feature columns: ['domain_type_id', 'function_tags', 'topology_context', 'binding_partner']
+2026-05-03 23:22:42  INFO      [stage13_protein_modules]  Feature matrix: (142, 293) (proteins × features)
+2026-05-03 23:22:42  INFO      [stage13_protein_modules]  Saved 142 rows → output\stage13_modules\protein_feature_matrix.tsv
+2026-05-03 23:22:42  INFO      [stage13_protein_modules]  Saved 142 rows → output\stage13_modules\protein_similarity_matrix.tsv
+2026-05-03 23:22:42  INFO      [stage13_protein_modules]  Saved 142 rows → output\stage13_modules\pca_coordinates.tsv
+2026-05-03 23:22:42  INFO      [stage13_protein_modules]  Saved 10 rows → output\stage13_modules\pca_variance_explained.tsv
+2026-05-03 23:22:42  INFO      [stage13_protein_modules]  Running PCoA on Jaccard distance matrix …
+2026-05-03 23:22:42  INFO      [stage13_protein_modules]  Saved 142 rows → output\stage13_modules\pcoa_coordinates.tsv
+2026-05-03 23:22:42  INFO      [stage13_protein_modules]  Saved 62 rows → output\stage13_modules\pcoa_variance_explained.tsv
+2026-05-03 23:22:42  INFO      [stage13_protein_modules]    PCoA 2D goodness-of-fit=0.3649
+2026-05-03 23:22:42  INFO      [stage13_protein_modules]  Optimal k selection: tested k=[3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+2026-05-03 23:22:42  INFO      [stage13_protein_modules]    Silhouette scores: [(3, 0.2552), (4, 0.2927), (5, 0.3278), (6, 0.3458), (7, 0.3676), (8, 0.3843), (9, 0.4091), (10, 0.4301), (11, 0.4471), (12, 0.4603)]
+2026-05-03 23:22:42  INFO      [stage13_protein_modules]    Best k=12  (silhouette=0.4603)
+2026-05-03 23:22:42  INFO      [stage13_protein_modules]  Saved 10 rows → output\stage13_modules\k_selection_silhouette.tsv
+2026-05-03 23:22:42  INFO      [stage13_protein_modules]  Saved 142 rows → output\stage13_modules\clustering_assignments.tsv
+2026-05-03 23:22:42  INFO      [stage13_protein_modules]  Silhouette score (k=12): 0.4603
+2026-05-03 23:22:42  INFO      [stage13_protein_modules]  Protein group labels loaded: 41 groups for 142 proteins from input\protein_group_labels.tsv
+2026-05-03 23:22:42  INFO      [stage13_protein_modules]  Group assignments: 142/142 proteins assigned to named groups (41 unique groups)
+2026-05-03 23:22:42  INFO      [stage13_protein_modules]  Saved 28 rows → output\stage13_modules\group_similarity_stats.tsv
+2026-05-03 23:22:42  INFO      [stage13_protein_modules]  MMseqs2 clusters loaded: 88 clusters, 143 proteins, 142 overlap with feature matrix
+2026-05-03 23:22:42  INFO      [stage13_protein_modules]  ARI vs MMseqs2 clusters: 0.1027  NMI: 0.6575
+2026-05-03 23:22:42  INFO      [stage13_protein_modules]  Saved 7 rows → output\stage13_modules\module_separation_summary.tsv
+2026-05-03 23:22:42  INFO      [stage13_protein_modules]  Building top protein-pair similarity table …
+2026-05-03 23:22:43  INFO      [stage13_protein_modules]  Generating global clustering heatmap …
+2026-05-03 23:22:43  INFO      [stage13_protein_modules]  Generating cluster-level summary heatmap …
+2026-05-03 23:22:44  INFO      [stage13_protein_modules]  Generating per-cluster sub-heatmaps …
+2026-05-03 23:22:58  INFO      [stage13_protein_modules]  Generating within vs between cluster boxplot …
+2026-05-03 23:28:39  INFO      [stage13_protein_modules]  ==================================================================
+2026-05-03 23:28:39  INFO      [stage13_protein_modules]    STAGE 13: Protein Module Separation & Clustering
+2026-05-03 23:28:39  INFO      [stage13_protein_modules]  ==================================================================
+2026-05-03 23:28:39  INFO      [stage13_protein_modules]  Feature columns: ['domain_type_id', 'function_tags', 'topology_context', 'binding_partner']
+2026-05-03 23:28:39  INFO      [stage13_protein_modules]  Feature matrix: (142, 293) (proteins × features)
+2026-05-03 23:28:39  INFO      [stage13_protein_modules]  Saved 142 rows → output\stage13_modules\protein_feature_matrix.tsv
+2026-05-03 23:28:39  INFO      [stage13_protein_modules]  Saved 142 rows → output\stage13_modules\protein_similarity_matrix.tsv
+2026-05-03 23:28:39  INFO      [stage13_protein_modules]  Saved 142 rows → output\stage13_modules\pca_coordinates.tsv
+2026-05-03 23:28:39  INFO      [stage13_protein_modules]  Saved 10 rows → output\stage13_modules\pca_variance_explained.tsv
+2026-05-03 23:28:39  INFO      [stage13_protein_modules]  Running PCoA on Jaccard distance matrix …
+2026-05-03 23:28:39  INFO      [stage13_protein_modules]  Saved 142 rows → output\stage13_modules\pcoa_coordinates.tsv
+2026-05-03 23:28:39  INFO      [stage13_protein_modules]  Saved 62 rows → output\stage13_modules\pcoa_variance_explained.tsv
+2026-05-03 23:28:39  INFO      [stage13_protein_modules]    PCoA 2D goodness-of-fit=0.3649
+2026-05-03 23:28:40  INFO      [stage13_protein_modules]  Optimal k selection: tested k=[3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+2026-05-03 23:28:40  INFO      [stage13_protein_modules]    Silhouette scores: [(3, 0.2552), (4, 0.2927), (5, 0.3278), (6, 0.3458), (7, 0.3676), (8, 0.3843), (9, 0.4091), (10, 0.4301), (11, 0.4471), (12, 0.4603)]
+2026-05-03 23:28:40  INFO      [stage13_protein_modules]    Best k=12  (silhouette=0.4603)
+2026-05-03 23:28:40  INFO      [stage13_protein_modules]  Saved 10 rows → output\stage13_modules\k_selection_silhouette.tsv
+2026-05-03 23:28:40  INFO      [stage13_protein_modules]  Saved 142 rows → output\stage13_modules\clustering_assignments.tsv
+2026-05-03 23:28:40  INFO      [stage13_protein_modules]  Silhouette score (k=12): 0.4603
+2026-05-03 23:28:40  INFO      [stage13_protein_modules]  Protein group labels loaded: 41 groups for 142 proteins from input\protein_group_labels.tsv
+2026-05-03 23:28:40  INFO      [stage13_protein_modules]  Group assignments: 142/142 proteins assigned to named groups (41 unique groups)
+2026-05-03 23:28:40  INFO      [stage13_protein_modules]  Saved 28 rows → output\stage13_modules\group_similarity_stats.tsv
+2026-05-03 23:28:40  INFO      [stage13_protein_modules]  MMseqs2 clusters loaded: 88 clusters, 143 proteins, 142 overlap with feature matrix
+2026-05-03 23:28:40  INFO      [stage13_protein_modules]  ARI vs MMseqs2 clusters: 0.1027  NMI: 0.6575
+2026-05-03 23:28:40  INFO      [stage13_protein_modules]  Saved 7 rows → output\stage13_modules\module_separation_summary.tsv
+2026-05-03 23:28:40  INFO      [stage13_protein_modules]  Building top protein-pair similarity table …
+2026-05-03 23:28:41  INFO      [stage13_protein_modules]  Generating global clustering heatmap …
+2026-05-03 23:28:41  INFO      [stage13_protein_modules]  Generating cluster-level summary heatmap …
+2026-05-03 23:28:43  INFO      [stage13_protein_modules]  Generating per-cluster sub-heatmaps …
+2026-05-03 23:28:56  INFO      [stage13_protein_modules]  Generating within vs between cluster boxplot …
+2026-05-03 23:35:00  INFO      [stage13_protein_modules]  ==================================================================
+2026-05-03 23:35:00  INFO      [stage13_protein_modules]    STAGE 13: Protein Module Separation & Clustering
+2026-05-03 23:35:00  INFO      [stage13_protein_modules]  ==================================================================
+2026-05-03 23:35:00  INFO      [stage13_protein_modules]  Feature columns: ['domain_type_id', 'function_tags', 'topology_context', 'binding_partner']
+2026-05-03 23:35:00  INFO      [stage13_protein_modules]  Feature matrix: (142, 293) (proteins × features)
+2026-05-03 23:35:00  INFO      [stage13_protein_modules]  Saved 142 rows → output\stage13_modules\protein_feature_matrix.tsv
+2026-05-03 23:35:00  INFO      [stage13_protein_modules]  Saved 142 rows → output\stage13_modules\protein_similarity_matrix.tsv
+2026-05-03 23:35:00  INFO      [stage13_protein_modules]  Saved 142 rows → output\stage13_modules\pca_coordinates.tsv
+2026-05-03 23:35:00  INFO      [stage13_protein_modules]  Saved 10 rows → output\stage13_modules\pca_variance_explained.tsv
+2026-05-03 23:35:00  INFO      [stage13_protein_modules]  Running PCoA on Jaccard distance matrix …
+2026-05-03 23:35:00  INFO      [stage13_protein_modules]  Saved 142 rows → output\stage13_modules\pcoa_coordinates.tsv
+2026-05-03 23:35:00  INFO      [stage13_protein_modules]  Saved 62 rows → output\stage13_modules\pcoa_variance_explained.tsv
+2026-05-03 23:35:00  INFO      [stage13_protein_modules]    PCoA 2D goodness-of-fit=0.3649
+2026-05-03 23:35:00  INFO      [stage13_protein_modules]  Optimal k selection: tested k=[3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+2026-05-03 23:35:00  INFO      [stage13_protein_modules]    Silhouette scores: [(3, 0.2552), (4, 0.2927), (5, 0.3278), (6, 0.3458), (7, 0.3676), (8, 0.3843), (9, 0.4091), (10, 0.4301), (11, 0.4471), (12, 0.4603)]
+2026-05-03 23:35:00  INFO      [stage13_protein_modules]    Best k=12  (silhouette=0.4603)
+2026-05-03 23:35:01  INFO      [stage13_protein_modules]  Saved 10 rows → output\stage13_modules\k_selection_silhouette.tsv
+2026-05-03 23:35:01  INFO      [stage13_protein_modules]  Saved 142 rows → output\stage13_modules\clustering_assignments.tsv
+2026-05-03 23:35:01  INFO      [stage13_protein_modules]  Silhouette score (k=12): 0.4603
+2026-05-03 23:35:01  INFO      [stage13_protein_modules]  Protein group labels loaded: 41 groups for 142 proteins from input\protein_group_labels.tsv
+2026-05-03 23:35:01  INFO      [stage13_protein_modules]  Group assignments: 142/142 proteins assigned to named groups (41 unique groups)
+2026-05-03 23:35:01  INFO      [stage13_protein_modules]  Saved 28 rows → output\stage13_modules\group_similarity_stats.tsv
+2026-05-03 23:35:01  INFO      [stage13_protein_modules]  MMseqs2 clusters loaded: 88 clusters, 143 proteins, 142 overlap with feature matrix
+2026-05-03 23:35:01  INFO      [stage13_protein_modules]  ARI vs MMseqs2 clusters: 0.1027  NMI: 0.6575
+2026-05-03 23:35:01  INFO      [stage13_protein_modules]  Saved 7 rows → output\stage13_modules\module_separation_summary.tsv
+2026-05-03 23:35:01  INFO      [stage13_protein_modules]  Building top protein-pair similarity table …
+2026-05-03 23:35:01  INFO      [stage13_protein_modules]  Generating global clustering heatmap …
+2026-05-03 23:35:02  INFO      [stage13_protein_modules]  Generating cluster-level summary heatmap …
+2026-05-03 23:35:03  INFO      [stage13_protein_modules]  Generating per-cluster sub-heatmaps …
+2026-05-03 23:35:15  INFO      [stage13_protein_modules]  Generating within vs between cluster boxplot …
+2026-05-03 23:51:53  INFO      [stage13_protein_modules]  ==================================================================
+2026-05-03 23:51:53  INFO      [stage13_protein_modules]    STAGE 13: Protein Module Separation & Clustering
+2026-05-03 23:51:53  INFO      [stage13_protein_modules]  ==================================================================
+2026-05-03 23:51:53  INFO      [stage13_protein_modules]  Feature columns: ['domain_type_id', 'function_tags', 'topology_context', 'binding_partner']
+2026-05-03 23:51:53  INFO      [stage13_protein_modules]  Feature matrix: (142, 293) (proteins × features)
+2026-05-03 23:51:53  INFO      [stage13_protein_modules]  Saved 142 rows → output\stage13_modules\protein_feature_matrix.tsv
+2026-05-03 23:51:53  INFO      [stage13_protein_modules]  Saved 142 rows → output\stage13_modules\protein_similarity_matrix.tsv
+2026-05-03 23:51:54  INFO      [stage13_protein_modules]  Saved 142 rows → output\stage13_modules\pca_coordinates.tsv
+2026-05-03 23:51:54  INFO      [stage13_protein_modules]  Saved 10 rows → output\stage13_modules\pca_variance_explained.tsv
+2026-05-03 23:51:54  INFO      [stage13_protein_modules]  Running PCoA on Jaccard distance matrix …
+2026-05-03 23:51:54  INFO      [stage13_protein_modules]  Saved 142 rows → output\stage13_modules\pcoa_coordinates.tsv
+2026-05-03 23:51:54  INFO      [stage13_protein_modules]  Saved 62 rows → output\stage13_modules\pcoa_variance_explained.tsv
+2026-05-03 23:51:54  INFO      [stage13_protein_modules]    PCoA 2D goodness-of-fit=0.3649
+2026-05-03 23:51:54  INFO      [stage13_protein_modules]  Optimal k selection: tested k=[3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+2026-05-03 23:51:54  INFO      [stage13_protein_modules]    Silhouette scores: [(3, 0.2552), (4, 0.2927), (5, 0.3278), (6, 0.3458), (7, 0.3676), (8, 0.3843), (9, 0.4091), (10, 0.4301), (11, 0.4471), (12, 0.4603)]
+2026-05-03 23:51:54  INFO      [stage13_protein_modules]    Best k=12  (silhouette=0.4603)
+2026-05-03 23:51:54  INFO      [stage13_protein_modules]  Saved 10 rows → output\stage13_modules\k_selection_silhouette.tsv
+2026-05-03 23:51:54  INFO      [stage13_protein_modules]  Saved 142 rows → output\stage13_modules\clustering_assignments.tsv
+2026-05-03 23:51:54  INFO      [stage13_protein_modules]  Silhouette score (k=12): 0.4603
+2026-05-03 23:51:54  INFO      [stage13_protein_modules]  Protein group labels loaded: 41 groups for 142 proteins from input\protein_group_labels.tsv
+2026-05-03 23:51:54  INFO      [stage13_protein_modules]  Group assignments: 142/142 proteins assigned to named groups (41 unique groups)
+2026-05-03 23:51:54  INFO      [stage13_protein_modules]  Saved 28 rows → output\stage13_modules\group_similarity_stats.tsv
+2026-05-03 23:51:54  INFO      [stage13_protein_modules]  MMseqs2 clusters loaded: 88 clusters, 143 proteins, 142 overlap with feature matrix
+2026-05-03 23:51:54  INFO      [stage13_protein_modules]  ARI vs MMseqs2 clusters: 0.1027  NMI: 0.6575
+2026-05-03 23:51:54  INFO      [stage13_protein_modules]  Saved 7 rows → output\stage13_modules\module_separation_summary.tsv
+2026-05-03 23:51:54  INFO      [stage13_protein_modules]  Building top protein-pair similarity table …
+2026-05-03 23:51:54  INFO      [stage13_protein_modules]  Generating global clustering heatmap …
+2026-05-03 23:51:55  INFO      [stage13_protein_modules]  Generating cluster-level summary heatmap …
+2026-05-03 23:51:55  INFO      [stage13_protein_modules]  Generating per-cluster sub-heatmaps …
+2026-05-03 23:52:04  INFO      [stage13_protein_modules]  Generating within vs between cluster boxplot …
+2026-05-04 00:16:13  INFO      [stage13_protein_modules]  ==================================================================
+2026-05-04 00:16:13  INFO      [stage13_protein_modules]    STAGE 13: Protein Module Separation & Clustering
+2026-05-04 00:16:13  INFO      [stage13_protein_modules]  ==================================================================
+2026-05-04 00:16:14  INFO      [stage13_protein_modules]  Feature columns: ['domain_type_id', 'function_tags', 'topology_context', 'binding_partner']
+2026-05-04 00:16:14  INFO      [stage13_protein_modules]  Feature matrix: (142, 293) (proteins × features)
+2026-05-04 00:16:14  INFO      [stage13_protein_modules]  Saved 142 rows → output\stage13_modules\protein_feature_matrix.tsv
+2026-05-04 00:16:14  INFO      [stage13_protein_modules]  Saved 142 rows → output\stage13_modules\protein_similarity_matrix.tsv
+2026-05-04 00:16:14  INFO      [stage13_protein_modules]  Saved 142 rows → output\stage13_modules\pca_coordinates.tsv
+2026-05-04 00:16:14  INFO      [stage13_protein_modules]  Saved 10 rows → output\stage13_modules\pca_variance_explained.tsv
+2026-05-04 00:16:14  INFO      [stage13_protein_modules]  Running PCoA on Jaccard distance matrix …
+2026-05-04 00:16:14  INFO      [stage13_protein_modules]  Saved 142 rows → output\stage13_modules\pcoa_coordinates.tsv
+2026-05-04 00:16:14  INFO      [stage13_protein_modules]  Saved 62 rows → output\stage13_modules\pcoa_variance_explained.tsv
+2026-05-04 00:16:14  INFO      [stage13_protein_modules]    PCoA 2D goodness-of-fit=0.3649
+2026-05-04 00:16:14  INFO      [stage13_protein_modules]  Optimal k selection: tested k=[3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+2026-05-04 00:16:14  INFO      [stage13_protein_modules]    Silhouette scores: [(3, 0.2552), (4, 0.2927), (5, 0.3278), (6, 0.3458), (7, 0.3676), (8, 0.3843), (9, 0.4091), (10, 0.4301), (11, 0.4471), (12, 0.4603)]
+2026-05-04 00:16:14  INFO      [stage13_protein_modules]    Best k=12  (silhouette=0.4603)
+2026-05-04 00:16:14  INFO      [stage13_protein_modules]  Saved 10 rows → output\stage13_modules\k_selection_silhouette.tsv
+2026-05-04 00:16:14  INFO      [stage13_protein_modules]  Saved 142 rows → output\stage13_modules\clustering_assignments.tsv
+2026-05-04 00:16:14  INFO      [stage13_protein_modules]  Silhouette score (k=12): 0.4603
+2026-05-04 00:16:14  INFO      [stage13_protein_modules]  Protein group labels loaded: 41 groups for 142 proteins from input\protein_group_labels.tsv
+2026-05-04 00:16:14  INFO      [stage13_protein_modules]  Group assignments: 142/142 proteins assigned to named groups (41 unique groups)
+2026-05-04 00:16:14  INFO      [stage13_protein_modules]  Saved 28 rows → output\stage13_modules\group_similarity_stats.tsv
+2026-05-04 00:16:14  INFO      [stage13_protein_modules]  MMseqs2 clusters loaded: 88 clusters, 143 proteins, 142 overlap with feature matrix
+2026-05-04 00:16:14  INFO      [stage13_protein_modules]  ARI vs MMseqs2 clusters: 0.1027  NMI: 0.6575
+2026-05-04 00:16:14  INFO      [stage13_protein_modules]  Saved 7 rows → output\stage13_modules\module_separation_summary.tsv
+2026-05-04 00:16:14  INFO      [stage13_protein_modules]  Building top protein-pair similarity table …
+2026-05-04 00:16:15  INFO      [stage13_protein_modules]  Generating global clustering heatmap …
+2026-05-04 00:16:16  INFO      [stage13_protein_modules]  Generating cluster-level summary heatmap …
+2026-05-04 00:16:17  INFO      [stage13_protein_modules]  Generating per-cluster sub-heatmaps …
+2026-05-04 00:16:31  INFO      [stage13_protein_modules]  Generating within vs between cluster boxplot …
+2026-05-04 01:16:04  INFO      [stage13_protein_modules]  ==================================================================
+2026-05-04 01:16:04  INFO      [stage13_protein_modules]    STAGE 13: Protein Module Separation & Clustering
+2026-05-04 01:16:04  INFO      [stage13_protein_modules]  ==================================================================
+2026-05-04 01:16:04  INFO      [stage13_protein_modules]  Feature columns: ['domain_type_id', 'function_tags', 'topology_context', 'binding_partner']
+2026-05-04 01:16:04  INFO      [stage13_protein_modules]  Feature matrix: (142, 293) (proteins × features)
+2026-05-04 01:16:04  INFO      [stage13_protein_modules]  Saved 142 rows → output\stage13_modules\protein_feature_matrix.tsv
+2026-05-04 01:16:04  INFO      [stage13_protein_modules]  Saved 142 rows → output\stage13_modules\protein_similarity_matrix.tsv
+2026-05-04 01:16:04  INFO      [stage13_protein_modules]  Saved 142 rows → output\stage13_modules\pca_coordinates.tsv
+2026-05-04 01:16:04  INFO      [stage13_protein_modules]  Saved 10 rows → output\stage13_modules\pca_variance_explained.tsv
+2026-05-04 01:16:04  INFO      [stage13_protein_modules]  Running PCoA on Jaccard distance matrix …
+2026-05-04 01:16:04  INFO      [stage13_protein_modules]  Saved 142 rows → output\stage13_modules\pcoa_coordinates.tsv
+2026-05-04 01:16:04  INFO      [stage13_protein_modules]  Saved 62 rows → output\stage13_modules\pcoa_variance_explained.tsv
+2026-05-04 01:16:04  INFO      [stage13_protein_modules]    PCoA 2D goodness-of-fit=0.3649
+2026-05-04 01:16:04  INFO      [stage13_protein_modules]  Optimal k selection: tested k=[3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+2026-05-04 01:16:04  INFO      [stage13_protein_modules]    Silhouette scores: [(3, 0.2552), (4, 0.2927), (5, 0.3278), (6, 0.3458), (7, 0.3676), (8, 0.3843), (9, 0.4091), (10, 0.4301), (11, 0.4471), (12, 0.4603)]
+2026-05-04 01:16:04  INFO      [stage13_protein_modules]    Best k=12  (silhouette=0.4603)
+2026-05-04 01:16:04  INFO      [stage13_protein_modules]  Saved 10 rows → output\stage13_modules\k_selection_silhouette.tsv
+2026-05-04 01:16:04  INFO      [stage13_protein_modules]  Saved 142 rows → output\stage13_modules\clustering_assignments.tsv
+2026-05-04 01:16:04  INFO      [stage13_protein_modules]  Silhouette score (k=12): 0.4603
+2026-05-04 01:16:04  INFO      [stage13_protein_modules]  Protein group labels loaded: 41 groups for 142 proteins from input\protein_group_labels.tsv
+2026-05-04 01:16:04  INFO      [stage13_protein_modules]  Group assignments: 142/142 proteins assigned to named groups (41 unique groups)
+2026-05-04 01:16:04  INFO      [stage13_protein_modules]  Saved 28 rows → output\stage13_modules\group_similarity_stats.tsv
+2026-05-04 01:16:04  INFO      [stage13_protein_modules]  MMseqs2 clusters loaded: 88 clusters, 143 proteins, 142 overlap with feature matrix
+2026-05-04 01:16:04  INFO      [stage13_protein_modules]  ARI vs MMseqs2 clusters: 0.1027  NMI: 0.6575
+2026-05-04 01:16:04  INFO      [stage13_protein_modules]  Saved 7 rows → output\stage13_modules\module_separation_summary.tsv
+2026-05-04 01:16:04  INFO      [stage13_protein_modules]  Building top protein-pair similarity table …
+2026-05-04 01:16:05  INFO      [stage13_protein_modules]  Generating global clustering heatmap …
+2026-05-04 01:16:05  INFO      [stage13_protein_modules]  Generating cluster-level summary heatmap …
+2026-05-04 01:16:06  INFO      [stage13_protein_modules]  Generating per-cluster sub-heatmaps …
+2026-05-04 01:16:18  INFO      [stage13_protein_modules]  Generating within vs between cluster boxplot …
+2026-05-04 02:09:40  INFO      [stage13_protein_modules]  ==================================================================
+2026-05-04 02:09:40  INFO      [stage13_protein_modules]    STAGE 13: Protein Module Separation & Clustering
+2026-05-04 02:09:40  INFO      [stage13_protein_modules]  ==================================================================
+2026-05-04 02:09:40  INFO      [stage13_protein_modules]  Feature columns: ['domain_type_id', 'function_tags', 'topology_context', 'binding_partner']
+2026-05-04 02:09:40  INFO      [stage13_protein_modules]  Feature matrix: (142, 293) (proteins × features)
+2026-05-04 02:09:40  INFO      [stage13_protein_modules]  Saved 142 rows → output\stage13_modules\protein_feature_matrix.tsv
+2026-05-04 02:09:40  INFO      [stage13_protein_modules]  Saved 142 rows → output\stage13_modules\protein_similarity_matrix.tsv
+2026-05-04 02:09:40  INFO      [stage13_protein_modules]  Saved 142 rows → output\stage13_modules\pca_coordinates.tsv
+2026-05-04 02:09:40  INFO      [stage13_protein_modules]  Saved 10 rows → output\stage13_modules\pca_variance_explained.tsv
+2026-05-04 02:09:40  INFO      [stage13_protein_modules]  Running PCoA on Jaccard distance matrix …
+2026-05-04 02:09:40  INFO      [stage13_protein_modules]  Saved 142 rows → output\stage13_modules\pcoa_coordinates.tsv
+2026-05-04 02:09:40  INFO      [stage13_protein_modules]  Saved 62 rows → output\stage13_modules\pcoa_variance_explained.tsv
+2026-05-04 02:09:40  INFO      [stage13_protein_modules]    PCoA 2D goodness-of-fit=0.3649
+2026-05-04 02:09:40  INFO      [stage13_protein_modules]  Optimal k selection: tested k=[3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+2026-05-04 02:09:40  INFO      [stage13_protein_modules]    Silhouette scores: [(3, 0.2552), (4, 0.2927), (5, 0.3278), (6, 0.3458), (7, 0.3676), (8, 0.3843), (9, 0.4091), (10, 0.4301), (11, 0.4471), (12, 0.4603)]
+2026-05-04 02:09:40  INFO      [stage13_protein_modules]    Best k=12  (silhouette=0.4603)
+2026-05-04 02:09:40  INFO      [stage13_protein_modules]  Saved 10 rows → output\stage13_modules\k_selection_silhouette.tsv
+2026-05-04 02:09:40  INFO      [stage13_protein_modules]  Saved 142 rows → output\stage13_modules\clustering_assignments.tsv
+2026-05-04 02:09:40  INFO      [stage13_protein_modules]  Silhouette score (k=12): 0.4603
+2026-05-04 02:09:40  INFO      [stage13_protein_modules]  Protein group labels loaded: 41 groups for 142 proteins from input\protein_group_labels.tsv
+2026-05-04 02:09:40  INFO      [stage13_protein_modules]  Group assignments: 142/142 proteins assigned to named groups (41 unique groups)
+2026-05-04 02:09:40  INFO      [stage13_protein_modules]  Saved 28 rows → output\stage13_modules\group_similarity_stats.tsv
+2026-05-04 02:09:40  INFO      [stage13_protein_modules]  MMseqs2 clusters loaded: 88 clusters, 143 proteins, 142 overlap with feature matrix
+2026-05-04 02:09:40  INFO      [stage13_protein_modules]  ARI vs MMseqs2 clusters: 0.1027  NMI: 0.6575
+2026-05-04 02:09:40  INFO      [stage13_protein_modules]  Saved 7 rows → output\stage13_modules\module_separation_summary.tsv
+2026-05-04 02:09:40  INFO      [stage13_protein_modules]  Building top protein-pair similarity table …
+2026-05-04 02:09:41  INFO      [stage13_protein_modules]  Generating global clustering heatmap …
+2026-05-04 02:09:41  INFO      [stage13_protein_modules]  Generating cluster-level summary heatmap …
+2026-05-04 02:09:43  INFO      [stage13_protein_modules]  Generating per-cluster sub-heatmaps …
+2026-05-04 02:10:00  INFO      [stage13_protein_modules]  Generating within vs between cluster boxplot …
+2026-05-04 04:35:00  INFO      [stage13_protein_modules]  ==================================================================
+2026-05-04 04:35:00  INFO      [stage13_protein_modules]    STAGE 13: Protein Module Separation & Clustering
+2026-05-04 04:35:00  INFO      [stage13_protein_modules]  ==================================================================
+2026-05-04 04:35:00  INFO      [stage13_protein_modules]  Feature columns: ['domain_type_id', 'function_tags', 'topology_context', 'binding_partner']
+2026-05-04 04:35:00  INFO      [stage13_protein_modules]  Feature matrix: (60, 137) (proteins × features)
+2026-05-04 04:35:00  INFO      [stage13_protein_modules]  Saved 60 rows → output\stage13_modules\protein_feature_matrix.tsv
+2026-05-04 04:35:00  INFO      [stage13_protein_modules]  Saved 60 rows → output\stage13_modules\protein_similarity_matrix.tsv
+2026-05-04 04:35:00  INFO      [stage13_protein_modules]  Saved 60 rows → output\stage13_modules\pca_coordinates.tsv
+2026-05-04 04:35:00  INFO      [stage13_protein_modules]  Saved 10 rows → output\stage13_modules\pca_variance_explained.tsv
+2026-05-04 04:35:00  INFO      [stage13_protein_modules]  Running PCoA on Jaccard distance matrix …
+2026-05-04 04:35:00  INFO      [stage13_protein_modules]  Saved 60 rows → output\stage13_modules\pcoa_coordinates.tsv
+2026-05-04 04:35:00  INFO      [stage13_protein_modules]  Saved 19 rows → output\stage13_modules\pcoa_variance_explained.tsv
+2026-05-04 04:35:00  INFO      [stage13_protein_modules]    PCoA 2D goodness-of-fit=0.4366
+2026-05-04 04:35:00  INFO      [stage13_protein_modules]  Optimal k selection: tested k=[3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+2026-05-04 04:35:00  INFO      [stage13_protein_modules]    Silhouette scores: [(3, 0.3235), (4, 0.4071), (5, 0.4695), (6, 0.5279), (7, 0.5778), (8, 0.6166), (9, 0.676), (10, 0.7173), (11, 0.7658), (12, 0.7739)]
+2026-05-04 04:35:00  INFO      [stage13_protein_modules]    Best k=12  (silhouette=0.7739)
+2026-05-04 04:35:00  INFO      [stage13_protein_modules]  Saved 10 rows → output\stage13_modules\k_selection_silhouette.tsv
+2026-05-04 04:35:00  INFO      [stage13_protein_modules]  Saved 60 rows → output\stage13_modules\clustering_assignments.tsv
+2026-05-04 04:35:00  INFO      [stage13_protein_modules]  Silhouette score (k=12): 0.7739
+2026-05-04 04:35:00  INFO      [stage13_protein_modules]  Protein group labels loaded: 0 groups for 60 proteins from input\protein_group_labels.tsv
+2026-05-04 04:35:00  INFO      [stage13_protein_modules]  Group assignments: 60/60 proteins assigned to named groups (1 unique groups)
+2026-05-04 04:35:00  INFO      [stage13_protein_modules]  Saved 1 rows → output\stage13_modules\group_similarity_stats.tsv
+2026-05-04 04:35:00  INFO      [stage13_protein_modules]  No mmseqs2_clusters configured — sequence comparison skipped
+2026-05-04 04:35:00  INFO      [stage13_protein_modules]  Saved 7 rows → output\stage13_modules\module_separation_summary.tsv
+2026-05-04 04:35:00  INFO      [stage13_protein_modules]  Building top protein-pair similarity table …
+2026-05-04 04:35:00  INFO      [stage13_protein_modules]  Generating global clustering heatmap …
+2026-05-04 04:35:00  INFO      [stage13_protein_modules]  Generating cluster-level summary heatmap …
+2026-05-04 04:35:02  INFO      [stage13_protein_modules]  Generating per-cluster sub-heatmaps …
+2026-05-04 04:35:07  INFO      [stage13_protein_modules]  Generating within vs between cluster boxplot …
+2026-05-04 04:42:30  INFO      [stage13_protein_modules]  ==================================================================
+2026-05-04 04:42:30  INFO      [stage13_protein_modules]    STAGE 13: Protein Module Separation & Clustering
+2026-05-04 04:42:30  INFO      [stage13_protein_modules]  ==================================================================
+2026-05-04 04:42:31  INFO      [stage13_protein_modules]  Feature columns: ['domain_type_id', 'function_tags', 'topology_context', 'binding_partner']
+2026-05-04 04:42:31  INFO      [stage13_protein_modules]  Feature matrix: (60, 137) (proteins × features)
+2026-05-04 04:42:31  INFO      [stage13_protein_modules]  Saved 60 rows → output\stage13_modules\protein_feature_matrix.tsv
+2026-05-04 04:42:31  INFO      [stage13_protein_modules]  Saved 60 rows → output\stage13_modules\protein_similarity_matrix.tsv
+2026-05-04 04:42:31  INFO      [stage13_protein_modules]  Saved 60 rows → output\stage13_modules\pca_coordinates.tsv
+2026-05-04 04:42:31  INFO      [stage13_protein_modules]  Saved 10 rows → output\stage13_modules\pca_variance_explained.tsv
+2026-05-04 04:42:31  INFO      [stage13_protein_modules]  Running PCoA on Jaccard distance matrix …
+2026-05-04 04:42:31  INFO      [stage13_protein_modules]  Saved 60 rows → output\stage13_modules\pcoa_coordinates.tsv
+2026-05-04 04:42:31  INFO      [stage13_protein_modules]  Saved 19 rows → output\stage13_modules\pcoa_variance_explained.tsv
+2026-05-04 04:42:31  INFO      [stage13_protein_modules]    PCoA 2D goodness-of-fit=0.4366
+2026-05-04 04:42:31  INFO      [stage13_protein_modules]  Optimal k selection: tested k=[3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+2026-05-04 04:42:31  INFO      [stage13_protein_modules]    Silhouette scores: [(3, 0.3235), (4, 0.4071), (5, 0.4695), (6, 0.5279), (7, 0.5778), (8, 0.6166), (9, 0.676), (10, 0.7173), (11, 0.7658), (12, 0.7739)]
+2026-05-04 04:42:31  INFO      [stage13_protein_modules]    Best k=12  (silhouette=0.7739)
+2026-05-04 04:42:31  INFO      [stage13_protein_modules]  Saved 10 rows → output\stage13_modules\k_selection_silhouette.tsv
+2026-05-04 04:42:31  INFO      [stage13_protein_modules]  Saved 60 rows → output\stage13_modules\clustering_assignments.tsv
+2026-05-04 04:42:31  INFO      [stage13_protein_modules]  Silhouette score (k=12): 0.7739
+2026-05-04 04:42:31  INFO      [stage13_protein_modules]  Protein group labels loaded: 0 groups for 60 proteins from input\protein_group_labels.tsv
+2026-05-04 04:42:31  INFO      [stage13_protein_modules]  Group assignments: 60/60 proteins assigned to named groups (1 unique groups)
+2026-05-04 04:42:31  INFO      [stage13_protein_modules]  Saved 1 rows → output\stage13_modules\group_similarity_stats.tsv
+2026-05-04 04:42:31  INFO      [stage13_protein_modules]  No mmseqs2_clusters configured — sequence comparison skipped
+2026-05-04 04:42:31  INFO      [stage13_protein_modules]  Saved 7 rows → output\stage13_modules\module_separation_summary.tsv
+2026-05-04 04:42:31  INFO      [stage13_protein_modules]  Building top protein-pair similarity table …
+2026-05-04 04:42:31  INFO      [stage13_protein_modules]  Generating global clustering heatmap …
+2026-05-04 04:42:36  INFO      [stage13_protein_modules]  Generating cluster-level summary heatmap …
+2026-05-04 04:42:39  INFO      [stage13_protein_modules]  Generating per-cluster sub-heatmaps …
+2026-05-04 04:42:44  INFO      [stage13_protein_modules]  Generating within vs between cluster boxplot …
+2026-05-04 04:42:45  INFO      [stage13_protein_modules]  Generating PCA plot …
+2026-05-04 04:42:45  INFO      [stage13_protein_modules]  Generating PCoA plot (primary ordination on Jaccard distances) …
+2026-05-04 04:42:46  INFO      [stage13_protein_modules]  Stage 13 complete.
+2026-05-04 04:42:46  INFO      [stage13_protein_modules]  
+2026-05-04 04:42:46  INFO      [stage13_protein_modules]  Output files:
+2026-05-04 04:42:46  INFO      [stage13_protein_modules]    clustering_heatmap.png         — global heatmap (dendrogram order)
+2026-05-04 04:42:46  INFO      [stage13_protein_modules]    cluster_summary_heatmap.png    — cluster × cluster mean Jaccard
+2026-05-04 04:42:46  INFO      [stage13_protein_modules]    per_cluster_heatmaps/          — one readable heatmap per cluster
+2026-05-04 04:42:46  INFO      [stage13_protein_modules]    within_between_similarity.png  — statistical boxplot (Mann–Whitney)
+2026-05-04 04:42:46  INFO      [stage13_protein_modules]    top_similar_pairs.tsv          — ranked table of similar pairs
+2026-05-04 04:42:46  INFO      [stage13_protein_modules]    pcoa_plot.png                  — PCoA on Jaccard distance (primary)
+2026-05-04 04:42:46  INFO      [stage13_protein_modules]    pca_plot.png                   — PCA on feature variance
+2026-05-04 04:42:46  INFO      [stage13_protein_modules]    k_selection_plot.png           — silhouette vs k
+2026-05-04 04:42:46  INFO      [stage13_protein_modules]    k_selection_silhouette.tsv     — silhouette scores per k
+2026-05-04 09:33:48  INFO      [stage13_protein_modules]  ==================================================================
+2026-05-04 09:33:48  INFO      [stage13_protein_modules]    STAGE 13: Protein Module Separation & Clustering
+2026-05-04 09:33:48  INFO      [stage13_protein_modules]  ==================================================================
+2026-05-04 09:33:48  INFO      [stage13_protein_modules]  Feature columns: ['domain_type_id', 'function_tags', 'topology_context', 'binding_partner']
+2026-05-04 09:33:48  INFO      [stage13_protein_modules]  Feature matrix: (60, 136) (proteins × features)
+2026-05-04 09:33:48  INFO      [stage13_protein_modules]  Saved 60 rows → output\stage13_modules\protein_feature_matrix.tsv
+2026-05-04 09:33:48  INFO      [stage13_protein_modules]  Saved 60 rows → output\stage13_modules\protein_similarity_matrix.tsv
+2026-05-04 09:33:48  INFO      [stage13_protein_modules]  Saved 60 rows → output\stage13_modules\pca_coordinates.tsv
+2026-05-04 09:33:48  INFO      [stage13_protein_modules]  Saved 10 rows → output\stage13_modules\pca_variance_explained.tsv
+2026-05-04 09:33:48  INFO      [stage13_protein_modules]  Running PCoA on Jaccard distance matrix …
+2026-05-04 09:33:48  INFO      [stage13_protein_modules]  Saved 60 rows → output\stage13_modules\pcoa_coordinates.tsv
+2026-05-04 09:33:48  INFO      [stage13_protein_modules]  Saved 19 rows → output\stage13_modules\pcoa_variance_explained.tsv
+2026-05-04 09:33:48  INFO      [stage13_protein_modules]    PCoA 2D goodness-of-fit=0.4370
+2026-05-04 09:33:48  INFO      [stage13_protein_modules]  Optimal k selection: tested k=[3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+2026-05-04 09:33:48  INFO      [stage13_protein_modules]    Silhouette scores: [(3, 0.3237), (4, 0.4073), (5, 0.4698), (6, 0.5286), (7, 0.5778), (8, 0.6166), (9, 0.676), (10, 0.7173), (11, 0.7658), (12, 0.7739)]
+2026-05-04 09:33:48  INFO      [stage13_protein_modules]    Best k=12  (silhouette=0.7739)
+2026-05-04 09:33:48  INFO      [stage13_protein_modules]  Saved 10 rows → output\stage13_modules\k_selection_silhouette.tsv
+2026-05-04 09:33:48  INFO      [stage13_protein_modules]  Saved 60 rows → output\stage13_modules\clustering_assignments.tsv
+2026-05-04 09:33:48  INFO      [stage13_protein_modules]  Silhouette score (k=12): 0.7739
+2026-05-04 09:33:48  INFO      [stage13_protein_modules]  Protein group labels loaded: 0 groups for 60 proteins from input\protein_group_labels.tsv
+2026-05-04 09:33:48  INFO      [stage13_protein_modules]  Group assignments: 60/60 proteins assigned to named groups (1 unique groups)
+2026-05-04 09:33:48  INFO      [stage13_protein_modules]  Saved 1 rows → output\stage13_modules\group_similarity_stats.tsv
+2026-05-04 09:33:48  INFO      [stage13_protein_modules]  No mmseqs2_clusters configured — sequence comparison skipped
+2026-05-04 09:33:48  INFO      [stage13_protein_modules]  Saved 7 rows → output\stage13_modules\module_separation_summary.tsv
+2026-05-04 09:33:48  INFO      [stage13_protein_modules]  Building top protein-pair similarity table …
+2026-05-04 09:33:48  INFO      [stage13_protein_modules]  Generating global clustering heatmap …
+2026-05-04 09:33:48  INFO      [stage13_protein_modules]  Generating cluster-level summary heatmap …
+2026-05-04 09:33:49  INFO      [stage13_protein_modules]  Generating per-cluster sub-heatmaps …
+2026-05-04 09:33:53  INFO      [stage13_protein_modules]  Generating within vs between cluster boxplot …
+2026-05-04 09:33:53  INFO      [stage13_protein_modules]  Generating PCA plot …
+2026-05-04 09:33:54  INFO      [stage13_protein_modules]  Generating PCoA plot (primary ordination on Jaccard distances) …
+2026-05-04 09:33:54  INFO      [stage13_protein_modules]  Stage 13 complete.
+2026-05-04 09:33:54  INFO      [stage13_protein_modules]  
+2026-05-04 09:33:54  INFO      [stage13_protein_modules]  Output files:
+2026-05-04 09:33:54  INFO      [stage13_protein_modules]    clustering_heatmap.png         — global heatmap (dendrogram order)
+2026-05-04 09:33:54  INFO      [stage13_protein_modules]    cluster_summary_heatmap.png    — cluster × cluster mean Jaccard
+2026-05-04 09:33:54  INFO      [stage13_protein_modules]    per_cluster_heatmaps/          — one readable heatmap per cluster
+2026-05-04 09:33:54  INFO      [stage13_protein_modules]    within_between_similarity.png  — statistical boxplot (Mann–Whitney)
+2026-05-04 09:33:54  INFO      [stage13_protein_modules]    top_similar_pairs.tsv          — ranked table of similar pairs
+2026-05-04 09:33:54  INFO      [stage13_protein_modules]    pcoa_plot.png                  — PCoA on Jaccard distance (primary)
+2026-05-04 09:33:54  INFO      [stage13_protein_modules]    pca_plot.png                   — PCA on feature variance
+2026-05-04 09:33:54  INFO      [stage13_protein_modules]    k_selection_plot.png           — silhouette vs k
+2026-05-04 09:33:54  INFO      [stage13_protein_modules]    k_selection_silhouette.tsv     — silhouette scores per k
+2026-05-04 09:35:31  INFO      [stage13_protein_modules]  ==================================================================
+2026-05-04 09:35:31  INFO      [stage13_protein_modules]    STAGE 13: Protein Module Separation & Clustering
+2026-05-04 09:35:31  INFO      [stage13_protein_modules]  ==================================================================
+2026-05-04 09:35:31  INFO      [stage13_protein_modules]  Feature columns: ['domain_type_id', 'function_tags', 'topology_context', 'binding_partner']
+2026-05-04 09:35:31  INFO      [stage13_protein_modules]  Feature matrix: (60, 136) (proteins × features)
+2026-05-04 09:35:31  INFO      [stage13_protein_modules]  Saved 60 rows → output\stage13_modules\protein_feature_matrix.tsv
+2026-05-04 09:35:31  INFO      [stage13_protein_modules]  Saved 60 rows → output\stage13_modules\protein_similarity_matrix.tsv
+2026-05-04 09:35:31  INFO      [stage13_protein_modules]  Saved 60 rows → output\stage13_modules\pca_coordinates.tsv
+2026-05-04 09:35:31  INFO      [stage13_protein_modules]  Saved 10 rows → output\stage13_modules\pca_variance_explained.tsv
+2026-05-04 09:35:31  INFO      [stage13_protein_modules]  Running PCoA on Jaccard distance matrix …
+2026-05-04 09:35:31  INFO      [stage13_protein_modules]  Saved 60 rows → output\stage13_modules\pcoa_coordinates.tsv
+2026-05-04 09:35:31  INFO      [stage13_protein_modules]  Saved 19 rows → output\stage13_modules\pcoa_variance_explained.tsv
+2026-05-04 09:35:31  INFO      [stage13_protein_modules]    PCoA 2D goodness-of-fit=0.4370
+2026-05-04 09:35:31  INFO      [stage13_protein_modules]  Optimal k selection: tested k=[3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+2026-05-04 09:35:31  INFO      [stage13_protein_modules]    Silhouette scores: [(3, 0.3237), (4, 0.4073), (5, 0.4698), (6, 0.5286), (7, 0.5778), (8, 0.6166), (9, 0.676), (10, 0.7173), (11, 0.7658), (12, 0.7739)]
+2026-05-04 09:35:31  INFO      [stage13_protein_modules]    Best k=12  (silhouette=0.7739)
+2026-05-04 09:35:31  INFO      [stage13_protein_modules]  Saved 10 rows → output\stage13_modules\k_selection_silhouette.tsv
+2026-05-04 09:35:31  INFO      [stage13_protein_modules]  Saved 60 rows → output\stage13_modules\clustering_assignments.tsv
+2026-05-04 09:35:31  INFO      [stage13_protein_modules]  Silhouette score (k=12): 0.7739
+2026-05-04 09:35:31  INFO      [stage13_protein_modules]  Protein group labels loaded: 0 groups for 60 proteins from input\protein_group_labels.tsv
+2026-05-04 09:35:32  INFO      [stage13_protein_modules]  Group assignments: 60/60 proteins assigned to named groups (1 unique groups)
+2026-05-04 09:35:32  INFO      [stage13_protein_modules]  Saved 1 rows → output\stage13_modules\group_similarity_stats.tsv
+2026-05-04 09:35:32  INFO      [stage13_protein_modules]  No mmseqs2_clusters configured — sequence comparison skipped
+2026-05-04 09:35:32  INFO      [stage13_protein_modules]  Saved 7 rows → output\stage13_modules\module_separation_summary.tsv
+2026-05-04 09:35:32  INFO      [stage13_protein_modules]  Building top protein-pair similarity table …
+2026-05-04 09:35:32  INFO      [stage13_protein_modules]  Generating global clustering heatmap …
+2026-05-04 09:35:33  INFO      [stage13_protein_modules]  Generating cluster-level summary heatmap …
+2026-05-04 09:35:34  INFO      [stage13_protein_modules]  Generating per-cluster sub-heatmaps …
+2026-05-04 09:35:40  INFO      [stage13_protein_modules]  Generating within vs between cluster boxplot …
+2026-05-04 09:35:40  INFO      [stage13_protein_modules]  Generating PCA plot …
+2026-05-04 09:35:41  INFO      [stage13_protein_modules]  Generating PCoA plot (primary ordination on Jaccard distances) …
+2026-05-04 09:35:42  INFO      [stage13_protein_modules]  Stage 13 complete.
+2026-05-04 09:35:42  INFO      [stage13_protein_modules]  
+2026-05-04 09:35:42  INFO      [stage13_protein_modules]  Output files:
+2026-05-04 09:35:42  INFO      [stage13_protein_modules]    clustering_heatmap.png         — global heatmap (dendrogram order)
+2026-05-04 09:35:42  INFO      [stage13_protein_modules]    cluster_summary_heatmap.png    — cluster × cluster mean Jaccard
+2026-05-04 09:35:42  INFO      [stage13_protein_modules]    per_cluster_heatmaps/          — one readable heatmap per cluster
+2026-05-04 09:35:42  INFO      [stage13_protein_modules]    within_between_similarity.png  — statistical boxplot (Mann–Whitney)
+2026-05-04 09:35:42  INFO      [stage13_protein_modules]    top_similar_pairs.tsv          — ranked table of similar pairs
+2026-05-04 09:35:42  INFO      [stage13_protein_modules]    pcoa_plot.png                  — PCoA on Jaccard distance (primary)
+2026-05-04 09:35:42  INFO      [stage13_protein_modules]    pca_plot.png                   — PCA on feature variance
+2026-05-04 09:35:42  INFO      [stage13_protein_modules]    k_selection_plot.png           — silhouette vs k
+2026-05-04 09:35:42  INFO      [stage13_protein_modules]    k_selection_silhouette.tsv     — silhouette scores per k
+2026-05-04 09:58:17  INFO      [stage13_protein_modules]  ==================================================================
+2026-05-04 09:58:17  INFO      [stage13_protein_modules]    STAGE 13: Protein Module Separation & Clustering
+2026-05-04 09:58:17  INFO      [stage13_protein_modules]  ==================================================================
+2026-05-04 09:58:18  INFO      [stage13_protein_modules]  Feature columns: ['domain_type_id', 'function_tags', 'topology_context', 'binding_partner']
+2026-05-04 09:58:18  INFO      [stage13_protein_modules]  Feature matrix: (60, 136) (proteins × features)
+2026-05-04 09:58:18  INFO      [stage13_protein_modules]  Saved 60 rows → output\stage13_modules\protein_feature_matrix.tsv
+2026-05-04 09:58:18  INFO      [stage13_protein_modules]  Saved 60 rows → output\stage13_modules\protein_similarity_matrix.tsv
+2026-05-04 09:58:18  INFO      [stage13_protein_modules]  Saved 60 rows → output\stage13_modules\pca_coordinates.tsv
+2026-05-04 09:58:18  INFO      [stage13_protein_modules]  Saved 10 rows → output\stage13_modules\pca_variance_explained.tsv
+2026-05-04 09:58:18  INFO      [stage13_protein_modules]  Running PCoA on Jaccard distance matrix …
+2026-05-04 09:58:18  INFO      [stage13_protein_modules]  Saved 60 rows → output\stage13_modules\pcoa_coordinates.tsv
+2026-05-04 09:58:18  INFO      [stage13_protein_modules]  Saved 19 rows → output\stage13_modules\pcoa_variance_explained.tsv
+2026-05-04 09:58:18  INFO      [stage13_protein_modules]    PCoA 2D goodness-of-fit=0.4370
+2026-05-04 09:58:18  INFO      [stage13_protein_modules]  Optimal k selection: tested k=[3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+2026-05-04 09:58:18  INFO      [stage13_protein_modules]    Silhouette scores: [(3, 0.3237), (4, 0.4073), (5, 0.4698), (6, 0.5286), (7, 0.5778), (8, 0.6166), (9, 0.676), (10, 0.7173), (11, 0.7658), (12, 0.7739)]
+2026-05-04 09:58:18  INFO      [stage13_protein_modules]    Best k=12  (silhouette=0.7739)
+2026-05-04 09:58:18  INFO      [stage13_protein_modules]  Saved 10 rows → output\stage13_modules\k_selection_silhouette.tsv
+2026-05-04 09:58:18  INFO      [stage13_protein_modules]  Saved 60 rows → output\stage13_modules\clustering_assignments.tsv
+2026-05-04 09:58:18  INFO      [stage13_protein_modules]  Silhouette score (k=12): 0.7739
+2026-05-04 09:58:18  INFO      [stage13_protein_modules]  Protein group labels loaded: 0 groups for 60 proteins from input\calcium_protein_group_labels.tsv
+2026-05-04 09:58:18  INFO      [stage13_protein_modules]  Group assignments: 60/60 proteins assigned to named groups (1 unique groups)
+2026-05-04 09:58:18  INFO      [stage13_protein_modules]  Saved 1 rows → output\stage13_modules\group_similarity_stats.tsv
+2026-05-04 09:58:18  INFO      [stage13_protein_modules]  MMseqs2 clusters loaded: 31 clusters, 60 proteins, 60 overlap with feature matrix
+2026-05-04 09:58:18  INFO      [stage13_protein_modules]  ARI vs MMseqs2 clusters: 0.3901  NMI: 0.8210
+2026-05-04 09:58:18  INFO      [stage13_protein_modules]  Saved 7 rows → output\stage13_modules\module_separation_summary.tsv
+2026-05-04 09:58:18  INFO      [stage13_protein_modules]  Building top protein-pair similarity table …
+2026-05-04 09:58:18  INFO      [stage13_protein_modules]  Generating global clustering heatmap …
+2026-05-04 09:58:19  INFO      [stage13_protein_modules]  Generating cluster-level summary heatmap …
+2026-05-04 09:58:20  INFO      [stage13_protein_modules]  Generating per-cluster sub-heatmaps …
+2026-05-04 09:58:25  INFO      [stage13_protein_modules]  Generating within vs between cluster boxplot …
+2026-05-04 09:58:25  INFO      [stage13_protein_modules]  Generating PCA plot …
+2026-05-04 09:58:33  INFO      [stage13_protein_modules]  Generating PCoA plot (primary ordination on Jaccard distances) …
+2026-05-04 09:58:36  INFO      [stage13_protein_modules]  Stage 13 complete.
+2026-05-04 09:58:36  INFO      [stage13_protein_modules]  
+2026-05-04 09:58:36  INFO      [stage13_protein_modules]  Output files:
+2026-05-04 09:58:36  INFO      [stage13_protein_modules]    clustering_heatmap.png         — global heatmap (dendrogram order)
+2026-05-04 09:58:36  INFO      [stage13_protein_modules]    cluster_summary_heatmap.png    — cluster × cluster mean Jaccard
+2026-05-04 09:58:36  INFO      [stage13_protein_modules]    per_cluster_heatmaps/          — one readable heatmap per cluster
+2026-05-04 09:58:36  INFO      [stage13_protein_modules]    within_between_similarity.png  — statistical boxplot (Mann–Whitney)
+2026-05-04 09:58:36  INFO      [stage13_protein_modules]    top_similar_pairs.tsv          — ranked table of similar pairs
+2026-05-04 09:58:36  INFO      [stage13_protein_modules]    pcoa_plot.png                  — PCoA on Jaccard distance (primary)
+2026-05-04 09:58:36  INFO      [stage13_protein_modules]    pca_plot.png                   — PCA on feature variance
+2026-05-04 09:58:36  INFO      [stage13_protein_modules]    k_selection_plot.png           — silhouette vs k
+2026-05-04 09:58:36  INFO      [stage13_protein_modules]    k_selection_silhouette.tsv     — silhouette scores per k
+2026-05-04 10:27:54  INFO      [stage13_protein_modules]  ==================================================================
+2026-05-04 10:27:54  INFO      [stage13_protein_modules]    STAGE 13: Protein Module Separation & Clustering
+2026-05-04 10:27:54  INFO      [stage13_protein_modules]  ==================================================================
+2026-05-04 10:27:54  INFO      [stage13_protein_modules]  Feature columns: ['domain_type_id', 'function_tags', 'topology_context', 'binding_partner']
+2026-05-04 10:27:54  INFO      [stage13_protein_modules]  Feature matrix: (60, 136) (proteins × features)
+2026-05-04 10:27:54  INFO      [stage13_protein_modules]  Saved 60 rows → output\stage13_modules\protein_feature_matrix.tsv
+2026-05-04 10:27:54  INFO      [stage13_protein_modules]  Saved 60 rows → output\stage13_modules\protein_similarity_matrix.tsv
+2026-05-04 10:27:54  INFO      [stage13_protein_modules]  Saved 60 rows → output\stage13_modules\pca_coordinates.tsv
+2026-05-04 10:27:54  INFO      [stage13_protein_modules]  Saved 10 rows → output\stage13_modules\pca_variance_explained.tsv
+2026-05-04 10:27:54  INFO      [stage13_protein_modules]  Running PCoA on Jaccard distance matrix …
+2026-05-04 10:27:54  INFO      [stage13_protein_modules]  Saved 60 rows → output\stage13_modules\pcoa_coordinates.tsv
+2026-05-04 10:27:54  INFO      [stage13_protein_modules]  Saved 19 rows → output\stage13_modules\pcoa_variance_explained.tsv
+2026-05-04 10:27:54  INFO      [stage13_protein_modules]    PCoA 2D goodness-of-fit=0.4370
+2026-05-04 10:27:54  INFO      [stage13_protein_modules]  Optimal k selection: tested k=[3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+2026-05-04 10:27:54  INFO      [stage13_protein_modules]    Silhouette scores: [(3, 0.3237), (4, 0.4073), (5, 0.4698), (6, 0.5286), (7, 0.5778), (8, 0.6166), (9, 0.676), (10, 0.7173), (11, 0.7658), (12, 0.7739)]
+2026-05-04 10:27:54  INFO      [stage13_protein_modules]    Best k=12  (silhouette=0.7739)
+2026-05-04 10:27:54  INFO      [stage13_protein_modules]  Saved 10 rows → output\stage13_modules\k_selection_silhouette.tsv
+2026-05-04 10:27:54  INFO      [stage13_protein_modules]  Saved 60 rows → output\stage13_modules\clustering_assignments.tsv
+2026-05-04 10:27:54  INFO      [stage13_protein_modules]  Silhouette score (k=12): 0.7739
+2026-05-04 10:27:54  INFO      [stage13_protein_modules]  Protein group labels loaded: 0 groups for 60 proteins from input\calcium_protein_group_labels.tsv
+2026-05-04 10:27:54  INFO      [stage13_protein_modules]  Group assignments: 60/60 proteins assigned to named groups (1 unique groups)
+2026-05-04 10:27:54  INFO      [stage13_protein_modules]  Saved 1 rows → output\stage13_modules\group_similarity_stats.tsv
+2026-05-04 10:27:54  INFO      [stage13_protein_modules]  MMseqs2 clusters loaded: 31 clusters, 60 proteins, 60 overlap with feature matrix
+2026-05-04 10:27:54  INFO      [stage13_protein_modules]  ARI vs MMseqs2 clusters: 0.3901  NMI: 0.8210
+2026-05-04 10:27:54  INFO      [stage13_protein_modules]  Saved 7 rows → output\stage13_modules\module_separation_summary.tsv
+2026-05-04 10:27:54  INFO      [stage13_protein_modules]  Building top protein-pair similarity table …
+2026-05-04 10:27:54  INFO      [stage13_protein_modules]  Generating global clustering heatmap …
+2026-05-04 10:27:54  INFO      [stage13_protein_modules]  Generating cluster-level summary heatmap …
+2026-05-04 10:27:55  INFO      [stage13_protein_modules]  Generating per-cluster sub-heatmaps …
+2026-05-04 10:27:59  INFO      [stage13_protein_modules]  Generating within vs between cluster boxplot …
+2026-05-04 10:28:00  INFO      [stage13_protein_modules]  Generating PCA plot …
+2026-05-04 10:28:02  INFO      [stage13_protein_modules]  Generating PCoA plot (primary ordination on Jaccard distances) …
+2026-05-04 10:28:10  INFO      [stage13_protein_modules]  Stage 13 complete.
+2026-05-04 10:28:10  INFO      [stage13_protein_modules]  
+2026-05-04 10:28:10  INFO      [stage13_protein_modules]  Output files:
+2026-05-04 10:28:10  INFO      [stage13_protein_modules]    clustering_heatmap.png         — global heatmap (dendrogram order)
+2026-05-04 10:28:10  INFO      [stage13_protein_modules]    cluster_summary_heatmap.png    — cluster × cluster mean Jaccard
+2026-05-04 10:28:10  INFO      [stage13_protein_modules]    per_cluster_heatmaps/          — one readable heatmap per cluster
+2026-05-04 10:28:10  INFO      [stage13_protein_modules]    within_between_similarity.png  — statistical boxplot (Mann–Whitney)
+2026-05-04 10:28:10  INFO      [stage13_protein_modules]    top_similar_pairs.tsv          — ranked table of similar pairs
+2026-05-04 10:28:10  INFO      [stage13_protein_modules]    pcoa_plot.png                  — PCoA on Jaccard distance (primary)
+2026-05-04 10:28:10  INFO      [stage13_protein_modules]    pca_plot.png                   — PCA on feature variance
+2026-05-04 10:28:10  INFO      [stage13_protein_modules]    k_selection_plot.png           — silhouette vs k
+2026-05-04 10:28:10  INFO      [stage13_protein_modules]    k_selection_silhouette.tsv     — silhouette scores per k
+2026-05-04 11:02:05  INFO      [stage13_protein_modules]  ==================================================================
+2026-05-04 11:02:05  INFO      [stage13_protein_modules]    STAGE 13: Protein Module Separation & Clustering
+2026-05-04 11:02:05  INFO      [stage13_protein_modules]  ==================================================================
+2026-05-04 11:02:05  INFO      [stage13_protein_modules]  Feature columns: ['domain_type_id', 'function_tags', 'topology_context', 'binding_partner']
+2026-05-04 11:02:05  INFO      [stage13_protein_modules]  Feature matrix: (60, 136) (proteins × features)
+2026-05-04 11:02:05  INFO      [stage13_protein_modules]  Saved 60 rows → output\stage13_modules\protein_feature_matrix.tsv
+2026-05-04 11:02:05  INFO      [stage13_protein_modules]  Saved 60 rows → output\stage13_modules\protein_similarity_matrix.tsv
+2026-05-04 11:02:05  INFO      [stage13_protein_modules]  Saved 60 rows → output\stage13_modules\pca_coordinates.tsv
+2026-05-04 11:02:05  INFO      [stage13_protein_modules]  Saved 10 rows → output\stage13_modules\pca_variance_explained.tsv
+2026-05-04 11:02:05  INFO      [stage13_protein_modules]  Running PCoA on Jaccard distance matrix …
+2026-05-04 11:02:05  INFO      [stage13_protein_modules]  Saved 60 rows → output\stage13_modules\pcoa_coordinates.tsv
+2026-05-04 11:02:05  INFO      [stage13_protein_modules]  Saved 19 rows → output\stage13_modules\pcoa_variance_explained.tsv
+2026-05-04 11:02:05  INFO      [stage13_protein_modules]    PCoA 2D goodness-of-fit=0.4370
+2026-05-04 11:02:05  INFO      [stage13_protein_modules]  Optimal k selection: tested k=[3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+2026-05-04 11:02:05  INFO      [stage13_protein_modules]    Silhouette scores: [(3, 0.3237), (4, 0.4073), (5, 0.4698), (6, 0.5286), (7, 0.5778), (8, 0.6166), (9, 0.676), (10, 0.7173), (11, 0.7658), (12, 0.7739)]
+2026-05-04 11:02:05  INFO      [stage13_protein_modules]    Best k=12  (silhouette=0.7739)
+2026-05-04 11:02:05  INFO      [stage13_protein_modules]  Saved 10 rows → output\stage13_modules\k_selection_silhouette.tsv
+2026-05-04 11:02:05  INFO      [stage13_protein_modules]  Saved 60 rows → output\stage13_modules\clustering_assignments.tsv
+2026-05-04 11:02:05  INFO      [stage13_protein_modules]  Silhouette score (k=12): 0.7739
+2026-05-04 11:02:05  INFO      [stage13_protein_modules]  Protein group labels loaded: 0 groups for 60 proteins from input\calcium_protein_group_labels.tsv
+2026-05-04 11:02:05  INFO      [stage13_protein_modules]  Group assignments: 60/60 proteins assigned to named groups (1 unique groups)
+2026-05-04 11:02:05  INFO      [stage13_protein_modules]  Saved 1 rows → output\stage13_modules\group_similarity_stats.tsv
+2026-05-04 11:02:05  INFO      [stage13_protein_modules]  MMseqs2 clusters loaded: 31 clusters, 60 proteins, 60 overlap with feature matrix
+2026-05-04 11:02:05  INFO      [stage13_protein_modules]  ARI vs MMseqs2 clusters: 0.3901  NMI: 0.8210
+2026-05-04 11:02:05  INFO      [stage13_protein_modules]  Saved 7 rows → output\stage13_modules\module_separation_summary.tsv
+2026-05-04 11:02:05  INFO      [stage13_protein_modules]  Building top protein-pair similarity table …
+2026-05-04 11:02:05  INFO      [stage13_protein_modules]  Generating global clustering heatmap …
+2026-05-04 11:02:05  INFO      [stage13_protein_modules]  Generating cluster-level summary heatmap …
+2026-05-04 11:02:06  INFO      [stage13_protein_modules]  Generating per-cluster sub-heatmaps …
+2026-05-04 11:02:09  INFO      [stage13_protein_modules]  Generating within vs between cluster boxplot …
+2026-05-04 11:02:10  INFO      [stage13_protein_modules]  Generating PCA plot …
+2026-05-04 11:02:12  INFO      [stage13_protein_modules]  Generating PCoA plot (primary ordination on Jaccard distances) …
+2026-05-04 11:02:14  INFO      [stage13_protein_modules]  Stage 13 complete.
+2026-05-04 11:02:14  INFO      [stage13_protein_modules]  
+2026-05-04 11:02:14  INFO      [stage13_protein_modules]  Output files:
+2026-05-04 11:02:14  INFO      [stage13_protein_modules]    clustering_heatmap.png         — global heatmap (dendrogram order)
+2026-05-04 11:02:14  INFO      [stage13_protein_modules]    cluster_summary_heatmap.png    — cluster × cluster mean Jaccard
+2026-05-04 11:02:14  INFO      [stage13_protein_modules]    per_cluster_heatmaps/          — one readable heatmap per cluster
+2026-05-04 11:02:14  INFO      [stage13_protein_modules]    within_between_similarity.png  — statistical boxplot (Mann–Whitney)
+2026-05-04 11:02:14  INFO      [stage13_protein_modules]    top_similar_pairs.tsv          — ranked table of similar pairs
+2026-05-04 11:02:14  INFO      [stage13_protein_modules]    pcoa_plot.png                  — PCoA on Jaccard distance (primary)
+2026-05-04 11:02:14  INFO      [stage13_protein_modules]    pca_plot.png                   — PCA on feature variance
+2026-05-04 11:02:14  INFO      [stage13_protein_modules]    k_selection_plot.png           — silhouette vs k
+2026-05-04 11:02:14  INFO      [stage13_protein_modules]    k_selection_silhouette.tsv     — silhouette scores per k
+2026-05-04 11:49:45  INFO      [stage13_protein_modules]  ==================================================================
+2026-05-04 11:49:45  INFO      [stage13_protein_modules]    STAGE 13: Protein Module Separation & Clustering
+2026-05-04 11:49:45  INFO      [stage13_protein_modules]  ==================================================================
+2026-05-04 11:49:45  INFO      [stage13_protein_modules]  Feature columns: ['domain_type_id', 'function_tags', 'topology_context', 'binding_partner']
+2026-05-04 11:49:45  INFO      [stage13_protein_modules]  Feature matrix: (60, 136) (proteins × features)
+2026-05-04 11:49:45  INFO      [stage13_protein_modules]  Saved 60 rows → output\stage13_modules\protein_feature_matrix.tsv
+2026-05-04 11:49:45  INFO      [stage13_protein_modules]  Saved 60 rows → output\stage13_modules\protein_similarity_matrix.tsv
+2026-05-04 11:49:45  INFO      [stage13_protein_modules]  Saved 60 rows → output\stage13_modules\pca_coordinates.tsv
+2026-05-04 11:49:45  INFO      [stage13_protein_modules]  Saved 10 rows → output\stage13_modules\pca_variance_explained.tsv
+2026-05-04 11:49:45  INFO      [stage13_protein_modules]  Running PCoA on Jaccard distance matrix …
+2026-05-04 11:49:45  INFO      [stage13_protein_modules]  Saved 60 rows → output\stage13_modules\pcoa_coordinates.tsv
+2026-05-04 11:49:45  INFO      [stage13_protein_modules]  Saved 19 rows → output\stage13_modules\pcoa_variance_explained.tsv
+2026-05-04 11:49:45  INFO      [stage13_protein_modules]    PCoA 2D goodness-of-fit=0.4370
+2026-05-04 11:49:45  INFO      [stage13_protein_modules]  Optimal k selection: tested k=[3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+2026-05-04 11:49:45  INFO      [stage13_protein_modules]    Silhouette scores: [(3, 0.3237), (4, 0.4073), (5, 0.4698), (6, 0.5286), (7, 0.5778), (8, 0.6166), (9, 0.676), (10, 0.7173), (11, 0.7658), (12, 0.7739)]
+2026-05-04 11:49:45  INFO      [stage13_protein_modules]    Best k=12  (silhouette=0.7739)
+2026-05-04 11:49:45  INFO      [stage13_protein_modules]  Saved 10 rows → output\stage13_modules\k_selection_silhouette.tsv
+2026-05-04 11:49:45  INFO      [stage13_protein_modules]  Saved 60 rows → output\stage13_modules\clustering_assignments.tsv
+2026-05-04 11:49:45  INFO      [stage13_protein_modules]  Silhouette score (k=12): 0.7739
+2026-05-04 11:49:45  INFO      [stage13_protein_modules]  Protein group labels loaded: 0 groups for 60 proteins from input\calcium_protein_group_labels.tsv
+2026-05-04 11:49:45  INFO      [stage13_protein_modules]  Group assignments: 60/60 proteins assigned to named groups (1 unique groups)
+2026-05-04 11:49:45  INFO      [stage13_protein_modules]  Saved 1 rows → output\stage13_modules\group_similarity_stats.tsv
+2026-05-04 11:49:45  INFO      [stage13_protein_modules]  MMseqs2 clusters loaded: 31 clusters, 60 proteins, 60 overlap with feature matrix
+2026-05-04 11:49:45  INFO      [stage13_protein_modules]  ARI vs MMseqs2 clusters: 0.3901  NMI: 0.8210
+2026-05-04 11:49:45  INFO      [stage13_protein_modules]  Saved 7 rows → output\stage13_modules\module_separation_summary.tsv
+2026-05-04 11:49:45  INFO      [stage13_protein_modules]  Building top protein-pair similarity table …
+2026-05-04 11:49:45  INFO      [stage13_protein_modules]  Generating global clustering heatmap …
+2026-05-04 11:49:45  INFO      [stage13_protein_modules]  Generating cluster-level summary heatmap …
+2026-05-04 11:49:46  INFO      [stage13_protein_modules]  Generating per-cluster sub-heatmaps …
+2026-05-04 11:49:50  INFO      [stage13_protein_modules]  Generating within vs between cluster boxplot …
+2026-05-04 11:49:51  INFO      [stage13_protein_modules]  Generating PCA plot …
+2026-05-04 11:49:53  INFO      [stage13_protein_modules]  Generating PCoA plot (primary ordination on Jaccard distances) …
+2026-05-04 11:49:56  INFO      [stage13_protein_modules]  Stage 13 complete.
+2026-05-04 11:49:56  INFO      [stage13_protein_modules]  
+2026-05-04 11:49:56  INFO      [stage13_protein_modules]  Output files:
+2026-05-04 11:49:56  INFO      [stage13_protein_modules]    clustering_heatmap.png         — global heatmap (dendrogram order)
+2026-05-04 11:49:56  INFO      [stage13_protein_modules]    cluster_summary_heatmap.png    — cluster × cluster mean Jaccard
+2026-05-04 11:49:56  INFO      [stage13_protein_modules]    per_cluster_heatmaps/          — one readable heatmap per cluster
+2026-05-04 11:49:56  INFO      [stage13_protein_modules]    within_between_similarity.png  — statistical boxplot (Mann–Whitney)
+2026-05-04 11:49:56  INFO      [stage13_protein_modules]    top_similar_pairs.tsv          — ranked table of similar pairs
+2026-05-04 11:49:56  INFO      [stage13_protein_modules]    pcoa_plot.png                  — PCoA on Jaccard distance (primary)
+2026-05-04 11:49:56  INFO      [stage13_protein_modules]    pca_plot.png                   — PCA on feature variance
+2026-05-04 11:49:56  INFO      [stage13_protein_modules]    k_selection_plot.png           — silhouette vs k
+2026-05-04 11:49:56  INFO      [stage13_protein_modules]    k_selection_silhouette.tsv     — silhouette scores per k

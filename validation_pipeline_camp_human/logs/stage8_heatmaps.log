@@ -1,0 +1,211 @@
+2026-05-03 14:35:59  INFO      [stage8_heatmaps]  ==================================================================
+2026-05-03 14:35:59  INFO      [stage8_heatmaps]    STAGE 8: Domain-Function / Domain-Binding Heatmaps
+2026-05-03 14:35:59  INFO      [stage8_heatmaps]  ==================================================================
+2026-05-03 14:35:59  WARNING   [stage8_heatmaps]  domain_occurrence_table not found — skipping Stage 8
+2026-05-03 14:43:12  INFO      [stage8_heatmaps]  ==================================================================
+2026-05-03 14:43:12  INFO      [stage8_heatmaps]    STAGE 8: Domain-Function / Domain-Binding Heatmaps
+2026-05-03 14:43:12  INFO      [stage8_heatmaps]  ==================================================================
+2026-05-03 14:43:12  WARNING   [stage8_heatmaps]  domain_occurrence_table not found — skipping Stage 8
+2026-05-03 15:35:15  INFO      [stage8_heatmaps]  ==================================================================
+2026-05-03 15:35:15  INFO      [stage8_heatmaps]    STAGE 8: Domain-Function / Domain-Binding Heatmaps
+2026-05-03 15:35:15  INFO      [stage8_heatmaps]  ==================================================================
+2026-05-03 16:16:03  INFO      [stage8_heatmaps]  ==================================================================
+2026-05-03 16:16:03  INFO      [stage8_heatmaps]    STAGE 8: Domain-Function / Domain-Binding Heatmaps
+2026-05-03 16:16:03  INFO      [stage8_heatmaps]  ==================================================================
+2026-05-03 16:16:03  INFO      [stage8_heatmaps]  Building domain × function matrix …
+2026-05-03 16:16:03  INFO      [stage8_heatmaps]  Saved 40 rows → output\stage8_heatmaps\domain_function_matrix.tsv
+2026-05-03 16:16:04  INFO      [stage8_heatmaps]  Domain×function matrix: (40, 30)
+2026-05-03 16:16:04  INFO      [stage8_heatmaps]  Building domain × binding matrix …
+2026-05-03 16:16:04  INFO      [stage8_heatmaps]  Saved 40 rows → output\stage8_heatmaps\domain_binding_matrix.tsv
+2026-05-03 16:16:04  INFO      [stage8_heatmaps]  Domain×binding matrix: (40, 30)
+2026-05-03 16:16:06  INFO      [stage8_heatmaps]  Stage 8 complete.
+2026-05-03 16:27:36  INFO      [stage8_heatmaps]  ==================================================================
+2026-05-03 16:27:36  INFO      [stage8_heatmaps]    STAGE 8: Domain-Function / Domain-Binding Heatmaps
+2026-05-03 16:27:36  INFO      [stage8_heatmaps]  ==================================================================
+2026-05-03 16:27:36  INFO      [stage8_heatmaps]  Building domain × function matrix …
+2026-05-03 16:27:36  INFO      [stage8_heatmaps]  Saved 40 rows → output\stage8_heatmaps\domain_function_matrix.tsv
+2026-05-03 16:27:37  INFO      [stage8_heatmaps]  Domain×function matrix: (40, 30)
+2026-05-03 16:27:37  INFO      [stage8_heatmaps]  Building domain × binding matrix …
+2026-05-03 16:27:37  INFO      [stage8_heatmaps]  Saved 40 rows → output\stage8_heatmaps\domain_binding_matrix.tsv
+2026-05-03 16:27:38  INFO      [stage8_heatmaps]  Domain×binding matrix: (40, 30)
+2026-05-03 16:27:38  INFO      [stage8_heatmaps]  Stage 8 complete.
+2026-05-03 16:39:04  INFO      [stage8_heatmaps]  ==================================================================
+2026-05-03 16:39:04  INFO      [stage8_heatmaps]    STAGE 8: Domain-Function / Domain-Binding Heatmaps
+2026-05-03 16:39:04  INFO      [stage8_heatmaps]  ==================================================================
+2026-05-03 16:39:04  INFO      [stage8_heatmaps]  Building domain × function matrix …
+2026-05-03 16:39:04  INFO      [stage8_heatmaps]  Saved 40 rows → output\stage8_heatmaps\domain_function_matrix.tsv
+2026-05-03 16:39:05  INFO      [stage8_heatmaps]  Domain×function matrix: (40, 30)
+2026-05-03 16:39:05  INFO      [stage8_heatmaps]  Building domain × binding matrix …
+2026-05-03 16:39:05  INFO      [stage8_heatmaps]  Saved 40 rows → output\stage8_heatmaps\domain_binding_matrix.tsv
+2026-05-03 16:39:05  INFO      [stage8_heatmaps]  Domain×binding matrix: (40, 30)
+2026-05-03 16:39:07  INFO      [stage8_heatmaps]  Stage 8 complete.
+2026-05-03 17:14:39  INFO      [stage8_heatmaps]  ==================================================================
+2026-05-03 17:14:39  INFO      [stage8_heatmaps]    STAGE 8: Domain-Function / Domain-Binding Heatmaps
+2026-05-03 17:14:39  INFO      [stage8_heatmaps]  ==================================================================
+2026-05-03 17:14:40  INFO      [stage8_heatmaps]  Building domain × function matrix …
+2026-05-03 17:14:40  INFO      [stage8_heatmaps]  Saved 40 rows → output\stage8_heatmaps\domain_function_matrix.tsv
+2026-05-03 17:14:40  INFO      [stage8_heatmaps]  Domain×function matrix: (40, 30)
+2026-05-03 17:14:40  INFO      [stage8_heatmaps]  Building domain × binding matrix …
+2026-05-03 17:14:40  INFO      [stage8_heatmaps]  Saved 40 rows → output\stage8_heatmaps\domain_binding_matrix.tsv
+2026-05-03 17:14:41  INFO      [stage8_heatmaps]  Domain×binding matrix: (40, 30)
+2026-05-03 17:14:42  INFO      [stage8_heatmaps]  Stage 8 complete.
+2026-05-03 22:57:15  INFO      [stage8_heatmaps]  ==================================================================
+2026-05-03 22:57:15  INFO      [stage8_heatmaps]    STAGE 8: Domain-Function / Domain-Binding Heatmaps
+2026-05-03 22:57:15  INFO      [stage8_heatmaps]  ==================================================================
+2026-05-03 22:57:15  INFO      [stage8_heatmaps]  Building domain × function matrix …
+2026-05-03 22:57:15  INFO      [stage8_heatmaps]  Saved 40 rows → output\stage8_heatmaps\domain_function_matrix.tsv
+2026-05-03 22:57:17  INFO      [stage8_heatmaps]  Domain×function matrix: (40, 30)
+2026-05-03 22:57:17  INFO      [stage8_heatmaps]  Building domain × binding matrix …
+2026-05-03 22:57:17  INFO      [stage8_heatmaps]  Saved 40 rows → output\stage8_heatmaps\domain_binding_matrix.tsv
+2026-05-03 22:57:19  INFO      [stage8_heatmaps]  Domain×binding matrix: (40, 30)
+2026-05-03 22:57:23  INFO      [stage8_heatmaps]  Stage 8 complete.
+2026-05-03 23:21:54  INFO      [stage8_heatmaps]  ==================================================================
+2026-05-03 23:21:54  INFO      [stage8_heatmaps]    STAGE 8: Domain-Function / Domain-Binding Heatmaps
+2026-05-03 23:21:54  INFO      [stage8_heatmaps]  ==================================================================
+2026-05-03 23:21:54  INFO      [stage8_heatmaps]  Building domain × function matrix …
+2026-05-03 23:21:54  INFO      [stage8_heatmaps]  Saved 40 rows → output\stage8_heatmaps\domain_function_matrix.tsv
+2026-05-03 23:21:55  INFO      [stage8_heatmaps]  Domain×function matrix: (40, 30)
+2026-05-03 23:21:55  INFO      [stage8_heatmaps]  Building domain × binding matrix …
+2026-05-03 23:21:55  INFO      [stage8_heatmaps]  Saved 40 rows → output\stage8_heatmaps\domain_binding_matrix.tsv
+2026-05-03 23:21:56  INFO      [stage8_heatmaps]  Domain×binding matrix: (40, 30)
+2026-05-03 23:21:57  INFO      [stage8_heatmaps]  Stage 8 complete.
+2026-05-03 23:28:00  INFO      [stage8_heatmaps]  ==================================================================
+2026-05-03 23:28:00  INFO      [stage8_heatmaps]    STAGE 8: Domain-Function / Domain-Binding Heatmaps
+2026-05-03 23:28:00  INFO      [stage8_heatmaps]  ==================================================================
+2026-05-03 23:28:00  INFO      [stage8_heatmaps]  Building domain × function matrix …
+2026-05-03 23:28:00  INFO      [stage8_heatmaps]  Saved 40 rows → output\stage8_heatmaps\domain_function_matrix.tsv
+2026-05-03 23:28:00  INFO      [stage8_heatmaps]  Domain×function matrix: (40, 30)
+2026-05-03 23:28:00  INFO      [stage8_heatmaps]  Building domain × binding matrix …
+2026-05-03 23:28:00  INFO      [stage8_heatmaps]  Saved 40 rows → output\stage8_heatmaps\domain_binding_matrix.tsv
+2026-05-03 23:28:01  INFO      [stage8_heatmaps]  Domain×binding matrix: (40, 30)
+2026-05-03 23:28:02  INFO      [stage8_heatmaps]  Stage 8 complete.
+2026-05-03 23:34:15  INFO      [stage8_heatmaps]  ==================================================================
+2026-05-03 23:34:15  INFO      [stage8_heatmaps]    STAGE 8: Domain-Function / Domain-Binding Heatmaps
+2026-05-03 23:34:15  INFO      [stage8_heatmaps]  ==================================================================
+2026-05-03 23:34:15  INFO      [stage8_heatmaps]  Building domain × function matrix …
+2026-05-03 23:34:15  INFO      [stage8_heatmaps]  Saved 40 rows → output\stage8_heatmaps\domain_function_matrix.tsv
+2026-05-03 23:34:16  INFO      [stage8_heatmaps]  Domain×function matrix: (40, 30)
+2026-05-03 23:34:16  INFO      [stage8_heatmaps]  Building domain × binding matrix …
+2026-05-03 23:34:16  INFO      [stage8_heatmaps]  Saved 40 rows → output\stage8_heatmaps\domain_binding_matrix.tsv
+2026-05-03 23:34:17  INFO      [stage8_heatmaps]  Domain×binding matrix: (40, 30)
+2026-05-03 23:34:19  INFO      [stage8_heatmaps]  Stage 8 complete.
+2026-05-03 23:51:25  INFO      [stage8_heatmaps]  ==================================================================
+2026-05-03 23:51:25  INFO      [stage8_heatmaps]    STAGE 8: Domain-Function / Domain-Binding Heatmaps
+2026-05-03 23:51:25  INFO      [stage8_heatmaps]  ==================================================================
+2026-05-03 23:51:25  INFO      [stage8_heatmaps]  Building domain × function matrix …
+2026-05-03 23:51:25  INFO      [stage8_heatmaps]  Saved 40 rows → output\stage8_heatmaps\domain_function_matrix.tsv
+2026-05-03 23:51:25  INFO      [stage8_heatmaps]  Domain×function matrix: (40, 30)
+2026-05-03 23:51:25  INFO      [stage8_heatmaps]  Building domain × binding matrix …
+2026-05-03 23:51:25  INFO      [stage8_heatmaps]  Saved 40 rows → output\stage8_heatmaps\domain_binding_matrix.tsv
+2026-05-03 23:51:26  INFO      [stage8_heatmaps]  Domain×binding matrix: (40, 30)
+2026-05-03 23:51:27  INFO      [stage8_heatmaps]  Stage 8 complete.
+2026-05-04 00:15:30  INFO      [stage8_heatmaps]  ==================================================================
+2026-05-04 00:15:30  INFO      [stage8_heatmaps]    STAGE 8: Domain-Function / Domain-Binding Heatmaps
+2026-05-04 00:15:30  INFO      [stage8_heatmaps]  ==================================================================
+2026-05-04 00:15:30  INFO      [stage8_heatmaps]  Building domain × function matrix …
+2026-05-04 00:15:30  INFO      [stage8_heatmaps]  Saved 40 rows → output\stage8_heatmaps\domain_function_matrix.tsv
+2026-05-04 00:15:30  INFO      [stage8_heatmaps]  Domain×function matrix: (40, 30)
+2026-05-04 00:15:30  INFO      [stage8_heatmaps]  Building domain × binding matrix …
+2026-05-04 00:15:30  INFO      [stage8_heatmaps]  Saved 40 rows → output\stage8_heatmaps\domain_binding_matrix.tsv
+2026-05-04 00:15:31  INFO      [stage8_heatmaps]  Domain×binding matrix: (40, 30)
+2026-05-04 00:15:32  INFO      [stage8_heatmaps]  Stage 8 complete.
+2026-05-04 01:15:22  INFO      [stage8_heatmaps]  ==================================================================
+2026-05-04 01:15:22  INFO      [stage8_heatmaps]    STAGE 8: Domain-Function / Domain-Binding Heatmaps
+2026-05-04 01:15:22  INFO      [stage8_heatmaps]  ==================================================================
+2026-05-04 01:15:22  INFO      [stage8_heatmaps]  Building domain × function matrix …
+2026-05-04 01:15:22  INFO      [stage8_heatmaps]  Saved 40 rows → output\stage8_heatmaps\domain_function_matrix.tsv
+2026-05-04 01:15:22  INFO      [stage8_heatmaps]  Domain×function matrix: (40, 30)
+2026-05-04 01:15:22  INFO      [stage8_heatmaps]  Building domain × binding matrix …
+2026-05-04 01:15:22  INFO      [stage8_heatmaps]  Saved 40 rows → output\stage8_heatmaps\domain_binding_matrix.tsv
+2026-05-04 01:15:23  INFO      [stage8_heatmaps]  Domain×binding matrix: (40, 30)
+2026-05-04 01:15:24  INFO      [stage8_heatmaps]  Stage 8 complete.
+2026-05-04 02:08:45  INFO      [stage8_heatmaps]  ==================================================================
+2026-05-04 02:08:45  INFO      [stage8_heatmaps]    STAGE 8: Domain-Function / Domain-Binding Heatmaps
+2026-05-04 02:08:45  INFO      [stage8_heatmaps]  ==================================================================
+2026-05-04 02:08:45  INFO      [stage8_heatmaps]  Building domain × function matrix …
+2026-05-04 02:08:45  INFO      [stage8_heatmaps]  Saved 40 rows → output\stage8_heatmaps\domain_function_matrix.tsv
+2026-05-04 02:08:46  INFO      [stage8_heatmaps]  Domain×function matrix: (40, 30)
+2026-05-04 02:08:46  INFO      [stage8_heatmaps]  Building domain × binding matrix …
+2026-05-04 02:08:46  INFO      [stage8_heatmaps]  Saved 40 rows → output\stage8_heatmaps\domain_binding_matrix.tsv
+2026-05-04 02:08:48  INFO      [stage8_heatmaps]  Domain×binding matrix: (40, 30)
+2026-05-04 02:08:50  INFO      [stage8_heatmaps]  Stage 8 complete.
+2026-05-04 04:34:27  INFO      [stage8_heatmaps]  ==================================================================
+2026-05-04 04:34:27  INFO      [stage8_heatmaps]    STAGE 8: Domain-Function / Domain-Binding Heatmaps
+2026-05-04 04:34:27  INFO      [stage8_heatmaps]  ==================================================================
+2026-05-04 04:34:27  INFO      [stage8_heatmaps]  Building domain × function matrix …
+2026-05-04 04:34:27  INFO      [stage8_heatmaps]  Saved 40 rows → output\stage8_heatmaps\domain_function_matrix.tsv
+2026-05-04 04:34:28  INFO      [stage8_heatmaps]  Domain×function matrix: (40, 25)
+2026-05-04 04:34:28  INFO      [stage8_heatmaps]  Building domain × binding matrix …
+2026-05-04 04:34:28  INFO      [stage8_heatmaps]  Saved 40 rows → output\stage8_heatmaps\domain_binding_matrix.tsv
+2026-05-04 04:34:28  INFO      [stage8_heatmaps]  Domain×binding matrix: (40, 30)
+2026-05-04 04:34:31  INFO      [stage8_heatmaps]  Stage 8 complete.
+2026-05-04 04:41:51  INFO      [stage8_heatmaps]  ==================================================================
+2026-05-04 04:41:51  INFO      [stage8_heatmaps]    STAGE 8: Domain-Function / Domain-Binding Heatmaps
+2026-05-04 04:41:51  INFO      [stage8_heatmaps]  ==================================================================
+2026-05-04 04:41:51  INFO      [stage8_heatmaps]  Building domain × function matrix …
+2026-05-04 04:41:51  INFO      [stage8_heatmaps]  Saved 40 rows → output\stage8_heatmaps\domain_function_matrix.tsv
+2026-05-04 04:41:52  INFO      [stage8_heatmaps]  Domain×function matrix: (40, 25)
+2026-05-04 04:41:52  INFO      [stage8_heatmaps]  Building domain × binding matrix …
+2026-05-04 04:41:52  INFO      [stage8_heatmaps]  Saved 40 rows → output\stage8_heatmaps\domain_binding_matrix.tsv
+2026-05-04 04:41:53  INFO      [stage8_heatmaps]  Domain×binding matrix: (40, 30)
+2026-05-04 04:41:55  INFO      [stage8_heatmaps]  Stage 8 complete.
+2026-05-04 09:33:14  INFO      [stage8_heatmaps]  ==================================================================
+2026-05-04 09:33:14  INFO      [stage8_heatmaps]    STAGE 8: Domain-Function / Domain-Binding Heatmaps
+2026-05-04 09:33:14  INFO      [stage8_heatmaps]  ==================================================================
+2026-05-04 09:33:15  INFO      [stage8_heatmaps]  Building domain × function matrix …
+2026-05-04 09:33:15  INFO      [stage8_heatmaps]  Saved 40 rows → output\stage8_heatmaps\domain_function_matrix.tsv
+2026-05-04 09:33:16  INFO      [stage8_heatmaps]  Domain×function matrix: (40, 25)
+2026-05-04 09:33:16  INFO      [stage8_heatmaps]  Building domain × binding matrix …
+2026-05-04 09:33:16  INFO      [stage8_heatmaps]  Saved 40 rows → output\stage8_heatmaps\domain_binding_matrix.tsv
+2026-05-04 09:33:17  INFO      [stage8_heatmaps]  Domain×binding matrix: (40, 30)
+2026-05-04 09:33:19  INFO      [stage8_heatmaps]  Stage 8 complete.
+2026-05-04 09:35:05  INFO      [stage8_heatmaps]  ==================================================================
+2026-05-04 09:35:05  INFO      [stage8_heatmaps]    STAGE 8: Domain-Function / Domain-Binding Heatmaps
+2026-05-04 09:35:05  INFO      [stage8_heatmaps]  ==================================================================
+2026-05-04 09:35:05  INFO      [stage8_heatmaps]  Building domain × function matrix …
+2026-05-04 09:35:05  INFO      [stage8_heatmaps]  Saved 40 rows → output\stage8_heatmaps\domain_function_matrix.tsv
+2026-05-04 09:35:06  INFO      [stage8_heatmaps]  Domain×function matrix: (40, 25)
+2026-05-04 09:35:06  INFO      [stage8_heatmaps]  Building domain × binding matrix …
+2026-05-04 09:35:06  INFO      [stage8_heatmaps]  Saved 40 rows → output\stage8_heatmaps\domain_binding_matrix.tsv
+2026-05-04 09:35:06  INFO      [stage8_heatmaps]  Domain×binding matrix: (40, 30)
+2026-05-04 09:35:07  INFO      [stage8_heatmaps]  Stage 8 complete.
+2026-05-04 09:57:36  INFO      [stage8_heatmaps]  ==================================================================
+2026-05-04 09:57:36  INFO      [stage8_heatmaps]    STAGE 8: Domain-Function / Domain-Binding Heatmaps
+2026-05-04 09:57:36  INFO      [stage8_heatmaps]  ==================================================================
+2026-05-04 09:57:36  INFO      [stage8_heatmaps]  Building domain × function matrix …
+2026-05-04 09:57:36  INFO      [stage8_heatmaps]  Saved 40 rows → output\stage8_heatmaps\domain_function_matrix.tsv
+2026-05-04 09:57:37  INFO      [stage8_heatmaps]  Domain×function matrix: (40, 25)
+2026-05-04 09:57:37  INFO      [stage8_heatmaps]  Building domain × binding matrix …
+2026-05-04 09:57:37  INFO      [stage8_heatmaps]  Saved 40 rows → output\stage8_heatmaps\domain_binding_matrix.tsv
+2026-05-04 09:57:37  INFO      [stage8_heatmaps]  Domain×binding matrix: (40, 30)
+2026-05-04 09:57:39  INFO      [stage8_heatmaps]  Stage 8 complete.
+2026-05-04 10:27:21  INFO      [stage8_heatmaps]  ==================================================================
+2026-05-04 10:27:21  INFO      [stage8_heatmaps]    STAGE 8: Domain-Function / Domain-Binding Heatmaps
+2026-05-04 10:27:21  INFO      [stage8_heatmaps]  ==================================================================
+2026-05-04 10:27:21  INFO      [stage8_heatmaps]  Building domain × function matrix …
+2026-05-04 10:27:21  INFO      [stage8_heatmaps]  Saved 40 rows → output\stage8_heatmaps\domain_function_matrix.tsv
+2026-05-04 10:27:22  INFO      [stage8_heatmaps]  Domain×function matrix: (40, 25)
+2026-05-04 10:27:22  INFO      [stage8_heatmaps]  Building domain × binding matrix …
+2026-05-04 10:27:22  INFO      [stage8_heatmaps]  Saved 40 rows → output\stage8_heatmaps\domain_binding_matrix.tsv
+2026-05-04 10:27:23  INFO      [stage8_heatmaps]  Domain×binding matrix: (40, 30)
+2026-05-04 10:27:25  INFO      [stage8_heatmaps]  Stage 8 complete.
+2026-05-04 11:01:44  INFO      [stage8_heatmaps]  ==================================================================
+2026-05-04 11:01:44  INFO      [stage8_heatmaps]    STAGE 8: Domain-Function / Domain-Binding Heatmaps
+2026-05-04 11:01:44  INFO      [stage8_heatmaps]  ==================================================================
+2026-05-04 11:01:44  INFO      [stage8_heatmaps]  Building domain × function matrix …
+2026-05-04 11:01:44  INFO      [stage8_heatmaps]  Saved 40 rows → output\stage8_heatmaps\domain_function_matrix.tsv
+2026-05-04 11:01:45  INFO      [stage8_heatmaps]  Domain×function matrix: (40, 25)
+2026-05-04 11:01:45  INFO      [stage8_heatmaps]  Building domain × binding matrix …
+2026-05-04 11:01:45  INFO      [stage8_heatmaps]  Saved 40 rows → output\stage8_heatmaps\domain_binding_matrix.tsv
+2026-05-04 11:01:46  INFO      [stage8_heatmaps]  Domain×binding matrix: (40, 30)
+2026-05-04 11:01:47  INFO      [stage8_heatmaps]  Stage 8 complete.
+2026-05-04 11:49:14  INFO      [stage8_heatmaps]  ==================================================================
+2026-05-04 11:49:14  INFO      [stage8_heatmaps]    STAGE 8: Domain-Function / Domain-Binding Heatmaps
+2026-05-04 11:49:14  INFO      [stage8_heatmaps]  ==================================================================
+2026-05-04 11:49:14  INFO      [stage8_heatmaps]  Building domain × function matrix …
+2026-05-04 11:49:14  INFO      [stage8_heatmaps]  Saved 40 rows → output\stage8_heatmaps\domain_function_matrix.tsv
+2026-05-04 11:49:15  INFO      [stage8_heatmaps]  Domain×function matrix: (40, 25)
+2026-05-04 11:49:15  INFO      [stage8_heatmaps]  Building domain × binding matrix …
+2026-05-04 11:49:15  INFO      [stage8_heatmaps]  Saved 40 rows → output\stage8_heatmaps\domain_binding_matrix.tsv
+2026-05-04 11:49:16  INFO      [stage8_heatmaps]  Domain×binding matrix: (40, 30)
+2026-05-04 11:49:18  INFO      [stage8_heatmaps]  Stage 8 complete.

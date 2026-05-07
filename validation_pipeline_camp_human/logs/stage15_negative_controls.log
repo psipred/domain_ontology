@@ -1,0 +1,212 @@
+2026-05-03 14:36:00  INFO      [stage15_negative_controls]  ==================================================================
+2026-05-03 14:36:00  INFO      [stage15_negative_controls]    STAGE 15: Negative-Control Biological Validation
+2026-05-03 14:36:00  INFO      [stage15_negative_controls]  ==================================================================
+2026-05-03 14:36:00  WARNING   [stage15_negative_controls]  No foreground_protein_domains or domain_occurrence_table — skipping Stage 15
+2026-05-03 14:43:14  INFO      [stage15_negative_controls]  ==================================================================
+2026-05-03 14:43:14  INFO      [stage15_negative_controls]    STAGE 15: Negative-Control Biological Validation
+2026-05-03 14:43:14  INFO      [stage15_negative_controls]  ==================================================================
+2026-05-03 14:43:14  WARNING   [stage15_negative_controls]  No foreground_protein_domains or domain_occurrence_table — skipping Stage 15
+2026-05-03 15:35:54  INFO      [stage15_negative_controls]  ==================================================================
+2026-05-03 15:35:54  INFO      [stage15_negative_controls]    STAGE 15: Negative-Control Biological Validation
+2026-05-03 15:35:54  INFO      [stage15_negative_controls]  ==================================================================
+2026-05-03 15:36:00  INFO      [stage15_negative_controls]  Random background sampling (100 iterations) …
+2026-05-03 15:36:25  INFO      [stage15_negative_controls]  Saved 100 rows → output\stage15_negative_controls\negative_control_metrics.tsv
+2026-05-03 15:36:25  INFO      [stage15_negative_controls]  Saved 5 rows → output\stage15_negative_controls\real_vs_random_summary.tsv
+2026-05-03 15:36:25  INFO      [stage15_negative_controls]  Real enrichment: 129 significant domains at FDR<0.05
+2026-05-03 15:36:25  INFO      [stage15_negative_controls]  Stage 15 complete.
+2026-05-03 16:17:11  INFO      [stage15_negative_controls]  ==================================================================
+2026-05-03 16:17:11  INFO      [stage15_negative_controls]    STAGE 15: Negative-Control Biological Validation
+2026-05-03 16:17:11  INFO      [stage15_negative_controls]  ==================================================================
+2026-05-03 16:17:21  INFO      [stage15_negative_controls]  Random background sampling (100 iterations) …
+2026-05-03 16:18:12  INFO      [stage15_negative_controls]  Saved 100 rows → output\stage15_negative_controls\negative_control_metrics.tsv
+2026-05-03 16:18:12  INFO      [stage15_negative_controls]  Saved 5 rows → output\stage15_negative_controls\real_vs_random_summary.tsv
+2026-05-03 16:18:12  INFO      [stage15_negative_controls]  Real enrichment: 129 significant domains at FDR<0.05
+2026-05-03 16:18:12  INFO      [stage15_negative_controls]  Stage 15 complete.
+2026-05-03 16:28:26  INFO      [stage15_negative_controls]  ==================================================================
+2026-05-03 16:28:26  INFO      [stage15_negative_controls]    STAGE 15: Negative-Control Biological Validation
+2026-05-03 16:28:26  INFO      [stage15_negative_controls]  ==================================================================
+2026-05-03 16:28:30  INFO      [stage15_negative_controls]  Random background sampling (100 iterations) …
+2026-05-03 16:28:48  INFO      [stage15_negative_controls]  Saved 100 rows → output\stage15_negative_controls\negative_control_metrics.tsv
+2026-05-03 16:28:48  INFO      [stage15_negative_controls]  Saved 5 rows → output\stage15_negative_controls\real_vs_random_summary.tsv
+2026-05-03 16:28:49  INFO      [stage15_negative_controls]  Real enrichment: 129 significant domains at FDR<0.05
+2026-05-03 16:28:49  INFO      [stage15_negative_controls]  Stage 15 complete.
+2026-05-03 16:39:47  INFO      [stage15_negative_controls]  ==================================================================
+2026-05-03 16:39:47  INFO      [stage15_negative_controls]    STAGE 15: Negative-Control Biological Validation
+2026-05-03 16:39:47  INFO      [stage15_negative_controls]  ==================================================================
+2026-05-03 16:39:51  INFO      [stage15_negative_controls]  Random background sampling (100 iterations) …
+2026-05-03 16:40:08  INFO      [stage15_negative_controls]  Saved 100 rows → output\stage15_negative_controls\negative_control_metrics.tsv
+2026-05-03 16:40:08  INFO      [stage15_negative_controls]  Saved 5 rows → output\stage15_negative_controls\real_vs_random_summary.tsv
+2026-05-03 16:40:08  INFO      [stage15_negative_controls]  Real enrichment: 129 significant domains at FDR<0.05
+2026-05-03 16:40:08  INFO      [stage15_negative_controls]  Stage 15 complete.
+2026-05-03 17:15:26  INFO      [stage15_negative_controls]  ==================================================================
+2026-05-03 17:15:26  INFO      [stage15_negative_controls]    STAGE 15: Negative-Control Biological Validation
+2026-05-03 17:15:26  INFO      [stage15_negative_controls]  ==================================================================
+2026-05-03 17:15:33  INFO      [stage15_negative_controls]  Random background sampling (100 iterations) …
+2026-05-03 17:16:06  INFO      [stage15_negative_controls]  Saved 100 rows → output\stage15_negative_controls\negative_control_metrics.tsv
+2026-05-03 17:16:06  INFO      [stage15_negative_controls]  Saved 5 rows → output\stage15_negative_controls\real_vs_random_summary.tsv
+2026-05-03 17:16:06  INFO      [stage15_negative_controls]  Real enrichment: 129 significant domains at FDR<0.05
+2026-05-03 17:16:06  INFO      [stage15_negative_controls]  Stage 15 complete.
+2026-05-03 22:59:37  INFO      [stage15_negative_controls]  ==================================================================
+2026-05-03 22:59:37  INFO      [stage15_negative_controls]    STAGE 15: Negative-Control Biological Validation
+2026-05-03 22:59:37  INFO      [stage15_negative_controls]  ==================================================================
+2026-05-03 22:59:53  INFO      [stage15_negative_controls]  Random background sampling (100 iterations) …
+2026-05-03 23:00:50  INFO      [stage15_negative_controls]  Saved 100 rows → output\stage15_negative_controls\negative_control_metrics.tsv
+2026-05-03 23:00:50  INFO      [stage15_negative_controls]  Saved 5 rows → output\stage15_negative_controls\real_vs_random_summary.tsv
+2026-05-03 23:00:51  INFO      [stage15_negative_controls]  Real enrichment: 129 significant domains at FDR<0.05
+2026-05-03 23:00:51  INFO      [stage15_negative_controls]  Stage 15 complete.
+2026-05-03 23:22:59  INFO      [stage15_negative_controls]  ==================================================================
+2026-05-03 23:22:59  INFO      [stage15_negative_controls]    STAGE 15: Negative-Control Biological Validation
+2026-05-03 23:22:59  INFO      [stage15_negative_controls]  ==================================================================
+2026-05-03 23:23:06  INFO      [stage15_negative_controls]  Random background sampling (100 iterations) …
+2026-05-03 23:23:34  INFO      [stage15_negative_controls]  Saved 100 rows → output\stage15_negative_controls\negative_control_metrics.tsv
+2026-05-03 23:23:34  INFO      [stage15_negative_controls]  Saved 5 rows → output\stage15_negative_controls\real_vs_random_summary.tsv
+2026-05-03 23:23:34  INFO      [stage15_negative_controls]  Real enrichment: 129 significant domains at FDR<0.05
+2026-05-03 23:23:34  INFO      [stage15_negative_controls]  Stage 15 complete.
+2026-05-03 23:28:57  INFO      [stage15_negative_controls]  ==================================================================
+2026-05-03 23:28:57  INFO      [stage15_negative_controls]    STAGE 15: Negative-Control Biological Validation
+2026-05-03 23:28:57  INFO      [stage15_negative_controls]  ==================================================================
+2026-05-03 23:29:02  INFO      [stage15_negative_controls]  Random background sampling (100 iterations) …
+2026-05-03 23:29:29  INFO      [stage15_negative_controls]  Saved 100 rows → output\stage15_negative_controls\negative_control_metrics.tsv
+2026-05-03 23:29:29  INFO      [stage15_negative_controls]  Saved 5 rows → output\stage15_negative_controls\real_vs_random_summary.tsv
+2026-05-03 23:29:29  INFO      [stage15_negative_controls]  Real enrichment: 129 significant domains at FDR<0.05
+2026-05-03 23:29:29  INFO      [stage15_negative_controls]  Stage 15 complete.
+2026-05-03 23:35:17  INFO      [stage15_negative_controls]  ==================================================================
+2026-05-03 23:35:17  INFO      [stage15_negative_controls]    STAGE 15: Negative-Control Biological Validation
+2026-05-03 23:35:17  INFO      [stage15_negative_controls]  ==================================================================
+2026-05-03 23:35:33  INFO      [stage15_negative_controls]  Random background sampling (100 iterations) …
+2026-05-03 23:36:04  INFO      [stage15_negative_controls]  Saved 100 rows → output\stage15_negative_controls\negative_control_metrics.tsv
+2026-05-03 23:36:04  INFO      [stage15_negative_controls]  Saved 5 rows → output\stage15_negative_controls\real_vs_random_summary.tsv
+2026-05-03 23:36:04  INFO      [stage15_negative_controls]  Real enrichment: 129 significant domains at FDR<0.05
+2026-05-03 23:36:04  INFO      [stage15_negative_controls]  Stage 15 complete.
+2026-05-03 23:52:05  INFO      [stage15_negative_controls]  ==================================================================
+2026-05-03 23:52:05  INFO      [stage15_negative_controls]    STAGE 15: Negative-Control Biological Validation
+2026-05-03 23:52:05  INFO      [stage15_negative_controls]  ==================================================================
+2026-05-03 23:52:08  INFO      [stage15_negative_controls]  Random background sampling (100 iterations) …
+2026-05-03 23:52:35  INFO      [stage15_negative_controls]  Saved 100 rows → output\stage15_negative_controls\negative_control_metrics.tsv
+2026-05-03 23:52:35  INFO      [stage15_negative_controls]  Saved 5 rows → output\stage15_negative_controls\real_vs_random_summary.tsv
+2026-05-03 23:52:35  INFO      [stage15_negative_controls]  Real enrichment: 129 significant domains at FDR<0.05
+2026-05-03 23:52:35  INFO      [stage15_negative_controls]  Stage 15 complete.
+2026-05-04 00:16:33  INFO      [stage15_negative_controls]  ==================================================================
+2026-05-04 00:16:33  INFO      [stage15_negative_controls]    STAGE 15: Negative-Control Biological Validation
+2026-05-04 00:16:33  INFO      [stage15_negative_controls]  ==================================================================
+2026-05-04 00:16:40  INFO      [stage15_negative_controls]  Random background sampling (100 iterations) …
+2026-05-04 00:17:12  INFO      [stage15_negative_controls]  Saved 100 rows → output\stage15_negative_controls\negative_control_metrics.tsv
+2026-05-04 00:17:12  INFO      [stage15_negative_controls]  Saved 5 rows → output\stage15_negative_controls\real_vs_random_summary.tsv
+2026-05-04 00:17:12  INFO      [stage15_negative_controls]  Real enrichment: 129 significant domains at FDR<0.05
+2026-05-04 00:17:12  INFO      [stage15_negative_controls]  Stage 15 complete.
+2026-05-04 01:16:19  INFO      [stage15_negative_controls]  ==================================================================
+2026-05-04 01:16:19  INFO      [stage15_negative_controls]    STAGE 15: Negative-Control Biological Validation
+2026-05-04 01:16:19  INFO      [stage15_negative_controls]  ==================================================================
+2026-05-04 01:16:26  INFO      [stage15_negative_controls]  Random background sampling (100 iterations) …
+2026-05-04 01:17:02  INFO      [stage15_negative_controls]  Saved 100 rows → output\stage15_negative_controls\negative_control_metrics.tsv
+2026-05-04 01:17:02  INFO      [stage15_negative_controls]  Saved 5 rows → output\stage15_negative_controls\real_vs_random_summary.tsv
+2026-05-04 01:17:02  INFO      [stage15_negative_controls]  Real enrichment: 129 significant domains at FDR<0.05
+2026-05-04 01:17:02  INFO      [stage15_negative_controls]  Stage 15 complete.
+2026-05-04 02:10:01  INFO      [stage15_negative_controls]  ==================================================================
+2026-05-04 02:10:01  INFO      [stage15_negative_controls]    STAGE 15: Negative-Control Biological Validation
+2026-05-04 02:10:01  INFO      [stage15_negative_controls]  ==================================================================
+2026-05-04 02:10:08  INFO      [stage15_negative_controls]  Random background sampling (100 iterations) …
+2026-05-04 02:10:35  INFO      [stage15_negative_controls]  Saved 100 rows → output\stage15_negative_controls\negative_control_metrics.tsv
+2026-05-04 02:10:35  INFO      [stage15_negative_controls]  Saved 5 rows → output\stage15_negative_controls\real_vs_random_summary.tsv
+2026-05-04 02:10:35  INFO      [stage15_negative_controls]  Real enrichment: 129 significant domains at FDR<0.05
+2026-05-04 02:10:35  INFO      [stage15_negative_controls]  Stage 15 complete.
+2026-05-04 04:35:08  INFO      [stage15_negative_controls]  ==================================================================
+2026-05-04 04:35:08  INFO      [stage15_negative_controls]    STAGE 15: Negative-Control Biological Validation
+2026-05-04 04:35:08  INFO      [stage15_negative_controls]  ==================================================================
+2026-05-04 04:35:14  INFO      [stage15_negative_controls]  Random background sampling (100 iterations) …
+2026-05-04 04:35:34  INFO      [stage15_negative_controls]  Saved 100 rows → output\stage15_negative_controls\negative_control_metrics.tsv
+2026-05-04 04:35:34  INFO      [stage15_negative_controls]  Saved 5 rows → output\stage15_negative_controls\real_vs_random_summary.tsv
+2026-05-04 04:35:35  INFO      [stage15_negative_controls]  Real enrichment: 54 significant domains at FDR<0.05
+2026-05-04 04:35:35  INFO      [stage15_negative_controls]  Stage 15 complete.
+2026-05-04 04:42:49  INFO      [stage15_negative_controls]  ==================================================================
+2026-05-04 04:42:49  INFO      [stage15_negative_controls]    STAGE 15: Negative-Control Biological Validation
+2026-05-04 04:42:49  INFO      [stage15_negative_controls]  ==================================================================
+2026-05-04 04:42:57  INFO      [stage15_negative_controls]  Random background sampling (100 iterations) …
+2026-05-04 04:43:25  INFO      [stage15_negative_controls]  Saved 100 rows → output\stage15_negative_controls\negative_control_metrics.tsv
+2026-05-04 04:43:25  INFO      [stage15_negative_controls]  Saved 5 rows → output\stage15_negative_controls\real_vs_random_summary.tsv
+2026-05-04 04:43:25  INFO      [stage15_negative_controls]  Real enrichment: 54 significant domains at FDR<0.05
+2026-05-04 04:43:25  INFO      [stage15_negative_controls]  Stage 15 complete.
+2026-05-04 09:33:55  INFO      [stage15_negative_controls]  ==================================================================
+2026-05-04 09:33:55  INFO      [stage15_negative_controls]    STAGE 15: Negative-Control Biological Validation
+2026-05-04 09:33:55  INFO      [stage15_negative_controls]  ==================================================================
+2026-05-04 09:34:05  INFO      [stage15_negative_controls]  Random background sampling (100 iterations) …
+2026-05-04 09:34:18  INFO      [stage15_negative_controls]  Saved 100 rows → output\stage15_negative_controls\negative_control_metrics.tsv
+2026-05-04 09:34:18  INFO      [stage15_negative_controls]  Saved 5 rows → output\stage15_negative_controls\real_vs_random_summary.tsv
+2026-05-04 09:34:18  INFO      [stage15_negative_controls]  Real enrichment: 54 significant domains at FDR<0.05
+2026-05-04 09:34:18  INFO      [stage15_negative_controls]  Stage 15 complete.
+2026-05-04 09:35:42  INFO      [stage15_negative_controls]  ==================================================================
+2026-05-04 09:35:42  INFO      [stage15_negative_controls]    STAGE 15: Negative-Control Biological Validation
+2026-05-04 09:35:42  INFO      [stage15_negative_controls]  ==================================================================
+2026-05-04 09:35:51  INFO      [stage15_negative_controls]  Random background sampling (100 iterations) …
+2026-05-04 09:36:05  INFO      [stage15_negative_controls]  Saved 100 rows → output\stage15_negative_controls\negative_control_metrics.tsv
+2026-05-04 09:36:05  INFO      [stage15_negative_controls]  Saved 5 rows → output\stage15_negative_controls\real_vs_random_summary.tsv
+2026-05-04 09:36:05  INFO      [stage15_negative_controls]  Real enrichment: 54 significant domains at FDR<0.05
+2026-05-04 09:36:05  INFO      [stage15_negative_controls]  Stage 15 complete.
+2026-05-04 09:58:37  INFO      [stage15_negative_controls]  ==================================================================
+2026-05-04 09:58:37  INFO      [stage15_negative_controls]    STAGE 15: Negative-Control Biological Validation
+2026-05-04 09:58:37  INFO      [stage15_negative_controls]  ==================================================================
+2026-05-04 09:58:37  INFO      [stage15_negative_controls]  Background decontamination: removed 60 pathway protein(s) from background (19781 → 19721 unique proteins). Original file on disk is unchanged.
+2026-05-04 09:58:46  INFO      [stage15_negative_controls]  Random background sampling (100 iterations) …
+2026-05-04 09:59:02  INFO      [stage15_negative_controls]  Saved 100 rows → output\stage15_negative_controls\negative_control_metrics.tsv
+2026-05-04 09:59:02  INFO      [stage15_negative_controls]  Saved 5 rows → output\stage15_negative_controls\real_vs_random_summary.tsv
+2026-05-04 09:59:02  INFO      [stage15_negative_controls]  Real enrichment: 54 significant domains at FDR<0.05
+2026-05-04 09:59:02  INFO      [stage15_negative_controls]  Stage 15 complete.
+2026-05-04 10:28:11  INFO      [stage15_negative_controls]  ==================================================================
+2026-05-04 10:28:11  INFO      [stage15_negative_controls]    STAGE 15: Negative-Control Biological Validation
+2026-05-04 10:28:11  INFO      [stage15_negative_controls]  ==================================================================
+2026-05-04 10:28:11  INFO      [stage15_negative_controls]  Detecting columns in foreground table …
+2026-05-04 10:28:11  INFO      [stage15_negative_controls]    Column [protein]: matched 'protein_accession' (exact)
+2026-05-04 10:28:11  INFO      [stage15_negative_controls]    Column [domain]: matched 'domain_type_id' (exact)
+2026-05-04 10:28:11  WARNING   [stage15_negative_controls]    Column [function_tags]: NOT FOUND. Tried: ['function_tags', 'function_tag', 'function', 'go_function', 'molecular_function', 'func_tag', 'functional_category']. Available columns: ['domain_type_id', 'protein_accession']
+2026-05-04 10:28:11  WARNING   [stage15_negative_controls]    Column [binding_partner]: NOT FOUND. Tried: ['binding_partner', 'binding_parnter', 'binding_target', 'interaction_partner', 'interactor', 'bind_partner']. Available columns: ['domain_type_id', 'protein_accession']
+2026-05-04 10:28:11  INFO      [stage15_negative_controls]  Foreground: 60 unique proteins
+2026-05-04 10:28:11  INFO      [stage15_negative_controls]    Column [bg_protein]: matched 'protein_accession' (exact)
+2026-05-04 10:28:11  INFO      [stage15_negative_controls]  Background decontamination: removed 60 pathway protein(s) from background (19781 → 19721 unique proteins). Original file on disk is unchanged.
+2026-05-04 10:28:17  INFO      [stage15_negative_controls]  Real enrichment baseline: n_sig=54, max_OR=366.20, median_OR=210.73
+2026-05-04 10:28:17  WARNING   [stage15_negative_controls]  Strategy A (shuffle function tags) SKIPPED — column not found. Add the correct column name to column_aliases in pipeline_config.yaml.
+2026-05-04 10:28:17  WARNING   [stage15_negative_controls]  Strategy B (shuffle binding targets) SKIPPED — column not found. Add the correct column name to column_aliases in pipeline_config.yaml.
+2026-05-04 10:28:17  INFO      [stage15_negative_controls]  Strategy C — domain-count-matched background sampling (100 iterations) …
+2026-05-04 10:28:17  INFO      [stage15_negative_controls]    Column [bg_domain]: matched 'domain_type_id' (exact)
+2026-05-04 10:28:17  INFO      [stage15_negative_controls]    Foreground domain counts — median=3.0, mean=3.5, range=[1,14]
+2026-05-04 10:28:17  INFO      [stage15_negative_controls]    Background domain counts (pool of 19721) — median=4.0, mean=4.6, range=[1,30]
+2026-05-04 11:02:14  INFO      [stage15_negative_controls]  ==================================================================
+2026-05-04 11:02:14  INFO      [stage15_negative_controls]    STAGE 15: Negative-Control Biological Validation
+2026-05-04 11:02:14  INFO      [stage15_negative_controls]  ==================================================================
+2026-05-04 11:02:14  INFO      [stage15_negative_controls]  Detecting columns in foreground table ...
+2026-05-04 11:02:14  INFO      [stage15_negative_controls]    Column [protein]: matched 'protein_accession' (exact)
+2026-05-04 11:02:14  INFO      [stage15_negative_controls]    Column [domain]: matched 'domain_type_id' (exact)
+2026-05-04 11:02:14  INFO      [stage15_negative_controls]  Foreground: 60 unique proteins, 58 domain types, 210 rows
+2026-05-04 11:02:14  INFO      [stage15_negative_controls]    Column [bg_protein]: matched 'protein_accession' (exact)
+2026-05-04 11:02:14  INFO      [stage15_negative_controls]  Background decontamination: 19781 → 19721 proteins (60 removed).
+2026-05-04 11:02:19  INFO      [stage15_negative_controls]  Real enrichment: n_sig=54, max_OR=366.20, median_OR=210.73
+2026-05-04 11:02:19  INFO      [stage15_negative_controls]  Strategy A — protein-label permutation (100 iterations) ...
+2026-05-04 11:02:24  INFO      [stage15_negative_controls]  Strategy B — domain-type permutation (100 iterations) ...
+2026-05-04 11:02:30  INFO      [stage15_negative_controls]  Strategy C — matched background sampling (100 iterations) ...
+2026-05-04 11:02:30  INFO      [stage15_negative_controls]    Column [bg_domain]: matched 'domain_type_id' (exact)
+2026-05-04 11:02:31  INFO      [stage15_negative_controls]    FG domain counts: median=3.0, mean=3.5
+  BG pool (19721 proteins): median=4.0, mean=4.6
+2026-05-04 11:14:57  INFO      [stage15_negative_controls]  Saved 300 rows → output\stage15_negative_controls\negative_control_metrics.tsv
+2026-05-04 11:14:57  INFO      [stage15_negative_controls]    [domain_type_permutation] real=54, random mean=54.0, ratio=1.00x, empirical p=0.9500, percentile=5.0% [ENRICHED]
+2026-05-04 11:14:57  INFO      [stage15_negative_controls]    [protein_label_permutation] real=54, random mean=54.0, ratio=1.00x, empirical p=0.9600, percentile=4.0% [ENRICHED]
+2026-05-04 11:14:57  INFO      [stage15_negative_controls]    [random_background_sample] real=54, random mean=81.9, ratio=0.66x, empirical p=0.9800, percentile=2.0% [DEPLETED]
+2026-05-04 11:14:57  INFO      [stage15_negative_controls]  Saved 21 rows → output\stage15_negative_controls\real_vs_random_summary.tsv
+2026-05-04 11:14:57  INFO      [stage15_negative_controls]  Plot saved -> output\stage15_negative_controls\real_vs_random_plots.png
+2026-05-04 11:14:57  INFO      [stage15_negative_controls]  Real enrichment: 54 significant domains at FDR<0.05 (max_OR=366.20, median_OR=210.73)
+2026-05-04 11:14:57  INFO      [stage15_negative_controls]  Stage 15 complete.
+2026-05-04 11:49:57  INFO      [stage15_negative_controls]  ==================================================================
+2026-05-04 11:49:57  INFO      [stage15_negative_controls]    STAGE 15: Negative-Control Biological Validation
+2026-05-04 11:49:57  INFO      [stage15_negative_controls]  ==================================================================
+2026-05-04 11:49:57  INFO      [stage15_negative_controls]  Detecting columns …
+2026-05-04 11:49:57  INFO      [stage15_negative_controls]    Column [protein]: matched 'protein_accession' (exact)
+2026-05-04 11:49:57  INFO      [stage15_negative_controls]    Column [domain]: matched 'domain_type_id' (exact)
+2026-05-04 11:49:57  INFO      [stage15_negative_controls]  Foreground: 60 proteins, 58 domain types, 210 rows, 210 unique (protein, domain) pairs
+2026-05-04 11:49:57  INFO      [stage15_negative_controls]    Column [bg_protein]: matched 'protein_accession' (exact)
+2026-05-04 11:49:57  INFO      [stage15_negative_controls]  Background decontamination: 19781 → 19721 proteins (60 pathway proteins removed).
+2026-05-04 11:50:03  INFO      [stage15_negative_controls]  Real enrichment: n_sig=54, n_domain_types=58, enrichment_rate=0.931 (93.1%), max_OR=366.20, median_OR=210.73
+2026-05-04 11:50:03  INFO      [stage15_negative_controls]  Unique-pair table: 210 rows (vs 210 raw rows — duplicate rows excluded from permutation)
+2026-05-04 11:50:03  INFO      [stage15_negative_controls]  Strategy A — protein-label permutation on unique pairs (100 iterations) …
+2026-05-04 11:50:13  INFO      [stage15_negative_controls]  Strategy B — domain-type permutation on unique pairs (100 iterations) …
+2026-05-04 11:50:23  INFO      [stage15_negative_controls]    Column [bg_domain]: matched 'domain_type_id' (exact)
+2026-05-04 11:50:23  INFO      [stage15_negative_controls]  Strategy C — domain-count-matched background sampling (100 iterations) …
+  FG domain counts: median=3.0, mean=3.5, range=[1,14]
+  BG pool (19721 proteins): median=4.0, mean=4.6

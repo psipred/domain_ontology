@@ -1,0 +1,491 @@
+2026-05-03 14:35:56  INFO      [stage4_owl_population]  ==================================================================
+2026-05-03 14:35:56  INFO      [stage4_owl_population]    STAGE 4: OWL Population Builder
+2026-05-03 14:35:56  INFO      [stage4_owl_population]  ==================================================================
+2026-05-03 14:35:56  ERROR     [stage4_owl_population]  domain_occurrence_table not found — aborting Stage 4
+2026-05-03 14:43:05  INFO      [stage4_owl_population]  ==================================================================
+2026-05-03 14:43:05  INFO      [stage4_owl_population]    STAGE 4: OWL Population Builder
+2026-05-03 14:43:05  INFO      [stage4_owl_population]  ==================================================================
+2026-05-03 14:43:05  ERROR     [stage4_owl_population]  domain_occurrence_table not found — aborting Stage 4
+2026-05-03 15:35:06  INFO      [stage4_owl_population]  ==================================================================
+2026-05-03 15:35:06  INFO      [stage4_owl_population]    STAGE 4: OWL Population Builder
+2026-05-03 15:35:06  INFO      [stage4_owl_population]  ==================================================================
+2026-05-03 16:15:48  INFO      [stage4_owl_population]  ==================================================================
+2026-05-03 16:15:48  INFO      [stage4_owl_population]    STAGE 4: OWL Population Builder
+2026-05-03 16:15:48  INFO      [stage4_owl_population]  ==================================================================
+2026-05-03 16:15:48  INFO      [stage4_owl_population]  Occurrence table: 475 rows, 142 proteins
+2026-05-03 16:15:48  INFO      [stage4_owl_population]  Population IRI: http://www.semanticweb.org/32045/ontologies/2026/0/camp_population
+2026-05-03 16:15:48  INFO      [stage4_owl_population]  Core namespace: http://www.semanticweb.org/32045/ontologies/2026/0/core_ontology#
+2026-05-03 16:15:48  INFO      [stage4_owl_population]  Import IRI:     http://www.semanticweb.org/32045/ontologies/2026/0/core_ontology
+2026-05-03 16:15:48  INFO      [stage4_owl_population]  CoOccurrence:   enabled
+2026-05-03 16:15:48  INFO      [stage4_owl_population]  DomainOrder:    enabled
+2026-05-03 16:15:48  INFO      [stage4_owl_population]  Building OWL graph …
+2026-05-03 16:15:48  INFO      [stage4_owl_population]    Pass 0: 142 proteins, 157 domain types
+2026-05-03 16:15:48  INFO      [stage4_owl_population]    Pass 1: metadata gathered for 157 domain types
+2026-05-03 16:15:48  INFO      [stage4_owl_population]    Built 157 DomainType individuals
+2026-05-03 16:15:48  INFO      [stage4_owl_population]    Built 0 DomainOccurrence individuals
+2026-05-03 16:15:48  INFO      [stage4_owl_population]    Built 556 CoOccurrencePattern individuals
+2026-05-03 16:15:49  INFO      [stage4_owl_population]  Serialised → output\stage4_owl_population\population.ttl  (7,575 triples)
+2026-05-03 16:15:49  INFO      [stage4_owl_population]  Saved 8 rows → output\stage4_owl_population\stage4_summary.tsv
+2026-05-03 16:15:49  INFO      [stage4_owl_population]  
+2026-05-03 16:15:49  INFO      [stage4_owl_population]  ============================================================
+2026-05-03 16:15:49  INFO      [stage4_owl_population]    STAGE 4 COMPLETE
+2026-05-03 16:15:49  INFO      [stage4_owl_population]    Triples:           7,575
+2026-05-03 16:15:49  INFO      [stage4_owl_population]    Named individuals: 1,024
+2026-05-03 16:15:49  INFO      [stage4_owl_population]    Output:            output\stage4_owl_population\population.ttl
+2026-05-03 16:15:49  INFO      [stage4_owl_population]  ============================================================
+2026-05-03 16:27:28  INFO      [stage4_owl_population]  ==================================================================
+2026-05-03 16:27:28  INFO      [stage4_owl_population]    STAGE 4: OWL Population Builder
+2026-05-03 16:27:28  INFO      [stage4_owl_population]  ==================================================================
+2026-05-03 16:27:28  INFO      [stage4_owl_population]  Occurrence table: 475 rows, 142 proteins
+2026-05-03 16:27:28  INFO      [stage4_owl_population]  Population IRI: http://www.semanticweb.org/32045/ontologies/2026/0/camp_population
+2026-05-03 16:27:28  INFO      [stage4_owl_population]  Core namespace: http://www.semanticweb.org/32045/ontologies/2026/0/core_ontology#
+2026-05-03 16:27:28  INFO      [stage4_owl_population]  Import IRI:     http://www.semanticweb.org/32045/ontologies/2026/0/core_ontology
+2026-05-03 16:27:28  INFO      [stage4_owl_population]  CoOccurrence:   enabled
+2026-05-03 16:27:28  INFO      [stage4_owl_population]  DomainOrder:    enabled
+2026-05-03 16:27:28  INFO      [stage4_owl_population]  Building OWL graph …
+2026-05-03 16:27:28  INFO      [stage4_owl_population]    Pass 0: 142 proteins, 157 domain types
+2026-05-03 16:27:28  INFO      [stage4_owl_population]    Pass 1: metadata gathered for 157 domain types
+2026-05-03 16:27:28  INFO      [stage4_owl_population]    Built 157 DomainType individuals
+2026-05-03 16:27:28  INFO      [stage4_owl_population]    Built 0 DomainOccurrence individuals
+2026-05-03 16:27:28  INFO      [stage4_owl_population]    Built 556 CoOccurrencePattern individuals
+2026-05-03 16:27:29  INFO      [stage4_owl_population]  Serialised → output\stage4_owl_population\population.ttl  (7,575 triples)
+2026-05-03 16:27:29  INFO      [stage4_owl_population]  Saved 8 rows → output\stage4_owl_population\stage4_summary.tsv
+2026-05-03 16:27:29  INFO      [stage4_owl_population]  
+2026-05-03 16:27:29  INFO      [stage4_owl_population]  ============================================================
+2026-05-03 16:27:29  INFO      [stage4_owl_population]    STAGE 4 COMPLETE
+2026-05-03 16:27:29  INFO      [stage4_owl_population]    Triples:           7,575
+2026-05-03 16:27:29  INFO      [stage4_owl_population]    Named individuals: 1,024
+2026-05-03 16:27:29  INFO      [stage4_owl_population]    Output:            output\stage4_owl_population\population.ttl
+2026-05-03 16:27:29  INFO      [stage4_owl_population]  ============================================================
+2026-05-03 16:38:57  INFO      [stage4_owl_population]  ==================================================================
+2026-05-03 16:38:57  INFO      [stage4_owl_population]    STAGE 4: OWL Population Builder
+2026-05-03 16:38:57  INFO      [stage4_owl_population]  ==================================================================
+2026-05-03 16:38:57  INFO      [stage4_owl_population]  Occurrence table: 475 rows, 142 proteins
+2026-05-03 16:38:57  INFO      [stage4_owl_population]  Population IRI: http://www.semanticweb.org/32045/ontologies/2026/0/camp_population
+2026-05-03 16:38:57  INFO      [stage4_owl_population]  Core namespace: http://www.semanticweb.org/32045/ontologies/2026/0/core_ontology#
+2026-05-03 16:38:57  INFO      [stage4_owl_population]  Import IRI:     http://www.semanticweb.org/32045/ontologies/2026/0/core_ontology
+2026-05-03 16:38:57  INFO      [stage4_owl_population]  CoOccurrence:   enabled
+2026-05-03 16:38:57  INFO      [stage4_owl_population]  DomainOrder:    enabled
+2026-05-03 16:38:57  INFO      [stage4_owl_population]  Building OWL graph …
+2026-05-03 16:38:57  INFO      [stage4_owl_population]    Pass 0: 142 proteins, 157 domain types
+2026-05-03 16:38:57  INFO      [stage4_owl_population]    Pass 1: metadata gathered for 157 domain types
+2026-05-03 16:38:57  INFO      [stage4_owl_population]    Built 157 DomainType individuals
+2026-05-03 16:38:57  INFO      [stage4_owl_population]    Built 0 DomainOccurrence individuals
+2026-05-03 16:38:57  INFO      [stage4_owl_population]    Built 556 CoOccurrencePattern individuals
+2026-05-03 16:38:57  INFO      [stage4_owl_population]  Serialised → output\stage4_owl_population\population.ttl  (7,575 triples)
+2026-05-03 16:38:57  INFO      [stage4_owl_population]  Saved 8 rows → output\stage4_owl_population\stage4_summary.tsv
+2026-05-03 16:38:57  INFO      [stage4_owl_population]  
+2026-05-03 16:38:57  INFO      [stage4_owl_population]  ============================================================
+2026-05-03 16:38:57  INFO      [stage4_owl_population]    STAGE 4 COMPLETE
+2026-05-03 16:38:57  INFO      [stage4_owl_population]    Triples:           7,575
+2026-05-03 16:38:57  INFO      [stage4_owl_population]    Named individuals: 1,024
+2026-05-03 16:38:57  INFO      [stage4_owl_population]    Output:            output\stage4_owl_population\population.ttl
+2026-05-03 16:38:57  INFO      [stage4_owl_population]  ============================================================
+2026-05-03 17:14:31  INFO      [stage4_owl_population]  ==================================================================
+2026-05-03 17:14:31  INFO      [stage4_owl_population]    STAGE 4: OWL Population Builder
+2026-05-03 17:14:31  INFO      [stage4_owl_population]  ==================================================================
+2026-05-03 17:14:31  INFO      [stage4_owl_population]  Occurrence table: 473 rows, 142 proteins
+2026-05-03 17:14:31  INFO      [stage4_owl_population]  Population IRI: http://www.semanticweb.org/32045/ontologies/2026/0/camp_population
+2026-05-03 17:14:31  INFO      [stage4_owl_population]  Core namespace: http://www.semanticweb.org/32045/ontologies/2026/0/core_ontology#
+2026-05-03 17:14:31  INFO      [stage4_owl_population]  Import IRI:     http://www.semanticweb.org/32045/ontologies/2026/0/core_ontology
+2026-05-03 17:14:31  INFO      [stage4_owl_population]  CoOccurrence:   enabled
+2026-05-03 17:14:31  INFO      [stage4_owl_population]  DomainOrder:    enabled
+2026-05-03 17:14:31  INFO      [stage4_owl_population]  Building OWL graph …
+2026-05-03 17:14:32  INFO      [stage4_owl_population]    Pass 0: 142 proteins, 157 domain types
+2026-05-03 17:14:32  INFO      [stage4_owl_population]    Pass 1: metadata gathered for 157 domain types
+2026-05-03 17:14:32  INFO      [stage4_owl_population]    Built 157 DomainType individuals
+2026-05-03 17:14:32  INFO      [stage4_owl_population]    Built 0 DomainOccurrence individuals
+2026-05-03 17:14:32  INFO      [stage4_owl_population]    Built 556 CoOccurrencePattern individuals
+2026-05-03 17:14:32  INFO      [stage4_owl_population]  Serialised → output\stage4_owl_population\population.ttl  (7,575 triples)
+2026-05-03 17:14:32  INFO      [stage4_owl_population]  Saved 8 rows → output\stage4_owl_population\stage4_summary.tsv
+2026-05-03 17:14:32  INFO      [stage4_owl_population]  
+2026-05-03 17:14:32  INFO      [stage4_owl_population]  ============================================================
+2026-05-03 17:14:32  INFO      [stage4_owl_population]    STAGE 4 COMPLETE
+2026-05-03 17:14:32  INFO      [stage4_owl_population]    Triples:           7,575
+2026-05-03 17:14:32  INFO      [stage4_owl_population]    Named individuals: 1,024
+2026-05-03 17:14:32  INFO      [stage4_owl_population]    Output:            output\stage4_owl_population\population.ttl
+2026-05-03 17:14:32  INFO      [stage4_owl_population]  ============================================================
+2026-05-03 22:56:49  INFO      [stage4_owl_population]  ==================================================================
+2026-05-03 22:56:49  INFO      [stage4_owl_population]    STAGE 4: OWL Population Builder
+2026-05-03 22:56:49  INFO      [stage4_owl_population]  ==================================================================
+2026-05-03 22:56:49  INFO      [stage4_owl_population]  Occurrence table: 473 rows, 142 proteins
+2026-05-03 22:56:49  INFO      [stage4_owl_population]  Population IRI: http://www.semanticweb.org/32045/ontologies/2026/0/camp_population
+2026-05-03 22:56:49  INFO      [stage4_owl_population]  Core namespace: http://www.semanticweb.org/32045/ontologies/2026/0/core_ontology#
+2026-05-03 22:56:49  INFO      [stage4_owl_population]  Import IRI:     http://www.semanticweb.org/32045/ontologies/2026/0/core_ontology
+2026-05-03 22:56:49  INFO      [stage4_owl_population]  CoOccurrence:   enabled
+2026-05-03 22:56:49  INFO      [stage4_owl_population]  DomainOrder:    enabled
+2026-05-03 22:56:49  INFO      [stage4_owl_population]  Building OWL graph …
+2026-05-03 22:56:49  INFO      [stage4_owl_population]    Pass 0: 142 proteins, 157 domain types
+2026-05-03 22:56:49  INFO      [stage4_owl_population]    Pass 1: metadata gathered for 157 domain types
+2026-05-03 22:56:49  INFO      [stage4_owl_population]    Built 157 DomainType individuals
+2026-05-03 22:56:49  INFO      [stage4_owl_population]    Built 0 DomainOccurrence individuals
+2026-05-03 22:56:49  INFO      [stage4_owl_population]    Built 556 CoOccurrencePattern individuals
+2026-05-03 22:56:50  INFO      [stage4_owl_population]  Serialised → output\stage4_owl_population\population.ttl  (7,575 triples)
+2026-05-03 22:56:50  INFO      [stage4_owl_population]  Saved 8 rows → output\stage4_owl_population\stage4_summary.tsv
+2026-05-03 22:56:50  INFO      [stage4_owl_population]  
+2026-05-03 22:56:50  INFO      [stage4_owl_population]  ============================================================
+2026-05-03 22:56:50  INFO      [stage4_owl_population]    STAGE 4 COMPLETE
+2026-05-03 22:56:50  INFO      [stage4_owl_population]    Triples:           7,575
+2026-05-03 22:56:50  INFO      [stage4_owl_population]    Named individuals: 1,024
+2026-05-03 22:56:50  INFO      [stage4_owl_population]    Output:            output\stage4_owl_population\population.ttl
+2026-05-03 22:56:50  INFO      [stage4_owl_population]  ============================================================
+2026-05-03 23:21:46  INFO      [stage4_owl_population]  ==================================================================
+2026-05-03 23:21:46  INFO      [stage4_owl_population]    STAGE 4: OWL Population Builder
+2026-05-03 23:21:46  INFO      [stage4_owl_population]  ==================================================================
+2026-05-03 23:21:46  INFO      [stage4_owl_population]  Occurrence table: 473 rows, 142 proteins
+2026-05-03 23:21:46  INFO      [stage4_owl_population]  Population IRI: http://www.semanticweb.org/32045/ontologies/2026/0/camp_population
+2026-05-03 23:21:46  INFO      [stage4_owl_population]  Core namespace: http://www.semanticweb.org/32045/ontologies/2026/0/core_ontology#
+2026-05-03 23:21:46  INFO      [stage4_owl_population]  Import IRI:     http://www.semanticweb.org/32045/ontologies/2026/0/core_ontology
+2026-05-03 23:21:46  INFO      [stage4_owl_population]  CoOccurrence:   enabled
+2026-05-03 23:21:46  INFO      [stage4_owl_population]  DomainOrder:    enabled
+2026-05-03 23:21:46  INFO      [stage4_owl_population]  Building OWL graph …
+2026-05-03 23:21:46  INFO      [stage4_owl_population]    Pass 0: 142 proteins, 157 domain types
+2026-05-03 23:21:46  INFO      [stage4_owl_population]    Pass 1: metadata gathered for 157 domain types
+2026-05-03 23:21:46  INFO      [stage4_owl_population]    Built 157 DomainType individuals
+2026-05-03 23:21:46  INFO      [stage4_owl_population]    Built 0 DomainOccurrence individuals
+2026-05-03 23:21:46  INFO      [stage4_owl_population]    Built 556 CoOccurrencePattern individuals
+2026-05-03 23:21:46  INFO      [stage4_owl_population]  Serialised → output\stage4_owl_population\population.ttl  (7,571 triples)
+2026-05-03 23:21:46  INFO      [stage4_owl_population]  Saved 8 rows → output\stage4_owl_population\stage4_summary.tsv
+2026-05-03 23:21:46  INFO      [stage4_owl_population]  
+2026-05-03 23:21:46  INFO      [stage4_owl_population]  ============================================================
+2026-05-03 23:21:46  INFO      [stage4_owl_population]    STAGE 4 COMPLETE
+2026-05-03 23:21:46  INFO      [stage4_owl_population]    Triples:           7,571
+2026-05-03 23:21:46  INFO      [stage4_owl_population]    Named individuals: 1,023
+2026-05-03 23:21:46  INFO      [stage4_owl_population]    Output:            output\stage4_owl_population\population.ttl
+2026-05-03 23:21:46  INFO      [stage4_owl_population]  ============================================================
+2026-05-03 23:27:52  INFO      [stage4_owl_population]  ==================================================================
+2026-05-03 23:27:52  INFO      [stage4_owl_population]    STAGE 4: OWL Population Builder
+2026-05-03 23:27:52  INFO      [stage4_owl_population]  ==================================================================
+2026-05-03 23:27:52  INFO      [stage4_owl_population]  Occurrence table: 473 rows, 142 proteins
+2026-05-03 23:27:52  INFO      [stage4_owl_population]  Population IRI: http://www.semanticweb.org/32045/ontologies/2026/0/camp_population
+2026-05-03 23:27:52  INFO      [stage4_owl_population]  Core namespace: http://www.semanticweb.org/32045/ontologies/2026/0/core_ontology#
+2026-05-03 23:27:52  INFO      [stage4_owl_population]  Import IRI:     http://www.semanticweb.org/32045/ontologies/2026/0/core_ontology
+2026-05-03 23:27:52  INFO      [stage4_owl_population]  CoOccurrence:   enabled
+2026-05-03 23:27:52  INFO      [stage4_owl_population]  DomainOrder:    enabled
+2026-05-03 23:27:52  INFO      [stage4_owl_population]  Building OWL graph …
+2026-05-03 23:27:52  INFO      [stage4_owl_population]    Pass 0: 142 proteins, 306 domain types
+2026-05-03 23:27:52  INFO      [stage4_owl_population]    Pass 1: metadata gathered for 157 domain types
+2026-05-03 23:27:52  INFO      [stage4_owl_population]    Built 306 DomainType individuals
+2026-05-03 23:27:52  INFO      [stage4_owl_population]    Built 0 DomainOccurrence individuals
+2026-05-03 23:27:52  INFO      [stage4_owl_population]    Built 556 CoOccurrencePattern individuals
+2026-05-03 23:27:52  INFO      [stage4_owl_population]  Serialised → output\stage4_owl_population\population.ttl  (8,167 triples)
+2026-05-03 23:27:52  INFO      [stage4_owl_population]  Saved 8 rows → output\stage4_owl_population\stage4_summary.tsv
+2026-05-03 23:27:52  INFO      [stage4_owl_population]  
+2026-05-03 23:27:52  INFO      [stage4_owl_population]  ============================================================
+2026-05-03 23:27:52  INFO      [stage4_owl_population]    STAGE 4 COMPLETE
+2026-05-03 23:27:52  INFO      [stage4_owl_population]    Triples:           8,167
+2026-05-03 23:27:52  INFO      [stage4_owl_population]    Named individuals: 1,172
+2026-05-03 23:27:52  INFO      [stage4_owl_population]    Output:            output\stage4_owl_population\population.ttl
+2026-05-03 23:27:52  INFO      [stage4_owl_population]  ============================================================
+2026-05-03 23:34:01  INFO      [stage4_owl_population]  ==================================================================
+2026-05-03 23:34:01  INFO      [stage4_owl_population]    STAGE 4: OWL Population Builder
+2026-05-03 23:34:01  INFO      [stage4_owl_population]  ==================================================================
+2026-05-03 23:34:01  INFO      [stage4_owl_population]  Occurrence table: 473 rows, 142 proteins
+2026-05-03 23:34:01  INFO      [stage4_owl_population]  Population IRI: http://www.semanticweb.org/32045/ontologies/2026/0/camp_population
+2026-05-03 23:34:01  INFO      [stage4_owl_population]  Core namespace: http://www.semanticweb.org/32045/ontologies/2026/0/core_ontology#
+2026-05-03 23:34:01  INFO      [stage4_owl_population]  Import IRI:     http://www.semanticweb.org/32045/ontologies/2026/0/core_ontology
+2026-05-03 23:34:01  INFO      [stage4_owl_population]  CoOccurrence:   enabled
+2026-05-03 23:34:01  INFO      [stage4_owl_population]  DomainOrder:    enabled
+2026-05-03 23:34:01  INFO      [stage4_owl_population]  Building OWL graph …
+2026-05-03 23:34:01  INFO      [stage4_owl_population]    Pass 0: 142 proteins, 306 domain types
+2026-05-03 23:34:01  INFO      [stage4_owl_population]    Pass 1: metadata gathered for 157 domain types
+2026-05-03 23:34:02  INFO      [stage4_owl_population]    Built 306 DomainType individuals
+2026-05-03 23:34:02  INFO      [stage4_owl_population]    Built 0 DomainOccurrence individuals
+2026-05-03 23:34:02  INFO      [stage4_owl_population]    Built 556 CoOccurrencePattern individuals
+2026-05-03 23:34:02  INFO      [stage4_owl_population]  Serialised → output\stage4_owl_population\population.ttl  (8,167 triples)
+2026-05-03 23:34:02  INFO      [stage4_owl_population]  Saved 8 rows → output\stage4_owl_population\stage4_summary.tsv
+2026-05-03 23:34:02  INFO      [stage4_owl_population]  
+2026-05-03 23:34:02  INFO      [stage4_owl_population]  ============================================================
+2026-05-03 23:34:02  INFO      [stage4_owl_population]    STAGE 4 COMPLETE
+2026-05-03 23:34:02  INFO      [stage4_owl_population]    Triples:           8,167
+2026-05-03 23:34:02  INFO      [stage4_owl_population]    Named individuals: 1,172
+2026-05-03 23:34:02  INFO      [stage4_owl_population]    Output:            output\stage4_owl_population\population.ttl
+2026-05-03 23:34:02  INFO      [stage4_owl_population]  ============================================================
+2026-05-03 23:51:17  INFO      [stage4_owl_population]  ==================================================================
+2026-05-03 23:51:17  INFO      [stage4_owl_population]    STAGE 4: OWL Population Builder
+2026-05-03 23:51:17  INFO      [stage4_owl_population]  ==================================================================
+2026-05-03 23:51:17  INFO      [stage4_owl_population]  Occurrence table: 473 rows, 142 proteins
+2026-05-03 23:51:17  INFO      [stage4_owl_population]  Population IRI: http://www.semanticweb.org/32045/ontologies/2026/0/camp_population
+2026-05-03 23:51:17  INFO      [stage4_owl_population]  Core namespace: http://www.semanticweb.org/32045/ontologies/2026/0/core_ontology#
+2026-05-03 23:51:17  INFO      [stage4_owl_population]  Import IRI:     http://www.semanticweb.org/32045/ontologies/2026/0/core_ontology
+2026-05-03 23:51:17  INFO      [stage4_owl_population]  CoOccurrence:   enabled
+2026-05-03 23:51:17  INFO      [stage4_owl_population]  DomainOrder:    enabled
+2026-05-03 23:51:17  INFO      [stage4_owl_population]  Building OWL graph …
+2026-05-03 23:51:17  INFO      [stage4_owl_population]    Pass 0: 142 proteins, 157 domain types
+2026-05-03 23:51:17  INFO      [stage4_owl_population]    Pass 1: metadata gathered for 157 domain types
+2026-05-03 23:51:17  INFO      [stage4_owl_population]    Built 157 DomainType individuals
+2026-05-03 23:51:17  INFO      [stage4_owl_population]    Built 0 DomainOccurrence individuals
+2026-05-03 23:51:17  INFO      [stage4_owl_population]    Built 556 CoOccurrencePattern individuals
+2026-05-03 23:51:17  INFO      [stage4_owl_population]  Serialised → output\stage4_owl_population\population.ttl  (7,571 triples)
+2026-05-03 23:51:17  INFO      [stage4_owl_population]  Saved 8 rows → output\stage4_owl_population\stage4_summary.tsv
+2026-05-03 23:51:17  INFO      [stage4_owl_population]  
+2026-05-03 23:51:17  INFO      [stage4_owl_population]  ============================================================
+2026-05-03 23:51:17  INFO      [stage4_owl_population]    STAGE 4 COMPLETE
+2026-05-03 23:51:17  INFO      [stage4_owl_population]    Triples:           7,571
+2026-05-03 23:51:17  INFO      [stage4_owl_population]    Named individuals: 1,023
+2026-05-03 23:51:17  INFO      [stage4_owl_population]    Output:            output\stage4_owl_population\population.ttl
+2026-05-03 23:51:17  INFO      [stage4_owl_population]  ============================================================
+2026-05-04 00:15:22  INFO      [stage4_owl_population]  ==================================================================
+2026-05-04 00:15:22  INFO      [stage4_owl_population]    STAGE 4: OWL Population Builder
+2026-05-04 00:15:22  INFO      [stage4_owl_population]  ==================================================================
+2026-05-04 00:15:22  INFO      [stage4_owl_population]  Occurrence table: 473 rows, 142 proteins
+2026-05-04 00:15:22  INFO      [stage4_owl_population]  Population IRI: http://www.semanticweb.org/32045/ontologies/2026/0/camp_population
+2026-05-04 00:15:22  INFO      [stage4_owl_population]  Core namespace: http://www.semanticweb.org/32045/ontologies/2026/0/core_ontology#
+2026-05-04 00:15:22  INFO      [stage4_owl_population]  Import IRI:     http://www.semanticweb.org/32045/ontologies/2026/0/core_ontology
+2026-05-04 00:15:22  INFO      [stage4_owl_population]  CoOccurrence:   enabled
+2026-05-04 00:15:22  INFO      [stage4_owl_population]  DomainOrder:    enabled
+2026-05-04 00:15:22  INFO      [stage4_owl_population]  Building OWL graph …
+2026-05-04 00:15:22  INFO      [stage4_owl_population]    Pass 0: 142 proteins, 157 domain types
+2026-05-04 00:15:22  INFO      [stage4_owl_population]    Pass 1: metadata gathered for 157 domain types
+2026-05-04 00:15:22  INFO      [stage4_owl_population]    Built 157 DomainType individuals
+2026-05-04 00:15:22  INFO      [stage4_owl_population]    Built 0 DomainOccurrence individuals
+2026-05-04 00:15:22  INFO      [stage4_owl_population]    Built 556 CoOccurrencePattern individuals
+2026-05-04 00:15:22  INFO      [stage4_owl_population]  Serialised → output\stage4_owl_population\population.ttl  (7,571 triples)
+2026-05-04 00:15:22  INFO      [stage4_owl_population]  Saved 8 rows → output\stage4_owl_population\stage4_summary.tsv
+2026-05-04 00:15:22  INFO      [stage4_owl_population]  
+2026-05-04 00:15:22  INFO      [stage4_owl_population]  ============================================================
+2026-05-04 00:15:22  INFO      [stage4_owl_population]    STAGE 4 COMPLETE
+2026-05-04 00:15:22  INFO      [stage4_owl_population]    Triples:           7,571
+2026-05-04 00:15:22  INFO      [stage4_owl_population]    Named individuals: 1,023
+2026-05-04 00:15:22  INFO      [stage4_owl_population]    Output:            output\stage4_owl_population\population.ttl
+2026-05-04 00:15:22  INFO      [stage4_owl_population]  ============================================================
+2026-05-04 01:15:13  INFO      [stage4_owl_population]  ==================================================================
+2026-05-04 01:15:13  INFO      [stage4_owl_population]    STAGE 4: OWL Population Builder
+2026-05-04 01:15:13  INFO      [stage4_owl_population]  ==================================================================
+2026-05-04 01:15:13  INFO      [stage4_owl_population]  Occurrence table: 473 rows, 142 proteins
+2026-05-04 01:15:13  INFO      [stage4_owl_population]  Population IRI: http://www.semanticweb.org/32045/ontologies/2026/0/camp_population
+2026-05-04 01:15:13  INFO      [stage4_owl_population]  Core namespace: http://www.semanticweb.org/32045/ontologies/2026/0/core_ontology#
+2026-05-04 01:15:13  INFO      [stage4_owl_population]  Import IRI:     http://www.semanticweb.org/32045/ontologies/2026/0/core_ontology
+2026-05-04 01:15:13  INFO      [stage4_owl_population]  CoOccurrence:   enabled
+2026-05-04 01:15:13  INFO      [stage4_owl_population]  DomainOrder:    enabled
+2026-05-04 01:15:13  INFO      [stage4_owl_population]  Building OWL graph …
+2026-05-04 01:15:13  INFO      [stage4_owl_population]    Pass 0: 142 proteins, 157 domain types
+2026-05-04 01:15:13  INFO      [stage4_owl_population]    Pass 1: metadata gathered for 157 domain types
+2026-05-04 01:15:13  INFO      [stage4_owl_population]    Built 157 DomainType individuals
+2026-05-04 01:15:13  INFO      [stage4_owl_population]    Built 0 DomainOccurrence individuals
+2026-05-04 01:15:13  INFO      [stage4_owl_population]    Built 556 CoOccurrencePattern individuals
+2026-05-04 01:15:13  INFO      [stage4_owl_population]  Serialised → output\stage4_owl_population\population.ttl  (7,571 triples)
+2026-05-04 01:15:13  INFO      [stage4_owl_population]  Saved 8 rows → output\stage4_owl_population\stage4_summary.tsv
+2026-05-04 01:15:13  INFO      [stage4_owl_population]  
+2026-05-04 01:15:13  INFO      [stage4_owl_population]  ============================================================
+2026-05-04 01:15:13  INFO      [stage4_owl_population]    STAGE 4 COMPLETE
+2026-05-04 01:15:13  INFO      [stage4_owl_population]    Triples:           7,571
+2026-05-04 01:15:13  INFO      [stage4_owl_population]    Named individuals: 1,023
+2026-05-04 01:15:13  INFO      [stage4_owl_population]    Output:            output\stage4_owl_population\population.ttl
+2026-05-04 01:15:13  INFO      [stage4_owl_population]  ============================================================
+2026-05-04 02:08:33  INFO      [stage4_owl_population]  ==================================================================
+2026-05-04 02:08:33  INFO      [stage4_owl_population]    STAGE 4: OWL Population Builder
+2026-05-04 02:08:33  INFO      [stage4_owl_population]  ==================================================================
+2026-05-04 02:08:33  INFO      [stage4_owl_population]  Occurrence table: 473 rows, 142 proteins
+2026-05-04 02:08:33  INFO      [stage4_owl_population]  Population IRI: http://www.semanticweb.org/32045/ontologies/2026/0/camp_population
+2026-05-04 02:08:33  INFO      [stage4_owl_population]  Core namespace: http://www.semanticweb.org/32045/ontologies/2026/0/core_ontology#
+2026-05-04 02:08:33  INFO      [stage4_owl_population]  Import IRI:     http://www.semanticweb.org/32045/ontologies/2026/0/core_ontology
+2026-05-04 02:08:33  INFO      [stage4_owl_population]  CoOccurrence:   enabled
+2026-05-04 02:08:33  INFO      [stage4_owl_population]  DomainOrder:    enabled
+2026-05-04 02:08:33  INFO      [stage4_owl_population]  Building OWL graph …
+2026-05-04 02:08:33  INFO      [stage4_owl_population]    Pass 0: 142 proteins, 157 domain types
+2026-05-04 02:08:33  INFO      [stage4_owl_population]    Pass 1: metadata gathered for 157 domain types
+2026-05-04 02:08:33  INFO      [stage4_owl_population]    Built 157 DomainType individuals
+2026-05-04 02:08:33  INFO      [stage4_owl_population]    Built 0 DomainOccurrence individuals
+2026-05-04 02:08:33  INFO      [stage4_owl_population]    Built 556 CoOccurrencePattern individuals
+2026-05-04 02:08:33  INFO      [stage4_owl_population]  Serialised → output\stage4_owl_population\population.ttl  (7,571 triples)
+2026-05-04 02:08:33  INFO      [stage4_owl_population]  Saved 8 rows → output\stage4_owl_population\stage4_summary.tsv
+2026-05-04 02:08:33  INFO      [stage4_owl_population]  
+2026-05-04 02:08:33  INFO      [stage4_owl_population]  ============================================================
+2026-05-04 02:08:33  INFO      [stage4_owl_population]    STAGE 4 COMPLETE
+2026-05-04 02:08:33  INFO      [stage4_owl_population]    Triples:           7,571
+2026-05-04 02:08:33  INFO      [stage4_owl_population]    Named individuals: 1,023
+2026-05-04 02:08:33  INFO      [stage4_owl_population]    Output:            output\stage4_owl_population\population.ttl
+2026-05-04 02:08:33  INFO      [stage4_owl_population]  ============================================================
+2026-05-04 04:34:11  INFO      [stage4_owl_population]  ==================================================================
+2026-05-04 04:34:11  INFO      [stage4_owl_population]    STAGE 4: OWL Population Builder
+2026-05-04 04:34:11  INFO      [stage4_owl_population]  ==================================================================
+2026-05-04 04:34:11  INFO      [stage4_owl_population]  Occurrence table: 269 rows, 60 proteins
+2026-05-04 04:34:11  INFO      [stage4_owl_population]  Population IRI: http://www.semanticweb.org/32045/ontologies/2026/0/camp_population
+2026-05-04 04:34:11  INFO      [stage4_owl_population]  Core namespace: http://www.semanticweb.org/32045/ontologies/2026/0/core_ontology#
+2026-05-04 04:34:11  INFO      [stage4_owl_population]  Import IRI:     http://www.semanticweb.org/32045/ontologies/2026/0/core_ontology
+2026-05-04 04:34:11  INFO      [stage4_owl_population]  CoOccurrence:   enabled
+2026-05-04 04:34:11  INFO      [stage4_owl_population]  DomainOrder:    enabled
+2026-05-04 04:34:11  INFO      [stage4_owl_population]  Building OWL graph …
+2026-05-04 04:34:11  INFO      [stage4_owl_population]    Pass 0: 60 proteins, 58 domain types
+2026-05-04 04:34:11  INFO      [stage4_owl_population]    Pass 1: metadata gathered for 58 domain types
+2026-05-04 04:34:11  INFO      [stage4_owl_population]    Built 58 DomainType individuals
+2026-05-04 04:34:11  INFO      [stage4_owl_population]    Built 0 DomainOccurrence individuals
+2026-05-04 04:34:11  INFO      [stage4_owl_population]    Built 211 CoOccurrencePattern individuals
+2026-05-04 04:34:12  INFO      [stage4_owl_population]  Serialised → output\stage4_owl_population\population.ttl  (3,122 triples)
+2026-05-04 04:34:12  INFO      [stage4_owl_population]  Saved 8 rows → output\stage4_owl_population\stage4_summary.tsv
+2026-05-04 04:34:12  INFO      [stage4_owl_population]  
+2026-05-04 04:34:12  INFO      [stage4_owl_population]  ============================================================
+2026-05-04 04:34:12  INFO      [stage4_owl_population]    STAGE 4 COMPLETE
+2026-05-04 04:34:12  INFO      [stage4_owl_population]    Triples:           3,122
+2026-05-04 04:34:12  INFO      [stage4_owl_population]    Named individuals: 430
+2026-05-04 04:34:12  INFO      [stage4_owl_population]    Output:            output\stage4_owl_population\population.ttl
+2026-05-04 04:34:12  INFO      [stage4_owl_population]  ============================================================
+2026-05-04 04:41:37  INFO      [stage4_owl_population]  ==================================================================
+2026-05-04 04:41:37  INFO      [stage4_owl_population]    STAGE 4: OWL Population Builder
+2026-05-04 04:41:37  INFO      [stage4_owl_population]  ==================================================================
+2026-05-04 04:41:37  INFO      [stage4_owl_population]  Occurrence table: 269 rows, 60 proteins
+2026-05-04 04:41:37  INFO      [stage4_owl_population]  Population IRI: http://www.semanticweb.org/32045/ontologies/2026/0/camp_population
+2026-05-04 04:41:37  INFO      [stage4_owl_population]  Core namespace: http://www.semanticweb.org/32045/ontologies/2026/0/core_ontology#
+2026-05-04 04:41:37  INFO      [stage4_owl_population]  Import IRI:     http://www.semanticweb.org/32045/ontologies/2026/0/core_ontology
+2026-05-04 04:41:37  INFO      [stage4_owl_population]  CoOccurrence:   enabled
+2026-05-04 04:41:37  INFO      [stage4_owl_population]  DomainOrder:    enabled
+2026-05-04 04:41:37  INFO      [stage4_owl_population]  Building OWL graph …
+2026-05-04 04:41:37  INFO      [stage4_owl_population]    Pass 0: 60 proteins, 58 domain types
+2026-05-04 04:41:37  INFO      [stage4_owl_population]    Pass 1: metadata gathered for 58 domain types
+2026-05-04 04:41:37  INFO      [stage4_owl_population]    Built 58 DomainType individuals
+2026-05-04 04:41:37  INFO      [stage4_owl_population]    Built 0 DomainOccurrence individuals
+2026-05-04 04:41:37  INFO      [stage4_owl_population]    Built 211 CoOccurrencePattern individuals
+2026-05-04 04:41:37  INFO      [stage4_owl_population]  Serialised → output\stage4_owl_population\population.ttl  (3,122 triples)
+2026-05-04 04:41:37  INFO      [stage4_owl_population]  Saved 8 rows → output\stage4_owl_population\stage4_summary.tsv
+2026-05-04 04:41:37  INFO      [stage4_owl_population]  
+2026-05-04 04:41:37  INFO      [stage4_owl_population]  ============================================================
+2026-05-04 04:41:37  INFO      [stage4_owl_population]    STAGE 4 COMPLETE
+2026-05-04 04:41:37  INFO      [stage4_owl_population]    Triples:           3,122
+2026-05-04 04:41:37  INFO      [stage4_owl_population]    Named individuals: 430
+2026-05-04 04:41:37  INFO      [stage4_owl_population]    Output:            output\stage4_owl_population\population.ttl
+2026-05-04 04:41:37  INFO      [stage4_owl_population]  ============================================================
+2026-05-04 09:33:01  INFO      [stage4_owl_population]  ==================================================================
+2026-05-04 09:33:01  INFO      [stage4_owl_population]    STAGE 4: OWL Population Builder
+2026-05-04 09:33:01  INFO      [stage4_owl_population]  ==================================================================
+2026-05-04 09:33:01  INFO      [stage4_owl_population]  Occurrence table: 269 rows, 60 proteins
+2026-05-04 09:33:01  INFO      [stage4_owl_population]  Population IRI: http://www.semanticweb.org/32045/ontologies/2026/0/camp_population
+2026-05-04 09:33:01  INFO      [stage4_owl_population]  Core namespace: http://www.semanticweb.org/32045/ontologies/2026/0/core_ontology#
+2026-05-04 09:33:01  INFO      [stage4_owl_population]  Import IRI:     http://www.semanticweb.org/32045/ontologies/2026/0/core_ontology
+2026-05-04 09:33:01  INFO      [stage4_owl_population]  CoOccurrence:   enabled
+2026-05-04 09:33:01  INFO      [stage4_owl_population]  DomainOrder:    enabled
+2026-05-04 09:33:01  INFO      [stage4_owl_population]  Building OWL graph …
+2026-05-04 09:33:01  INFO      [stage4_owl_population]    Pass 0: 60 proteins, 58 domain types
+2026-05-04 09:33:01  INFO      [stage4_owl_population]    Pass 1: metadata gathered for 58 domain types
+2026-05-04 09:33:01  INFO      [stage4_owl_population]    Built 58 DomainType individuals
+2026-05-04 09:33:01  INFO      [stage4_owl_population]    Built 0 DomainOccurrence individuals
+2026-05-04 09:33:01  INFO      [stage4_owl_population]    Built 211 CoOccurrencePattern individuals
+2026-05-04 09:33:01  INFO      [stage4_owl_population]  Serialised → output\stage4_owl_population\population.ttl  (3,122 triples)
+2026-05-04 09:33:01  INFO      [stage4_owl_population]  Saved 8 rows → output\stage4_owl_population\stage4_summary.tsv
+2026-05-04 09:33:02  INFO      [stage4_owl_population]  
+2026-05-04 09:33:02  INFO      [stage4_owl_population]  ============================================================
+2026-05-04 09:33:02  INFO      [stage4_owl_population]    STAGE 4 COMPLETE
+2026-05-04 09:33:02  INFO      [stage4_owl_population]    Triples:           3,122
+2026-05-04 09:33:02  INFO      [stage4_owl_population]    Named individuals: 430
+2026-05-04 09:33:02  INFO      [stage4_owl_population]    Output:            output\stage4_owl_population\population.ttl
+2026-05-04 09:33:02  INFO      [stage4_owl_population]  ============================================================
+2026-05-04 09:34:54  INFO      [stage4_owl_population]  ==================================================================
+2026-05-04 09:34:54  INFO      [stage4_owl_population]    STAGE 4: OWL Population Builder
+2026-05-04 09:34:54  INFO      [stage4_owl_population]  ==================================================================
+2026-05-04 09:34:54  INFO      [stage4_owl_population]  Occurrence table: 269 rows, 60 proteins
+2026-05-04 09:34:54  INFO      [stage4_owl_population]  Population IRI: http://www.semanticweb.org/32045/ontologies/2026/0/camp_population
+2026-05-04 09:34:54  INFO      [stage4_owl_population]  Core namespace: http://www.semanticweb.org/32045/ontologies/2026/0/core_ontology#
+2026-05-04 09:34:54  INFO      [stage4_owl_population]  Import IRI:     http://www.semanticweb.org/32045/ontologies/2026/0/core_ontology
+2026-05-04 09:34:54  INFO      [stage4_owl_population]  CoOccurrence:   enabled
+2026-05-04 09:34:54  INFO      [stage4_owl_population]  DomainOrder:    enabled
+2026-05-04 09:34:54  INFO      [stage4_owl_population]  Building OWL graph …
+2026-05-04 09:34:54  INFO      [stage4_owl_population]    Pass 0: 60 proteins, 58 domain types
+2026-05-04 09:34:54  INFO      [stage4_owl_population]    Pass 1: metadata gathered for 58 domain types
+2026-05-04 09:34:54  INFO      [stage4_owl_population]    Built 58 DomainType individuals
+2026-05-04 09:34:54  INFO      [stage4_owl_population]    Built 0 DomainOccurrence individuals
+2026-05-04 09:34:54  INFO      [stage4_owl_population]    Built 211 CoOccurrencePattern individuals
+2026-05-04 09:34:54  INFO      [stage4_owl_population]  Serialised → output\stage4_owl_population\population.ttl  (3,122 triples)
+2026-05-04 09:34:54  INFO      [stage4_owl_population]  Saved 8 rows → output\stage4_owl_population\stage4_summary.tsv
+2026-05-04 09:34:54  INFO      [stage4_owl_population]  
+2026-05-04 09:34:54  INFO      [stage4_owl_population]  ============================================================
+2026-05-04 09:34:54  INFO      [stage4_owl_population]    STAGE 4 COMPLETE
+2026-05-04 09:34:54  INFO      [stage4_owl_population]    Triples:           3,122
+2026-05-04 09:34:54  INFO      [stage4_owl_population]    Named individuals: 430
+2026-05-04 09:34:54  INFO      [stage4_owl_population]    Output:            output\stage4_owl_population\population.ttl
+2026-05-04 09:34:54  INFO      [stage4_owl_population]  ============================================================
+2026-05-04 09:57:22  INFO      [stage4_owl_population]  ==================================================================
+2026-05-04 09:57:22  INFO      [stage4_owl_population]    STAGE 4: OWL Population Builder
+2026-05-04 09:57:22  INFO      [stage4_owl_population]  ==================================================================
+2026-05-04 09:57:22  INFO      [stage4_owl_population]  Occurrence table: 269 rows, 60 proteins
+2026-05-04 09:57:22  INFO      [stage4_owl_population]  Population IRI: http://www.semanticweb.org/32045/ontologies/2026/0/camp_population
+2026-05-04 09:57:22  INFO      [stage4_owl_population]  Core namespace: http://www.semanticweb.org/32045/ontologies/2026/0/core_ontology#
+2026-05-04 09:57:22  INFO      [stage4_owl_population]  Import IRI:     http://www.semanticweb.org/32045/ontologies/2026/0/core_ontology
+2026-05-04 09:57:22  INFO      [stage4_owl_population]  CoOccurrence:   enabled
+2026-05-04 09:57:22  INFO      [stage4_owl_population]  DomainOrder:    enabled
+2026-05-04 09:57:22  INFO      [stage4_owl_population]  Building OWL graph …
+2026-05-04 09:57:22  INFO      [stage4_owl_population]    Pass 0: 60 proteins, 58 domain types
+2026-05-04 09:57:22  INFO      [stage4_owl_population]    Pass 1: metadata gathered for 58 domain types
+2026-05-04 09:57:22  INFO      [stage4_owl_population]    Built 58 DomainType individuals
+2026-05-04 09:57:22  INFO      [stage4_owl_population]    Built 0 DomainOccurrence individuals
+2026-05-04 09:57:22  INFO      [stage4_owl_population]    Built 211 CoOccurrencePattern individuals
+2026-05-04 09:57:22  INFO      [stage4_owl_population]  Serialised → output\stage4_owl_population\population.ttl  (3,122 triples)
+2026-05-04 09:57:22  INFO      [stage4_owl_population]  Saved 8 rows → output\stage4_owl_population\stage4_summary.tsv
+2026-05-04 09:57:22  INFO      [stage4_owl_population]  
+2026-05-04 09:57:22  INFO      [stage4_owl_population]  ============================================================
+2026-05-04 09:57:22  INFO      [stage4_owl_population]    STAGE 4 COMPLETE
+2026-05-04 09:57:22  INFO      [stage4_owl_population]    Triples:           3,122
+2026-05-04 09:57:22  INFO      [stage4_owl_population]    Named individuals: 430
+2026-05-04 09:57:22  INFO      [stage4_owl_population]    Output:            output\stage4_owl_population\population.ttl
+2026-05-04 09:57:22  INFO      [stage4_owl_population]  ============================================================
+2026-05-04 10:27:09  INFO      [stage4_owl_population]  ==================================================================
+2026-05-04 10:27:09  INFO      [stage4_owl_population]    STAGE 4: OWL Population Builder
+2026-05-04 10:27:09  INFO      [stage4_owl_population]  ==================================================================
+2026-05-04 10:27:09  INFO      [stage4_owl_population]  Occurrence table: 269 rows, 60 proteins
+2026-05-04 10:27:09  INFO      [stage4_owl_population]  Population IRI: http://www.semanticweb.org/32045/ontologies/2026/0/camp_population
+2026-05-04 10:27:09  INFO      [stage4_owl_population]  Core namespace: http://www.semanticweb.org/32045/ontologies/2026/0/core_ontology#
+2026-05-04 10:27:09  INFO      [stage4_owl_population]  Import IRI:     http://www.semanticweb.org/32045/ontologies/2026/0/core_ontology
+2026-05-04 10:27:09  INFO      [stage4_owl_population]  CoOccurrence:   enabled
+2026-05-04 10:27:09  INFO      [stage4_owl_population]  DomainOrder:    enabled
+2026-05-04 10:27:09  INFO      [stage4_owl_population]  Building OWL graph …
+2026-05-04 10:27:09  INFO      [stage4_owl_population]    Pass 0: 60 proteins, 58 domain types
+2026-05-04 10:27:09  INFO      [stage4_owl_population]    Pass 1: metadata gathered for 58 domain types
+2026-05-04 10:27:09  INFO      [stage4_owl_population]    Built 58 DomainType individuals
+2026-05-04 10:27:09  INFO      [stage4_owl_population]    Built 0 DomainOccurrence individuals
+2026-05-04 10:27:09  INFO      [stage4_owl_population]    Built 211 CoOccurrencePattern individuals
+2026-05-04 10:27:09  INFO      [stage4_owl_population]  Serialised → output\stage4_owl_population\population.ttl  (3,122 triples)
+2026-05-04 10:27:09  INFO      [stage4_owl_population]  Saved 8 rows → output\stage4_owl_population\stage4_summary.tsv
+2026-05-04 10:27:09  INFO      [stage4_owl_population]  
+2026-05-04 10:27:09  INFO      [stage4_owl_population]  ============================================================
+2026-05-04 10:27:09  INFO      [stage4_owl_population]    STAGE 4 COMPLETE
+2026-05-04 10:27:09  INFO      [stage4_owl_population]    Triples:           3,122
+2026-05-04 10:27:09  INFO      [stage4_owl_population]    Named individuals: 430
+2026-05-04 10:27:09  INFO      [stage4_owl_population]    Output:            output\stage4_owl_population\population.ttl
+2026-05-04 10:27:09  INFO      [stage4_owl_population]  ============================================================
+2026-05-04 11:01:33  INFO      [stage4_owl_population]  ==================================================================
+2026-05-04 11:01:33  INFO      [stage4_owl_population]    STAGE 4: OWL Population Builder
+2026-05-04 11:01:33  INFO      [stage4_owl_population]  ==================================================================
+2026-05-04 11:01:33  INFO      [stage4_owl_population]  Occurrence table: 269 rows, 60 proteins
+2026-05-04 11:01:33  INFO      [stage4_owl_population]  Population IRI: http://www.semanticweb.org/32045/ontologies/2026/0/camp_population
+2026-05-04 11:01:33  INFO      [stage4_owl_population]  Core namespace: http://www.semanticweb.org/32045/ontologies/2026/0/core_ontology#
+2026-05-04 11:01:33  INFO      [stage4_owl_population]  Import IRI:     http://www.semanticweb.org/32045/ontologies/2026/0/core_ontology
+2026-05-04 11:01:33  INFO      [stage4_owl_population]  CoOccurrence:   enabled
+2026-05-04 11:01:33  INFO      [stage4_owl_population]  DomainOrder:    enabled
+2026-05-04 11:01:33  INFO      [stage4_owl_population]  Building OWL graph …
+2026-05-04 11:01:33  INFO      [stage4_owl_population]    Pass 0: 60 proteins, 58 domain types
+2026-05-04 11:01:33  INFO      [stage4_owl_population]    Pass 1: metadata gathered for 58 domain types
+2026-05-04 11:01:33  INFO      [stage4_owl_population]    Built 58 DomainType individuals
+2026-05-04 11:01:33  INFO      [stage4_owl_population]    Built 0 DomainOccurrence individuals
+2026-05-04 11:01:33  INFO      [stage4_owl_population]    Built 211 CoOccurrencePattern individuals
+2026-05-04 11:01:33  INFO      [stage4_owl_population]  Serialised → output\stage4_owl_population\population.ttl  (3,122 triples)
+2026-05-04 11:01:33  INFO      [stage4_owl_population]  Saved 8 rows → output\stage4_owl_population\stage4_summary.tsv
+2026-05-04 11:01:33  INFO      [stage4_owl_population]  
+2026-05-04 11:01:33  INFO      [stage4_owl_population]  ============================================================
+2026-05-04 11:01:33  INFO      [stage4_owl_population]    STAGE 4 COMPLETE
+2026-05-04 11:01:33  INFO      [stage4_owl_population]    Triples:           3,122
+2026-05-04 11:01:33  INFO      [stage4_owl_population]    Named individuals: 430
+2026-05-04 11:01:33  INFO      [stage4_owl_population]    Output:            output\stage4_owl_population\population.ttl
+2026-05-04 11:01:33  INFO      [stage4_owl_population]  ============================================================
+2026-05-04 11:49:02  INFO      [stage4_owl_population]  ==================================================================
+2026-05-04 11:49:02  INFO      [stage4_owl_population]    STAGE 4: OWL Population Builder
+2026-05-04 11:49:02  INFO      [stage4_owl_population]  ==================================================================
+2026-05-04 11:49:02  INFO      [stage4_owl_population]  Occurrence table: 269 rows, 60 proteins
+2026-05-04 11:49:02  INFO      [stage4_owl_population]  Population IRI: http://www.semanticweb.org/32045/ontologies/2026/0/camp_population
+2026-05-04 11:49:02  INFO      [stage4_owl_population]  Core namespace: http://www.semanticweb.org/32045/ontologies/2026/0/core_ontology#
+2026-05-04 11:49:02  INFO      [stage4_owl_population]  Import IRI:     http://www.semanticweb.org/32045/ontologies/2026/0/core_ontology
+2026-05-04 11:49:02  INFO      [stage4_owl_population]  CoOccurrence:   enabled
+2026-05-04 11:49:02  INFO      [stage4_owl_population]  DomainOrder:    enabled
+2026-05-04 11:49:02  INFO      [stage4_owl_population]  Building OWL graph …
+2026-05-04 11:49:02  INFO      [stage4_owl_population]    Pass 0: 60 proteins, 58 domain types
+2026-05-04 11:49:02  INFO      [stage4_owl_population]    Pass 1: metadata gathered for 58 domain types
+2026-05-04 11:49:02  INFO      [stage4_owl_population]    Built 58 DomainType individuals
+2026-05-04 11:49:02  INFO      [stage4_owl_population]    Built 0 DomainOccurrence individuals
+2026-05-04 11:49:02  INFO      [stage4_owl_population]    Built 211 CoOccurrencePattern individuals
+2026-05-04 11:49:03  INFO      [stage4_owl_population]  Serialised → output\stage4_owl_population\population.ttl  (3,122 triples)
+2026-05-04 11:49:03  INFO      [stage4_owl_population]  Saved 8 rows → output\stage4_owl_population\stage4_summary.tsv
+2026-05-04 11:49:03  INFO      [stage4_owl_population]  
+2026-05-04 11:49:03  INFO      [stage4_owl_population]  ============================================================
+2026-05-04 11:49:03  INFO      [stage4_owl_population]    STAGE 4 COMPLETE
+2026-05-04 11:49:03  INFO      [stage4_owl_population]    Triples:           3,122
+2026-05-04 11:49:03  INFO      [stage4_owl_population]    Named individuals: 430
+2026-05-04 11:49:03  INFO      [stage4_owl_population]    Output:            output\stage4_owl_population\population.ttl
+2026-05-04 11:49:03  INFO      [stage4_owl_population]  ============================================================

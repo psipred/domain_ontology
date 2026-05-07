@@ -1,0 +1,306 @@
+2026-05-03 14:35:56  INFO      [stage3_shacl]  ==================================================================
+2026-05-03 14:35:56  INFO      [stage3_shacl]    STAGE 3: SHACL Validation
+2026-05-03 14:35:56  INFO      [stage3_shacl]  ==================================================================
+2026-05-03 14:35:56  WARNING   [stage3_shacl]  instance_data.ttl not found — skipping Stage 3
+2026-05-03 14:43:04  INFO      [stage3_shacl]  ==================================================================
+2026-05-03 14:43:04  INFO      [stage3_shacl]    STAGE 3: SHACL Validation
+2026-05-03 14:43:04  INFO      [stage3_shacl]  ==================================================================
+2026-05-03 14:43:04  WARNING   [stage3_shacl]  instance_data.ttl not found — skipping Stage 3
+2026-05-03 15:34:58  INFO      [stage3_shacl]  ==================================================================
+2026-05-03 15:34:58  INFO      [stage3_shacl]    STAGE 3: SHACL Validation
+2026-05-03 15:34:58  INFO      [stage3_shacl]  ==================================================================
+2026-05-03 15:34:58  INFO      [stage3_shacl]  rdflib + pyshacl available — running full SHACL validation
+2026-05-03 15:35:06  INFO      [stage3_shacl]  pyshacl: CONFORMS
+2026-05-03 15:35:06  INFO      [stage3_shacl]  Saved 0 rows → output\stage3_shacl\shacl_violations.tsv
+2026-05-03 15:35:06  INFO      [stage3_shacl]  Saved 0 rows → output\stage3_shacl\shacl_violation_summary.tsv
+2026-05-03 15:35:06  INFO      [stage3_shacl]  Saved 5 rows → output\stage3_shacl\shacl_shape_summary.tsv
+2026-05-03 15:35:06  INFO      [stage3_shacl]    [PASS] DomainOccurrenceShape  violations=0
+2026-05-03 15:35:06  INFO      [stage3_shacl]    [PASS] DomainTypeShape  violations=0
+2026-05-03 15:35:06  INFO      [stage3_shacl]    [PASS] FunctionalTagShape  violations=0
+2026-05-03 15:35:06  INFO      [stage3_shacl]    [PASS] ProteinShape  violations=0
+2026-05-03 15:35:06  INFO      [stage3_shacl]    [PASS] ReactomePathwayShape  violations=0
+2026-05-03 15:35:06  INFO      [stage3_shacl]  Stage 3 complete — 0 violations  (5 shapes pass, 0 fail)
+2026-05-03 16:15:34  INFO      [stage3_shacl]  ==================================================================
+2026-05-03 16:15:34  INFO      [stage3_shacl]    STAGE 3: SHACL Validation
+2026-05-03 16:15:34  INFO      [stage3_shacl]  ==================================================================
+2026-05-03 16:15:34  INFO      [stage3_shacl]  rdflib + pyshacl available — running full SHACL validation
+2026-05-03 16:15:48  INFO      [stage3_shacl]  pyshacl: CONFORMS
+2026-05-03 16:15:48  INFO      [stage3_shacl]  Saved 0 rows → output\stage3_shacl\shacl_violations.tsv
+2026-05-03 16:15:48  INFO      [stage3_shacl]  Saved 0 rows → output\stage3_shacl\shacl_violation_summary.tsv
+2026-05-03 16:15:48  INFO      [stage3_shacl]  Saved 5 rows → output\stage3_shacl\shacl_shape_summary.tsv
+2026-05-03 16:15:48  INFO      [stage3_shacl]    [PASS] DomainOccurrenceShape  violations=0
+2026-05-03 16:15:48  INFO      [stage3_shacl]    [PASS] DomainTypeShape  violations=0
+2026-05-03 16:15:48  INFO      [stage3_shacl]    [PASS] FunctionalTagShape  violations=0
+2026-05-03 16:15:48  INFO      [stage3_shacl]    [PASS] ProteinShape  violations=0
+2026-05-03 16:15:48  INFO      [stage3_shacl]    [PASS] ReactomePathwayShape  violations=0
+2026-05-03 16:15:48  INFO      [stage3_shacl]  Stage 3 complete — 0 violations  (5 shapes pass, 0 fail)
+2026-05-03 16:27:20  INFO      [stage3_shacl]  ==================================================================
+2026-05-03 16:27:20  INFO      [stage3_shacl]    STAGE 3: SHACL Validation
+2026-05-03 16:27:20  INFO      [stage3_shacl]  ==================================================================
+2026-05-03 16:27:20  INFO      [stage3_shacl]  rdflib + pyshacl available — running full SHACL validation
+2026-05-03 16:27:28  INFO      [stage3_shacl]  pyshacl: CONFORMS
+2026-05-03 16:27:28  INFO      [stage3_shacl]  Saved 0 rows → output\stage3_shacl\shacl_violations.tsv
+2026-05-03 16:27:28  INFO      [stage3_shacl]  Saved 0 rows → output\stage3_shacl\shacl_violation_summary.tsv
+2026-05-03 16:27:28  INFO      [stage3_shacl]  Saved 5 rows → output\stage3_shacl\shacl_shape_summary.tsv
+2026-05-03 16:27:28  INFO      [stage3_shacl]    [PASS] DomainOccurrenceShape  violations=0
+2026-05-03 16:27:28  INFO      [stage3_shacl]    [PASS] DomainTypeShape  violations=0
+2026-05-03 16:27:28  INFO      [stage3_shacl]    [PASS] FunctionalTagShape  violations=0
+2026-05-03 16:27:28  INFO      [stage3_shacl]    [PASS] ProteinShape  violations=0
+2026-05-03 16:27:28  INFO      [stage3_shacl]    [PASS] ReactomePathwayShape  violations=0
+2026-05-03 16:27:28  INFO      [stage3_shacl]  Stage 3 complete — 0 violations  (5 shapes pass, 0 fail)
+2026-05-03 16:38:48  INFO      [stage3_shacl]  ==================================================================
+2026-05-03 16:38:48  INFO      [stage3_shacl]    STAGE 3: SHACL Validation
+2026-05-03 16:38:48  INFO      [stage3_shacl]  ==================================================================
+2026-05-03 16:38:48  INFO      [stage3_shacl]  rdflib + pyshacl available — running full SHACL validation
+2026-05-03 16:38:57  INFO      [stage3_shacl]  pyshacl: CONFORMS
+2026-05-03 16:38:57  INFO      [stage3_shacl]  Saved 0 rows → output\stage3_shacl\shacl_violations.tsv
+2026-05-03 16:38:57  INFO      [stage3_shacl]  Saved 0 rows → output\stage3_shacl\shacl_violation_summary.tsv
+2026-05-03 16:38:57  INFO      [stage3_shacl]  Saved 5 rows → output\stage3_shacl\shacl_shape_summary.tsv
+2026-05-03 16:38:57  INFO      [stage3_shacl]    [PASS] DomainOccurrenceShape  violations=0
+2026-05-03 16:38:57  INFO      [stage3_shacl]    [PASS] DomainTypeShape  violations=0
+2026-05-03 16:38:57  INFO      [stage3_shacl]    [PASS] FunctionalTagShape  violations=0
+2026-05-03 16:38:57  INFO      [stage3_shacl]    [PASS] ProteinShape  violations=0
+2026-05-03 16:38:57  INFO      [stage3_shacl]    [PASS] ReactomePathwayShape  violations=0
+2026-05-03 16:38:57  INFO      [stage3_shacl]  Stage 3 complete — 0 violations  (5 shapes pass, 0 fail)
+2026-05-03 17:14:23  INFO      [stage3_shacl]  ==================================================================
+2026-05-03 17:14:23  INFO      [stage3_shacl]    STAGE 3: SHACL Validation
+2026-05-03 17:14:23  INFO      [stage3_shacl]  ==================================================================
+2026-05-03 17:14:24  INFO      [stage3_shacl]  rdflib + pyshacl available — running full SHACL validation
+2026-05-03 17:14:31  INFO      [stage3_shacl]  pyshacl: CONFORMS
+2026-05-03 17:14:31  INFO      [stage3_shacl]  Saved 0 rows → output\stage3_shacl\shacl_violations.tsv
+2026-05-03 17:14:31  INFO      [stage3_shacl]  Saved 0 rows → output\stage3_shacl\shacl_violation_summary.tsv
+2026-05-03 17:14:31  INFO      [stage3_shacl]  Saved 5 rows → output\stage3_shacl\shacl_shape_summary.tsv
+2026-05-03 17:14:31  INFO      [stage3_shacl]    [PASS] DomainOccurrenceShape  violations=0
+2026-05-03 17:14:31  INFO      [stage3_shacl]    [PASS] DomainTypeShape  violations=0
+2026-05-03 17:14:31  INFO      [stage3_shacl]    [PASS] FunctionalTagShape  violations=0
+2026-05-03 17:14:31  INFO      [stage3_shacl]    [PASS] ProteinShape  violations=0
+2026-05-03 17:14:31  INFO      [stage3_shacl]    [PASS] ReactomePathwayShape  violations=0
+2026-05-03 17:14:31  INFO      [stage3_shacl]  Stage 3 complete — 0 violations  (5 shapes pass, 0 fail)
+2026-05-03 22:56:38  INFO      [stage3_shacl]  ==================================================================
+2026-05-03 22:56:38  INFO      [stage3_shacl]    STAGE 3: SHACL Validation
+2026-05-03 22:56:38  INFO      [stage3_shacl]  ==================================================================
+2026-05-03 22:56:38  INFO      [stage3_shacl]  rdflib + pyshacl available — running full SHACL validation
+2026-05-03 22:56:48  INFO      [stage3_shacl]  pyshacl: CONFORMS
+2026-05-03 22:56:48  INFO      [stage3_shacl]  Saved 0 rows → output\stage3_shacl\shacl_violations.tsv
+2026-05-03 22:56:49  INFO      [stage3_shacl]  Saved 0 rows → output\stage3_shacl\shacl_violation_summary.tsv
+2026-05-03 22:56:49  INFO      [stage3_shacl]  Saved 5 rows → output\stage3_shacl\shacl_shape_summary.tsv
+2026-05-03 22:56:49  INFO      [stage3_shacl]    [PASS] DomainOccurrenceShape  violations=0
+2026-05-03 22:56:49  INFO      [stage3_shacl]    [PASS] DomainTypeShape  violations=0
+2026-05-03 22:56:49  INFO      [stage3_shacl]    [PASS] FunctionalTagShape  violations=0
+2026-05-03 22:56:49  INFO      [stage3_shacl]    [PASS] ProteinShape  violations=0
+2026-05-03 22:56:49  INFO      [stage3_shacl]    [PASS] ReactomePathwayShape  violations=0
+2026-05-03 22:56:49  INFO      [stage3_shacl]  Stage 3 complete — 0 violations  (5 shapes pass, 0 fail)
+2026-05-03 23:21:38  INFO      [stage3_shacl]  ==================================================================
+2026-05-03 23:21:38  INFO      [stage3_shacl]    STAGE 3: SHACL Validation
+2026-05-03 23:21:38  INFO      [stage3_shacl]  ==================================================================
+2026-05-03 23:21:38  INFO      [stage3_shacl]  rdflib + pyshacl available — running full SHACL validation
+2026-05-03 23:21:46  INFO      [stage3_shacl]  pyshacl: CONFORMS
+2026-05-03 23:21:46  INFO      [stage3_shacl]  Saved 0 rows → output\stage3_shacl\shacl_violations.tsv
+2026-05-03 23:21:46  INFO      [stage3_shacl]  Saved 0 rows → output\stage3_shacl\shacl_violation_summary.tsv
+2026-05-03 23:21:46  INFO      [stage3_shacl]  Saved 5 rows → output\stage3_shacl\shacl_shape_summary.tsv
+2026-05-03 23:21:46  INFO      [stage3_shacl]    [PASS] DomainOccurrenceShape  violations=0
+2026-05-03 23:21:46  INFO      [stage3_shacl]    [PASS] DomainTypeShape  violations=0
+2026-05-03 23:21:46  INFO      [stage3_shacl]    [PASS] FunctionalTagShape  violations=0
+2026-05-03 23:21:46  INFO      [stage3_shacl]    [PASS] ProteinShape  violations=0
+2026-05-03 23:21:46  INFO      [stage3_shacl]    [PASS] ReactomePathwayShape  violations=0
+2026-05-03 23:21:46  INFO      [stage3_shacl]  Stage 3 complete — 0 violations  (5 shapes pass, 0 fail)
+2026-05-03 23:27:43  INFO      [stage3_shacl]  ==================================================================
+2026-05-03 23:27:43  INFO      [stage3_shacl]    STAGE 3: SHACL Validation
+2026-05-03 23:27:43  INFO      [stage3_shacl]  ==================================================================
+2026-05-03 23:27:43  INFO      [stage3_shacl]  rdflib + pyshacl available — running full SHACL validation
+2026-05-03 23:27:52  INFO      [stage3_shacl]  pyshacl: CONFORMS
+2026-05-03 23:27:52  INFO      [stage3_shacl]  Saved 0 rows → output\stage3_shacl\shacl_violations.tsv
+2026-05-03 23:27:52  INFO      [stage3_shacl]  Saved 0 rows → output\stage3_shacl\shacl_violation_summary.tsv
+2026-05-03 23:27:52  INFO      [stage3_shacl]  Saved 5 rows → output\stage3_shacl\shacl_shape_summary.tsv
+2026-05-03 23:27:52  INFO      [stage3_shacl]    [PASS] DomainOccurrenceShape  violations=0
+2026-05-03 23:27:52  INFO      [stage3_shacl]    [PASS] DomainTypeShape  violations=0
+2026-05-03 23:27:52  INFO      [stage3_shacl]    [PASS] FunctionalTagShape  violations=0
+2026-05-03 23:27:52  INFO      [stage3_shacl]    [PASS] ProteinShape  violations=0
+2026-05-03 23:27:52  INFO      [stage3_shacl]    [PASS] ReactomePathwayShape  violations=0
+2026-05-03 23:27:52  INFO      [stage3_shacl]  Stage 3 complete — 0 violations  (5 shapes pass, 0 fail)
+2026-05-03 23:33:43  INFO      [stage3_shacl]  ==================================================================
+2026-05-03 23:33:43  INFO      [stage3_shacl]    STAGE 3: SHACL Validation
+2026-05-03 23:33:43  INFO      [stage3_shacl]  ==================================================================
+2026-05-03 23:33:44  INFO      [stage3_shacl]  rdflib + pyshacl available — running full SHACL validation
+2026-05-03 23:34:01  INFO      [stage3_shacl]  pyshacl: CONFORMS
+2026-05-03 23:34:01  INFO      [stage3_shacl]  Saved 0 rows → output\stage3_shacl\shacl_violations.tsv
+2026-05-03 23:34:01  INFO      [stage3_shacl]  Saved 0 rows → output\stage3_shacl\shacl_violation_summary.tsv
+2026-05-03 23:34:01  INFO      [stage3_shacl]  Saved 5 rows → output\stage3_shacl\shacl_shape_summary.tsv
+2026-05-03 23:34:01  INFO      [stage3_shacl]    [PASS] DomainOccurrenceShape  violations=0
+2026-05-03 23:34:01  INFO      [stage3_shacl]    [PASS] DomainTypeShape  violations=0
+2026-05-03 23:34:01  INFO      [stage3_shacl]    [PASS] FunctionalTagShape  violations=0
+2026-05-03 23:34:01  INFO      [stage3_shacl]    [PASS] ProteinShape  violations=0
+2026-05-03 23:34:01  INFO      [stage3_shacl]    [PASS] ReactomePathwayShape  violations=0
+2026-05-03 23:34:01  INFO      [stage3_shacl]  Stage 3 complete — 0 violations  (5 shapes pass, 0 fail)
+2026-05-03 23:51:09  INFO      [stage3_shacl]  ==================================================================
+2026-05-03 23:51:09  INFO      [stage3_shacl]    STAGE 3: SHACL Validation
+2026-05-03 23:51:09  INFO      [stage3_shacl]  ==================================================================
+2026-05-03 23:51:09  INFO      [stage3_shacl]  rdflib + pyshacl available — running full SHACL validation
+2026-05-03 23:51:17  INFO      [stage3_shacl]  pyshacl: CONFORMS
+2026-05-03 23:51:17  INFO      [stage3_shacl]  Saved 0 rows → output\stage3_shacl\shacl_violations.tsv
+2026-05-03 23:51:17  INFO      [stage3_shacl]  Saved 0 rows → output\stage3_shacl\shacl_violation_summary.tsv
+2026-05-03 23:51:17  INFO      [stage3_shacl]  Saved 5 rows → output\stage3_shacl\shacl_shape_summary.tsv
+2026-05-03 23:51:17  INFO      [stage3_shacl]    [PASS] DomainOccurrenceShape  violations=0
+2026-05-03 23:51:17  INFO      [stage3_shacl]    [PASS] DomainTypeShape  violations=0
+2026-05-03 23:51:17  INFO      [stage3_shacl]    [PASS] FunctionalTagShape  violations=0
+2026-05-03 23:51:17  INFO      [stage3_shacl]    [PASS] ProteinShape  violations=0
+2026-05-03 23:51:17  INFO      [stage3_shacl]    [PASS] ReactomePathwayShape  violations=0
+2026-05-03 23:51:17  INFO      [stage3_shacl]  Stage 3 complete — 0 violations  (5 shapes pass, 0 fail)
+2026-05-04 00:15:13  INFO      [stage3_shacl]  ==================================================================
+2026-05-04 00:15:13  INFO      [stage3_shacl]    STAGE 3: SHACL Validation
+2026-05-04 00:15:13  INFO      [stage3_shacl]  ==================================================================
+2026-05-04 00:15:13  INFO      [stage3_shacl]  rdflib + pyshacl available — running full SHACL validation
+2026-05-04 00:15:22  INFO      [stage3_shacl]  pyshacl: CONFORMS
+2026-05-04 00:15:22  INFO      [stage3_shacl]  Saved 0 rows → output\stage3_shacl\shacl_violations.tsv
+2026-05-04 00:15:22  INFO      [stage3_shacl]  Saved 0 rows → output\stage3_shacl\shacl_violation_summary.tsv
+2026-05-04 00:15:22  INFO      [stage3_shacl]  Saved 5 rows → output\stage3_shacl\shacl_shape_summary.tsv
+2026-05-04 00:15:22  INFO      [stage3_shacl]    [PASS] DomainOccurrenceShape  violations=0
+2026-05-04 00:15:22  INFO      [stage3_shacl]    [PASS] DomainTypeShape  violations=0
+2026-05-04 00:15:22  INFO      [stage3_shacl]    [PASS] FunctionalTagShape  violations=0
+2026-05-04 00:15:22  INFO      [stage3_shacl]    [PASS] ProteinShape  violations=0
+2026-05-04 00:15:22  INFO      [stage3_shacl]    [PASS] ReactomePathwayShape  violations=0
+2026-05-04 00:15:22  INFO      [stage3_shacl]  Stage 3 complete — 0 violations  (5 shapes pass, 0 fail)
+2026-05-04 01:15:11  INFO      [stage3_shacl]  ==================================================================
+2026-05-04 01:15:11  INFO      [stage3_shacl]    STAGE 3: SHACL Validation
+2026-05-04 01:15:11  INFO      [stage3_shacl]  ==================================================================
+2026-05-04 01:15:12  INFO      [stage3_shacl]  rdflib + pyshacl available — running full SHACL validation
+2026-05-04 01:15:12  WARNING   [stage3_shacl]  pyshacl error (at line 20673 of <>:
+Bad syntax (objectList expected) at ^ in:
+"...b'021 DNA-binding" ;\n\npop:FuncCat_DOF_000025_catalytic-support'^b' a core:FunctionalCategoryContext,\n        owl:NamedIndividu'...") — falling back to pure-Python
+2026-05-04 01:15:12  INFO      [stage3_shacl]  Parsing input\camp_population.ttl …
+2026-05-04 01:15:12  INFO      [stage3_shacl]  Instance counts: 
+2026-05-04 01:15:12  INFO      [stage3_shacl]  Saved 0 rows → output\stage3_shacl\shacl_violations.tsv
+2026-05-04 01:15:12  INFO      [stage3_shacl]  Saved 0 rows → output\stage3_shacl\shacl_violation_summary.tsv
+2026-05-04 01:15:12  INFO      [stage3_shacl]  Saved 5 rows → output\stage3_shacl\shacl_shape_summary.tsv
+2026-05-04 01:15:12  INFO      [stage3_shacl]    [PASS] DomainOccurrenceShape  violations=0
+2026-05-04 01:15:12  INFO      [stage3_shacl]    [PASS] DomainTypeShape  violations=0
+2026-05-04 01:15:12  INFO      [stage3_shacl]    [PASS] FunctionalTagShape  violations=0
+2026-05-04 01:15:12  INFO      [stage3_shacl]    [PASS] ProteinShape  violations=0
+2026-05-04 01:15:12  INFO      [stage3_shacl]    [PASS] ReactomePathwayShape  violations=0
+2026-05-04 01:15:12  INFO      [stage3_shacl]  Stage 3 complete — 0 violations  (5 shapes pass, 0 fail)
+2026-05-04 02:08:25  INFO      [stage3_shacl]  ==================================================================
+2026-05-04 02:08:25  INFO      [stage3_shacl]    STAGE 3: SHACL Validation
+2026-05-04 02:08:25  INFO      [stage3_shacl]  ==================================================================
+2026-05-04 02:08:25  INFO      [stage3_shacl]  rdflib + pyshacl available — running full SHACL validation
+2026-05-04 02:08:33  INFO      [stage3_shacl]  pyshacl: CONFORMS
+2026-05-04 02:08:33  INFO      [stage3_shacl]  Saved 0 rows → output\stage3_shacl\shacl_violations.tsv
+2026-05-04 02:08:33  INFO      [stage3_shacl]  Saved 0 rows → output\stage3_shacl\shacl_violation_summary.tsv
+2026-05-04 02:08:33  INFO      [stage3_shacl]  Saved 5 rows → output\stage3_shacl\shacl_shape_summary.tsv
+2026-05-04 02:08:33  INFO      [stage3_shacl]    [PASS] DomainOccurrenceShape  violations=0
+2026-05-04 02:08:33  INFO      [stage3_shacl]    [PASS] DomainTypeShape  violations=0
+2026-05-04 02:08:33  INFO      [stage3_shacl]    [PASS] FunctionalTagShape  violations=0
+2026-05-04 02:08:33  INFO      [stage3_shacl]    [PASS] ProteinShape  violations=0
+2026-05-04 02:08:33  INFO      [stage3_shacl]    [PASS] ReactomePathwayShape  violations=0
+2026-05-04 02:08:33  INFO      [stage3_shacl]  Stage 3 complete — 0 violations  (5 shapes pass, 0 fail)
+2026-05-04 04:34:02  INFO      [stage3_shacl]  ==================================================================
+2026-05-04 04:34:02  INFO      [stage3_shacl]    STAGE 3: SHACL Validation
+2026-05-04 04:34:02  INFO      [stage3_shacl]  ==================================================================
+2026-05-04 04:34:02  INFO      [stage3_shacl]  rdflib + pyshacl available — running full SHACL validation
+2026-05-04 04:34:11  INFO      [stage3_shacl]  pyshacl: CONFORMS
+2026-05-04 04:34:11  INFO      [stage3_shacl]  Saved 0 rows → output\stage3_shacl\shacl_violations.tsv
+2026-05-04 04:34:11  INFO      [stage3_shacl]  Saved 0 rows → output\stage3_shacl\shacl_violation_summary.tsv
+2026-05-04 04:34:11  INFO      [stage3_shacl]  Saved 5 rows → output\stage3_shacl\shacl_shape_summary.tsv
+2026-05-04 04:34:11  INFO      [stage3_shacl]    [PASS] DomainOccurrenceShape  violations=0
+2026-05-04 04:34:11  INFO      [stage3_shacl]    [PASS] DomainTypeShape  violations=0
+2026-05-04 04:34:11  INFO      [stage3_shacl]    [PASS] FunctionalTagShape  violations=0
+2026-05-04 04:34:11  INFO      [stage3_shacl]    [PASS] ProteinShape  violations=0
+2026-05-04 04:34:11  INFO      [stage3_shacl]    [PASS] ReactomePathwayShape  violations=0
+2026-05-04 04:34:11  INFO      [stage3_shacl]  Stage 3 complete — 0 violations  (5 shapes pass, 0 fail)
+2026-05-04 04:41:28  INFO      [stage3_shacl]  ==================================================================
+2026-05-04 04:41:28  INFO      [stage3_shacl]    STAGE 3: SHACL Validation
+2026-05-04 04:41:28  INFO      [stage3_shacl]  ==================================================================
+2026-05-04 04:41:28  INFO      [stage3_shacl]  rdflib + pyshacl available — running full SHACL validation
+2026-05-04 04:41:37  INFO      [stage3_shacl]  pyshacl: CONFORMS
+2026-05-04 04:41:37  INFO      [stage3_shacl]  Saved 0 rows → output\stage3_shacl\shacl_violations.tsv
+2026-05-04 04:41:37  INFO      [stage3_shacl]  Saved 0 rows → output\stage3_shacl\shacl_violation_summary.tsv
+2026-05-04 04:41:37  INFO      [stage3_shacl]  Saved 5 rows → output\stage3_shacl\shacl_shape_summary.tsv
+2026-05-04 04:41:37  INFO      [stage3_shacl]    [PASS] DomainOccurrenceShape  violations=0
+2026-05-04 04:41:37  INFO      [stage3_shacl]    [PASS] DomainTypeShape  violations=0
+2026-05-04 04:41:37  INFO      [stage3_shacl]    [PASS] FunctionalTagShape  violations=0
+2026-05-04 04:41:37  INFO      [stage3_shacl]    [PASS] ProteinShape  violations=0
+2026-05-04 04:41:37  INFO      [stage3_shacl]    [PASS] ReactomePathwayShape  violations=0
+2026-05-04 04:41:37  INFO      [stage3_shacl]  Stage 3 complete — 0 violations  (5 shapes pass, 0 fail)
+2026-05-04 09:32:53  INFO      [stage3_shacl]  ==================================================================
+2026-05-04 09:32:53  INFO      [stage3_shacl]    STAGE 3: SHACL Validation
+2026-05-04 09:32:53  INFO      [stage3_shacl]  ==================================================================
+2026-05-04 09:32:53  INFO      [stage3_shacl]  rdflib + pyshacl available — running full SHACL validation
+2026-05-04 09:33:01  INFO      [stage3_shacl]  pyshacl: CONFORMS
+2026-05-04 09:33:01  INFO      [stage3_shacl]  Saved 0 rows → output\stage3_shacl\shacl_violations.tsv
+2026-05-04 09:33:01  INFO      [stage3_shacl]  Saved 0 rows → output\stage3_shacl\shacl_violation_summary.tsv
+2026-05-04 09:33:01  INFO      [stage3_shacl]  Saved 5 rows → output\stage3_shacl\shacl_shape_summary.tsv
+2026-05-04 09:33:01  INFO      [stage3_shacl]    [PASS] DomainOccurrenceShape  violations=0
+2026-05-04 09:33:01  INFO      [stage3_shacl]    [PASS] DomainTypeShape  violations=0
+2026-05-04 09:33:01  INFO      [stage3_shacl]    [PASS] FunctionalTagShape  violations=0
+2026-05-04 09:33:01  INFO      [stage3_shacl]    [PASS] ProteinShape  violations=0
+2026-05-04 09:33:01  INFO      [stage3_shacl]    [PASS] ReactomePathwayShape  violations=0
+2026-05-04 09:33:01  INFO      [stage3_shacl]  Stage 3 complete — 0 violations  (5 shapes pass, 0 fail)
+2026-05-04 09:34:49  INFO      [stage3_shacl]  ==================================================================
+2026-05-04 09:34:49  INFO      [stage3_shacl]    STAGE 3: SHACL Validation
+2026-05-04 09:34:49  INFO      [stage3_shacl]  ==================================================================
+2026-05-04 09:34:49  INFO      [stage3_shacl]  rdflib + pyshacl available — running full SHACL validation
+2026-05-04 09:34:54  INFO      [stage3_shacl]  pyshacl: CONFORMS
+2026-05-04 09:34:54  INFO      [stage3_shacl]  Saved 0 rows → output\stage3_shacl\shacl_violations.tsv
+2026-05-04 09:34:54  INFO      [stage3_shacl]  Saved 0 rows → output\stage3_shacl\shacl_violation_summary.tsv
+2026-05-04 09:34:54  INFO      [stage3_shacl]  Saved 5 rows → output\stage3_shacl\shacl_shape_summary.tsv
+2026-05-04 09:34:54  INFO      [stage3_shacl]    [PASS] DomainOccurrenceShape  violations=0
+2026-05-04 09:34:54  INFO      [stage3_shacl]    [PASS] DomainTypeShape  violations=0
+2026-05-04 09:34:54  INFO      [stage3_shacl]    [PASS] FunctionalTagShape  violations=0
+2026-05-04 09:34:54  INFO      [stage3_shacl]    [PASS] ProteinShape  violations=0
+2026-05-04 09:34:54  INFO      [stage3_shacl]    [PASS] ReactomePathwayShape  violations=0
+2026-05-04 09:34:54  INFO      [stage3_shacl]  Stage 3 complete — 0 violations  (5 shapes pass, 0 fail)
+2026-05-04 09:57:17  INFO      [stage3_shacl]  ==================================================================
+2026-05-04 09:57:17  INFO      [stage3_shacl]    STAGE 3: SHACL Validation
+2026-05-04 09:57:17  INFO      [stage3_shacl]  ==================================================================
+2026-05-04 09:57:17  INFO      [stage3_shacl]  rdflib + pyshacl available — running full SHACL validation
+2026-05-04 09:57:22  INFO      [stage3_shacl]  pyshacl: CONFORMS
+2026-05-04 09:57:22  INFO      [stage3_shacl]  Saved 0 rows → output\stage3_shacl\shacl_violations.tsv
+2026-05-04 09:57:22  INFO      [stage3_shacl]  Saved 0 rows → output\stage3_shacl\shacl_violation_summary.tsv
+2026-05-04 09:57:22  INFO      [stage3_shacl]  Saved 5 rows → output\stage3_shacl\shacl_shape_summary.tsv
+2026-05-04 09:57:22  INFO      [stage3_shacl]    [PASS] DomainOccurrenceShape  violations=0
+2026-05-04 09:57:22  INFO      [stage3_shacl]    [PASS] DomainTypeShape  violations=0
+2026-05-04 09:57:22  INFO      [stage3_shacl]    [PASS] FunctionalTagShape  violations=0
+2026-05-04 09:57:22  INFO      [stage3_shacl]    [PASS] ProteinShape  violations=0
+2026-05-04 09:57:22  INFO      [stage3_shacl]    [PASS] ReactomePathwayShape  violations=0
+2026-05-04 09:57:22  INFO      [stage3_shacl]  Stage 3 complete — 0 violations  (5 shapes pass, 0 fail)
+2026-05-04 10:27:01  INFO      [stage3_shacl]  ==================================================================
+2026-05-04 10:27:01  INFO      [stage3_shacl]    STAGE 3: SHACL Validation
+2026-05-04 10:27:01  INFO      [stage3_shacl]  ==================================================================
+2026-05-04 10:27:01  INFO      [stage3_shacl]  rdflib + pyshacl available — running full SHACL validation
+2026-05-04 10:27:09  INFO      [stage3_shacl]  pyshacl: CONFORMS
+2026-05-04 10:27:09  INFO      [stage3_shacl]  Saved 0 rows → output\stage3_shacl\shacl_violations.tsv
+2026-05-04 10:27:09  INFO      [stage3_shacl]  Saved 0 rows → output\stage3_shacl\shacl_violation_summary.tsv
+2026-05-04 10:27:09  INFO      [stage3_shacl]  Saved 5 rows → output\stage3_shacl\shacl_shape_summary.tsv
+2026-05-04 10:27:09  INFO      [stage3_shacl]    [PASS] DomainOccurrenceShape  violations=0
+2026-05-04 10:27:09  INFO      [stage3_shacl]    [PASS] DomainTypeShape  violations=0
+2026-05-04 10:27:09  INFO      [stage3_shacl]    [PASS] FunctionalTagShape  violations=0
+2026-05-04 10:27:09  INFO      [stage3_shacl]    [PASS] ProteinShape  violations=0
+2026-05-04 10:27:09  INFO      [stage3_shacl]    [PASS] ReactomePathwayShape  violations=0
+2026-05-04 10:27:09  INFO      [stage3_shacl]  Stage 3 complete — 0 violations  (5 shapes pass, 0 fail)
+2026-05-04 11:01:25  INFO      [stage3_shacl]  ==================================================================
+2026-05-04 11:01:25  INFO      [stage3_shacl]    STAGE 3: SHACL Validation
+2026-05-04 11:01:25  INFO      [stage3_shacl]  ==================================================================
+2026-05-04 11:01:25  INFO      [stage3_shacl]  rdflib + pyshacl available — running full SHACL validation
+2026-05-04 11:01:33  INFO      [stage3_shacl]  pyshacl: CONFORMS
+2026-05-04 11:01:33  INFO      [stage3_shacl]  Saved 0 rows → output\stage3_shacl\shacl_violations.tsv
+2026-05-04 11:01:33  INFO      [stage3_shacl]  Saved 0 rows → output\stage3_shacl\shacl_violation_summary.tsv
+2026-05-04 11:01:33  INFO      [stage3_shacl]  Saved 5 rows → output\stage3_shacl\shacl_shape_summary.tsv
+2026-05-04 11:01:33  INFO      [stage3_shacl]    [PASS] DomainOccurrenceShape  violations=0
+2026-05-04 11:01:33  INFO      [stage3_shacl]    [PASS] DomainTypeShape  violations=0
+2026-05-04 11:01:33  INFO      [stage3_shacl]    [PASS] FunctionalTagShape  violations=0
+2026-05-04 11:01:33  INFO      [stage3_shacl]    [PASS] ProteinShape  violations=0
+2026-05-04 11:01:33  INFO      [stage3_shacl]    [PASS] ReactomePathwayShape  violations=0
+2026-05-04 11:01:33  INFO      [stage3_shacl]  Stage 3 complete — 0 violations  (5 shapes pass, 0 fail)
+2026-05-04 11:48:55  INFO      [stage3_shacl]  ==================================================================
+2026-05-04 11:48:55  INFO      [stage3_shacl]    STAGE 3: SHACL Validation
+2026-05-04 11:48:55  INFO      [stage3_shacl]  ==================================================================
+2026-05-04 11:48:55  INFO      [stage3_shacl]  rdflib + pyshacl available — running full SHACL validation
+2026-05-04 11:49:02  INFO      [stage3_shacl]  pyshacl: CONFORMS
+2026-05-04 11:49:02  INFO      [stage3_shacl]  Saved 0 rows → output\stage3_shacl\shacl_violations.tsv
+2026-05-04 11:49:02  INFO      [stage3_shacl]  Saved 0 rows → output\stage3_shacl\shacl_violation_summary.tsv
+2026-05-04 11:49:02  INFO      [stage3_shacl]  Saved 5 rows → output\stage3_shacl\shacl_shape_summary.tsv
+2026-05-04 11:49:02  INFO      [stage3_shacl]    [PASS] DomainOccurrenceShape  violations=0
+2026-05-04 11:49:02  INFO      [stage3_shacl]    [PASS] DomainTypeShape  violations=0
+2026-05-04 11:49:02  INFO      [stage3_shacl]    [PASS] FunctionalTagShape  violations=0
+2026-05-04 11:49:02  INFO      [stage3_shacl]    [PASS] ProteinShape  violations=0
+2026-05-04 11:49:02  INFO      [stage3_shacl]    [PASS] ReactomePathwayShape  violations=0
+2026-05-04 11:49:02  INFO      [stage3_shacl]  Stage 3 complete — 0 violations  (5 shapes pass, 0 fail)

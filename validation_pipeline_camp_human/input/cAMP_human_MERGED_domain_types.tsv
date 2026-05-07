@@ -1,0 +1,510 @@
+gene	source_file	domain_type_id	status	source_db	accession	name	integrated_interpro_id	description	go_terms_all	go_terms_mf	go_terms_bp	go_terms_cc	function_tags	evidence_level
+CNGA1	cAMP_human\CNGA1_out_final\out\CNGA1_domain_types.tsv	CDD:cd00038	active	CDD	cd00038	CAP_ED	IPR000595							InterProEntry
+CALM1	cAMP_human\CALM1_out_final\out\CALM1_domain_types.tsv	CDD:cd00051	active	CDD	cd00051	EFh	IPR002048							InterProEntry
+GNAI	cAMP_human\GNAI_out_final\out\GNAI_domain_types.tsv	CDD:cd00066	active	CDD	cd00066	Alpha subunit of G proteins (guanine nucleotide binding)	IPR001019							InterProEntry
+PDE10A	cAMP_human\PDE10A_out_final\out\PDE10A_domain_types.tsv	CDD:cd00077	active	CDD	cd00077	HDc	IPR003607							InterProEntry
+RAC3	cAMP_human\RAC3_out_final\out\RAC3_domain_types.tsv	CDD:cd00130	active	CDD	cd00130	PAS	IPR000014							InterProEntry
+RAPGEF3	cAMP_human\RAPGEF3_out_final\out\RAPGEF3_domain_types.tsv	CDD:cd00155	active	CDD	cd00155	RasGEF	IPR001895							InterProEntry
+VAV1	cAMP_human\VAV1_out_final\out\VAV1_domain_types.tsv	CDD:cd00160	active	CDD	cd00160	RhoGEF	IPR000219							InterProEntry
+PLCE1	cAMP_human\PLCE1_out_final\out\PLCE1_domain_types.tsv	CDD:cd00275	active	CDD	cd00275	C2 domain present in Phosphoinositide-specific phospholipases C (PLC)								InterProEntry
+PIK3CA	cAMP_human\PIK3CA_out_final\out\PIK3CA_domain_types.tsv	CDD:cd00872	active	CDD	cd00872	PI3Ka_I								InterProEntry
+PAK1	cAMP_human\PAK1_out_final\out\PAK1_domain_types.tsv	CDD:cd01093	active	CDD	cd01093	CRIB_PAK_like	IPR033923							InterProEntry
+MAPK8	cAMP_human\MAPK8_out_final\out\MAPK8_domain_types.tsv	CDD:cd01212	active	CDD	cd01212	JNK-interacting protein-like (JIP) Phosphotyrosine-binding (PTB) domain								InterProEntry
+VAV1	cAMP_human\VAV1_out_final\out\VAV1_domain_types.tsv	CDD:cd01223	active	CDD	cd01223	Vav pleckstrin homology (PH) domain	IPR037832							InterProEntry
+AKT3	cAMP_human\AKT3_out_final\out\AKT3_domain_types.tsv	CDD:cd01241	active	CDD	cd01241	Protein Kinase B-like pleckstrin homology (PH) domain	IPR039026							InterProEntry
+ROCK1	cAMP_human\ROCK1_out_final\out\ROCK1_domain_types.tsv	CDD:cd01242	active	CDD	cd01242	Rho-associated coiled-coil containing protein kinase pleckstrin homology (PH) domain								InterProEntry
+PLD1	cAMP_human\PLD1_out_final\out\PLD1_domain_types.tsv	CDD:cd01254	active	CDD	cd01254	Phospholipase D pleckstrin homology (PH) domain								InterProEntry
+PLCE1	cAMP_human\PLCE1_out_final\out\PLCE1_domain_types.tsv	CDD:cd01780	active	CDD	cd01780	Ras-associating (RA) domain 2 found in Phosphatidylinositide-specific phospholipase C (PLC)-epsilon	IPR028398							InterProEntry
+RAC1	cAMP_human\RAC1_out_final\out\RAC1_domain_types.tsv	CDD:cd01871	active	CDD	cd01871	"Ras-related C3 botulinum toxin substrate 1 (rho family, small GTP binding protein Rac1)-like consists of Rac1, Rac2 and Rac3"								InterProEntry
+ATP2B1	cAMP_human\ATP2B1_out_final\out\ATP2B1_domain_types.tsv	CDD:cd02081	active	CDD	cd02081	"animal plasma membrane Ca2(+)-ATPases (PMCA), similar to human ATP2B1-4/PMCA1-4, and related Ca2(+)-ATPases including Saccharomyces cerevisiae vacuolar PMC1"								InterProEntry
+ATP2A3	cAMP_human\ATP2A3_out_final\out\ATP2A3_domain_types.tsv	CDD:cd02083	active	CDD	cd02083	"sarco/endoplasmic reticulum Ca(2+)-ATPase (SERCA), similar to mammalian ATP2A1-3/SERCA1-3"								InterProEntry
+CREBBP	cAMP_human\CREBBP_out_final\out\CREBBP_domain_types.tsv	CDD:cd02337	active	CDD	cd02337	ZZ_CBP								InterProEntry
+ABCC4	cAMP_human\ABCC4_out_final\out\ABCC4_domain_types.tsv	CDD:cd03244	active	CDD	cd03244	ATP-binding cassette domain 2 of multidrug resistance-associated protein								InterProEntry
+ABCC4	cAMP_human\ABCC4_out_final\out\ABCC4_domain_types.tsv	CDD:cd03250	active	CDD	cd03250	"ATP-binding cassette domain 1 of multidrug resistance-associated protein, subfamily C"								InterProEntry
+CFTR	cAMP_human\CFTR_out_final\out\CFTR_domain_types.tsv	CDD:cd03289	active	CDD	cd03289	"ATP-binding cassette domain 2 of CFTR,subfamily C"								InterProEntry
+CFTR	cAMP_human\CFTR_out_final\out\CFTR_domain_types.tsv	CDD:cd03291	active	CDD	cd03291	"ATP-binding cassette domain of the cystic fibrosis transmembrane regulator, subfamily C"	IPR047082							InterProEntry
+PRKAC	cAMP_human\PRKAC_out_final\out\PRKAC_domain_types.tsv	CDD:cd04026	active	CDD	cd04026	C2 domain in Protein Kinase C (PKC) alpha and gamma								InterProEntry
+RAP1A	cAMP_human\RAP1A_out_final\out\RAP1A_domain_types.tsv	CDD:cd04175	active	CDD	cd04175	Rap1 family GTPase consists of Rap1a and Rap1b isoforms	IPR038851							InterProEntry
+PIK3R1	cAMP_human\PIK3R1_out_final\out\PIK3R1_domain_types.tsv	CDD:cd04388	active	CDD	cd04388	RhoGAP_p85								InterProEntry
+RAPGEF3	cAMP_human\RAPGEF3_out_final\out\RAPGEF3_domain_types.tsv	CDD:cd04437	active	CDD	cd04437	DEP_Epac								InterProEntry
+PIK3CB	cAMP_human\PIK3CB_out_final\out\PIK3CB_domain_types.tsv	CDD:cd05173	active	CDD	cd05173	Catalytic domain of Class IA Phosphoinositide 3-kinase beta	IPR037702							InterProEntry
+PIK3CD	cAMP_human\PIK3CD_out_final\out\PIK3CD_domain_types.tsv	CDD:cd05174	active	CDD	cd05174	Catalytic domain of Class IA Phosphoinositide 3-kinase delta	IPR037703							InterProEntry
+PIK3CA	cAMP_human\PIK3CA_out_final\out\PIK3CA_domain_types.tsv	CDD:cd05175	active	CDD	cd05175	Catalytic domain of Class IA Phosphoinositide 3-kinase alpha	IPR037704							InterProEntry
+CREBBP	cAMP_human\CREBBP_out_final\out\CREBBP_domain_types.tsv	CDD:cd05495	active	CDD	cd05495	Bromo_cbp_like								InterProEntry
+PAK1	cAMP_human\PAK1_out_final\out\PAK1_domain_types.tsv	CDD:cd05589	active	CDD	cd05589	"Catalytic domain of the Serine/Threonine Kinase, Protein Kinase N"								InterProEntry
+AKT3	cAMP_human\AKT3_out_final\out\AKT3_domain_types.tsv	CDD:cd05593	active	CDD	cd05593	"Catalytic domain of the Serine/Threonine Kinase, Protein Kinase B gamma (also called Akt3)"	IPR034675							InterProEntry
+PRKAC	cAMP_human\PRKAC_out_final\out\PRKAC_domain_types.tsv	CDD:cd05615	active	CDD	cd05615	"Catalytic domain of the Serine/Threonine Kinase, Classical Protein Kinase C alpha"	IPR034663							InterProEntry
+ROCK2	cAMP_human\ROCK2_out_final\out\ROCK2_domain_types.tsv	CDD:cd05621	active	CDD	cd05621	"Catalytic domain of the Serine/Threonine Kinase, Rho-associated coiled-coil containing protein kinase 2"	IPR029878							InterProEntry
+ROCK1	cAMP_human\ROCK1_out_final\out\ROCK1_domain_types.tsv	CDD:cd05622	active	CDD	cd05622	"Catalytic domain of the Serine/Threonine Kinase, Rho-associated coiled-coil containing protein kinase 1"								InterProEntry
+RAPGEF3	cAMP_human\RAPGEF3_out_final\out\RAPGEF3_domain_types.tsv	CDD:cd06224	active	CDD	cd06224	REM	IPR000651							InterProEntry
+GABBR2	cAMP_human\GABBR2_out_final\out\GABBR2_domain_types.tsv	CDD:cd06366	active	CDD	cd06366	"ligand-binding domain of GABAb receptors, which are metabotropic transmembrane receptors for gamma-aminobutyric acid (GABA)"								InterProEntry
+MAP2K2	cAMP_human\MAP2K2_out_final\out\MAP2K2_domain_types.tsv	CDD:cd06649	active	CDD	cd06649	"Catalytic domain of the dual-specificity Protein Kinase, Mitogen-Activated Protein (MAP)/Extracellular signal-Regulated Kinase (ERK) Kinase 2"								InterProEntry
+MAP2K1	cAMP_human\MAP2K1_out_final\out\MAP2K1_domain_types.tsv	CDD:cd06650	active	CDD	cd06650	"Catalytic domain of the dual-specificity Protein Kinase, Mitogen-Activated Protein (MAP)/Extracellular signal-Regulated Kinase (ERK) Kinase 1"								InterProEntry
+PAK1	cAMP_human\PAK1_out_final\out\PAK1_domain_types.tsv	CDD:cd06654	active	CDD	cd06654	"Catalytic domain of the Serine/Threonine Kinase, p21-activated kinase 1"								InterProEntry
+VIP	cAMP_human\VIP_out_final\out\VIP_domain_types.tsv	CDD:cd07061	active	CDD	cd07061	Histidine phosphatase domain found in histidine acid phosphatases and phytases; contains a His residue which is phosphorylated during the reaction	IPR000560							InterProEntry
+PLD1	cAMP_human\PLD1_out_final\out\PLD1_domain_types.tsv	CDD:cd07296	active	CDD	cd07296	The phosphoinositide binding Phox Homology domain of Phospholipase D1								InterProEntry
+ADCY	cAMP_human\ADCY_out_final\out\ADCY_domain_types.tsv	CDD:cd07302	active	CDD	cd07302	cyclase homology domain	IPR001054							InterProEntry
+PPP1CA	cAMP_human\PPP1CA_out_final\out\PPP1CA_domain_types.tsv	CDD:cd07414	active	CDD	cd07414	"PP1, PPKL (PP1 and kelch-like) enzymes, and related proteins, metallophosphatase domain"								InterProEntry
+ADCY	cAMP_human\ADCY_out_final\out\ADCY_domain_types.tsv	CDD:cd07556	active	CDD	cd07556	Class III nucleotidyl cyclases								InterProEntry
+MAPK1	cAMP_human\MAPK1_out_final\out\MAPK1_domain_types.tsv	CDD:cd07849	active	CDD	cd07849	Catalytic domain of Extracellular signal-Regulated Kinase 1 and 2-like Serine/Threonine Kinases								InterProEntry
+MAPK10	cAMP_human\MAPK10_out_final\out\MAPK10_domain_types.tsv	CDD:cd07850	active	CDD	cd07850	"Catalytic domain of the Serine/Threonine Kinase, c-Jun N-terminal Kinase"								InterProEntry
+MAPK1	cAMP_human\MAPK1_out_final\out\MAPK1_domain_types.tsv	CDD:cd07852	active	CDD	cd07852	"Catalytic domain of the Serine/Threonine Kinase, Mitogen-Activated Protein Kinase 15 and similar MAPKs"								InterProEntry
+MAPK1	cAMP_human\MAPK1_out_final\out\MAPK1_domain_types.tsv	CDD:cd07877	active	CDD	cd07877	"Catalytic domain of the Serine/Threonine Kinase, p38alpha Mitogen-Activated Protein Kinase (also called MAPK14)"	IPR038784							InterProEntry
+MAPK1	cAMP_human\MAPK1_out_final\out\MAPK1_domain_types.tsv	CDD:cd07879	active	CDD	cd07879	"Catalytic domain of the Serine/Threonine Kinase, p38delta Mitogen-Activated Protein Kinase (also called MAPK13)"	IPR038785							InterProEntry
+MAPK1	cAMP_human\MAPK1_out_final\out\MAPK1_domain_types.tsv	CDD:cd07880	active	CDD	cd07880	"Catalytic domain of the Serine/Threonine Kinase, p38gamma Mitogen-Activated Protein Kinase (also called MAPK12)"	IPR038786							InterProEntry
+PIK3CA	cAMP_human\PIK3CA_out_final\out\PIK3CA_domain_types.tsv	CDD:cd08398	active	CDD	cd08398	C2 domain present in class I alpha phosphatidylinositol 3-kinases (PI3Ks)								InterProEntry
+PLCE1	cAMP_human\PLCE1_out_final\out\PLCE1_domain_types.tsv	CDD:cd08596	active	CDD	cd08596	Catalytic domain of metazoan phosphoinositide-specific phospholipase C-epsilon	IPR046973							InterProEntry
+PAK1	cAMP_human\PAK1_out_final\out\PAK1_domain_types.tsv	CDD:cd08687	active	CDD	cd08687	C2 domain in Protein kinase C-like (PKN) proteins	IPR037784							InterProEntry
+PIK3CB	cAMP_human\PIK3CB_out_final\out\PIK3CB_domain_types.tsv	CDD:cd08693	active	CDD	cd08693	C2 domain present in class I beta and delta phosphatidylinositol 3-kinases (PI3Ks)								InterProEntry
+GNAI	cAMP_human\GNAI_out_final\out\GNAI_domain_types.tsv	CDD:cd08745	active	CDD	cd08745	Regulator of G protein signaling (RGS) domain found in the RGS19 protein								InterProEntry
+PLD1	cAMP_human\PLD1_out_final\out\PLD1_domain_types.tsv	CDD:cd09842	active	CDD	cd09842	"Catalytic domain, repeat 1, of vertebrate phospholipase D1"								InterProEntry
+PLD1	cAMP_human\PLD1_out_final\out\PLD1_domain_types.tsv	CDD:cd09844	active	CDD	cd09844	"Catalytic domain, repeat 2, of vertebrate phospholipase D1"								InterProEntry
+PLD2	cAMP_human\PLD2_out_final\out\PLD2_domain_types.tsv	CDD:cd09845	active	CDD	cd09845	"Catalytic domain, repeat 2, of vertebrate phospholipase D2"								InterProEntry
+PIK3R1	cAMP_human\PIK3R1_out_final\out\PIK3R1_domain_types.tsv	CDD:cd09930	active	CDD	cd09930	C-terminal Src homology 2 (cSH2) domain found in p85	IPR035020							InterProEntry
+PIK3R1	cAMP_human\PIK3R1_out_final\out\PIK3R1_domain_types.tsv	CDD:cd09942	active	CDD	cd09942	N-terminal Src homology 2 (nSH2) domain found in p85	IPR035022							InterProEntry
+VAV1	cAMP_human\VAV1_out_final\out\VAV1_domain_types.tsv	CDD:cd10405	active	CDD	cd10405	Src homology 2 (SH2) domain found in the Vav1 proteins	IPR035879							InterProEntry
+VAV2	cAMP_human\VAV2_out_final\out\VAV2_domain_types.tsv	CDD:cd10406	active	CDD	cd10406	Src homology 2 (SH2) domain found in the Vav2 proteins	IPR035880							InterProEntry
+VAV3	cAMP_human\VAV3_out_final\out\VAV3_domain_types.tsv	CDD:cd10407	active	CDD	cd10407	Src homology 2 (SH2) domain found in the Vav3 proteins	IPR035881							InterProEntry
+PAK1	cAMP_human\PAK1_out_final\out\PAK1_domain_types.tsv	CDD:cd11622	active	CDD	cd11622	First Protein kinase C-related kinase homology region 1 (HR1) Rho-binding domain of Protein Kinase N	IPR037313							InterProEntry
+PAK1	cAMP_human\PAK1_out_final\out\PAK1_domain_types.tsv	CDD:cd11630	active	CDD	cd11630	Second Protein kinase C-related kinase homology region 1 (HR1) Rho-binding domain of Protein Kinase N1	IPR037317							InterProEntry
+PAK1	cAMP_human\PAK1_out_final\out\PAK1_domain_types.tsv	CDD:cd11636	active	CDD	cd11636	Third Protein kinase C-related kinase homology region 1 (HR1) Rho-binding domain of Protein Kinase N1								InterProEntry
+ROCK2	cAMP_human\ROCK2_out_final\out\ROCK2_domain_types.tsv	CDD:cd11638	active	CDD	cd11638	Protein kinase C-related kinase homology region 1 (HR1) Rho-binding domain of Rho-associated coiled-coil containing protein kinase 2	IPR037311							InterProEntry
+ROCK1	cAMP_human\ROCK1_out_final\out\ROCK1_domain_types.tsv	CDD:cd11639	active	CDD	cd11639	Protein kinase C-related kinase homology region 1 (HR1) Rho-binding domain of Rho-associated coiled-coil containing protein kinase 1	IPR037310							InterProEntry
+PIK3R2	cAMP_human\PIK3R2_out_final\out\PIK3R2_domain_types.tsv	CDD:cd11909	active	CDD	cd11909	Src Homology 3 domain of the p85beta regulatory subunit of Class IA Phosphatidylinositol 3-kinases	IPR035586							InterProEntry
+PIK3R1	cAMP_human\PIK3R1_out_final\out\PIK3R1_domain_types.tsv	CDD:cd11910	active	CDD	cd11910	Src Homology 3 domain of the p85alpha regulatory subunit of Class IA Phosphatidylinositol 3-kinases	IPR035591							InterProEntry
+MAPK8	cAMP_human\MAPK8_out_final\out\MAPK8_domain_types.tsv	CDD:cd11942	active	CDD	cd11942	Src homology 3 domain of JNK-interacting protein 2	IPR035637							InterProEntry
+MAPK8	cAMP_human\MAPK8_out_final\out\MAPK8_domain_types.tsv	CDD:cd11943	active	CDD	cd11943	Src homology 3 domain of JNK-interacting protein 1	IPR035638							InterProEntry
+VAV1	cAMP_human\VAV1_out_final\out\VAV1_domain_types.tsv	CDD:cd11976	active	CDD	cd11976	C-terminal (or second) Src homology 3 domain of VAV1 protein	IPR035729							InterProEntry
+VAV2	cAMP_human\VAV2_out_final\out\VAV2_domain_types.tsv	CDD:cd11977	active	CDD	cd11977	C-terminal (or second) Src homology 3 domain of VAV2 protein	IPR035732							InterProEntry
+VAV3	cAMP_human\VAV3_out_final\out\VAV3_domain_types.tsv	CDD:cd11978	active	CDD	cd11978	C-terminal (or second) Src homology 3 domain of VAV3 protein	IPR035734							InterProEntry
+VAV1	cAMP_human\VAV1_out_final\out\VAV1_domain_types.tsv	CDD:cd11979	active	CDD	cd11979	First Src homology 3 domain of VAV1 protein	IPR035730							InterProEntry
+VAV2	cAMP_human\VAV2_out_final\out\VAV2_domain_types.tsv	CDD:cd11980	active	CDD	cd11980	First Src homology 3 domain of VAV2 protein	IPR035733							InterProEntry
+VAV3	cAMP_human\VAV3_out_final\out\VAV3_domain_types.tsv	CDD:cd11981	active	CDD	cd11981	First Src homology 3 domain of VAV3 protein	IPR047015							InterProEntry
+RYR2	cAMP_human\RYR2_out_final\out\RYR2_domain_types.tsv	CDD:cd12877	active	CDD	cd12877	SPRY domain 1 (SPRY1) of ryanodine receptor (RyR)	IPR035761							InterProEntry
+RYR2	cAMP_human\RYR2_out_final\out\RYR2_domain_types.tsv	CDD:cd12878	active	CDD	cd12878	SPRY domain 2 (SPRY2) of ryanodine receptor (RyR)	IPR035764							InterProEntry
+RYR2	cAMP_human\RYR2_out_final\out\RYR2_domain_types.tsv	CDD:cd12879	active	CDD	cd12879	SPRY domain 3 (SPRY3) of ryanodine receptor (RyR)	IPR035762							InterProEntry
+PIK3R1	cAMP_human\PIK3R1_out_final\out\PIK3R1_domain_types.tsv	CDD:cd12924	active	CDD	cd12924	"Inter-Src homology 2 (iSH2) helical domain of Class IA Phosphoinositide 3-kinase Regulatory subunit 1, PIK3R1, also called p85alpha"	IPR044124							InterProEntry
+PIK3R2	cAMP_human\PIK3R2_out_final\out\PIK3R2_domain_types.tsv	CDD:cd12926	active	CDD	cd12926	"Inter-Src homology 2 (iSH2) helical domain of Class IA Phosphoinositide 3-kinase Regulatory subunit 2, PIK3R2, also called p85beta"								InterProEntry
+CAMK4	cAMP_human\CAMK4_out_final\out\CAMK4_domain_types.tsv	CDD:cd14085	active	CDD	cd14085	"Catalytic domain of the Serine/Threonine kinase, Calcium/calmodulin-dependent protein kinase Type IV"								InterProEntry
+RAF1	cAMP_human\RAF1_out_final\out\RAF1_domain_types.tsv	CDD:cd14149	active	CDD	cd14149	"Catalytic domain of the Serine/Threonine Kinase, C-Raf (Rapidly Accelerated Fibrosarcoma) kinase"								InterProEntry
+PRKAC	cAMP_human\PRKAC_out_final\out\PRKAC_domain_types.tsv	CDD:cd14209	active	CDD	cd14209	"Catalytic subunit of the Serine/Threonine Kinase, cAMP-dependent protein kinase"	IPR044109							InterProEntry
+CREB5	cAMP_human\CREB5_out_final\out\CREB5_domain_types.tsv	CDD:cd14687	active	CDD	cd14687	Basic leucine zipper (bZIP) domain of Activating Transcription Factor-2 (ATF-2) and similar proteins: a DNA-binding and dimerization domain								InterProEntry
+CREB3	cAMP_human\CREB3_out_final\out\CREB3_domain_types.tsv	CDD:cd14689	active	CDD	cd14689	Basic leucine zipper (bZIP) domain of Cyclic AMP-responsive element-binding protein 3 (CREB3) and similar proteins: a DNA-binding and dimerization domain								InterProEntry
+CREB1	cAMP_human\CREB1_out_final\out\CREB1_domain_types.tsv	CDD:cd14690	active	CDD	cd14690	Basic leucine zipper (bZIP) domain of Cyclic AMP-responsive element-binding protein 1 (CREB1) and similar proteins: a DNA-binding and dimerization domain								InterProEntry
+ADORA2A	cAMP_human\ADORA2A_out_final\out\ADORA2A_domain_types.tsv	CDD:cd15068	active	CDD	cd15068	"adenosine receptor subtype A2A, member of the class A family of seven-transmembrane G protein-coupled receptors"								InterProEntry
+ADORA1	cAMP_human\ADORA1_out_final\out\ADORA1_domain_types.tsv	CDD:cd15071	active	CDD	cd15071	"adenosine receptor subtype A1, member of the class A family of seven-transmembrane G protein-coupled receptors"								InterProEntry
+GPR119	cAMP_human\GPR119_out_final\out\GPR119_domain_types.tsv	CDD:cd15104	active	CDD	cd15104	"G protein-coupled receptor 119, also called glucose-dependent insulinotropic receptor, member of the class A family of seven-transmembrane G protein-coupled receptors"	IPR028336							InterProEntry
+PTGER2	cAMP_human\PTGER2_out_final\out\PTGER2_domain_types.tsv	CDD:cd15139	active	CDD	cd15139	"prostaglandin E2 receptor EP2 subtype, member of the class A family of seven-transmembrane G protein-coupled receptors"								InterProEntry
+PTGER2	cAMP_human\PTGER2_out_final\out\PTGER2_domain_types.tsv	CDD:cd15142	active	CDD	cd15142	"prostaglandin E2 receptor EP4 subtype, member of the class A family of seven-transmembrane G protein-coupled receptors"								InterProEntry
+FFAR2	cAMP_human\FFAR2_out_final\out\FFAR2_domain_types.tsv	CDD:cd15170	active	CDD	cd15170	"free fatty acid receptors 2, 3, and similar proteins, member of the class A family of seven-transmembrane G protein-coupled receptors"								InterProEntry
+HCAR1	cAMP_human\HCAR1_out_final\out\HCAR1_domain_types.tsv	CDD:cd15201	active	CDD	cd15201	"hydroxycarboxylic acid receptors, member of the class A family of seven-transmembrane G protein-coupled receptors"								InterProEntry
+GABBR2	cAMP_human\GABBR2_out_final\out\GABBR2_domain_types.tsv	CDD:cd15294	active	CDD	cd15294	"gamma-aminobutyric acid type B receptor subunit 2, member of the class C family of seven-transmembrane G protein-coupled receptors"								InterProEntry
+CHRM2	cAMP_human\CHRM2_out_final\out\CHRM2_domain_types.tsv	CDD:cd15297	active	CDD	cd15297	"muscarinic acetylcholine receptor subtype M2, member of the class A family of seven-transmembrane G protein-coupled receptors"								InterProEntry
+DRD2	cAMP_human\DRD2_out_final\out\DRD2_domain_types.tsv	CDD:cd15309	active	CDD	cd15309	"D2 subtype of the D2-like family of dopamine receptors, member of the class A family of seven-transmembrane G protein-coupled receptors"								InterProEntry
+DRD1	cAMP_human\DRD1_out_final\out\DRD1_domain_types.tsv	CDD:cd15320	active	CDD	cd15320	"D1A (or D1) subtype dopamine receptor, member of the class A family of seven-transmembrane G protein-coupled receptors"								InterProEntry
+ADRB2	cAMP_human\ADRB2_out_final\out\ADRB2_domain_types.tsv	CDD:cd15330	active	CDD	cd15330	"serotonin receptor subtype 1A from vertebrates, member of the class A family of seven-transmembrane G protein-coupled receptors"								InterProEntry
+SUCNR1	cAMP_human\SUCNR1_out_final\out\SUCNR1_domain_types.tsv	CDD:cd15378	active	CDD	cd15378	"succinate receptor 1, member of the class A family of seven-transmembrane G protein-coupled receptors"								InterProEntry
+OXT	cAMP_human\OXT_out_final\out\OXT_domain_types.tsv	CDD:cd15387	active	CDD	cd15387	"oxytocin receptor, member of the class A family of seven-transmembrane G protein-coupled receptors"	IPR002062							InterProEntry
+NPY1R	cAMP_human\NPY1R_out_final\out\NPY1R_domain_types.tsv	CDD:cd15395	active	CDD	cd15395	"neuropeptide Y receptor type 1, member of the class A family of seven-transmembrane G protein-coupled receptors"								InterProEntry
+CRH	cAMP_human\CRH_out_final\out\CRH_domain_types.tsv	CDD:cd15445	active	CDD	cd15445	"corticotropin-releasing factor receptor 1, member of the class B family of seven-transmembrane G protein-coupled receptors"								InterProEntry
+CRH	cAMP_human\CRH_out_final\out\CRH_domain_types.tsv	CDD:cd15446	active	CDD	cd15446	"corticotropin-releasing factor receptor 2, member of the class B family of seven-transmembrane G protein-coupled receptors"								InterProEntry
+CREBBP	cAMP_human\CREBBP_out_final\out\CREBBP_domain_types.tsv	CDD:cd15557	active	CDD	cd15557	PHD finger found in CREB-binding protein (CBP) and histone acetyltransferase p300								InterProEntry
+EP300	cAMP_human\EP300_out_final\out\EP300_domain_types.tsv	CDD:cd15646	active	CDD	cd15646	PHD finger found in histone acetyltransferase p300								InterProEntry
+CREBBP	cAMP_human\CREBBP_out_final\out\CREBBP_domain_types.tsv	CDD:cd15802	active	CDD	cd15802	atypical RING domain found in CREB-binding protein and p300 histone acetyltransferases	IPR010303							InterProEntry
+GIPR	cAMP_human\GIPR_out_final\out\GIPR_domain_types.tsv	CDD:cd15929	active	CDD	cd15929	"glucagon receptor-like subfamily, member of the class B family of seven-transmembrane G protein-coupled receptors"								InterProEntry
+ADRB2	cAMP_human\ADRB2_out_final\out\ADRB2_domain_types.tsv	CDD:cd15957	active	CDD	cd15957	"beta-2 adrenergic receptors (adrenoceptors), member of the class A family of seven-transmembrane G protein-coupled receptors"	IPR000332							InterProEntry
+ADRB1	cAMP_human\ADRB1_out_final\out\ADRB1_domain_types.tsv	CDD:cd15958	active	CDD	cd15958	"beta-1 adrenergic receptors (adrenoceptors), member of the class A family of seven-transmembrane G protein-coupled receptors"								InterProEntry
+SSTR1	cAMP_human\SSTR1_out_final\out\SSTR1_domain_types.tsv	CDD:cd15970	active	CDD	cd15970	"somatostatin receptor type 1, member of the class A family of seven-transmembrane G protein-coupled receptors"								InterProEntry
+SSTR2	cAMP_human\SSTR2_out_final\out\SSTR2_domain_types.tsv	CDD:cd15971	active	CDD	cd15971	"somatostatin receptor type 2, member of the class A family of seven-transmembrane G protein-coupled receptors"								InterProEntry
+SSTR5	cAMP_human\SSTR5_out_final\out\SSTR5_domain_types.tsv	CDD:cd15974	active	CDD	cd15974	"somatostatin receptor type 5, member of the class A family of seven-transmembrane G protein-coupled receptors"								InterProEntry
+EDNRA	cAMP_human\EDNRA_out_final\out\EDNRA_domain_types.tsv	CDD:cd15975	active	CDD	cd15975	"endothelin A (or endothelin-1) receptor, member of the class A family of seven-transmembrane G protein-coupled receptors"								InterProEntry
+VIP	cAMP_human\VIP_out_final\out\VIP_domain_types.tsv	CDD:cd15986	active	CDD	cd15986	"vasoactive intestinal polypeptide (VIP) receptor 2, member of the class B family of seven-transmembrane G protein-coupled receptors"	IPR047035							InterProEntry
+ADCY	cAMP_human\ADCY_out_final\out\ADCY_domain_types.tsv	CDD:cd15987	active	CDD	cd15987	"pituitary adenylate cyclase-activating polypeptide type 1 receptor, member of the class B family of seven-transmembrane G protein-coupled receptors"								InterProEntry
+PLCE1	cAMP_human\PLCE1_out_final\out\PLCE1_domain_types.tsv	CDD:cd16203	active	CDD	cd16203	EF-hand motif found in phosphoinositide phospholipase C epsilon 1 (PI-PLC-epsilon1)	IPR046974							InterProEntry
+RAF1	cAMP_human\RAF1_out_final\out\RAF1_domain_types.tsv	CDD:cd17135	active	CDD	cd17135	Ras-binding domain (RBD) found in RAF proto-oncogene serine/threonine-protein kinase RAF1/CRAF								InterProEntry
+PLCE1	cAMP_human\PLCE1_out_final\out\PLCE1_domain_types.tsv	CDD:cd17229	active	CDD	cd17229	Ras-associating (RA) domain 1 found in Phosphatidylinositide-specific phospholipase C (PLC)-epsilon								InterProEntry
+CHRM1	cAMP_human\CHRM1_out_final\out\CHRM1_domain_types.tsv	CDD:cd17790	active	CDD	cd17790	"muscarinic acetylcholine receptor subtype M1, member of the class A family of seven-transmembrane G protein-coupled receptors"	IPR002228							InterProEntry
+ABCC4	cAMP_human\ABCC4_out_final\out\ABCC4_domain_types.tsv	CDD:cd18593	active	CDD	cd18593	Six-transmembrane helical domain 1 (TMD1) of multidrug resistance-associated protein 4 (MRP4) and similar proteins	IPR030240							InterProEntry
+CFTR	cAMP_human\CFTR_out_final\out\CFTR_domain_types.tsv	CDD:cd18594	active	CDD	cd18594	Six-transmembrane helical domain 1 of Cystic Fibrosis Transmembrane Conductance Regulator								InterProEntry
+CFTR	cAMP_human\CFTR_out_final\out\CFTR_domain_types.tsv	CDD:cd18600	active	CDD	cd18600	Six-transmembrane helical domain 2 of Cystic Fibrosis Transmembrane Conductance Regulator								InterProEntry
+ABCC4	cAMP_human\ABCC4_out_final\out\ABCC4_domain_types.tsv	CDD:cd18601	active	CDD	cd18601	Six-transmembrane helical domain 2 (TMD2) of multidrug resistance-associated protein 4 (MRP4) and similar proteins	IPR047083							InterProEntry
+RAC3	cAMP_human\RAC3_out_final\out\RAC3_domain_types.tsv	CDD:cd18949	active	CDD	cd18949	basic helix-loop-helix-Per-ARNT-Sim (bHLH-PAS) domain found in nuclear receptor coactivator 3 (NCoA-3) and similar proteins	IPR056194							InterProEntry
+PLN	cAMP_human\PLN_out_final\out\PLN_domain_types.tsv	CDD:cd20250	active	CDD	cd20250	Phospholamban bioactive peptide and similar proteins	IPR005984							InterProEntry
+FXYD1	cAMP_human\FXYD1_out_final\out\FXYD1_domain_types.tsv	CDD:cd20317	active	CDD	cd20317	FXYD domain-containing ion transport regulator 1	IPR047281							InterProEntry
+PRKAC	cAMP_human\PRKAC_out_final\out\PRKAC_domain_types.tsv	CDD:cd20833	active	CDD	cd20833	first protein kinase C conserved region 1 (C1 domain) found in the classical (or conventional) protein kinase C (cPKC) family								InterProEntry
+PRKAC	cAMP_human\PRKAC_out_final\out\PRKAC_domain_types.tsv	CDD:cd20836	active	CDD	cd20836	second protein kinase C conserved region 1 (C1 domain) found in the classical (or conventional) protein kinase C (cPKC) family								InterProEntry
+VAV1	cAMP_human\VAV1_out_final\out\VAV1_domain_types.tsv	CDD:cd20867	active	CDD	cd20867	protein kinase C conserved region 1 (C1 domain) found in VAV1 protein								InterProEntry
+VAV2	cAMP_human\VAV2_out_final\out\VAV2_domain_types.tsv	CDD:cd20868	active	CDD	cd20868	protein kinase C conserved region 1 (C1 domain) found in VAV2 protein								InterProEntry
+VAV3	cAMP_human\VAV3_out_final\out\VAV3_domain_types.tsv	CDD:cd20869	active	CDD	cd20869	protein kinase C conserved region 1 (C1 domain) found in VAV3 protein								InterProEntry
+RAF1	cAMP_human\RAF1_out_final\out\RAF1_domain_types.tsv	CDD:cd20870	active	CDD	cd20870	"protein kinase C conserved region 1 (C1 domain) found in A- and C-Raf (Rapidly Accelerated Fibrosarcoma) kinases, and similar proteins"								InterProEntry
+ROCK1	cAMP_human\ROCK1_out_final\out\ROCK1_domain_types.tsv	CDD:cd20874	active	CDD	cd20874	protein kinase C conserved region 1 (C1 domain) found in Rho-associated coiled-coil containing protein kinase 1 (ROCK1) and similar proteins								InterProEntry
+ROCK2	cAMP_human\ROCK2_out_final\out\ROCK2_domain_types.tsv	CDD:cd20875	active	CDD	cd20875	protein kinase C conserved region 1 (C1 domain) found in Rho-associated coiled-coil containing protein kinase 2 (ROCK2) and similar proteins								InterProEntry
+CREBBP	cAMP_human\CREBBP_out_final\out\CREBBP_domain_types.tsv	CDD:cd20910	active	CDD	cd20910	"Nuclear Coactivator Binding Domain (NCBD) of CREB (cyclic AMP response element binding protein) binding protein (CREBBP, also known as CBP) and its paralog p300"								InterProEntry
+VAV1	cAMP_human\VAV1_out_final\out\VAV1_domain_types.tsv	CDD:cd21262	active	CDD	cd21262	calponin homology (CH) domain found in VAV1 protein								InterProEntry
+VAV2	cAMP_human\VAV2_out_final\out\VAV2_domain_types.tsv	CDD:cd21263	active	CDD	cd21263	calponin homology (CH) domain found in VAV2 protein and similar proteins								InterProEntry
+VAV3	cAMP_human\VAV3_out_final\out\VAV3_domain_types.tsv	CDD:cd21264	active	CDD	cd21264	calponin homology (CH) domain found in VAV3 protein and similar proteins								InterProEntry
+GNAS	cAMP_human\GNAS_out_final\out\GNAS_domain_types.tsv	CDD:cd22249	active	CDD	cd22249	"UDM1 (ubiquitin-dependent DSB recruitment module 1) found in RING finger proteins RNF168, RNF169 and similar proteins"								InterProEntry
+ROCK1	cAMP_human\ROCK1_out_final\out\ROCK1_domain_types.tsv	CDD:cd22250	active	CDD	cd22250	Shroom-binding domain found in Rho-associated coiled-coil containing protein kinase								InterProEntry
+RYR2	cAMP_human\RYR2_out_final\out\RYR2_domain_types.tsv	CDD:cd23291	active	CDD	cd23291	"MIR domain, beta-trefoil fold, found in ryanodine receptor 2 (RyR2) and similar proteins"								InterProEntry
+PAK1	cAMP_human\PAK1_out_final\out\PAK1_domain_types.tsv	INTERPRO:IPR000008	active	INTERPRO	IPR000008	C2 domain								InterProEntry
+RAC3	cAMP_human\RAC3_out_final\out\RAC3_domain_types.tsv	INTERPRO:IPR000014	active	INTERPRO	IPR000014	PAS domain								InterProEntry
+PAK1	cAMP_human\PAK1_out_final\out\PAK1_domain_types.tsv	INTERPRO:IPR000095	active	INTERPRO	IPR000095	CRIB domain								InterProEntry
+PLCE1	cAMP_human\PLCE1_out_final\out\PLCE1_domain_types.tsv	INTERPRO:IPR000159	active	INTERPRO	IPR000159	Ras-associating domain			GO:0007165		GO:0007165			InterProEntry
+CRH	cAMP_human\CRH_out_final\out\CRH_domain_types.tsv	INTERPRO:IPR000187	active	INTERPRO	IPR000187	Corticotropin-releasing factor			GO:0005179;GO:0005576	GO:0005179		GO:0005576	DOF:000014 regulator	InterProEntry
+CREBBP	cAMP_human\CREBBP_out_final\out\CREBBP_domain_types.tsv	INTERPRO:IPR000197	active	INTERPRO	IPR000197	"Zinc finger, TAZ-type"								InterProEntry
+PIK3R1	cAMP_human\PIK3R1_out_final\out\PIK3R1_domain_types.tsv	INTERPRO:IPR000198	active	INTERPRO	IPR000198	Rho GTPase-activating protein domain			GO:0007165		GO:0007165			InterProEntry
+VAV1	cAMP_human\VAV1_out_final\out\VAV1_domain_types.tsv	INTERPRO:IPR000219	active	INTERPRO	IPR000219	Dbl homology domain			GO:0005085	GO:0005085			DOF:000014 regulator	InterProEntry
+PIK3CA	cAMP_human\PIK3CA_out_final\out\PIK3CA_domain_types.tsv	INTERPRO:IPR000341	active	INTERPRO	IPR000341	Phosphatidylinositol 3-kinase Ras-binding (PI3K RBD) domain								InterProEntry
+PIK3CA	cAMP_human\PIK3CA_out_final\out\PIK3CA_domain_types.tsv	INTERPRO:IPR000403	active	INTERPRO	IPR000403	"Phosphatidylinositol 3-/4-kinase, catalytic domain"								InterProEntry
+CREBBP	cAMP_human\CREBBP_out_final\out\CREBBP_domain_types.tsv	INTERPRO:IPR000433	active	INTERPRO	IPR000433	"Zinc finger, ZZ-type"			GO:0008270	GO:0008270			DOF:000009 Binding	InterProEntry
+ADCY	cAMP_human\ADCY_out_final\out\ADCY_domain_types.tsv	INTERPRO:IPR000532	active	INTERPRO	IPR000532	Glucagon/GIP/secretin/VIP			GO:0005179;GO:0005576	GO:0005179		GO:0005576	DOF:000014 regulator	InterProEntry
+RAPGEF3	cAMP_human\RAPGEF3_out_final\out\RAPGEF3_domain_types.tsv	INTERPRO:IPR000591	active	INTERPRO	IPR000591	DEP domain			GO:0035556		GO:0035556			InterProEntry
+CNGA1	cAMP_human\CNGA1_out_final\out\CNGA1_domain_types.tsv	INTERPRO:IPR000595	active	INTERPRO	IPR000595	Cyclic nucleotide-binding domain								InterProEntry
+RAPGEF3	cAMP_human\RAPGEF3_out_final\out\RAPGEF3_domain_types.tsv	INTERPRO:IPR000651	active	INTERPRO	IPR000651	"Ras-like guanine nucleotide exchange factor, N-terminal"								InterProEntry
+RYR2	cAMP_human\RYR2_out_final\out\RYR2_domain_types.tsv	INTERPRO:IPR000699	active	INTERPRO	IPR000699	RIH domain			GO:0005262;GO:0070588;GO:0016020	GO:0005262	GO:0070588	GO:0016020	DOF:000013 transporter	InterProEntry
+AKT3	cAMP_human\AKT3_out_final\out\AKT3_domain_types.tsv	INTERPRO:IPR000719	active	INTERPRO	IPR000719	Protein kinase domain			GO:0004672;GO:0005524;GO:0006468	GO:0004672;GO:0005524	GO:0006468		DOF:000010 catalytic;DOF:000009 Binding	InterProEntry
+PLCE1	cAMP_human\PLCE1_out_final\out\PLCE1_domain_types.tsv	INTERPRO:IPR000909	active	INTERPRO	IPR000909	"Phosphatidylinositol-specific phospholipase C, X domain"								InterProEntry
+AKT3	cAMP_human\AKT3_out_final\out\AKT3_domain_types.tsv	INTERPRO:IPR000961	active	INTERPRO	IPR000961	"AGC-kinase, C-terminal"			GO:0004674;GO:0005524;GO:0006468	GO:0004674;GO:0005524	GO:0006468		DOF:000009 Binding;DOF:000010 catalytic	InterProEntry
+PIK3R1	cAMP_human\PIK3R1_out_final\out\PIK3R1_domain_types.tsv	INTERPRO:IPR000980	active	INTERPRO	IPR000980	SH2 domain								InterProEntry
+ADCY	cAMP_human\ADCY_out_final\out\ADCY_domain_types.tsv	INTERPRO:IPR001054	active	INTERPRO	IPR001054	Adenylyl cyclase class-3/4/guanylyl cyclase			GO:0009190;GO:0035556		GO:0009190;GO:0035556			InterProEntry
+RAF1	cAMP_human\RAF1_out_final\out\RAF1_domain_types.tsv	INTERPRO:IPR001245	active	INTERPRO	IPR001245	"Serine-threonine/tyrosine-protein kinase, catalytic domain"			GO:0004672;GO:0006468	GO:0004672	GO:0006468		DOF:000010 catalytic	InterProEntry
+PIK3CA	cAMP_human\PIK3CA_out_final\out\PIK3CA_domain_types.tsv	INTERPRO:IPR001263	active	INTERPRO	IPR001263	"Phosphoinositide 3-kinase, accessory (PIK) domain"								InterProEntry
+MAPK8	cAMP_human\MAPK8_out_final\out\MAPK8_domain_types.tsv	INTERPRO:IPR001452	active	INTERPRO	IPR001452	SH3 domain			GO:0005515	GO:0005515			DOF:000009 Binding	InterProEntry
+CREBBP	cAMP_human\CREBBP_out_final\out\CREBBP_domain_types.tsv	INTERPRO:IPR001487	active	INTERPRO	IPR001487	Bromodomain			GO:0005515	GO:0005515			DOF:000009 Binding	InterProEntry
+PLD1	cAMP_human\PLD1_out_final\out\PLD1_domain_types.tsv	INTERPRO:IPR001683	active	INTERPRO	IPR001683	Phox homology			GO:0035091	GO:0035091			DOF:000009 Binding	InterProEntry
+PLCE1	cAMP_human\PLCE1_out_final\out\PLCE1_domain_types.tsv	INTERPRO:IPR001711	active	INTERPRO	IPR001711	"Phospholipase C, phosphatidylinositol-specific, Y domain"			GO:0004435;GO:0006629;GO:0007165;GO:0035556	GO:0004435	GO:0006629;GO:0007165;GO:0035556		DOF:000010 catalytic	InterProEntry
+VAV1	cAMP_human\VAV1_out_final\out\VAV1_domain_types.tsv	INTERPRO:IPR001715	active	INTERPRO	IPR001715	Calponin homology domain			GO:0005515	GO:0005515			DOF:000009 Binding	InterProEntry
+PLD1	cAMP_human\PLD1_out_final\out\PLD1_domain_types.tsv	INTERPRO:IPR001736	active	INTERPRO	IPR001736	Phospholipase D/Transphosphatidylase			GO:0003824	GO:0003824			DOF:000010 catalytic	InterProEntry
+GABBR2	cAMP_human\GABBR2_out_final\out\GABBR2_domain_types.tsv	INTERPRO:IPR001828	active	INTERPRO	IPR001828	"Receptor, ligand binding region"								InterProEntry
+AKT3	cAMP_human\AKT3_out_final\out\AKT3_domain_types.tsv	INTERPRO:IPR001849	active	INTERPRO	IPR001849	Pleckstrin homology domain								InterProEntry
+RYR2	cAMP_human\RYR2_out_final\out\RYR2_domain_types.tsv	INTERPRO:IPR001870	active	INTERPRO	IPR001870	B30.2/SPRY domain								InterProEntry
+ADCY	cAMP_human\ADCY_out_final\out\ADCY_domain_types.tsv	INTERPRO:IPR001879	active	INTERPRO	IPR001879	"GPCR, family 2, extracellular hormone receptor domain"			GO:0004930;GO:0016020	GO:0004930		GO:0016020	DOF:000014 regulator	InterProEntry
+PLCE1	cAMP_human\PLCE1_out_final\out\PLCE1_domain_types.tsv	INTERPRO:IPR001895	active	INTERPRO	IPR001895	Ras guanine-nucleotide exchange factors catalytic domain			GO:0005085;GO:0007264	GO:0005085	GO:0007264		DOF:000014 regulator	InterProEntry
+EDN1	cAMP_human\EDN1_out_final\out\EDN1_domain_types.tsv	INTERPRO:IPR001928	active	INTERPRO	IPR001928	Endothelin-like toxin			GO:0019229;GO:0005576		GO:0019229	GO:0005576		InterProEntry
+CALM1	cAMP_human\CALM1_out_final\out\CALM1_domain_types.tsv	INTERPRO:IPR002048	active	INTERPRO	IPR002048	EF-hand domain			GO:0005509	GO:0005509			DOF:000009 Binding	InterProEntry
+BDNF	cAMP_human\BDNF_out_final\out\BDNF_domain_types.tsv	INTERPRO:IPR002072	active	INTERPRO	IPR002072	Nerve growth factor-related			GO:0005102	GO:0005102			DOF:000009 Binding	InterProEntry
+PDE10A	cAMP_human\PDE10A_out_final\out\PDE10A_domain_types.tsv	INTERPRO:IPR002073	active	INTERPRO	IPR002073	"3'5'-cyclic nucleotide phosphodiesterase, catalytic domain"			GO:0004114;GO:0007165	GO:0004114	GO:0007165		DOF:000010 catalytic	InterProEntry
+PRKAC	cAMP_human\PRKAC_out_final\out\PRKAC_domain_types.tsv	INTERPRO:IPR002219	active	INTERPRO	IPR002219	"Protein kinase C-like, phorbol ester/diacylglycerol-binding domain"								InterProEntry
+PIK3CA	cAMP_human\PIK3CA_out_final\out\PIK3CA_domain_types.tsv	INTERPRO:IPR002420	active	INTERPRO	IPR002420	C2 phosphatidylinositol 3-kinase-type domain								InterProEntry
+PDE10A	cAMP_human\PDE10A_out_final\out\PDE10A_domain_types.tsv	INTERPRO:IPR003018	active	INTERPRO	IPR003018	GAF domain			GO:0005515	GO:0005515			DOF:000009 Binding	InterProEntry
+RYR2	cAMP_human\RYR2_out_final\out\RYR2_domain_types.tsv	INTERPRO:IPR003032	active	INTERPRO	IPR003032	Ryanodine receptor Ryr								InterProEntry
+CREBBP	cAMP_human\CREBBP_out_final\out\CREBBP_domain_types.tsv	INTERPRO:IPR003101	active	INTERPRO	IPR003101	"Coactivator CBP, KIX domain"			GO:0003712;GO:0006355	GO:0003712	GO:0006355		DOF:000016 scaffold	InterProEntry
+CREB1	cAMP_human\CREB1_out_final\out\CREB1_domain_types.tsv	INTERPRO:IPR003102	active	INTERPRO	IPR003102	"Cyclic AMP-responsive element-binding protein 1-like, pKID"			GO:0005515;GO:0006355	GO:0005515	GO:0006355		DOF:000009 Binding	InterProEntry
+PIK3CA	cAMP_human\PIK3CA_out_final\out\PIK3CA_domain_types.tsv	INTERPRO:IPR003113	active	INTERPRO	IPR003113	"Phosphatidylinositol 3-kinase, adaptor-binding domain"								InterProEntry
+RAF1	cAMP_human\RAF1_out_final\out\RAF1_domain_types.tsv	INTERPRO:IPR003116	active	INTERPRO	IPR003116	Raf-like Ras-binding			GO:0007165		GO:0007165			InterProEntry
+ABCC4	cAMP_human\ABCC4_out_final\out\ABCC4_domain_types.tsv	INTERPRO:IPR003439	active	INTERPRO	IPR003439	"ABC transporter-like, ATP-binding domain"			GO:0005524;GO:0016887	GO:0005524;GO:0016887			DOF:000009 Binding;DOF:000020 ATPase	InterProEntry
+ABCC4	cAMP_human\ABCC4_out_final\out\ABCC4_domain_types.tsv	INTERPRO:IPR003593	active	INTERPRO	IPR003593	AAA+ ATPase domain								InterProEntry
+PDE10A	cAMP_human\PDE10A_out_final\out\PDE10A_domain_types.tsv	INTERPRO:IPR003607	active	INTERPRO	IPR003607	HD/PDEase domain								InterProEntry
+RYR2	cAMP_human\RYR2_out_final\out\RYR2_domain_types.tsv	INTERPRO:IPR003877	active	INTERPRO	IPR003877	SPRY domain			GO:0005515	GO:0005515			DOF:000009 Binding	InterProEntry
+ATP2A3	cAMP_human\ATP2A3_out_final\out\ATP2A3_domain_types.tsv	INTERPRO:IPR004014	active	INTERPRO	IPR004014	"Cation-transporting P-type ATPase, N-terminal"								InterProEntry
+CREB1	cAMP_human\CREB1_out_final\out\CREB1_domain_types.tsv	INTERPRO:IPR004827	active	INTERPRO	IPR004827	Basic-leucine zipper domain			GO:0003700;GO:0006355	GO:0003700	GO:0006355		DOF:000010 catalytic	InterProEntry
+PPP1CA	cAMP_human\PPP1CA_out_final\out\PPP1CA_domain_types.tsv	INTERPRO:IPR004843	active	INTERPRO	IPR004843	"Calcineurin-like, phosphoesterase domain"			GO:0016787	GO:0016787			DOF:000010 catalytic	InterProEntry
+RAC1	cAMP_human\RAC1_out_final\out\RAC1_domain_types.tsv	INTERPRO:IPR005225	active	INTERPRO	IPR005225	Small GTP-binding domain			GO:0005525	GO:0005525			DOF:000009 Binding	InterProEntry
+CACNA1C	cAMP_human\CACNA1C_out_final\out\CACNA1C_domain_types.tsv	INTERPRO:IPR005821	active	INTERPRO	IPR005821	Ion transport domain			GO:0005216;GO:0006811;GO:0055085;GO:0016020	GO:0005216	GO:0006811;GO:0055085	GO:0016020	DOF:000013 transporter	InterProEntry
+MAPK8	cAMP_human\MAPK8_out_final\out\MAPK8_domain_types.tsv	INTERPRO:IPR006020	active	INTERPRO	IPR006020	PTB/PI domain								InterProEntry
+ATP2A3	cAMP_human\ATP2A3_out_final\out\ATP2A3_domain_types.tsv	INTERPRO:IPR006068	active	INTERPRO	IPR006068	"Cation-transporting P-type ATPase, C-terminal"								InterProEntry
+PPP1CA	cAMP_human\PPP1CA_out_final\out\PPP1CA_domain_types.tsv	INTERPRO:IPR006186	active	INTERPRO	IPR006186	Serine/threonine-specific protein phosphatase/bis(5-nucleosyl)-tetraphosphatase			GO:0016787	GO:0016787			DOF:000010 catalytic	InterProEntry
+GHRL	cAMP_human\GHRL_out_final\out\GHRL_domain_types.tsv	INTERPRO:IPR006737	active	INTERPRO	IPR006737	Motilin/ghrelin-associated peptide			GO:0005179;GO:0005576	GO:0005179		GO:0005576	DOF:000014 regulator	InterProEntry
+GHRL	cAMP_human\GHRL_out_final\out\GHRL_domain_types.tsv	INTERPRO:IPR006738	active	INTERPRO	IPR006738	Motilin/ghrelin			GO:0005179;GO:0005576	GO:0005179		GO:0005576	DOF:000014 regulator	InterProEntry
+VIP	cAMP_human\VIP_out_final\out\VIP_domain_types.tsv	INTERPRO:IPR006925	active	INTERPRO	IPR006925	"Vps16, C-terminal"			GO:0006886;GO:0005737		GO:0006886	GO:0005737		InterProEntry
+ADCY	cAMP_human\ADCY_out_final\out\ADCY_domain_types.tsv	INTERPRO:IPR009398	active	INTERPRO	IPR009398	"Adenylate cyclase, conserved domain"			GO:0004016;GO:0006171;GO:0005886	GO:0004016	GO:0006171	GO:0005886	DOF:000010 catalytic	InterProEntry
+RYR2	cAMP_human\RYR2_out_final\out\RYR2_domain_types.tsv	INTERPRO:IPR009460	active	INTERPRO	IPR009460	Ryanodine Receptor TM 4-6			GO:0005219;GO:0006874;GO:0016020	GO:0005219	GO:0006874	GO:0016020	DOF:000013 transporter	InterProEntry
+RAC3	cAMP_human\RAC3_out_final\out\RAC3_domain_types.tsv	INTERPRO:IPR010011	active	INTERPRO	IPR010011	"Nuclear receptor coactivator, DUF1518"			GO:0005634			GO:0005634		InterProEntry
+CREBBP	cAMP_human\CREBBP_out_final\out\CREBBP_domain_types.tsv	INTERPRO:IPR010303	active	INTERPRO	IPR010303	"CREB-binding protein/p300, atypical RING domain"								InterProEntry
+PDE4D	cAMP_human\PDE4D_out_final\out\PDE4D_domain_types.tsv	INTERPRO:IPR010630	active	INTERPRO	IPR010630	Olduvai domain								InterProEntry
+PAK1	cAMP_human\PAK1_out_final\out\PAK1_domain_types.tsv	INTERPRO:IPR011072	active	INTERPRO	IPR011072	HR1 rho-binding domain			GO:0007165		GO:0007165			InterProEntry
+ABCC4	cAMP_human\ABCC4_out_final\out\ABCC4_domain_types.tsv	INTERPRO:IPR011527	active	INTERPRO	IPR011527	"ABC transporter type 1, transmembrane domain"			GO:0005524;GO:0140359;GO:0055085;GO:0016020	GO:0005524;GO:0140359	GO:0055085	GO:0016020	DOF:000013 transporter;DOF:000009 Binding	InterProEntry
+RAC3	cAMP_human\RAC3_out_final\out\RAC3_domain_types.tsv	INTERPRO:IPR011598	active	INTERPRO	IPR011598	"Myc-type, basic helix-loop-helix (bHLH) domain"			GO:0046983	GO:0046983			DOF:000009 Binding	InterProEntry
+PDE4D	cAMP_human\PDE4D_out_final\out\PDE4D_domain_types.tsv	INTERPRO:IPR012943	active	INTERPRO	IPR012943	"Centrosomin, N-terminal motif 1"			GO:0005815			GO:0005815		InterProEntry
+CREB5	cAMP_human\CREB5_out_final\out\CREB5_domain_types.tsv	INTERPRO:IPR013087	active	INTERPRO	IPR013087	Zinc finger C2H2-type								InterProEntry
+HCN2	cAMP_human\HCN2_out_final\out\HCN2_domain_types.tsv	INTERPRO:IPR013621	active	INTERPRO	IPR013621	Ion transport N-terminal								InterProEntry
+RYR2	cAMP_human\RYR2_out_final\out\RYR2_domain_types.tsv	INTERPRO:IPR013662	active	INTERPRO	IPR013662	RyR/IP3R Homology associated domain								InterProEntry
+RAC3	cAMP_human\RAC3_out_final\out\RAC3_domain_types.tsv	INTERPRO:IPR013767	active	INTERPRO	IPR013767	PAS fold			GO:0006355		GO:0006355			InterProEntry
+CREBBP	cAMP_human\CREBBP_out_final\out\CREBBP_domain_types.tsv	INTERPRO:IPR014744	active	INTERPRO	IPR014744	"Nuclear receptor coactivator, CREB-bp-like, interlocking"			GO:0003713;GO:0004402;GO:0006355;GO:0000123;GO:0005634	GO:0003713;GO:0004402	GO:0006355	GO:0000123;GO:0005634	DOF:000016 scaffold;DOF:000010 catalytic	InterProEntry
+RYR2	cAMP_human\RYR2_out_final\out\RYR2_domain_types.tsv	INTERPRO:IPR014821	active	INTERPRO	IPR014821	"Inositol 1,4,5-trisphosphate/ryanodine receptor"								InterProEntry
+CACNA1C	cAMP_human\CACNA1C_out_final\out\CACNA1C_domain_types.tsv	INTERPRO:IPR014873	active	INTERPRO	IPR014873	"Voltage-dependent calcium channel, alpha-1 subunit, IQ domain"								InterProEntry
+RAC3	cAMP_human\RAC3_out_final\out\RAC3_domain_types.tsv	INTERPRO:IPR014920	active	INTERPRO	IPR014920	"Nuclear receptor coactivator, Ncoa-type, interlocking"			GO:0003713;GO:0016922;GO:0006355;GO:0005634	GO:0003713;GO:0016922	GO:0006355	GO:0005634	DOF:000016 scaffold;DOF:000009 Binding	InterProEntry
+RAC3	cAMP_human\RAC3_out_final\out\RAC3_domain_types.tsv	INTERPRO:IPR014935	active	INTERPRO	IPR014935	"Nuclear receptor coactivator, receptor-binding domain"								InterProEntry
+ROCK1	cAMP_human\ROCK1_out_final\out\ROCK1_domain_types.tsv	INTERPRO:IPR015008	active	INTERPRO	IPR015008	"ROCK, Rho binding domain"			GO:0031267	GO:0031267			DOF:000009 Binding	InterProEntry
+PLCE1	cAMP_human\PLCE1_out_final\out\PLCE1_domain_types.tsv	INTERPRO:IPR015359	active	INTERPRO	IPR015359	"Phosphoinositide-specific phospholipase C, EF-hand-like domain"								InterProEntry
+RYR2	cAMP_human\RYR2_out_final\out\RYR2_domain_types.tsv	INTERPRO:IPR016093	active	INTERPRO	IPR016093	MIR motif								InterProEntry
+GNAI	cAMP_human\GNAI_out_final\out\GNAI_domain_types.tsv	INTERPRO:IPR016137	active	INTERPRO	IPR016137	RGS domain								InterProEntry
+ADORA1	cAMP_human\ADORA1_out_final\out\ADORA1_domain_types.tsv	INTERPRO:IPR017452	active	INTERPRO	IPR017452	"GPCR, rhodopsin-like, 7TM"			GO:0016020			GO:0016020		InterProEntry
+AKT3	cAMP_human\AKT3_out_final\out\AKT3_domain_types.tsv	INTERPRO:IPR017892	active	INTERPRO	IPR017892	"Protein kinase, C-terminal"			GO:0004674;GO:0005524;GO:0006468	GO:0004674;GO:0005524	GO:0006468		DOF:000009 Binding;DOF:000010 catalytic	InterProEntry
+GABBR2	cAMP_human\GABBR2_out_final\out\GABBR2_domain_types.tsv	INTERPRO:IPR017978	active	INTERPRO	IPR017978	"GPCR family 3, C-terminal"			GO:0004930;GO:0007186;GO:0016020	GO:0004930	GO:0007186	GO:0016020	DOF:000014 regulator	InterProEntry
+ADCY	cAMP_human\ADCY_out_final\out\ADCY_domain_types.tsv	INTERPRO:IPR017981	active	INTERPRO	IPR017981	"GPCR, family 2-like, 7TM"			GO:0004888;GO:0007166;GO:0016020	GO:0004888	GO:0007166	GO:0016020	DOF:000014 regulator	InterProEntry
+PRKAC	cAMP_human\PRKAC_out_final\out\PRKAC_domain_types.tsv	INTERPRO:IPR020454	active	INTERPRO	IPR020454	Diacylglycerol/phorbol-ester binding								InterProEntry
+ATP2B1	cAMP_human\ATP2B1_out_final\out\ATP2B1_domain_types.tsv	INTERPRO:IPR022141	active	INTERPRO	IPR022141	"Plasma membrane calcium transporting P-type ATPase, C-terminal"			GO:0005388	GO:0005388			DOF:000020 ATPase	InterProEntry
+VAV1	cAMP_human\VAV1_out_final\out\VAV1_domain_types.tsv	INTERPRO:IPR022613	active	INTERPRO	IPR022613	"CASAMP, second calponin-homology domain"								InterProEntry
+PLD1	cAMP_human\PLD1_out_final\out\PLD1_domain_types.tsv	INTERPRO:IPR025202	active	INTERPRO	IPR025202	"Cardiolipin synthase-like, phospholipase D-like domain"								InterProEntry
+CFTR	cAMP_human\CFTR_out_final\out\CFTR_domain_types.tsv	INTERPRO:IPR025837	active	INTERPRO	IPR025837	CFTR regulator domain								InterProEntry
+PLCE1	cAMP_human\PLCE1_out_final\out\PLCE1_domain_types.tsv	INTERPRO:IPR028398	active	INTERPRO	IPR028398	"1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase epsilon-1, RA domain 2"								InterProEntry
+ROCK2	cAMP_human\ROCK2_out_final\out\ROCK2_domain_types.tsv	INTERPRO:IPR029878	active	INTERPRO	IPR029878	"Rho-associated protein kinase 2, catalytic domain"			GO:0004674	GO:0004674			DOF:000010 catalytic	InterProEntry
+ABCC4	cAMP_human\ABCC4_out_final\out\ABCC4_domain_types.tsv	INTERPRO:IPR030240	active	INTERPRO	IPR030240	"ATP-binding cassette sub-family C member 4, six-transmembrane helical domain 1"			GO:0005524;GO:0042626;GO:0055085;GO:0016020	GO:0005524;GO:0042626	GO:0055085	GO:0016020	DOF:000020 ATPase;DOF:000009 Binding	InterProEntry
+CREBBP	cAMP_human\CREBBP_out_final\out\CREBBP_domain_types.tsv	INTERPRO:IPR031162	active	INTERPRO	IPR031162	CBP/p300-type histone acetyltransferase domain			GO:0004402	GO:0004402			DOF:000010 catalytic	InterProEntry
+CACNA1C	cAMP_human\CACNA1C_out_final\out\CACNA1C_domain_types.tsv	INTERPRO:IPR031649	active	INTERPRO	IPR031649	"Voltage-dependent L-type calcium channel, IQ-associated domain"								InterProEntry
+PPP1CA	cAMP_human\PPP1CA_out_final\out\PPP1CA_domain_types.tsv	INTERPRO:IPR031675	active	INTERPRO	IPR031675	"Serine-threonine protein phosphatase, N-terminal"								InterProEntry
+CACNA1C	cAMP_human\CACNA1C_out_final\out\CACNA1C_domain_types.tsv	INTERPRO:IPR031688	active	INTERPRO	IPR031688	"Voltage-gated calcium channel subunit alpha, C-terminal"								InterProEntry
+CNGA1	cAMP_human\CNGA1_out_final\out\CNGA1_domain_types.tsv	INTERPRO:IPR032406	active	INTERPRO	IPR032406	"Cyclic nucleotide-gated channel, C-terminal leucine zipper domain"								InterProEntry
+MAPK8	cAMP_human\MAPK8_out_final\out\MAPK8_domain_types.tsv	INTERPRO:IPR032486	active	INTERPRO	IPR032486	"JNK-interacting protein, leucine zipper II"								InterProEntry
+PIK3R1	cAMP_human\PIK3R1_out_final\out\PIK3R1_domain_types.tsv	INTERPRO:IPR032498	active	INTERPRO	IPR032498	"PI3K regulatory subunit p85-related , inter-SH2 domain"								InterProEntry
+RAC3	cAMP_human\RAC3_out_final\out\RAC3_domain_types.tsv	INTERPRO:IPR032565	active	INTERPRO	IPR032565	"Nuclear receptor coactivator 2/3, DUF4927"								InterProEntry
+ADCY	cAMP_human\ADCY_out_final\out\ADCY_domain_types.tsv	INTERPRO:IPR032628	active	INTERPRO	IPR032628	"Adenylate cyclase, N-terminal"								InterProEntry
+PAK1	cAMP_human\PAK1_out_final\out\PAK1_domain_types.tsv	INTERPRO:IPR033923	active	INTERPRO	IPR033923	p21 activated kinase binding domain			GO:0004674	GO:0004674			DOF:000010 catalytic	InterProEntry
+PRKAC	cAMP_human\PRKAC_out_final\out\PRKAC_domain_types.tsv	INTERPRO:IPR034663	active	INTERPRO	IPR034663	"Classical Protein Kinase C alpha, catalytic domain"			GO:0004697;GO:0006468	GO:0004697	GO:0006468		DOF:000010 catalytic	InterProEntry
+AKT3	cAMP_human\AKT3_out_final\out\AKT3_domain_types.tsv	INTERPRO:IPR034675	active	INTERPRO	IPR034675	"Protein kinase B gamma, catalytic domain"			GO:0004674;GO:0006468	GO:0004674	GO:0006468		DOF:000010 catalytic	InterProEntry
+MAPK8	cAMP_human\MAPK8_out_final\out\MAPK8_domain_types.tsv	INTERPRO:IPR034743	active	INTERPRO	IPR034743	RH1 domain								InterProEntry
+MAPK8	cAMP_human\MAPK8_out_final\out\MAPK8_domain_types.tsv	INTERPRO:IPR034744	active	INTERPRO	IPR034744	RH2 domain								InterProEntry
+PIK3R1	cAMP_human\PIK3R1_out_final\out\PIK3R1_domain_types.tsv	INTERPRO:IPR035020	active	INTERPRO	IPR035020	"PI3K p85 subunit, C-terminal SH2 domain"								InterProEntry
+PIK3R1	cAMP_human\PIK3R1_out_final\out\PIK3R1_domain_types.tsv	INTERPRO:IPR035022	active	INTERPRO	IPR035022	"PI3K p85 subunit, N-terminal SH2 domain"								InterProEntry
+PIK3R2	cAMP_human\PIK3R2_out_final\out\PIK3R2_domain_types.tsv	INTERPRO:IPR035586	active	INTERPRO	IPR035586	"Phosphatidylinositol 3-kinase regulatory subunit beta, SH3 domain"								InterProEntry
+PIK3R1	cAMP_human\PIK3R1_out_final\out\PIK3R1_domain_types.tsv	INTERPRO:IPR035591	active	INTERPRO	IPR035591	"Phosphatidylinositol 3-kinase regulatory subunit alpha, SH3 domain"								InterProEntry
+MAPK8	cAMP_human\MAPK8_out_final\out\MAPK8_domain_types.tsv	INTERPRO:IPR035637	active	INTERPRO	IPR035637	"JIP2, SH3 domain"								InterProEntry
+MAPK8	cAMP_human\MAPK8_out_final\out\MAPK8_domain_types.tsv	INTERPRO:IPR035638	active	INTERPRO	IPR035638	"JIP1, SH3 domain"								InterProEntry
+VAV1	cAMP_human\VAV1_out_final\out\VAV1_domain_types.tsv	INTERPRO:IPR035729	active	INTERPRO	IPR035729	"VAV1 protein, second SH3 domain"								InterProEntry
+VAV1	cAMP_human\VAV1_out_final\out\VAV1_domain_types.tsv	INTERPRO:IPR035730	active	INTERPRO	IPR035730	"VAV1 protein, first SH3 domain"								InterProEntry
+VAV2	cAMP_human\VAV2_out_final\out\VAV2_domain_types.tsv	INTERPRO:IPR035732	active	INTERPRO	IPR035732	"VAV2 protein, second SH3 domain"								InterProEntry
+VAV2	cAMP_human\VAV2_out_final\out\VAV2_domain_types.tsv	INTERPRO:IPR035733	active	INTERPRO	IPR035733	"VAV2 protein, first SH3 domain"								InterProEntry
+VAV3	cAMP_human\VAV3_out_final\out\VAV3_domain_types.tsv	INTERPRO:IPR035734	active	INTERPRO	IPR035734	"VAV3 protein, second SH3 domain"								InterProEntry
+RYR2	cAMP_human\RYR2_out_final\out\RYR2_domain_types.tsv	INTERPRO:IPR035761	active	INTERPRO	IPR035761	"Ryanodine receptor, SPRY domain 1"								InterProEntry
+RYR2	cAMP_human\RYR2_out_final\out\RYR2_domain_types.tsv	INTERPRO:IPR035762	active	INTERPRO	IPR035762	"Ryanodine receptor, SPRY domain 3"								InterProEntry
+RYR2	cAMP_human\RYR2_out_final\out\RYR2_domain_types.tsv	INTERPRO:IPR035764	active	INTERPRO	IPR035764	"Ryanodine receptor, SPRY domain 2"								InterProEntry
+VAV1	cAMP_human\VAV1_out_final\out\VAV1_domain_types.tsv	INTERPRO:IPR035879	active	INTERPRO	IPR035879	"VAV1, SH2 domain"								InterProEntry
+VAV2	cAMP_human\VAV2_out_final\out\VAV2_domain_types.tsv	INTERPRO:IPR035880	active	INTERPRO	IPR035880	"VAV2, SH2 domain"								InterProEntry
+VAV3	cAMP_human\VAV3_out_final\out\VAV3_domain_types.tsv	INTERPRO:IPR035881	active	INTERPRO	IPR035881	"VAV3, SH2 domain"								InterProEntry
+ROCK1	cAMP_human\ROCK1_out_final\out\ROCK1_domain_types.tsv	INTERPRO:IPR037310	active	INTERPRO	IPR037310	"Rho-associated protein kinase 1, HR1"			GO:0004674;GO:0031267;GO:0007266	GO:0004674;GO:0031267	GO:0007266		DOF:000009 Binding;DOF:000010 catalytic	InterProEntry
+ROCK2	cAMP_human\ROCK2_out_final\out\ROCK2_domain_types.tsv	INTERPRO:IPR037311	active	INTERPRO	IPR037311	"Rho-associated protein kinase 2, HR1 domain"			GO:0004674;GO:0006939;GO:0007266;GO:0010825;GO:0032956	GO:0004674	GO:0006939;GO:0007266;GO:0010825;GO:0032956		DOF:000010 catalytic	InterProEntry
+PAK1	cAMP_human\PAK1_out_final\out\PAK1_domain_types.tsv	INTERPRO:IPR037313	active	INTERPRO	IPR037313	"Serine/threonine-protein kinase N, first HR1 domain"			GO:0004674;GO:0031267;GO:0006468	GO:0004674;GO:0031267	GO:0006468		DOF:000009 Binding;DOF:000010 catalytic	InterProEntry
+PAK1	cAMP_human\PAK1_out_final\out\PAK1_domain_types.tsv	INTERPRO:IPR037317	active	INTERPRO	IPR037317	"Serine/threonine-protein kinase N1, second HR1 domain"			GO:0004674;GO:0031267	GO:0004674;GO:0031267			DOF:000009 Binding;DOF:000010 catalytic	InterProEntry
+PIK3CB	cAMP_human\PIK3CB_out_final\out\PIK3CB_domain_types.tsv	INTERPRO:IPR037702	active	INTERPRO	IPR037702	"Phosphatidylinositol 3-kinase beta, catalytic domain"			GO:0016303;GO:0043491	GO:0016303	GO:0043491		DOF:000010 catalytic	InterProEntry
+PIK3CD	cAMP_human\PIK3CD_out_final\out\PIK3CD_domain_types.tsv	INTERPRO:IPR037703	active	INTERPRO	IPR037703	"Phosphatidylinositol 3-kinase delta, catalytic domain"			GO:0016303;GO:0043491	GO:0016303	GO:0043491		DOF:000010 catalytic	InterProEntry
+PIK3CA	cAMP_human\PIK3CA_out_final\out\PIK3CA_domain_types.tsv	INTERPRO:IPR037704	active	INTERPRO	IPR037704	"Phosphatidylinositol 3-kinase alpha, catalytic domain"			GO:0016303;GO:0043491	GO:0016303	GO:0043491		DOF:000010 catalytic	InterProEntry
+PAK1	cAMP_human\PAK1_out_final\out\PAK1_domain_types.tsv	INTERPRO:IPR037784	active	INTERPRO	IPR037784	"Serine/threonine-protein kinase N, C2 domain"								InterProEntry
+VAV1	cAMP_human\VAV1_out_final\out\VAV1_domain_types.tsv	INTERPRO:IPR037832	active	INTERPRO	IPR037832	"Vav, PH domain"								InterProEntry
+AKT3	cAMP_human\AKT3_out_final\out\AKT3_domain_types.tsv	INTERPRO:IPR039026	active	INTERPRO	IPR039026	"Protein Kinase B, pleckstrin homology domain"								InterProEntry
+VIP	cAMP_human\VIP_out_final\out\VIP_domain_types.tsv	INTERPRO:IPR040557	active	INTERPRO	IPR040557	"VIP1, N-terminal"								InterProEntry
+PDE4A	cAMP_human\PDE4A_out_final\out\PDE4A_domain_types.tsv	INTERPRO:IPR040844	active	INTERPRO	IPR040844	Phosphodiesterase 4 upstream conserved regions (UCR)								InterProEntry
+GABBR2	cAMP_human\GABBR2_out_final\out\GABBR2_domain_types.tsv	INTERPRO:IPR041689	active	INTERPRO	IPR041689	"Gamma-aminobutyric acid type B receptor subunit 2, coiled-coil domain"								InterProEntry
+PIK3R1	cAMP_human\PIK3R1_out_final\out\PIK3R1_domain_types.tsv	INTERPRO:IPR044124	active	INTERPRO	IPR044124	"PIK3R1, inter-SH2 domain"								InterProEntry
+ATP2A3	cAMP_human\ATP2A3_out_final\out\ATP2A3_domain_types.tsv	INTERPRO:IPR044492	active	INTERPRO	IPR044492	"P-type ATPase, haloacid dehalogenase domain"								InterProEntry
+PLCE1	cAMP_human\PLCE1_out_final\out\PLCE1_domain_types.tsv	INTERPRO:IPR046973	active	INTERPRO	IPR046973	"1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase epsilon-1, catalytic domain"			GO:0004435	GO:0004435			DOF:000010 catalytic	InterProEntry
+PLCE1	cAMP_human\PLCE1_out_final\out\PLCE1_domain_types.tsv	INTERPRO:IPR046974	active	INTERPRO	IPR046974	"1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase epsilon-1, EF-hand domain"								InterProEntry
+VAV3	cAMP_human\VAV3_out_final\out\VAV3_domain_types.tsv	INTERPRO:IPR047015	active	INTERPRO	IPR047015	"VAV3 protein, first SH3 domain"								InterProEntry
+VIP	cAMP_human\VIP_out_final\out\VIP_domain_types.tsv	INTERPRO:IPR047035	active	INTERPRO	IPR047035	"Vasoactive intestinal polypeptide receptor 2, 7TM"								InterProEntry
+CFTR	cAMP_human\CFTR_out_final\out\CFTR_domain_types.tsv	INTERPRO:IPR047082	active	INTERPRO	IPR047082	"Cystic fibrosis transmembrane conductance regulator, ATP-binding cassette domain 1"								InterProEntry
+ABCC4	cAMP_human\ABCC4_out_final\out\ABCC4_domain_types.tsv	INTERPRO:IPR047083	active	INTERPRO	IPR047083	"ATP-binding cassette sub-family C member 4, six-transmembrane helical domain 2"								InterProEntry
+RYR2	cAMP_human\RYR2_out_final\out\RYR2_domain_types.tsv	INTERPRO:IPR048581	active	INTERPRO	IPR048581	"Ryanodine receptor, junctional solenoid domain"								InterProEntry
+VAV2	cAMP_human\VAV2_out_final\out\VAV2_domain_types.tsv	INTERPRO:IPR055251	active	INTERPRO	IPR055251	"SOS1/NGEF-like, PH domain"								InterProEntry
+BVES	cAMP_human\BVES_out_final\out\BVES_domain_types.tsv	INTERPRO:IPR055272	active	INTERPRO	IPR055272	POPDC1-3 domain								InterProEntry
+CRH	cAMP_human\CRH_out_final\out\CRH_domain_types.tsv	INTERPRO:IPR056177	active	INTERPRO	IPR056177	"Corticotropin-releasing factor binding protein, N-terminal domain"								InterProEntry
+CRH	cAMP_human\CRH_out_final\out\CRH_domain_types.tsv	INTERPRO:IPR056178	active	INTERPRO	IPR056178	"Corticotropin-releasing factor binding protein, C-terminal domain"								InterProEntry
+RAC3	cAMP_human\RAC3_out_final\out\RAC3_domain_types.tsv	INTERPRO:IPR056193	active	INTERPRO	IPR056193	"Nuclear receptor coactivator 1-3, bHLH domain"								InterProEntry
+RAC3	cAMP_human\RAC3_out_final\out\RAC3_domain_types.tsv	INTERPRO:IPR056194	active	INTERPRO	IPR056194	"Nuclear receptor coactivator 3, basic helix-loop-helix"								InterProEntry
+PDE4D	cAMP_human\PDE4D_out_final\out\PDE4D_domain_types.tsv	INTERPRO:IPR056273	active	INTERPRO	IPR056273	"CDK5 regulatory subunit-associated protein 2/Myomegalin, coiled coil"								InterProEntry
+CREBBP	cAMP_human\CREBBP_out_final\out\CREBBP_domain_types.tsv	INTERPRO:IPR056484	active	INTERPRO	IPR056484	"Histone acetyltransferase p300/CREBBP, PHD domain"								InterProEntry
+ROCK1	cAMP_human\ROCK1_out_final\out\ROCK1_domain_types.tsv	INTERPRO:IPR057529	active	INTERPRO	IPR057529	"MRCK/ROCK kinase, PH domain"								InterProEntry
+ATP2A3	cAMP_human\ATP2A3_out_final\out\ATP2A3_domain_types.tsv	INTERPRO:IPR059000	active	INTERPRO	IPR059000	"P-type ATPase, A domain"								InterProEntry
+PDE4D	cAMP_human\PDE4D_out_final\out\PDE4D_domain_types.tsv	INTERPRO:IPR060527	active	INTERPRO	IPR060527	"Myomegalin-like, C-terminal"								InterProEntry
+RAC1	cAMP_human\RAC1_out_final\out\RAC1_domain_types.tsv	NCBIFAM:TIGR00231	active	NCBIFAM	TIGR00231	small GTP-binding protein domain	IPR005225							InterProEntry
+ADORA1	cAMP_human\ADORA1_out_final\out\ADORA1_domain_types.tsv	PFAM:PF00001	active	PFAM	PF00001	7 transmembrane receptor (rhodopsin family)	IPR000276							InterProEntry
+ADCY	cAMP_human\ADCY_out_final\out\ADCY_domain_types.tsv	PFAM:PF00002	active	PFAM	PF00002	7 transmembrane receptor (Secretin family)	IPR000832							InterProEntry
+GABBR2	cAMP_human\GABBR2_out_final\out\GABBR2_domain_types.tsv	PFAM:PF00003	active	PFAM	PF00003	7 transmembrane sweet-taste receptor of 3 GCPR	IPR017978							InterProEntry
+ABCC4	cAMP_human\ABCC4_out_final\out\ABCC4_domain_types.tsv	PFAM:PF00005	active	PFAM	PF00005	ABC transporter	IPR003439							InterProEntry
+PIK3R1	cAMP_human\PIK3R1_out_final\out\PIK3R1_domain_types.tsv	PFAM:PF00017	active	PFAM	PF00017	SH2 domain	IPR000980							InterProEntry
+VAV1	cAMP_human\VAV1_out_final\out\VAV1_domain_types.tsv	PFAM:PF00018	active	PFAM	PF00018	SH3 domain	IPR001452							InterProEntry
+CNGA1	cAMP_human\CNGA1_out_final\out\CNGA1_domain_types.tsv	PFAM:PF00027	active	PFAM	PF00027	Cyclic nucleotide-binding domain	IPR000595							InterProEntry
+AKT3	cAMP_human\AKT3_out_final\out\AKT3_domain_types.tsv	PFAM:PF00069	active	PFAM	PF00069	Protein kinase domain	IPR000719							InterProEntry
+RAC1	cAMP_human\RAC1_out_final\out\RAC1_domain_types.tsv	PFAM:PF00071	active	PFAM	PF00071	Ras family	IPR001806							InterProEntry
+ATP2A3	cAMP_human\ATP2A3_out_final\out\ATP2A3_domain_types.tsv	PFAM:PF00122	active	PFAM	PF00122	P-type ATPase actuator domain	IPR059000							InterProEntry
+PRKAC	cAMP_human\PRKAC_out_final\out\PRKAC_domain_types.tsv	PFAM:PF00130	active	PFAM	PF00130	Phorbol esters/diacylglycerol binding domain (C1 domain)	IPR002219							InterProEntry
+PPP1CA	cAMP_human\PPP1CA_out_final\out\PPP1CA_domain_types.tsv	PFAM:PF00149	active	PFAM	PF00149	Calcineurin-like phosphoesterase	IPR004843							InterProEntry
+PLCE1	cAMP_human\PLCE1_out_final\out\PLCE1_domain_types.tsv	PFAM:PF00168	active	PFAM	PF00168	C2 domain	IPR000008							InterProEntry
+AKT3	cAMP_human\AKT3_out_final\out\AKT3_domain_types.tsv	PFAM:PF00169	active	PFAM	PF00169	PH domain	IPR001849							InterProEntry
+ADCY	cAMP_human\ADCY_out_final\out\ADCY_domain_types.tsv	PFAM:PF00211	active	PFAM	PF00211	Adenylate and Guanylate cyclase catalytic domain	IPR001054							InterProEntry
+PDE10A	cAMP_human\PDE10A_out_final\out\PDE10A_domain_types.tsv	PFAM:PF00233	active	PFAM	PF00233	3'5'-cyclic nucleotide phosphodiesterase	IPR002073							InterProEntry
+BDNF	cAMP_human\BDNF_out_final\out\BDNF_domain_types.tsv	PFAM:PF00243	active	PFAM	PF00243	Nerve growth factor family	IPR002072							InterProEntry
+CREBBP	cAMP_human\CREBBP_out_final\out\CREBBP_domain_types.tsv	PFAM:PF00439	active	PFAM	PF00439	Bromodomain	IPR001487							InterProEntry
+CRH	cAMP_human\CRH_out_final\out\CRH_domain_types.tsv	PFAM:PF00473	active	PFAM	PF00473	Corticotropin-releasing factor family	IPR000187							InterProEntry
+GNAI	cAMP_human\GNAI_out_final\out\GNAI_domain_types.tsv	PFAM:PF00503	active	PFAM	PF00503	G-protein alpha subunit	IPR001019							InterProEntry
+CREBBP	cAMP_human\CREBBP_out_final\out\CREBBP_domain_types.tsv	PFAM:PF00569	active	PFAM	PF00569	"Zinc finger, ZZ type"	IPR000433							InterProEntry
+RAPGEF3	cAMP_human\RAPGEF3_out_final\out\RAPGEF3_domain_types.tsv	PFAM:PF00610	active	PFAM	PF00610	"Domain found in Dishevelled, Egl-10, and Pleckstrin (DEP)"	IPR000591							InterProEntry
+GNAI	cAMP_human\GNAI_out_final\out\GNAI_domain_types.tsv	PFAM:PF00615	active	PFAM	PF00615	Regulator of G protein signaling domain	IPR016137							InterProEntry
+RAPGEF3	cAMP_human\RAPGEF3_out_final\out\RAPGEF3_domain_types.tsv	PFAM:PF00618	active	PFAM	PF00618	RasGEF N-terminal motif	IPR000651							InterProEntry
+PIK3R1	cAMP_human\PIK3R1_out_final\out\PIK3R1_domain_types.tsv	PFAM:PF00620	active	PFAM	PF00620	RhoGAP domain	IPR000198							InterProEntry
+VAV1	cAMP_human\VAV1_out_final\out\VAV1_domain_types.tsv	PFAM:PF00621	active	PFAM	PF00621	RhoGEF domain	IPR000219							InterProEntry
+RYR2	cAMP_human\RYR2_out_final\out\RYR2_domain_types.tsv	PFAM:PF00622	active	PFAM	PF00622	SPRY domain	IPR003877							InterProEntry
+MAPK8	cAMP_human\MAPK8_out_final\out\MAPK8_domain_types.tsv	PFAM:PF00640	active	PFAM	PF00640	Phosphotyrosine interaction domain (PTB/PID)	IPR006020							InterProEntry
+ATP2A3	cAMP_human\ATP2A3_out_final\out\ATP2A3_domain_types.tsv	PFAM:PF00690	active	PFAM	PF00690	"Cation transporter/ATPase, N-terminus"	IPR004014							InterProEntry
+PAK1	cAMP_human\PAK1_out_final\out\PAK1_domain_types.tsv	PFAM:PF00786	active	PFAM	PF00786	P21-Rho-binding domain	IPR000095							InterProEntry
+PLD1	cAMP_human\PLD1_out_final\out\PLD1_domain_types.tsv	PFAM:PF00787	active	PFAM	PF00787	PX domain	IPR001683							InterProEntry
+PLCE1	cAMP_human\PLCE1_out_final\out\PLCE1_domain_types.tsv	PFAM:PF00788	active	PFAM	PF00788	Ras association (RalGDS/AF-6) domain	IPR000159							InterProEntry
+PIK3CA	cAMP_human\PIK3CA_out_final\out\PIK3CA_domain_types.tsv	PFAM:PF00792	active	PFAM	PF00792	Phosphoinositide 3-kinase C2	IPR002420							InterProEntry
+PIK3CA	cAMP_human\PIK3CA_out_final\out\PIK3CA_domain_types.tsv	PFAM:PF00794	active	PFAM	PF00794	"PI3-kinase family, ras-binding domain"	IPR000341							InterProEntry
+RAC3	cAMP_human\RAC3_out_final\out\RAC3_domain_types.tsv	PFAM:PF00989	active	PFAM	PF00989	PAS fold	IPR013767							InterProEntry
+GABBR2	cAMP_human\GABBR2_out_final\out\GABBR2_domain_types.tsv	PFAM:PF01094	active	PFAM	PF01094	Receptor family ligand binding region	IPR001828							InterProEntry
+PDE10A	cAMP_human\PDE10A_out_final\out\PDE10A_domain_types.tsv	PFAM:PF01590	active	PFAM	PF01590	GAF domain	IPR003018							InterProEntry
+CREBBP	cAMP_human\CREBBP_out_final\out\CREBBP_domain_types.tsv	PFAM:PF02172	active	PFAM	PF02172	KIX domain	IPR003101							InterProEntry
+RAF1	cAMP_human\RAF1_out_final\out\RAF1_domain_types.tsv	PFAM:PF02196	active	PFAM	PF02196	Raf-like Ras-binding domain	IPR003116							InterProEntry
+RYR2	cAMP_human\RYR2_out_final\out\RYR2_domain_types.tsv	PFAM:PF02815	active	PFAM	PF02815	MIR domain	IPR016093							InterProEntry
+PLN	cAMP_human\PLN_out_final\out\PLN_domain_types.tsv	PFAM:PF04272	active	PFAM	PF04272	Phospholamban	IPR005984							InterProEntry
+BVES	cAMP_human\BVES_out_final\out\BVES_domain_types.tsv	PFAM:PF04831	active	PFAM	PF04831	POPDC1-3	IPR055272							InterProEntry
+CRH	cAMP_human\CRH_out_final\out\CRH_domain_types.tsv	PFAM:PF05428	active	PFAM	PF05428	Corticotropin-releasing factor binding protein N-terminal domain	IPR056177							InterProEntry
+CREBBP	cAMP_human\CREBBP_out_final\out\CREBBP_domain_types.tsv	PFAM:PF06001	active	PFAM	PF06001	"CREB-binding protein/p300, atypical RING domain"	IPR010303							InterProEntry
+PDE4D	cAMP_human\PDE4D_out_final\out\PDE4D_domain_types.tsv	PFAM:PF06758	active	PFAM	PF06758	Olduvai domain	IPR010630							InterProEntry
+RAC3	cAMP_human\RAC3_out_final\out\RAC3_domain_types.tsv	PFAM:PF07469	active	PFAM	PF07469	"Nuclear receptor coactivator, DUF1518"	IPR010011							InterProEntry
+VAV2	cAMP_human\VAV2_out_final\out\VAV2_domain_types.tsv	PFAM:PF07653	active	PFAM	PF07653	Variant SH3 domain	IPR001452							InterProEntry
+RAF1	cAMP_human\RAF1_out_final\out\RAF1_domain_types.tsv	PFAM:PF07714	active	PFAM	PF07714	Protein tyrosine and serine/threonine kinase	IPR001245							InterProEntry
+CREBBP	cAMP_human\CREBBP_out_final\out\CREBBP_domain_types.tsv	PFAM:PF08214	active	PFAM	PF08214	Histone acetylation protein	IPR013178							InterProEntry
+ATP2A3	cAMP_human\ATP2A3_out_final\out\ATP2A3_domain_types.tsv	PFAM:PF08282	active	PFAM	PF08282	haloacid dehalogenase-like hydrolase								InterProEntry
+RYR2	cAMP_human\RYR2_out_final\out\RYR2_domain_types.tsv	PFAM:PF08709	active	PFAM	PF08709	"Inositol 1,4,5-trisphosphate/ryanodine receptor"	IPR014821							InterProEntry
+CACNA1C	cAMP_human\CACNA1C_out_final\out\CACNA1C_domain_types.tsv	PFAM:PF08763	active	PFAM	PF08763	Voltage gated calcium channel IQ domain	IPR014873							InterProEntry
+RAC3	cAMP_human\RAC3_out_final\out\RAC3_domain_types.tsv	PFAM:PF08815	active	PFAM	PF08815	Nuclear receptor coactivator	IPR014920							InterProEntry
+RAC3	cAMP_human\RAC3_out_final\out\RAC3_domain_types.tsv	PFAM:PF08832	active	PFAM	PF08832	Steroid receptor coactivator	IPR014935							InterProEntry
+MAP2K1	cAMP_human\MAP2K1_out_final\out\MAP2K1_domain_types.tsv	PFAM:PF08923	active	PFAM	PF08923	Mitogen-activated protein kinase kinase 1 interacting	IPR015019							InterProEntry
+CREBBP	cAMP_human\CREBBP_out_final\out\CREBBP_domain_types.tsv	PFAM:PF09030	active	PFAM	PF09030	Creb binding	IPR014744							InterProEntry
+PLCE1	cAMP_human\PLCE1_out_final\out\PLCE1_domain_types.tsv	PFAM:PF09279	active	PFAM	PF09279	"Phosphoinositide-specific phospholipase C, efhand-like"	IPR015359							InterProEntry
+MAPK8	cAMP_human\MAPK8_out_final\out\MAPK8_domain_types.tsv	PFAM:PF09744	active	PFAM	PF09744	RILP homology 1 domain	IPR034743							InterProEntry
+VAV1	cAMP_human\VAV1_out_final\out\VAV1_domain_types.tsv	PFAM:PF11971	active	PFAM	PF11971	CAMSAP CH domain	IPR022613							InterProEntry
+PLD1	cAMP_human\PLD1_out_final\out\PLD1_domain_types.tsv	PFAM:PF13091	active	PFAM	PF13091	PLD-like domain	IPR025202							InterProEntry
+CALM1	cAMP_human\CALM1_out_final\out\CALM1_domain_types.tsv	PFAM:PF13499	active	PFAM	PF13499	EF-hand domain pair	IPR002048							InterProEntry
+CFTR	cAMP_human\CFTR_out_final\out\CFTR_domain_types.tsv	PFAM:PF14396	active	PFAM	PF14396	"Cystic fibrosis TM conductance regulator (CFTR), regulator domain"	IPR025837							InterProEntry
+RAC3	cAMP_human\RAC3_out_final\out\RAC3_domain_types.tsv	PFAM:PF14598	active	PFAM	PF14598	PAS domain								InterProEntry
+MAPK8	cAMP_human\MAPK8_out_final\out\MAPK8_domain_types.tsv	PFAM:PF14604	active	PFAM	PF14604	Variant SH3 domain	IPR001452							InterProEntry
+PIK3R1	cAMP_human\PIK3R1_out_final\out\PIK3R1_domain_types.tsv	PFAM:PF16454	active	PFAM	PF16454	Phosphatidylinositol 3-kinase regulatory subunit P85 inter-SH2 domain	IPR032498							InterProEntry
+VIP	cAMP_human\VIP_out_final\out\VIP_domain_types.tsv	PFAM:PF18086	active	PFAM	PF18086	Diphosphoinositol pentakisphosphate kinase 2 N-terminal domain	IPR040557							InterProEntry
+PDE4A	cAMP_human\PDE4A_out_final\out\PDE4A_domain_types.tsv	PFAM:PF18100	active	PFAM	PF18100	Phosphodiesterase 4 upstream conserved regions (UCR)	IPR040844							InterProEntry
+VAV2	cAMP_human\VAV2_out_final\out\VAV2_domain_types.tsv	PFAM:PF22697	active	PFAM	PF22697	SOS1/NGEF-like PH domain	IPR055251							InterProEntry
+RAC3	cAMP_human\RAC3_out_final\out\RAC3_domain_types.tsv	PFAM:PF23172	active	PFAM	PF23172	Nuclear receptor coactivators bHLH domain	IPR056193							InterProEntry
+CRH	cAMP_human\CRH_out_final\out\CRH_domain_types.tsv	PFAM:PF23541	active	PFAM	PF23541	Corticotropin-releasing factor binding protein C-terminal domain	IPR056178							InterProEntry
+CREBBP	cAMP_human\CREBBP_out_final\out\CREBBP_domain_types.tsv	PFAM:PF23570	active	PFAM	PF23570	"Histone acetyltransferase p300-like, PHD domain"	IPR056484							InterProEntry
+ROCK1	cAMP_human\ROCK1_out_final\out\ROCK1_domain_types.tsv	PFAM:PF25346	active	PFAM	PF25346	MRCK kinase PH domain	IPR057529							InterProEntry
+PDE4D	cAMP_human\PDE4D_out_final\out\PDE4D_domain_types.tsv	PFAM:PF26710	active	PFAM	PF26710	Myomegalin domain	IPR060527							InterProEntry
+PRKAC	cAMP_human\PRKAC_out_final\out\PRKAC_domain_types.tsv	PRINTS:PR00008	active	PRINTS	PR00008	DAGPEDOMAIN	IPR020454							InterProEntry
+PAK1	cAMP_human\PAK1_out_final\out\PAK1_domain_types.tsv	PRINTS:PR00320	active	PRINTS	PR00320	GPROTEINBRPT	IPR020472							InterProEntry
+PRKAC	cAMP_human\PRKAC_out_final\out\PRKAC_domain_types.tsv	PRINTS:PR00360	active	PRINTS	PR00360	C2DOMAIN	IPR000008							InterProEntry
+PIK3R1	cAMP_human\PIK3R1_out_final\out\PIK3R1_domain_types.tsv	PRINTS:PR00401	active	PRINTS	PR00401	SH2DOMAIN								InterProEntry
+VAV1	cAMP_human\VAV1_out_final\out\VAV1_domain_types.tsv	PRINTS:PR00452	active	PRINTS	PR00452	SH3DOMAIN	IPR001452							InterProEntry
+CREBBP	cAMP_human\CREBBP_out_final\out\CREBBP_domain_types.tsv	PRINTS:PR00503	active	PRINTS	PR00503	BROMODOMAIN	IPR001487							InterProEntry
+MAPK8	cAMP_human\MAPK8_out_final\out\MAPK8_domain_types.tsv	PROFILE:PS01179	active	PROFILE	PS01179	Phosphotyrosine interaction domain (PID) profile	IPR006020							InterProEntry
+PIK3R1	cAMP_human\PIK3R1_out_final\out\PIK3R1_domain_types.tsv	PROFILE:PS00001	active	PROFILE	PS50001	Src homology 2 (SH2) domain profile	IPR000980							InterProEntry
+MAPK8	cAMP_human\MAPK8_out_final\out\MAPK8_domain_types.tsv	PROFILE:PS00002	active	PROFILE	PS50002	Src homology 3 (SH3) domain profile	IPR001452							InterProEntry
+AKT3	cAMP_human\AKT3_out_final\out\AKT3_domain_types.tsv	PROFILE:PS00003	active	PROFILE	PS50003	PH domain profile	IPR001849							InterProEntry
+PAK1	cAMP_human\PAK1_out_final\out\PAK1_domain_types.tsv	PROFILE:PS00004	active	PROFILE	PS50004	C2 domain profile	IPR000008							InterProEntry
+PLCE1	cAMP_human\PLCE1_out_final\out\PLCE1_domain_types.tsv	PROFILE:PS00007	active	PROFILE	PS50007	Phosphatidylinositol-specific phospholipase X-box domain profile								InterProEntry
+PLCE1	cAMP_human\PLCE1_out_final\out\PLCE1_domain_types.tsv	PROFILE:PS00008	active	PROFILE	PS50008	Phosphatidylinositol-specific phospholipase Y-box domain profile	IPR001711							InterProEntry
+PLCE1	cAMP_human\PLCE1_out_final\out\PLCE1_domain_types.tsv	PROFILE:PS00009	active	PROFILE	PS50009	Ras guanine-nucleotide exchange factors catalytic domain profile	IPR001895							InterProEntry
+VAV1	cAMP_human\VAV1_out_final\out\VAV1_domain_types.tsv	PROFILE:PS00010	active	PROFILE	PS50010	Dbl homology (DH) domain profile	IPR000219							InterProEntry
+AKT3	cAMP_human\AKT3_out_final\out\AKT3_domain_types.tsv	PROFILE:PS00011	active	PROFILE	PS50011	Protein kinase domain profile	IPR000719							InterProEntry
+CREBBP	cAMP_human\CREBBP_out_final\out\CREBBP_domain_types.tsv	PROFILE:PS00014	active	PROFILE	PS50014	Bromodomain profile	IPR001487							InterProEntry
+VAV1	cAMP_human\VAV1_out_final\out\VAV1_domain_types.tsv	PROFILE:PS00021	active	PROFILE	PS50021	Calponin homology (CH) domain profile	IPR001715							InterProEntry
+PLD1	cAMP_human\PLD1_out_final\out\PLD1_domain_types.tsv	PROFILE:PS00035	active	PROFILE	PS50035	Phospholipase D phosphodiesterase active site profile	IPR001736							InterProEntry
+CNGA1	cAMP_human\CNGA1_out_final\out\CNGA1_domain_types.tsv	PROFILE:PS00042	active	PROFILE	PS50042	cAMP/cGMP binding motif profile	IPR000595							InterProEntry
+PRKAC	cAMP_human\PRKAC_out_final\out\PRKAC_domain_types.tsv	PROFILE:PS00081	active	PROFILE	PS50081	Zinc finger phorbol-ester/DAG-type profile	IPR002219							InterProEntry
+PAK1	cAMP_human\PAK1_out_final\out\PAK1_domain_types.tsv	PROFILE:PS00082	active	PROFILE	PS50082	Trp-Asp (WD) repeats profile	IPR001680							InterProEntry
+PAK1	cAMP_human\PAK1_out_final\out\PAK1_domain_types.tsv	PROFILE:PS00108	active	PROFILE	PS50108	CRIB domain profile	IPR000095							InterProEntry
+RAC3	cAMP_human\RAC3_out_final\out\RAC3_domain_types.tsv	PROFILE:PS00112	active	PROFILE	PS50112	PAS repeat profile	IPR000014							InterProEntry
+ADCY	cAMP_human\ADCY_out_final\out\ADCY_domain_types.tsv	PROFILE:PS00125	active	PROFILE	PS50125	Guanylate cyclase domain profile	IPR001054							InterProEntry
+GNAI	cAMP_human\GNAI_out_final\out\GNAI_domain_types.tsv	PROFILE:PS00132	active	PROFILE	PS50132	RGS domain profile	IPR016137							InterProEntry
+CREBBP	cAMP_human\CREBBP_out_final\out\CREBBP_domain_types.tsv	PROFILE:PS00134	active	PROFILE	PS50134	Zinc finger TAZ-type profile	IPR000197							InterProEntry
+CREBBP	cAMP_human\CREBBP_out_final\out\CREBBP_domain_types.tsv	PROFILE:PS00135	active	PROFILE	PS50135	Zinc finger ZZ-type profile	IPR000433							InterProEntry
+CREB5	cAMP_human\CREB5_out_final\out\CREB5_domain_types.tsv	PROFILE:PS00157	active	PROFILE	PS50157	Zinc finger C2H2 type domain profile	IPR013087							InterProEntry
+RAPGEF3	cAMP_human\RAPGEF3_out_final\out\RAPGEF3_domain_types.tsv	PROFILE:PS00186	active	PROFILE	PS50186	DEP domain profile	IPR000591							InterProEntry
+RYR2	cAMP_human\RYR2_out_final\out\RYR2_domain_types.tsv	PROFILE:PS00188	active	PROFILE	PS50188	B30.2/SPRY domain profile	IPR001870							InterProEntry
+PLD1	cAMP_human\PLD1_out_final\out\PLD1_domain_types.tsv	PROFILE:PS00195	active	PROFILE	PS50195	PX domain profile	IPR001683							InterProEntry
+PLCE1	cAMP_human\PLCE1_out_final\out\PLCE1_domain_types.tsv	PROFILE:PS00200	active	PROFILE	PS50200	Ras-associating (RA) domain profile	IPR000159							InterProEntry
+RAPGEF3	cAMP_human\RAPGEF3_out_final\out\RAPGEF3_domain_types.tsv	PROFILE:PS00212	active	PROFILE	PS50212	Ras guanine-nucleotide exchange factors N-terminal domain profile	IPR000651							InterProEntry
+CREB1	cAMP_human\CREB1_out_final\out\CREB1_domain_types.tsv	PROFILE:PS00217	active	PROFILE	PS50217	Basic-leucine zipper (bZIP) domain profile	IPR004827							InterProEntry
+CALM1	cAMP_human\CALM1_out_final\out\CALM1_domain_types.tsv	PROFILE:PS00222	active	PROFILE	PS50222	EF-hand calcium-binding domain profile	IPR002048							InterProEntry
+ADCY	cAMP_human\ADCY_out_final\out\ADCY_domain_types.tsv	PROFILE:PS00227	active	PROFILE	PS50227	G-protein coupled receptors family 2 profile 1	IPR001879							InterProEntry
+PIK3R1	cAMP_human\PIK3R1_out_final\out\PIK3R1_domain_types.tsv	PROFILE:PS00238	active	PROFILE	PS50238	Rho GTPase-activating proteins domain profile	IPR000198							InterProEntry
+GABBR2	cAMP_human\GABBR2_out_final\out\GABBR2_domain_types.tsv	PROFILE:PS00259	active	PROFILE	PS50259	G-protein coupled receptors family 3 profile	IPR017978							InterProEntry
+ADCY	cAMP_human\ADCY_out_final\out\ADCY_domain_types.tsv	PROFILE:PS00261	active	PROFILE	PS50261	G-protein coupled receptors family 2 profile 2	IPR017981							InterProEntry
+ADORA1	cAMP_human\ADORA1_out_final\out\ADORA1_domain_types.tsv	PROFILE:PS00262	active	PROFILE	PS50262	G-protein coupled receptors family 1 profile	IPR017452							InterProEntry
+BDNF	cAMP_human\BDNF_out_final\out\BDNF_domain_types.tsv	PROFILE:PS00270	active	PROFILE	PS50270	Nerve growth factor family profile								InterProEntry
+PIK3CA	cAMP_human\PIK3CA_out_final\out\PIK3CA_domain_types.tsv	PROFILE:PS00290	active	PROFILE	PS50290	Phosphatidylinositol 3- and 4-kinases catalytic domain profile	IPR000403							InterProEntry
+PAK1	cAMP_human\PAK1_out_final\out\PAK1_domain_types.tsv	PROFILE:PS00294	active	PROFILE	PS50294	Trp-Asp (WD) repeats circular profile								InterProEntry
+RAC3	cAMP_human\RAC3_out_final\out\RAC3_domain_types.tsv	PROFILE:PS00888	active	PROFILE	PS50888	"Myc-type, basic helix-loop-helix (bHLH) domain profile"	IPR011598							InterProEntry
+ABCC4	cAMP_human\ABCC4_out_final\out\ABCC4_domain_types.tsv	PROFILE:PS00893	active	PROFILE	PS50893	"ATP-binding cassette, ABC transporter-type domain profile"	IPR003439							InterProEntry
+RAF1	cAMP_human\RAF1_out_final\out\RAF1_domain_types.tsv	PROFILE:PS00898	active	PROFILE	PS50898	Ras-binding domain (RBD) profile	IPR003116							InterProEntry
+RYR2	cAMP_human\RYR2_out_final\out\RYR2_domain_types.tsv	PROFILE:PS00919	active	PROFILE	PS50919	MIR domain profile	IPR016093							InterProEntry
+ABCC4	cAMP_human\ABCC4_out_final\out\ABCC4_domain_types.tsv	PROFILE:PS00929	active	PROFILE	PS50929	ABC transporter integral membrane type-1 fused domain profile	IPR011527							InterProEntry
+CREBBP	cAMP_human\CREBBP_out_final\out\CREBBP_domain_types.tsv	PROFILE:PS00952	active	PROFILE	PS50952	KIX domain profile	IPR003101							InterProEntry
+CREB1	cAMP_human\CREB1_out_final\out\CREB1_domain_types.tsv	PROFILE:PS00953	active	PROFILE	PS50953	KID domain profile	IPR003102							InterProEntry
+AKT3	cAMP_human\AKT3_out_final\out\AKT3_domain_types.tsv	PROFILE:PS01285	active	PROFILE	PS51285	AGC-kinase C-terminal domain profile	IPR000961							InterProEntry
+PDE4D	cAMP_human\PDE4D_out_final\out\PDE4D_domain_types.tsv	PROFILE:PS01316	active	PROFILE	PS51316	Olduvai (ODV) domain profile	IPR010630							InterProEntry
+RAC1	cAMP_human\RAC1_out_final\out\RAC1_domain_types.tsv	PROFILE:PS01419	active	PROFILE	PS51419	small GTPase Rab1 family profile								InterProEntry
+RAC1	cAMP_human\RAC1_out_final\out\RAC1_domain_types.tsv	PROFILE:PS01420	active	PROFILE	PS51420	small GTPase Rho family profile								InterProEntry
+RAC1	cAMP_human\RAC1_out_final\out\RAC1_domain_types.tsv	PROFILE:PS01421	active	PROFILE	PS51421	small GTPase Ras family profile	IPR001806							InterProEntry
+PIK3CA	cAMP_human\PIK3CA_out_final\out\PIK3CA_domain_types.tsv	PROFILE:PS01544	active	PROFILE	PS51544	Phosphatidylinositol 3-kinase adaptor-binding (PI3K ABD) domain profile	IPR003113							InterProEntry
+PIK3CA	cAMP_human\PIK3CA_out_final\out\PIK3CA_domain_types.tsv	PROFILE:PS01545	active	PROFILE	PS51545	PIK helical domain profile	IPR001263							InterProEntry
+PIK3CA	cAMP_human\PIK3CA_out_final\out\PIK3CA_domain_types.tsv	PROFILE:PS01546	active	PROFILE	PS51546	Phosphatidylinositol 3-kinase Ras-binding (PI3K RBD) domain profile	IPR000341							InterProEntry
+PIK3CA	cAMP_human\PIK3CA_out_final\out\PIK3CA_domain_types.tsv	PROFILE:PS01547	active	PROFILE	PS51547	C2 phosphatidylinositol 3-kinase (PI3K)-type domain profile	IPR002420							InterProEntry
+CREBBP	cAMP_human\CREBBP_out_final\out\CREBBP_domain_types.tsv	PROFILE:PS01727	active	PROFILE	PS51727	CBP/p300-type histone acetyltransferase (HAT) domain profile	IPR031162							InterProEntry
+MAPK8	cAMP_human\MAPK8_out_final\out\MAPK8_domain_types.tsv	PROFILE:PS01776	active	PROFILE	PS51776	RH1 domain profile	IPR034743							InterProEntry
+MAPK8	cAMP_human\MAPK8_out_final\out\MAPK8_domain_types.tsv	PROFILE:PS01777	active	PROFILE	PS51777	RH2 domain profile	IPR034744							InterProEntry
+PDE10A	cAMP_human\PDE10A_out_final\out\PDE10A_domain_types.tsv	PROFILE:PS01845	active	PROFILE	PS51845	35-cyclic nucleotide phosphodiesterase domain profile	IPR002073							InterProEntry
+ROCK1	cAMP_human\ROCK1_out_final\out\ROCK1_domain_types.tsv	PROFILE:PS01859	active	PROFILE	PS51859	Rho-binding (RhoBD) domain profile	IPR015008							InterProEntry
+PAK1	cAMP_human\PAK1_out_final\out\PAK1_domain_types.tsv	PROFILE:PS01860	active	PROFILE	PS51860	REM-1 domain profile	IPR011072							InterProEntry
+GNAI	cAMP_human\GNAI_out_final\out\GNAI_domain_types.tsv	PROFILE:PS01882	active	PROFILE	PS51882	G-alpha domain profile	IPR001019							InterProEntry
+OXT	cAMP_human\OXT_out_final\out\OXT_domain_types.tsv	SMART:SM00003	active	SMART	SM00003	Neurohypophysial hormones	IPR000981							InterProEntry
+ADCY	cAMP_human\ADCY_out_final\out\ADCY_domain_types.tsv	SMART:SM00008	active	SMART	SM00008	Domain present in hormone receptors	IPR001879							InterProEntry
+VAV1	cAMP_human\VAV1_out_final\out\VAV1_domain_types.tsv	SMART:SM00033	active	SMART	SM00033	Calponin homology domain	IPR001715							InterProEntry
+CRH	cAMP_human\CRH_out_final\out\CRH_domain_types.tsv	SMART:SM00039	active	SMART	SM00039	corticotropin-releasing factor	IPR000187							InterProEntry
+ADCY	cAMP_human\ADCY_out_final\out\ADCY_domain_types.tsv	SMART:SM00044	active	SMART	SM00044	"Adenylyl- / guanylyl cyclase, catalytic domain"	IPR001054							InterProEntry
+RAPGEF3	cAMP_human\RAPGEF3_out_final\out\RAPGEF3_domain_types.tsv	SMART:SM00049	active	SMART	SM00049	"Domain found in Dishevelled, Egl-10, and Pleckstrin"	IPR000591							InterProEntry
+CALM1	cAMP_human\CALM1_out_final\out\CALM1_domain_types.tsv	SMART:SM00054	active	SMART	SM00054	"EF-hand, calcium binding motif"	IPR002048							InterProEntry
+PDE10A	cAMP_human\PDE10A_out_final\out\PDE10A_domain_types.tsv	SMART:SM00065	active	SMART	SM00065	Domain present in phytochromes and cGMP-specific phosphodiesterases.	IPR003018							InterProEntry
+ADCY	cAMP_human\ADCY_out_final\out\ADCY_domain_types.tsv	SMART:SM00070	active	SMART	SM00070	Glucagon like hormones	IPR000532							InterProEntry
+RAC3	cAMP_human\RAC3_out_final\out\RAC3_domain_types.tsv	SMART:SM00091	active	SMART	SM00091	PAS domain	IPR000014							InterProEntry
+CNGA1	cAMP_human\CNGA1_out_final\out\CNGA1_domain_types.tsv	SMART:SM00100	active	SMART	SM00100	Cyclic nucleotide-monophosphate binding domain	IPR000595							InterProEntry
+PRKAC	cAMP_human\PRKAC_out_final\out\PRKAC_domain_types.tsv	SMART:SM00109	active	SMART	SM00109	Protein kinase C conserved region 1 (C1) domains (Cysteine-rich domains)	IPR002219							InterProEntry
+AKT3	cAMP_human\AKT3_out_final\out\AKT3_domain_types.tsv	SMART:SM00133	active	SMART	SM00133	Extension to Ser/Thr-type protein kinases	IPR000961							InterProEntry
+BDNF	cAMP_human\BDNF_out_final\out\BDNF_domain_types.tsv	SMART:SM00140	active	SMART	SM00140	Nerve growth factor (NGF or beta-NGF)	IPR002072							InterProEntry
+PIK3CA	cAMP_human\PIK3CA_out_final\out\PIK3CA_domain_types.tsv	SMART:SM00142	active	SMART	SM00142	"Phosphoinositide 3-kinase, region postulated to contain C2 domain"	IPR002420							InterProEntry
+PIK3CA	cAMP_human\PIK3CA_out_final\out\PIK3CA_domain_types.tsv	SMART:SM00143	active	SMART	SM00143	"PI3-kinase family, p85-binding domain"	IPR003113							InterProEntry
+PIK3CA	cAMP_human\PIK3CA_out_final\out\PIK3CA_domain_types.tsv	SMART:SM00144	active	SMART	SM00144	"PI3-kinase family, Ras-binding domain"	IPR000341							InterProEntry
+PIK3CA	cAMP_human\PIK3CA_out_final\out\PIK3CA_domain_types.tsv	SMART:SM00145	active	SMART	SM00145	"Phosphoinositide 3-kinase family, accessory domain (PIK domain)"	IPR001263							InterProEntry
+PIK3CA	cAMP_human\PIK3CA_out_final\out\PIK3CA_domain_types.tsv	SMART:SM00146	active	SMART	SM00146	"Phosphoinositide 3-kinase, catalytic domain"	IPR000403							InterProEntry
+PLCE1	cAMP_human\PLCE1_out_final\out\PLCE1_domain_types.tsv	SMART:SM00147	active	SMART	SM00147	Guanine nucleotide exchange factor for Ras-like small GTPases	IPR001895							InterProEntry
+PLCE1	cAMP_human\PLCE1_out_final\out\PLCE1_domain_types.tsv	SMART:SM00148	active	SMART	SM00148	"Phospholipase C, catalytic domain (part); domain X"	IPR000909							InterProEntry
+PLCE1	cAMP_human\PLCE1_out_final\out\PLCE1_domain_types.tsv	SMART:SM00149	active	SMART	SM00149	"Phospholipase C, catalytic domain (part); domain Y"	IPR001711							InterProEntry
+PLD1	cAMP_human\PLD1_out_final\out\PLD1_domain_types.tsv	SMART:SM00155	active	SMART	SM00155	Phospholipase D. Active site motifs.	IPR001736							InterProEntry
+PPP1CA	cAMP_human\PPP1CA_out_final\out\PPP1CA_domain_types.tsv	SMART:SM00156	active	SMART	SM00156	"Protein phosphatase 2A homologues, catalytic domain."	IPR006186							InterProEntry
+RAC1	cAMP_human\RAC1_out_final\out\RAC1_domain_types.tsv	SMART:SM00173	active	SMART	SM00173	Ras subfamily of RAS small GTPases								InterProEntry
+RAC1	cAMP_human\RAC1_out_final\out\RAC1_domain_types.tsv	SMART:SM00174	active	SMART	SM00174	Rho (Ras homology) subfamily of Ras-like small GTPases	IPR001806							InterProEntry
+RAC1	cAMP_human\RAC1_out_final\out\RAC1_domain_types.tsv	SMART:SM00175	active	SMART	SM00175	Rab subfamily of small GTPases								InterProEntry
+RAC2	cAMP_human\RAC2_out_final\out\RAC2_domain_types.tsv	SMART:SM00176	active	SMART	SM00176	Ran (Ras-related nuclear proteins) /TC4 subfamily of small GTPases								InterProEntry
+AKT3	cAMP_human\AKT3_out_final\out\AKT3_domain_types.tsv	SMART:SM00220	active	SMART	SM00220	"Serine/Threonine protein kinases, catalytic domain"	IPR000719							InterProEntry
+RAPGEF3	cAMP_human\RAPGEF3_out_final\out\RAPGEF3_domain_types.tsv	SMART:SM00229	active	SMART	SM00229	Guanine nucleotide exchange factor for Ras-like GTPases; N-terminal motif	IPR000651							InterProEntry
+AKT3	cAMP_human\AKT3_out_final\out\AKT3_domain_types.tsv	SMART:SM00233	active	SMART	SM00233	Pleckstrin homology domain.	IPR001849							InterProEntry
+PLCE1	cAMP_human\PLCE1_out_final\out\PLCE1_domain_types.tsv	SMART:SM00239	active	SMART	SM00239	Protein kinase C conserved region 2 (CalB)	IPR000008							InterProEntry
+PIK3R1	cAMP_human\PIK3R1_out_final\out\PIK3R1_domain_types.tsv	SMART:SM00252	active	SMART	SM00252	Src homology 2 domains	IPR000980							InterProEntry
+EDN1	cAMP_human\EDN1_out_final\out\EDN1_domain_types.tsv	SMART:SM00272	active	SMART	SM00272	Endothelin	IPR001928							InterProEntry
+GNAI	cAMP_human\GNAI_out_final\out\GNAI_domain_types.tsv	SMART:SM00275	active	SMART	SM00275	G protein alpha subunit	IPR001019							InterProEntry
+PAK1	cAMP_human\PAK1_out_final\out\PAK1_domain_types.tsv	SMART:SM00285	active	SMART	SM00285	P21-Rho-binding domain	IPR000095							InterProEntry
+CREBBP	cAMP_human\CREBBP_out_final\out\CREBBP_domain_types.tsv	SMART:SM00291	active	SMART	SM00291	"Zinc-binding domain, present in Dystrophin, CREB-binding protein."	IPR000433							InterProEntry
+CREBBP	cAMP_human\CREBBP_out_final\out\CREBBP_domain_types.tsv	SMART:SM00297	active	SMART	SM00297	bromo domain	IPR001487							InterProEntry
+PLD1	cAMP_human\PLD1_out_final\out\PLD1_domain_types.tsv	SMART:SM00312	active	SMART	SM00312	"PhoX homologous domain, present in p47phox and p40phox."	IPR001683							InterProEntry
+PLCE1	cAMP_human\PLCE1_out_final\out\PLCE1_domain_types.tsv	SMART:SM00314	active	SMART	SM00314	Ras association (RalGDS/AF-6) domain	IPR000159							InterProEntry
+GNAI	cAMP_human\GNAI_out_final\out\GNAI_domain_types.tsv	SMART:SM00315	active	SMART	SM00315	Regulator of G protein signalling domain	IPR016137							InterProEntry
+PAK1	cAMP_human\PAK1_out_final\out\PAK1_domain_types.tsv	SMART:SM00320	active	SMART	SM00320	WD40 repeats	IPR001680							InterProEntry
+PIK3R1	cAMP_human\PIK3R1_out_final\out\PIK3R1_domain_types.tsv	SMART:SM00324	active	SMART	SM00324	GTPase-activator protein for Rho-like GTPases	IPR000198							InterProEntry
+VAV1	cAMP_human\VAV1_out_final\out\VAV1_domain_types.tsv	SMART:SM00325	active	SMART	SM00325	Guanine nucleotide exchange factor for Rho/Rac/Cdc42-like GTPases	IPR000219							InterProEntry
+MAPK8	cAMP_human\MAPK8_out_final\out\MAPK8_domain_types.tsv	SMART:SM00326	active	SMART	SM00326	Src homology 3 domains	IPR001452							InterProEntry
+CREB1	cAMP_human\CREB1_out_final\out\CREB1_domain_types.tsv	SMART:SM00338	active	SMART	SM00338	basic region leucin zipper	IPR004827							InterProEntry
+RAC3	cAMP_human\RAC3_out_final\out\RAC3_domain_types.tsv	SMART:SM00353	active	SMART	SM00353	helix loop helix domain	IPR011598							InterProEntry
+ABCC4	cAMP_human\ABCC4_out_final\out\ABCC4_domain_types.tsv	SMART:SM00382	active	SMART	SM00382	ATPases associated with a variety of cellular activities	IPR003593							InterProEntry
+RYR2	cAMP_human\RYR2_out_final\out\RYR2_domain_types.tsv	SMART:SM00449	active	SMART	SM00449	Domain in SPla and the RYanodine Receptor.	IPR003877							InterProEntry
+RAF1	cAMP_human\RAF1_out_final\out\RAF1_domain_types.tsv	SMART:SM00455	active	SMART	SM00455	Raf-like Ras-binding domain	IPR003116							InterProEntry
+MAPK8	cAMP_human\MAPK8_out_final\out\MAPK8_domain_types.tsv	SMART:SM00462	active	SMART	SM00462	"Phosphotyrosine-binding domain, phosphotyrosine-interaction (PI) domain"	IPR006020							InterProEntry
+PDE10A	cAMP_human\PDE10A_out_final\out\PDE10A_domain_types.tsv	SMART:SM00471	active	SMART	SM00471	Metal dependent phosphohydrolases with conserved 'HD' motif.	IPR003607							InterProEntry
+RYR2	cAMP_human\RYR2_out_final\out\RYR2_domain_types.tsv	SMART:SM00472	active	SMART	SM00472	Domain in ryanodine and inositol trisphosphate receptors and protein O-mannosyltransferases	IPR016093							InterProEntry
+CREBBP	cAMP_human\CREBBP_out_final\out\CREBBP_domain_types.tsv	SMART:SM00551	active	SMART	SM00551	"TAZ zinc finger, present in p300 and CBP"	IPR000197							InterProEntry
+PAK1	cAMP_human\PAK1_out_final\out\PAK1_domain_types.tsv	SMART:SM00742	active	SMART	SM00742	Rho effector or protein kinase C-related kinase homology region 1 homologues	IPR011072							InterProEntry
+ATP2A3	cAMP_human\ATP2A3_out_final\out\ATP2A3_domain_types.tsv	SMART:SM00831	active	SMART	SM00831	"Cation transporter/ATPase, N-terminus"	IPR004014							InterProEntry
+CACNA1C	cAMP_human\CACNA1C_out_final\out\CACNA1C_domain_types.tsv	SMART:SM01062	active	SMART	SM01062	Voltage gated calcium channel IQ domain	IPR014873							InterProEntry
+PDE4D	cAMP_human\PDE4D_out_final\out\PDE4D_domain_types.tsv	SMART:SM01148	active	SMART	SM01148	Repeat of unknown function (DUF1220)	IPR010630							InterProEntry
+RAC3	cAMP_human\RAC3_out_final\out\RAC3_domain_types.tsv	SMART:SM01151	active	SMART	SM01151	DUF1518	IPR010011							InterProEntry
+CREBBP	cAMP_human\CREBBP_out_final\out\CREBBP_domain_types.tsv	SMART:SM01250	active	SMART	SM01250	Histone acetylation protein	IPR013178							InterProEntry
+MAP2K1	cAMP_human\MAP2K1_out_final\out\MAP2K1_domain_types.tsv	SMART:SM01278	active	SMART	SM01278	Mitogen-activated protein kinase kinase 1 interacting	IPR015019							InterProEntry
+ADORA1	cAMP_human\ADORA1_out_final\out\ADORA1_domain_types.tsv	SMART:SM01381	active	SMART	SM01381	Serpentine type 7TM GPCR chemoreceptor Srsx	IPR000276							InterProEntry
