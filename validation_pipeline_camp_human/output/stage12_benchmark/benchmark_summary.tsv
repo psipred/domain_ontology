@@ -1,0 +1,6 @@
+relationship_type	n_gold	n_predicted	n_true_pos	n_false_neg	n_false_pos	precision	recall	f1
+binding_target	325	325	0	325	325	0.0	0.0	0.0
+function_tag	328	328	0	328	328	0.0	0.0	0.0
+positional_category	193	193	0	193	193	0.0	0.0	0.0
+proximity_categories	60	60	0	60	60	0.0	0.0	0.0
+topology_context	70	187	0	70	187	0.0	0.0	0.0

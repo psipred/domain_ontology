@@ -1,0 +1,8 @@
+metric	value
+n_proteins	142.0
+n_features	293.0
+n_clusters_chosen	12.0
+silhouette_score	0.4603
+ARI_vs_mmseqs2	0.1027
+NMI_vs_mmseqs2	0.6575
+pcoa_gof_2d	0.3649

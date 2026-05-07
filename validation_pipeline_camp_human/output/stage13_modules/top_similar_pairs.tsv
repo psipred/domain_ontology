@@ -1,0 +1,51 @@
+protein_A	protein_B	jaccard_similarity	same_cluster	group_A	group_B	n_shared_features	top_shared_features
+P21918	P30874	1.0	True	GPCR_class_A	GPCR_class_A	9	DOF:000012 membrane-ancho; DOP:000006 cytoplasmic; DOP:000007 extracellular; DOP:000008 transmembrane; INTERPRO:IPR017452
+P21728	P43116	1.0	True	GPCR_class_A	GPCR_class_A	9	DOF:000012 membrane-ancho; DOP:000006 cytoplasmic; DOP:000007 extracellular; DOP:000008 transmembrane; INTERPRO:IPR017452
+P21728	P49019	1.0	True	GPCR_class_A	GPCR_class_A	9	DOF:000012 membrane-ancho; DOP:000006 cytoplasmic; DOP:000007 extracellular; DOP:000008 transmembrane; INTERPRO:IPR017452
+P21728	Q8TDV5	1.0	True	GPCR_class_A	GPCR_class_A	9	DOF:000012 membrane-ancho; DOP:000006 cytoplasmic; DOP:000007 extracellular; DOP:000008 transmembrane; INTERPRO:IPR017452
+P21728	Q9BXA5	1.0	True	GPCR_class_A	GPCR_class_A	9	DOF:000012 membrane-ancho; DOP:000006 cytoplasmic; DOP:000007 extracellular; DOP:000008 transmembrane; INTERPRO:IPR017452
+P21728	Q9BXC0	1.0	True	GPCR_class_A	GPCR_class_A	9	DOF:000012 membrane-ancho; DOP:000006 cytoplasmic; DOP:000007 extracellular; DOP:000008 transmembrane; INTERPRO:IPR017452
+P21728	P30874	1.0	True	GPCR_class_A	GPCR_class_A	9	DOF:000012 membrane-ancho; DOP:000006 cytoplasmic; DOP:000007 extracellular; DOP:000008 transmembrane; INTERPRO:IPR017452
+P21728	P35346	1.0	True	GPCR_class_A	GPCR_class_A	9	DOF:000012 membrane-ancho; DOP:000006 cytoplasmic; DOP:000007 extracellular; DOP:000008 transmembrane; INTERPRO:IPR017452
+P21918	P43115	1.0	True	GPCR_class_A	GPCR_class_A	9	DOF:000012 membrane-ancho; DOP:000006 cytoplasmic; DOP:000007 extracellular; DOP:000008 transmembrane; INTERPRO:IPR017452
+P21918	P43116	1.0	True	GPCR_class_A	GPCR_class_A	9	DOF:000012 membrane-ancho; DOP:000006 cytoplasmic; DOP:000007 extracellular; DOP:000008 transmembrane; INTERPRO:IPR017452
+P21918	P49019	1.0	True	GPCR_class_A	GPCR_class_A	9	DOF:000012 membrane-ancho; DOP:000006 cytoplasmic; DOP:000007 extracellular; DOP:000008 transmembrane; INTERPRO:IPR017452
+P21918	P25929	1.0	True	GPCR_class_A	GPCR_class_A	9	DOF:000012 membrane-ancho; DOP:000006 cytoplasmic; DOP:000007 extracellular; DOP:000008 transmembrane; INTERPRO:IPR017452
+P21918	P29274	1.0	True	GPCR_class_A	GPCR_class_A	9	DOF:000012 membrane-ancho; DOP:000006 cytoplasmic; DOP:000007 extracellular; DOP:000008 transmembrane; INTERPRO:IPR017452
+P21918	P30542	1.0	True	GPCR_class_A	GPCR_class_A	9	DOF:000012 membrane-ancho; DOP:000006 cytoplasmic; DOP:000007 extracellular; DOP:000008 transmembrane; INTERPRO:IPR017452
+P21918	P30559	1.0	True	GPCR_class_A	GPCR_class_A	9	DOF:000012 membrane-ancho; DOP:000006 cytoplasmic; DOP:000007 extracellular; DOP:000008 transmembrane; INTERPRO:IPR017452
+P21918	P30872	1.0	True	GPCR_class_A	GPCR_class_A	9	DOF:000012 membrane-ancho; DOP:000006 cytoplasmic; DOP:000007 extracellular; DOP:000008 transmembrane; INTERPRO:IPR017452
+P21918	Q9BXA5	1.0	True	GPCR_class_A	GPCR_class_A	9	DOF:000012 membrane-ancho; DOP:000006 cytoplasmic; DOP:000007 extracellular; DOP:000008 transmembrane; INTERPRO:IPR017452
+P21918	Q9BXC0	1.0	True	GPCR_class_A	GPCR_class_A	9	DOF:000012 membrane-ancho; DOP:000006 cytoplasmic; DOP:000007 extracellular; DOP:000008 transmembrane; INTERPRO:IPR017452
+P22612	P22694	1.0	True	AGC_kinase_PKA_like	AGC_kinase_PKA_like	8	DOP:000012 unknown; DOF:000009 Binding; DOF:000010 catalytic; DOT:000026 ATP; DOT:000079 Mg2+
+P21918	P35346	1.0	True	GPCR_class_A	GPCR_class_A	9	DOF:000012 membrane-ancho; DOP:000006 cytoplasmic; DOP:000007 extracellular; DOP:000008 transmembrane; INTERPRO:IPR017452
+P21918	P35408	1.0	True	GPCR_class_A	GPCR_class_A	9	DOF:000012 membrane-ancho; DOP:000006 cytoplasmic; DOP:000007 extracellular; DOP:000008 transmembrane; INTERPRO:IPR017452
+P21918	Q8TDV5	1.0	True	GPCR_class_A	GPCR_class_A	9	DOF:000012 membrane-ancho; DOP:000006 cytoplasmic; DOP:000007 extracellular; DOP:000008 transmembrane; INTERPRO:IPR017452
+Q08462	Q8NFM4	1.0	True	adenylyl_cyclase	adenylyl_cyclase	11	DOF:000010 catalytic; DOT:000026 ATP; DOT:000079 Mg2+; DOF:000012 membrane-ancho; DOP:000006 cytoplasmic
+Q02750	Q16539	1.0	True	MAP2K	MAPK_related_kinase_or_review	7	DOP:000012 unknown; DOF:000009 Binding; DOF:000010 catalytic; DOT:000026 ATP; DOT:000079 Mg2+
+Q02750	Q16566	1.0	True	MAP2K	CaMK	7	DOP:000012 unknown; DOF:000009 Binding; DOF:000010 catalytic; DOT:000026 ATP; DOT:000079 Mg2+
+Q02750	Q8TD08	1.0	True	MAP2K	MAPK_related_kinase_or_review	7	DOP:000012 unknown; DOF:000009 Binding; DOF:000010 catalytic; DOT:000026 ATP; DOT:000079 Mg2+
+Q07343	Q08493	1.0	True	phosphodiesterase	phosphodiesterase	11	DOF:000014 regulator; DOP:000012 unknown; DOF:000010 catalytic; DOT:000079 Mg2+; DOT:000033 cAMP
+Q01814	Q16720	1.0	True	calcium_pump	calcium_pump	19	DOF:000014 regulator; DOF:000010 catalytic; DOT:000026 ATP; DOT:000079 Mg2+; DOF:000013 transporter
+O43306	O95622	1.0	True	adenylyl_cyclase	adenylyl_cyclase	11	DOF:000010 catalytic; DOT:000026 ATP; DOT:000079 Mg2+; DOF:000012 membrane-ancho; DOP:000006 cytoplasmic
+O43306	P40145	1.0	True	adenylyl_cyclase	adenylyl_cyclase	11	DOF:000010 catalytic; DOT:000026 ATP; DOT:000079 Mg2+; DOF:000012 membrane-ancho; DOP:000006 cytoplasmic
+O15552	P35346	1.0	True	GPCR_class_A	GPCR_class_A	9	DOF:000012 membrane-ancho; DOP:000006 cytoplasmic; DOP:000007 extracellular; DOP:000008 transmembrane; INTERPRO:IPR017452
+O15552	P35408	1.0	True	GPCR_class_A	GPCR_class_A	9	DOF:000012 membrane-ancho; DOP:000006 cytoplasmic; DOP:000007 extracellular; DOP:000008 transmembrane; INTERPRO:IPR017452
+O15552	P43115	1.0	True	GPCR_class_A	GPCR_class_A	9	DOF:000012 membrane-ancho; DOP:000006 cytoplasmic; DOP:000007 extracellular; DOP:000008 transmembrane; INTERPRO:IPR017452
+O15552	P43116	1.0	True	GPCR_class_A	GPCR_class_A	9	DOF:000012 membrane-ancho; DOP:000006 cytoplasmic; DOP:000007 extracellular; DOP:000008 transmembrane; INTERPRO:IPR017452
+O15552	P49019	1.0	True	GPCR_class_A	GPCR_class_A	9	DOF:000012 membrane-ancho; DOP:000006 cytoplasmic; DOP:000007 extracellular; DOP:000008 transmembrane; INTERPRO:IPR017452
+O43306	P51828	1.0	True	adenylyl_cyclase	adenylyl_cyclase	11	DOF:000010 catalytic; DOT:000026 ATP; DOT:000079 Mg2+; DOF:000012 membrane-ancho; DOP:000006 cytoplasmic
+O43306	Q08462	1.0	True	adenylyl_cyclase	adenylyl_cyclase	11	DOF:000010 catalytic; DOT:000026 ATP; DOT:000079 Mg2+; DOF:000012 membrane-ancho; DOP:000006 cytoplasmic
+O43306	Q8NFM4	1.0	True	adenylyl_cyclase	adenylyl_cyclase	11	DOF:000010 catalytic; DOT:000026 ATP; DOT:000079 Mg2+; DOF:000012 membrane-ancho; DOP:000006 cytoplasmic
+O15552	Q8TDV5	1.0	True	GPCR_class_A	GPCR_class_A	9	DOF:000012 membrane-ancho; DOP:000006 cytoplasmic; DOP:000007 extracellular; DOP:000008 transmembrane; INTERPRO:IPR017452
+O15552	Q9BXA5	1.0	True	GPCR_class_A	GPCR_class_A	9	DOF:000012 membrane-ancho; DOP:000006 cytoplasmic; DOP:000007 extracellular; DOP:000008 transmembrane; INTERPRO:IPR017452
+O15552	Q9BXC0	1.0	True	GPCR_class_A	GPCR_class_A	9	DOF:000012 membrane-ancho; DOP:000006 cytoplasmic; DOP:000007 extracellular; DOP:000008 transmembrane; INTERPRO:IPR017452
+O15264	Q15759	1.0	True	MAPK	MAPK_related_kinase_or_review	7	DOP:000012 unknown; DOF:000009 Binding; DOF:000010 catalytic; DOT:000026 ATP; DOT:000079 Mg2+
+O15264	Q16539	1.0	True	MAPK	MAPK_related_kinase_or_review	7	DOP:000012 unknown; DOF:000009 Binding; DOF:000010 catalytic; DOT:000026 ATP; DOT:000079 Mg2+
+O15264	Q16566	1.0	True	MAPK	CaMK	7	DOP:000012 unknown; DOF:000009 Binding; DOF:000010 catalytic; DOT:000026 ATP; DOT:000079 Mg2+
+O15264	Q8TD08	1.0	True	MAPK	MAPK_related_kinase_or_review	7	DOP:000012 unknown; DOF:000009 Binding; DOF:000010 catalytic; DOT:000026 ATP; DOT:000079 Mg2+
+Q13370	Q14432	1.0	True	phosphodiesterase	phosphodiesterase	8	DOP:000012 unknown; DOF:000010 catalytic; DOT:000079 Mg2+; DOT:000033 cAMP; DOT:000034 cGMP
+O43314	Q6PFW1	1.0	True	other_or_review	other_or_review	6	DOP:000012 unknown; INTERPRO:IPR040557; DOF:000043 ligand; DOF:000038 receptor-bindi; DOT:000202 VPAC1/VIPR1
+O60840	Q01668	1.0	True	voltage_gated_calcium_channel	voltage_gated_calcium_channel	13	DOF:000014 regulator; DOP:000006 cytoplasmic; DOP:000007 extracellular; DOP:000008 transmembrane; DOF:000026 channel
+O60271	Q9UPT6	1.0	True	MAPK_scaffold	MAPK_scaffold	6	DOF:000014 regulator; DOP:000012 unknown; INTERPRO:IPR034743; DOT:000112 protein partne; INTERPRO:IPR032486
+O60266	Q08828	1.0	True	adenylyl_cyclase	adenylyl_cyclase	10	DOF:000010 catalytic; DOT:000026 ATP; DOT:000079 Mg2+; DOF:000012 membrane-ancho; DOP:000006 cytoplasmic

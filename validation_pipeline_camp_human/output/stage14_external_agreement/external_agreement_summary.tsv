@@ -1,0 +1,2 @@
+annotation_type	n_proteins	mean_jaccard	mean_overlap_coeff	total_ontology_terms	total_external_terms	total_overlap
+go	142	0.2914	0.9296	358	1448	358

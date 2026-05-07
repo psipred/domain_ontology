@@ -1,0 +1,6 @@
+shape	status	n_violations
+DomainOccurrenceShape	PASS	0
+DomainTypeShape	PASS	0
+FunctionalTagShape	PASS	0
+ProteinShape	PASS	0
+ReactomePathwayShape	PASS	0

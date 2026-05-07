@@ -1,0 +1,6 @@
+metric	value
+consistent	True
+triples_before	25820
+triples_after	43250
+triples_inferred	17430
+unsatisfiable_inds	0

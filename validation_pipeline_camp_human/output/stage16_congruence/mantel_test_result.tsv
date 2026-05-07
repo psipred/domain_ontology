@@ -1,0 +1,2 @@
+r	p_value	n_permutations	method	n_proteins	n_pairs	perm_r_mean	perm_r_std	interpretation
+0.160728	0.0001	9999	spearman	142	10011	0.000144	0.010269	weak positive correlation (r=0.161) between ontology and sequence distances — highly significant (p < 0.001). 

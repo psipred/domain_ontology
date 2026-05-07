@@ -1,0 +1,6 @@
+query_id	result_rows	status	engine
+CQ01_protein_domain_function	797	OK	pandas
+CQ02_domain_cooccurrence	165	OK	pandas
+CQ03_process_linked_domains	0	EMPTY	pandas
+CQ04_binding_target_proteins	173	OK	pandas
+CQ05_positional_category_distribution	3	OK	pandas

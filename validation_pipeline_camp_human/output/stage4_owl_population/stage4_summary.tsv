@@ -1,0 +1,9 @@
+metric	value
+triples	7571
+named_individuals	1023
+input_rows	473
+proteins	142
+domain_types	157
+population_iri	http://www.semanticweb.org/32045/ontologies/2026/0/camp_population
+core_ns	http://www.semanticweb.org/32045/ontologies/2026/0/core_ontology#
+output_ttl	output\stage4_owl_population\population.ttl

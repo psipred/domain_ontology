@@ -1,0 +1,15 @@
+==================================================================
+  STAGE 3 — SHACL VALIDATION REPORT (pyshacl)
+==================================================================
+  Source:     input\camp_population.ttl
+  Shapes:     input\shapes.ttl
+  Violations: 0   Shapes PASS=5  FAIL=0
+
+  [PASS] DomainOccurrenceShape                    violations=0
+  [PASS] DomainTypeShape                          violations=0
+  [PASS] FunctionalTagShape                       violations=0
+  [PASS] ProteinShape                             violations=0
+  [PASS] ReactomePathwayShape                     violations=0
+
+Validation Report
+Conforms: True

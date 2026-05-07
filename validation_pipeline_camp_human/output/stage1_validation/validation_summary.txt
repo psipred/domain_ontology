@@ -1,0 +1,25 @@
+======================================================================
+  STAGE 1 — TABLE VALIDATION SUMMARY
+======================================================================
+  Total checks  : 34
+  PASS          : 32
+  FAIL          : 1
+  WARN          : 1
+  Flagged rows  : 204
+  Missing tokens: 0
+
+──────────────────────────────────────────────────────────────────────
+  FAILURES AND WARNINGS  (sorted by check_id)
+──────────────────────────────────────────────────────────────────────
+  [O12 ] WARN  (MED)  binding_parnter ontology-backed (binding_target_term)
+         n_issues : 0
+         detail   : Column 'binding_parnter' absent — skipped
+         fix      : Add free-text binding partners to binding_target_term in annotation_table.xlsx
+
+  [O13 ] FAIL  (HIGH)  binding_target_chebi format (CHEBI:nnnnn)
+         n_issues : 204
+         detail   : Known issue: CHEBI:CHEBI:nnnnn double-prefix — strip one CHEBI:
+         fix      : Remove duplicate CHEBI: prefix: CHEBI:CHEBI:nnn → CHEBI:nnn
+
+
+======================================================================

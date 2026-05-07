@@ -1,0 +1,431 @@
+node_id	node_type	label
+O00329	protein	O00329
+INTERPRO:IPR003113	domain_type	INTERPRO:IPR003113
+DOF:000016 scaffold	function_tag	DOF:000016 scaffold
+DOF:000014 regulator	function_tag	DOF:000014 regulator
+DOT:000172 p85-alpha/p85-beta regulatory subunit	binding_target	DOT:000172 p85-alpha/p85-beta regulatory subunit
+INTERPRO:IPR000341	domain_type	INTERPRO:IPR000341
+DOF:000009 Binding	function_tag	DOF:000009 Binding
+DOT:000123 Ras-related small GTPase	binding_target	DOT:000123 Ras-related small GTPase
+INTERPRO:IPR002420	domain_type	INTERPRO:IPR002420
+DOF:000033 membrane-targeting	function_tag	DOF:000033 membrane-targeting
+DOT:000098 membrane phospholipid	binding_target	DOT:000098 membrane phospholipid
+INTERPRO:IPR001263	domain_type	INTERPRO:IPR001263
+DOT:000221 mTOR complex	binding_target	DOT:000221 mTOR complex
+INTERPRO:IPR037703	domain_type	INTERPRO:IPR037703
+DOF:000010 catalytic	function_tag	DOF:000010 catalytic
+DOT:000026 ATP	binding_target	DOT:000026 ATP
+DOT:000079 Mg2+	binding_target	DOT:000079 Mg2+
+DOT:000114 protein substrate	binding_target	DOT:000114 protein substrate
+INTERPRO:IPR000403	domain_type	INTERPRO:IPR000403
+O00459	protein	O00459
+INTERPRO:IPR001452	domain_type	INTERPRO:IPR001452
+DOF:000017 PPI	function_tag	DOF:000017 PPI
+DOF:000024 adaptor	function_tag	DOF:000024 adaptor
+DOT:000192 SH3-binding PxxP proteins	binding_target	DOT:000192 SH3-binding PxxP proteins
+INTERPRO:IPR035586	domain_type	INTERPRO:IPR035586
+INTERPRO:IPR000198	domain_type	INTERPRO:IPR000198
+DOF:000044 GAP	function_tag	DOF:000044 GAP
+DOT:000161 Rac1-GTP	binding_target	DOT:000161 Rac1-GTP
+DOT:000267 RHOA (GTP-bound)	binding_target	DOT:000267 RHOA (GTP-bound)
+INTERPRO:IPR035022	domain_type	INTERPRO:IPR035022
+DOT:000191 IRS-1/IRS-2 pTyr motifs	binding_target	DOT:000191 IRS-1/IRS-2 pTyr motifs
+DOT:000222 RTK tails (EGFR/PDGFR/IR)	binding_target	DOT:000222 RTK tails (EGFR/PDGFR/IR)
+DOT:000193 GAB1/GAB2 adaptors	binding_target	DOT:000193 GAB1/GAB2 adaptors
+INTERPRO:IPR000980	domain_type	INTERPRO:IPR000980
+INTERPRO:IPR032498	domain_type	INTERPRO:IPR032498
+INTERPRO:IPR035020	domain_type	INTERPRO:IPR035020
+DOT:000054 PI3K p110 catalytic subunit	binding_target	DOT:000054 PI3K p110 catalytic subunit
+O14939	protein	O14939
+INTERPRO:IPR001683	domain_type	INTERPRO:IPR001683
+DOT:000131 PI(3,4,5)P3	binding_target	DOT:000131 PI(3,4,5)P3
+DOT:000124 PI(4,5)P2	binding_target	DOT:000124 PI(4,5)P2
+INTERPRO:IPR001849	domain_type	INTERPRO:IPR001849
+INTERPRO:IPR001736	domain_type	INTERPRO:IPR001736
+DOT:000049 Phosphatidylcholine	binding_target	DOT:000049 Phosphatidylcholine
+DOT:000125 PA	binding_target	DOT:000125 PA
+DOT:000129 water	binding_target	DOT:000129 water
+INTERPRO:IPR025202	domain_type	INTERPRO:IPR025202
+O15264	protein	O15264
+INTERPRO:IPR000719	domain_type	INTERPRO:IPR000719
+O15439	protein	O15439
+INTERPRO:IPR011527	domain_type	INTERPRO:IPR011527
+DOF:000013 transporter	function_tag	DOF:000013 transporter
+DOF:000012 membrane-anchor	function_tag	DOF:000012 membrane-anchor
+DOT:000033 cAMP	binding_target	DOT:000033 cAMP
+DOT:000034 cGMP	binding_target	DOT:000034 cGMP
+DOT:000096 membrane bilayer	binding_target	DOT:000096 membrane bilayer
+INTERPRO:IPR030240	domain_type	INTERPRO:IPR030240
+INTERPRO:IPR003439	domain_type	INTERPRO:IPR003439
+INTERPRO:IPR003593	domain_type	INTERPRO:IPR003593
+DOF:000020 ATPase	function_tag	DOF:000020 ATPase
+INTERPRO:IPR047083	domain_type	INTERPRO:IPR047083
+DOF:000026 channel	function_tag	DOF:000026 channel
+O15552	protein	O15552
+INTERPRO:IPR017452	domain_type	INTERPRO:IPR017452
+DOF:000011 receptor	function_tag	DOF:000011 receptor
+DOF:000039 signal-transducer	function_tag	DOF:000039 signal-transducer
+DOT:000092 extracellular ligand	binding_target	DOT:000092 extracellular ligand
+DOT:000093 heterotrimeric G protein	binding_target	DOT:000093 heterotrimeric G protein
+O43306	protein	O43306
+INTERPRO:IPR032628	domain_type	INTERPRO:IPR032628
+DOT:000097 membrane environment	binding_target	DOT:000097 membrane environment
+INTERPRO:IPR001054	domain_type	INTERPRO:IPR001054
+DOT:000080 Mn2+	binding_target	DOT:000080 Mn2+
+INTERPRO:IPR009398	domain_type	INTERPRO:IPR009398
+O43314	protein	O43314
+INTERPRO:IPR040557	domain_type	INTERPRO:IPR040557
+DOF:000043 ligand	function_tag	DOF:000043 ligand
+DOF:000038 receptor-binding	function_tag	DOF:000038 receptor-binding
+DOT:000202 VPAC1/VIPR1	binding_target	DOT:000202 VPAC1/VIPR1
+DOT:000203 VPAC2/VIPR2	binding_target	DOT:000203 VPAC2/VIPR2
+O43889	protein	O43889
+INTERPRO:IPR004827	domain_type	INTERPRO:IPR004827
+DOF:000021 DNA-binding	function_tag	DOF:000021 DNA-binding
+DOF:000030 dimerization	function_tag	DOF:000030 dimerization
+DOT:000188 DNA response element (CRE/E-box)	binding_target	DOT:000188 DNA response element (CRE/E-box)
+DOT:000244 homodimer/heterodimer partner	binding_target	DOT:000244 homodimer/heterodimer partner
+O60266	protein	O60266
+O60271	protein	O60271
+INTERPRO:IPR034743	domain_type	INTERPRO:IPR034743
+DOT:000112 protein partner	binding_target	DOT:000112 protein partner
+INTERPRO:IPR032486	domain_type	INTERPRO:IPR032486
+INTERPRO:IPR034744	domain_type	INTERPRO:IPR034744
+O60503	protein	O60503
+O60840	protein	O60840
+INTERPRO:IPR005821	domain_type	INTERPRO:IPR005821
+DOT:000069 Ca2+	binding_target	DOT:000069 Ca2+
+DOT:000070 Na+	binding_target	DOT:000070 Na+
+DOT:000130 K+	binding_target	DOT:000130 K+
+INTERPRO:IPR031649	domain_type	INTERPRO:IPR031649
+INTERPRO:IPR014873	domain_type	INTERPRO:IPR014873
+INTERPRO:IPR031688	domain_type	INTERPRO:IPR031688
+O75116	protein	O75116
+INTERPRO:IPR029878	domain_type	INTERPRO:IPR029878
+DOT:000160 RhoA/RhoB/RhoC (GTP-bound)	binding_target	DOT:000160 RhoA/RhoB/RhoC (GTP-bound)
+INTERPRO:IPR000961	domain_type	INTERPRO:IPR000961
+INTERPRO:IPR011072	domain_type	INTERPRO:IPR011072
+INTERPRO:IPR037311	domain_type	INTERPRO:IPR037311
+INTERPRO:IPR015008	domain_type	INTERPRO:IPR015008
+INTERPRO:IPR057529	domain_type	INTERPRO:IPR057529
+INTERPRO:IPR002219	domain_type	INTERPRO:IPR002219
+O75899	protein	O75899
+INTERPRO:IPR001828	domain_type	INTERPRO:IPR001828
+DOF:000032 ligand-binding	function_tag	DOF:000032 ligand-binding
+DOT:000117 small-molecule or amino-acid ligand	binding_target	DOT:000117 small-molecule or amino-acid ligand
+INTERPRO:IPR017978	domain_type	INTERPRO:IPR017978
+INTERPRO:IPR041689	domain_type	INTERPRO:IPR041689
+DOT:000115 receptor cytoplasmic tail	binding_target	DOT:000115 receptor cytoplasmic tail
+DOT:000102 partner receptor subunit	binding_target	DOT:000102 partner receptor subunit
+O95398	protein	O95398
+INTERPRO:IPR000591	domain_type	INTERPRO:IPR000591
+DOT:000261 plasma membrane	binding_target	DOT:000261 plasma membrane
+DOT:000159 G¦Â¦Ã subunits	binding_target	DOT:000159 G¦Â¦Ã subunits
+INTERPRO:IPR000595	domain_type	INTERPRO:IPR000595
+DOF:000029 cyclic-nucleotide-sensor	function_tag	DOF:000029 cyclic-nucleotide-sensor
+INTERPRO:IPR000651	domain_type	INTERPRO:IPR000651
+DOF:000045 GEF	function_tag	DOF:000045 GEF
+INTERPRO:IPR001895	domain_type	INTERPRO:IPR001895
+O95622	protein	O95622
+P01282	protein	P01282
+INTERPRO:IPR000532	domain_type	INTERPRO:IPR000532
+DOT:000204 PAC1R/ADCYAP1R1 (lower affinity)	binding_target	DOT:000204 PAC1R/ADCYAP1R1 (lower affinity)
+P04049	protein	P04049
+INTERPRO:IPR003116	domain_type	INTERPRO:IPR003116
+INTERPRO:IPR020454	domain_type	INTERPRO:IPR020454
+DOT:000040 Diacylglycerol	binding_target	DOT:000040 Diacylglycerol
+DOT:000104 phorbol ester	binding_target	DOT:000104 phorbol ester
+INTERPRO:IPR001245	domain_type	INTERPRO:IPR001245
+P05305	protein	P05305
+INTERPRO:IPR001928	domain_type	INTERPRO:IPR001928
+DOT:000200 EDNRA	binding_target	DOT:000200 EDNRA
+DOT:000201 EDNRB	binding_target	DOT:000201 EDNRB
+P06850	protein	P06850
+INTERPRO:IPR000187	domain_type	INTERPRO:IPR000187
+DOT:000198 CRHR1	binding_target	DOT:000198 CRHR1
+DOT:000199 CRHR2	binding_target	DOT:000199 CRHR2
+P07550	protein	P07550
+P08172	protein	P08172
+P08588	protein	P08588
+P08908	protein	P08908
+P0DP23	protein	P0DP23
+INTERPRO:IPR002048	domain_type	INTERPRO:IPR002048
+P0DP24	protein	P0DP24
+P0DP25	protein	P0DP25
+P11229	protein	P11229
+P13569	protein	P13569
+DOT:000233 Cl?/HCO??	binding_target	DOT:000233 Cl?/HCO??
+INTERPRO:IPR047082	domain_type	INTERPRO:IPR047082
+INTERPRO:IPR025837	domain_type	INTERPRO:IPR025837
+DOT:000111 protein kinase A	binding_target	DOT:000111 protein kinase A
+DOT:000087 channel regulatory partners	binding_target	DOT:000087 channel regulatory partners
+P14138	protein	P14138
+P14416	protein	P14416
+P15153	protein	P15153
+INTERPRO:IPR005225	domain_type	INTERPRO:IPR005225
+DOF:000035 molecular-switch	function_tag	DOF:000035 molecular-switch
+DOT:000076 GDP	binding_target	DOT:000076 GDP
+DOT:000029 GTP	binding_target	DOT:000029 GTP
+DOT:000120 GAP	binding_target	DOT:000120 GAP
+DOT:000121 GEF	binding_target	DOT:000121 GEF
+DOT:000091 effector proteins	binding_target	DOT:000091 effector proteins
+P15498	protein	P15498
+INTERPRO:IPR001715	domain_type	INTERPRO:IPR001715
+DOT:000086 actin	binding_target	DOT:000086 actin
+INTERPRO:IPR022613	domain_type	INTERPRO:IPR022613
+INTERPRO:IPR000219	domain_type	INTERPRO:IPR000219
+DOT:000062 Rho-related small GTPase	binding_target	DOT:000062 Rho-related small GTPase
+INTERPRO:IPR037832	domain_type	INTERPRO:IPR037832
+DOF:000040 structural	function_tag	DOF:000040 structural
+DOT:000127 Dbl homology domain (intramolecular)	binding_target	DOT:000127 Dbl homology domain (intramolecular)
+DOT:000084 Zn2+	binding_target	DOT:000084 Zn2+
+INTERPRO:IPR035730	domain_type	INTERPRO:IPR035730
+INTERPRO:IPR035879	domain_type	INTERPRO:IPR035879
+DOT:000109 phosphotyrosine-containing proteins	binding_target	DOT:000109 phosphotyrosine-containing proteins
+INTERPRO:IPR035729	domain_type	INTERPRO:IPR035729
+P16220	protein	P16220
+INTERPRO:IPR003102	domain_type	INTERPRO:IPR003102
+DOF:000042 transcription-regulator	function_tag	DOF:000042 transcription-regulator
+DOT:000068 CBP/p300 KIX domain	binding_target	DOT:000068 CBP/p300 KIX domain
+P17252	protein	P17252
+INTERPRO:IPR000008	domain_type	INTERPRO:IPR000008
+DOT:000133 phosphatidylserine	binding_target	DOT:000133 phosphatidylserine
+DOT:000124 PIP2	binding_target	DOT:000124 PIP2
+INTERPRO:IPR034663	domain_type	INTERPRO:IPR034663
+INTERPRO:IPR017892	domain_type	INTERPRO:IPR017892
+P17612	protein	P17612
+P18509	protein	P18509
+DOT:000206 GIPR	binding_target	DOT:000206 GIPR
+P20020	protein	P20020
+INTERPRO:IPR004014	domain_type	INTERPRO:IPR004014
+INTERPRO:IPR059000	domain_type	INTERPRO:IPR059000
+DOT:000107 phosphoprotein substrate	binding_target	DOT:000107 phosphoprotein substrate
+INTERPRO:IPR044492	domain_type	INTERPRO:IPR044492
+INTERPRO:IPR006068	domain_type	INTERPRO:IPR006068
+INTERPRO:IPR022141	domain_type	INTERPRO:IPR022141
+DOT:000059 Calmodulin	binding_target	DOT:000059 Calmodulin
+P20800	protein	P20800
+P21728	protein	P21728
+P21918	protein	P21918
+P22612	protein	P22612
+P22694	protein	P22694
+P23560	protein	P23560
+INTERPRO:IPR002072	domain_type	INTERPRO:IPR002072
+DOT:000128 cognate Trk receptor (TrkB/NTRK2)	binding_target	DOT:000128 cognate Trk receptor (TrkB/NTRK2)
+P23634	protein	P23634
+P24387	protein	P24387
+INTERPRO:IPR056177	domain_type	INTERPRO:IPR056177
+DOT:000089 CRH/CRF peptide	binding_target	DOT:000089 CRH/CRF peptide
+INTERPRO:IPR056178	domain_type	INTERPRO:IPR056178
+P24844	protein	P24844
+DOT:000197 myosin IQ motif / MLCK substrate	binding_target	DOT:000197 myosin IQ motif / MLCK substrate
+P25101	protein	P25101
+DOT:000147 endothelin (ET-1/ET-2/ET-3)	binding_target	DOT:000147 endothelin (ET-1/ET-2/ET-3)
+P25929	protein	P25929
+P27361	protein	P27361
+P27815	protein	P27815
+INTERPRO:IPR040844	domain_type	INTERPRO:IPR040844
+DOT:000095 intramolecular PDE regulatory contacts	binding_target	DOT:000095 intramolecular PDE regulatory contacts
+INTERPRO:IPR002073	domain_type	INTERPRO:IPR002073
+INTERPRO:IPR003607	domain_type	INTERPRO:IPR003607
+P27986	protein	P27986
+INTERPRO:IPR035591	domain_type	INTERPRO:IPR035591
+INTERPRO:IPR044124	domain_type	INTERPRO:IPR044124
+P28482	protein	P28482
+P29274	protein	P29274
+P29973	protein	P29973
+INTERPRO:IPR032406	domain_type	INTERPRO:IPR032406
+P30542	protein	P30542
+P30559	protein	P30559
+P30872	protein	P30872
+P30874	protein	P30874
+P32241	protein	P32241
+INTERPRO:IPR001879	domain_type	INTERPRO:IPR001879
+DOT:000103 peptide hormone ligand	binding_target	DOT:000103 peptide hormone ligand
+INTERPRO:IPR017981	domain_type	INTERPRO:IPR017981
+P34998	protein	P34998
+P35346	protein	P35346
+P35408	protein	P35408
+P36507	protein	P36507
+P36873	protein	P36873
+INTERPRO:IPR031675	domain_type	INTERPRO:IPR031675
+DOF:000025 catalytic-support	function_tag	DOF:000025 catalytic-support
+DOT:000116 regulatory subunits	binding_target	DOT:000116 regulatory subunits
+INTERPRO:IPR006186	domain_type	INTERPRO:IPR006186
+DOT:000100 metal ions	binding_target	DOT:000100 metal ions
+INTERPRO:IPR004843	domain_type	INTERPRO:IPR004843
+P40145	protein	P40145
+P41586	protein	P41586
+P41587	protein	P41587
+INTERPRO:IPR047035	domain_type	INTERPRO:IPR047035
+P42336	protein	P42336
+INTERPRO:IPR037704	domain_type	INTERPRO:IPR037704
+P42338	protein	P42338
+INTERPRO:IPR037702	domain_type	INTERPRO:IPR037702
+P43115	protein	P43115
+P43116	protein	P43116
+P45983	protein	P45983
+P45984	protein	P45984
+P48546	protein	P48546
+P49019	protein	P49019
+P49795	protein	P49795
+INTERPRO:IPR016137	domain_type	INTERPRO:IPR016137
+DOT:000073 G alpha subunit	binding_target	DOT:000073 G alpha subunit
+P51828	protein	P51828
+P52735	protein	P52735
+INTERPRO:IPR055251	domain_type	INTERPRO:IPR055251
+DOT:000038 Phosphoinositides	binding_target	DOT:000038 Phosphoinositides
+INTERPRO:IPR035733	domain_type	INTERPRO:IPR035733
+INTERPRO:IPR035880	domain_type	INTERPRO:IPR035880
+INTERPRO:IPR035732	domain_type	INTERPRO:IPR035732
+P53778	protein	P53778
+P53779	protein	P53779
+P60763	protein	P60763
+P61224	protein	P61224
+P62136	protein	P62136
+P62140	protein	P62140
+P62834	protein	P62834
+P63000	protein	P63000
+Q01668	protein	Q01668
+Q01814	protein	Q01814
+Q02750	protein	Q02750
+Q02930	protein	Q02930
+INTERPRO:IPR013087	domain_type	INTERPRO:IPR013087
+DOF:000034 metal-binding	function_tag	DOF:000034 metal-binding
+Q07343	protein	Q07343
+Q08462	protein	Q08462
+Q08493	protein	Q08493
+Q08499	protein	Q08499
+Q08828	protein	Q08828
+Q09472	protein	Q09472
+INTERPRO:IPR000197	domain_type	INTERPRO:IPR000197
+INTERPRO:IPR003101	domain_type	INTERPRO:IPR003101
+INTERPRO:IPR001487	domain_type	INTERPRO:IPR001487
+DOF:000028 coactivator	function_tag	DOF:000028 coactivator
+DOT:000187 phosphorylated CREB pKID	binding_target	DOT:000187 phosphorylated CREB pKID
+INTERPRO:IPR010303	domain_type	INTERPRO:IPR010303
+DOF:000037 reader	function_tag	DOF:000037 reader
+DOF:000027 chromatin-binding	function_tag	DOF:000027 chromatin-binding
+DOT:000186 acetylated histone tails	binding_target	DOT:000186 acetylated histone tails
+INTERPRO:IPR056484	domain_type	INTERPRO:IPR056484
+INTERPRO:IPR031162	domain_type	INTERPRO:IPR031162
+DOT:000275 H3K4me3	binding_target	DOT:000275 H3K4me3
+DOT:000126 methylated histone H3 tail	binding_target	DOT:000126 methylated histone H3 tail
+INTERPRO:IPR000433	domain_type	INTERPRO:IPR000433
+DOT:000053 acetyl-CoA	binding_target	DOT:000053 acetyl-CoA
+DOT:000094 histone/non-histone lysine substrate	binding_target	DOT:000094 histone/non-histone lysine substrate
+INTERPRO:IPR014744	domain_type	INTERPRO:IPR014744
+DOT:000088 coactivator core proteins	binding_target	DOT:000088 coactivator core proteins
+Q13153	protein	Q13153
+INTERPRO:IPR033923	domain_type	INTERPRO:IPR033923
+DOT:000071 Cdc42	binding_target	DOT:000071 Cdc42
+DOT:000083 Rac1	binding_target	DOT:000083 Rac1
+INTERPRO:IPR000095	domain_type	INTERPRO:IPR000095
+Q13324	protein	Q13324
+Q13370	protein	Q13370
+Q13387	protein	Q13387
+INTERPRO:IPR035637	domain_type	INTERPRO:IPR035637
+INTERPRO:IPR006020	domain_type	INTERPRO:IPR006020
+DOT:000052 NPxY/NxxY peptide motifs	binding_target	DOT:000052 NPxY/NxxY peptide motifs
+DOT:000223 insulin receptor -beta-chain	binding_target	DOT:000223 insulin receptor -beta-chain
+DOT:000240 APP	binding_target	DOT:000240 APP
+DOT:000194 Shc adaptors	binding_target	DOT:000194 Shc adaptors
+Q13393	protein	Q13393
+Q13464	protein	Q13464
+INTERPRO:IPR037310	domain_type	INTERPRO:IPR037310
+Q13698	protein	Q13698
+Q13936	protein	Q13936
+DOT:000174 CaV-beta subunit	binding_target	DOT:000174 CaV-beta subunit
+DOT:000237 AKAP15	binding_target	DOT:000237 AKAP15
+Q14028	protein	Q14028
+Q14432	protein	Q14432
+Q15759	protein	Q15759
+Q16280	protein	Q16280
+Q16281	protein	Q16281
+Q16512	protein	Q16512
+INTERPRO:IPR037313	domain_type	INTERPRO:IPR037313
+INTERPRO:IPR037317	domain_type	INTERPRO:IPR037317
+INTERPRO:IPR037784	domain_type	INTERPRO:IPR037784
+Q16539	protein	Q16539
+Q16566	protein	Q16566
+Q16720	protein	Q16720
+Q5VU43	protein	Q5VU43
+INTERPRO:IPR012943	domain_type	INTERPRO:IPR012943
+INTERPRO:IPR056273	domain_type	INTERPRO:IPR056273
+DOF:000036 oligomerization	function_tag	DOF:000036 oligomerization
+INTERPRO:IPR010630	domain_type	INTERPRO:IPR010630
+INTERPRO:IPR060527	domain_type	INTERPRO:IPR060527
+Q6PFW1	protein	Q6PFW1
+Q8IV77	protein	Q8IV77
+Q8NE79	protein	Q8NE79
+INTERPRO:IPR055272	domain_type	INTERPRO:IPR055272
+Q8NFM4	protein	Q8NFM4
+Q8TD08	protein	Q8TD08
+Q8TDV5	protein	Q8TDV5
+Q8WZA2	protein	Q8WZA2
+Q92736	protein	Q92736
+INTERPRO:IPR014821	domain_type	INTERPRO:IPR014821
+DOT:000057 Channel Regulatory Proteins	binding_target	DOT:000057 Channel Regulatory Proteins
+INTERPRO:IPR016093	domain_type	INTERPRO:IPR016093
+INTERPRO:IPR000699	domain_type	INTERPRO:IPR000699
+INTERPRO:IPR001870	domain_type	INTERPRO:IPR001870
+INTERPRO:IPR035761	domain_type	INTERPRO:IPR035761
+DOT:000113 protein regulators of RyR/IP3R	binding_target	DOT:000113 protein regulators of RyR/IP3R
+INTERPRO:IPR003877	domain_type	INTERPRO:IPR003877
+INTERPRO:IPR003032	domain_type	INTERPRO:IPR003032
+INTERPRO:IPR035764	domain_type	INTERPRO:IPR035764
+INTERPRO:IPR035762	domain_type	INTERPRO:IPR035762
+INTERPRO:IPR048581	domain_type	INTERPRO:IPR048581
+INTERPRO:IPR013662	domain_type	INTERPRO:IPR013662
+INTERPRO:IPR009460	domain_type	INTERPRO:IPR009460
+Q92793	protein	Q92793
+DOT:000261 protein partners (generic)	binding_target	DOT:000261 protein partners (generic)
+Q93084	protein	Q93084
+Q96PN6	protein	Q96PN6
+Q9BXA5	protein	Q9BXA5
+Q9BXC0	protein	Q9BXC0
+Q9H9C1	protein	Q9H9C1
+INTERPRO:IPR006925	domain_type	INTERPRO:IPR006925
+DOF:000041 trafficking	function_tag	DOF:000041 trafficking
+DOT:000078 HOPS/CORVET complex partner proteins	binding_target	DOT:000078 HOPS/CORVET complex partner proteins
+Q9HBU9	protein	Q9HBU9
+Q9HBV1	protein	Q9HBV1
+Q9NQW8	protein	Q9NQW8
+Q9P212	protein	Q9P212
+INTERPRO:IPR046974	domain_type	INTERPRO:IPR046974
+DOF:000018 sensor	function_tag	DOF:000018 sensor
+INTERPRO:IPR015359	domain_type	INTERPRO:IPR015359
+INTERPRO:IPR046973	domain_type	INTERPRO:IPR046973
+INTERPRO:IPR000909	domain_type	INTERPRO:IPR000909
+INTERPRO:IPR001711	domain_type	INTERPRO:IPR001711
+INTERPRO:IPR028398	domain_type	INTERPRO:IPR028398
+INTERPRO:IPR000159	domain_type	INTERPRO:IPR000159
+Q9UKW4	protein	Q9UKW4
+INTERPRO:IPR047015	domain_type	INTERPRO:IPR047015
+INTERPRO:IPR035881	domain_type	INTERPRO:IPR035881
+INTERPRO:IPR035734	domain_type	INTERPRO:IPR035734
+Q9UL51	protein	Q9UL51
+INTERPRO:IPR013621	domain_type	INTERPRO:IPR013621
+Q9UPT6	protein	Q9UPT6
+Q9UQF2	protein	Q9UQF2
+INTERPRO:IPR035638	domain_type	INTERPRO:IPR035638
+Q9Y233	protein	Q9Y233
+INTERPRO:IPR003018	domain_type	INTERPRO:IPR003018
+Q9Y243	protein	Q9Y243
+INTERPRO:IPR039026	domain_type	INTERPRO:IPR039026
+INTERPRO:IPR034675	domain_type	INTERPRO:IPR034675
+Q9Y3Q4	protein	Q9Y3Q4
+Q9Y6Q9	protein	Q9Y6Q9
+INTERPRO:IPR056193	domain_type	INTERPRO:IPR056193
+INTERPRO:IPR011598	domain_type	INTERPRO:IPR011598
+INTERPRO:IPR056194	domain_type	INTERPRO:IPR056194
+INTERPRO:IPR000014	domain_type	INTERPRO:IPR000014
+DOT:000229 PAS-domain ligands	binding_target	DOT:000229 PAS-domain ligands
+DOT:000189 transcription factor complex partners	binding_target	DOT:000189 transcription factor complex partners
+INTERPRO:IPR013767	domain_type	INTERPRO:IPR013767
+INTERPRO:IPR014935	domain_type	INTERPRO:IPR014935
+DOT:000190 nuclear receptor LBD AF-2 helix	binding_target	DOT:000190 nuclear receptor LBD AF-2 helix
+DOT:000227 NCOA3 LXXLL motif	binding_target	DOT:000227 NCOA3 LXXLL motif
+INTERPRO:IPR032565	domain_type	INTERPRO:IPR032565
+INTERPRO:IPR014920	domain_type	INTERPRO:IPR014920
+INTERPRO:IPR010011	domain_type	INTERPRO:IPR010011

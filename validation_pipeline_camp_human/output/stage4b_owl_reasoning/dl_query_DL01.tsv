@@ -1,0 +1,54 @@
+dt	dtLabel	funcLabel
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR001870	B30.2/SPRY domain	scaffold
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR056273	CDK5 regulatory subunit-associated protein 2/Myomegalin, coiled coil	scaffold
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR001715	Calponin homology domain	scaffold
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR012943	Centrosomin, N-terminal motif 1	scaffold
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR000595	Cyclic nucleotide-binding domain	scaffold
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR000591	DEP domain	scaffold
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#Occ_O75899_INTERPRO_IPR041689_779..817_3	DomainOccurrence O75899|INTERPRO:IPR041689|779..817|3	scaffold
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#Occ_P36873_INTERPRO_IPR031675_9..56_1	DomainOccurrence P36873|INTERPRO:IPR031675|9..56|1	scaffold
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#Occ_P62136_INTERPRO_IPR031675_9..56_1	DomainOccurrence P62136|INTERPRO:IPR031675|9..56|1	scaffold
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#Occ_P62140_INTERPRO_IPR031675_8..55_1	DomainOccurrence P62140|INTERPRO:IPR031675|8..55|1	scaffold
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#Occ_Q09472_INTERPRO_IPR014744_1992..2098_9	DomainOccurrence Q09472|INTERPRO:IPR014744|1992..2098|9	scaffold
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#Occ_Q09472_INTERPRO_IPR056484_1240..1278_5	DomainOccurrence Q09472|INTERPRO:IPR056484|1240..1278|5	scaffold
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#Occ_Q5VU43_INTERPRO_IPR010630_1551..1642_3	DomainOccurrence Q5VU43|INTERPRO:IPR010630|1551..1642|3	scaffold
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#Occ_Q5VU43_INTERPRO_IPR012943_8..76_1	DomainOccurrence Q5VU43|INTERPRO:IPR012943|8..76|1	scaffold
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#Occ_Q5VU43_INTERPRO_IPR056273_814..937_2	DomainOccurrence Q5VU43|INTERPRO:IPR056273|814..937|2	scaffold
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#Occ_Q5VU43_INTERPRO_IPR060527_2174..2308_4	DomainOccurrence Q5VU43|INTERPRO:IPR060527|2174..2308|4	scaffold
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#Occ_Q92736_INTERPRO_IPR035761_654..805_7	DomainOccurrence Q92736|INTERPRO:IPR035761|654..805|7	scaffold
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#Occ_Q92736_INTERPRO_IPR035764_1086..1218_12	DomainOccurrence Q92736|INTERPRO:IPR035764|1086..1218|12	scaffold
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#Occ_Q92793_INTERPRO_IPR014744_2014..2113_9	DomainOccurrence Q92793|INTERPRO:IPR014744|2014..2113|9	scaffold
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#Occ_Q92793_INTERPRO_IPR056484_1276..1314_5	DomainOccurrence Q92793|INTERPRO:IPR056484|1276..1314|5	scaffold
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#Occ_Q9H9C1_INTERPRO_IPR006925_177..278_1	DomainOccurrence Q9H9C1|INTERPRO:IPR006925|177..278|1	scaffold
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#Occ_Q9Y6Q9_INTERPRO_IPR000014_112..186_4	DomainOccurrence Q9Y6Q9|INTERPRO:IPR000014|112..186|4	scaffold
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#Occ_Q9Y6Q9_INTERPRO_IPR010011_1291..1348_9	DomainOccurrence Q9Y6Q9|INTERPRO:IPR010011|1291..1348|9	scaffold
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#Occ_Q9Y6Q9_INTERPRO_IPR013767_116..173_5	DomainOccurrence Q9Y6Q9|INTERPRO:IPR013767|116..173|5	scaffold
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#Occ_Q9Y6Q9_INTERPRO_IPR014920_1045..1093_8	DomainOccurrence Q9Y6Q9|INTERPRO:IPR014920|1045..1093|8	scaffold
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#Occ_Q9Y6Q9_INTERPRO_IPR032565_723..810_7	DomainOccurrence Q9Y6Q9|INTERPRO:IPR032565|723..810|7	scaffold
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#Occ_Q9Y6Q9_INTERPRO_IPR056193_1..79_1	DomainOccurrence Q9Y6Q9|INTERPRO:IPR056193|1..79|1	scaffold
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#Occ_Q9Y6Q9_INTERPRO_IPR056194_29..101_3	DomainOccurrence Q9Y6Q9|INTERPRO:IPR056194|29..101|3	scaffold
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR041689	Gamma-aminobutyric acid type B receptor subunit 2, coiled-coil domain	scaffold
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR056484	Histone acetyltransferase p300/CREBBP, PHD domain	scaffold
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR014821	Inositol 1,4,5-trisphosphate/ryanodine receptor	scaffold
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR016093	MIR motif	scaffold
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR060527	Myomegalin-like, C-terminal	scaffold
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR056193	Nuclear receptor coactivator 1-3, bHLH domain	scaffold
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR032565	Nuclear receptor coactivator 2/3, DUF4927	scaffold
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR056194	Nuclear receptor coactivator 3, basic helix-loop-helix	scaffold
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR014744	Nuclear receptor coactivator, CREB-bp-like, interlocking	scaffold
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR010011	Nuclear receptor coactivator, DUF1518	scaffold
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR014920	Nuclear receptor coactivator, Ncoa-type, interlocking	scaffold
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR010630	Olduvai domain	scaffold
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR000014	PAS domain	scaffold
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR013767	PAS fold	scaffold
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR003113	Phosphatidylinositol 3-kinase, adaptor-binding domain	scaffold
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR000699	RIH domain	scaffold
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR013662	RyR/IP3R Homology associated domain	scaffold
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR003032	Ryanodine receptor Ryr	scaffold
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR035761	Ryanodine receptor, SPRY domain 1	scaffold
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR035764	Ryanodine receptor, SPRY domain 2	scaffold
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR035762	Ryanodine receptor, SPRY domain 3	scaffold
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR048581	Ryanodine receptor, junctional solenoid domain	scaffold
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR003877	SPRY domain	scaffold
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR031675	Serine-threonine protein phosphatase, N-terminal	scaffold
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR006925	Vps16, C-terminal	scaffold

@@ -1,0 +1,35 @@
+check_id	description	table_rows	table_cols	status	n_issues	fix_priority	suggested_fix	detail
+A1	Required columns present	309	17	PASS	0	HIGH		
+A2	Blank ID	309	17	PASS	0	HIGH	Fill in the 2 blank IDs in annotation_table.xlsx	
+A3	Duplicate ID	309	17	PASS	0	HIGH	Remove duplicate ID rows from annotation_table.xlsx	
+A4	ID format (DOP/DOF/DOT:NNNNNN)	309	17	PASS	0	HIGH	IDs must match DOP:000001 / DOF:000001 / DOT:000001	Expected DOP:000001 / DOF:000001 / DOT:000001
+A5	Namespace prefix matches ID prefix	309	17	PASS	0	MED	Align 'namespace' column value to match the ID prefix	
+A6	xref_PRO format (PR:nnnnnnnnn)	309	17	PASS	0	LOW	Fix xref_PRO to format PR:000000001 (9 digits)	
+A7	xref_ELM format (XXX_motif_name)	309	17	PASS	0	LOW	Fix xref_ELM to format XXX_name e.g. LIG_SH3_1	
+T1	Required columns present	509	15	PASS	0	HIGH		
+T2	Blank domain_type_id	509	15	PASS	0	HIGH	Fill in blank domain_type_id rows	
+T3	Duplicate domain_type_id	509	15	PASS	0	MED	Remove duplicate domain_type_id rows	
+T4	domain_type_id format	509	15	PASS	0	MED	Fix domain_type_id format e.g. PFAM:PF00001	e.g. CDD:cd15445 / PFAM:PF00001 / INTERPRO:IPR000001
+T5a	source_db in controlled vocabulary	509	15	PASS	0	MED	Use only allowed source_db values	Valid: CDD, INTERPRO, NCBIFAM, PFAM, PRINTS, PROFILE, SMART
+T5b	source_db prefix matches domain_type_id prefix	509	15	PASS	0	MED	source_db and domain_type_id prefix must match	
+T6	integrated_interpro_id format (IPRnnnnnn)	509	15	PASS	0	LOW	Fix integrated_interpro_id to IPRnnnnnn (6 digits)	
+T7	GO term format (GO:nnnnnnn)	509	15	PASS	0	LOW	Fix GO IDs to GO:nnnnnnn (7 digits)	
+T8	function_tags ontology-backed (functional_term)	509	15	PASS	0	MED	Add functional_term tokens to annotation_table.xlsx or fix spelling	0 rows with unmatched tokens (0 tokens total)
+O1	Required columns present	473	74	PASS	0	HIGH		
+O2	Blank occurrence_id	473	74	PASS	0	HIGH	Fill in blank occurrence_id values	
+O3a	Duplicate occurrence_id (strict key check)	473	74	PASS	0	HIGH	Remove rows with identical occurrence_id — genuine key violation	Genuine key violation — each occurrence_id must be unique
+O3b	Full-row duplicate excl. batch_gene	473	74	PASS	0	LOW	Review; batch_gene split rows are expected duplicates	Expected for batch_gene split rows; investigate if count is unexpectedly high
+O4	domain_type_id cross-ref to domain type table	473	74	PASS	0	HIGH	Ensure domain_type_id exists in domain_type_summary.tsv	
+O5	protein_accession UniProtKB format	473	74	PASS	0	MED	Fix protein_accession to 6-char UniProtKB e.g. P06850	Expected 6-char UniProtKB e.g. P06850
+O6	start/end valid positive integers (start < end)	473	74	PASS	0	HIGH	Fix start/end: positive integers, start < end	
+O7	positional_category ontology-backed (positional_or_topology_term)	473	74	PASS	0	MED	Add positional_category tokens to annotation_table.xlsx	0 rows with unmatched tokens (0 tokens total)
+O9	topology_context ontology-backed (positional_or_topology_term)	473	74	PASS	0	MED	Add signal_peptide to positional_or_topology_term in annotation_table.xlsx	0 rows with unmatched tokens (0 tokens total)
+O10	proximity_categories ontology-backed (positional_or_topology_term)	473	74	PASS	0	LOW	Add proximity_categories tokens to annotation_table.xlsx	0 rows with unmatched tokens (0 tokens total)
+O11	function_tags ontology-backed (functional_term)	473	74	PASS	0	MED	Add ligand / GEF / GAP to functional_term in annotation_table.xlsx	0 rows with unmatched tokens (0 tokens total)
+O12	binding_parnter ontology-backed (binding_target_term)	473	74	WARN	0	MED	Add free-text binding partners to binding_target_term in annotation_table.xlsx	Column 'binding_parnter' absent — skipped
+O13	binding_target_chebi format (CHEBI:nnnnn)	473	74	FAIL	204	HIGH	Remove duplicate CHEBI: prefix: CHEBI:CHEBI:nnn → CHEBI:nnn	Known issue: CHEBI:CHEBI:nnnnn double-prefix — strip one CHEBI:
+O14	GO term format (GO:nnnnnnn)	473	74	PASS	0	LOW	Fix GO IDs to GO:nnnnnnn (7 digits)	
+O15	Reactome ID format (R-XXX-nnnnn)	473	74	PASS	0	LOW	Fix Reactome IDs to R-HSA-nnnnn format	
+O16	KEGG ID format (abc:nnnnn)	473	74	PASS	0	LOW	Fix KEGG IDs to hsa:nnnnn format	
+O17	GO term format (GO:nnnnnnn)	473	74	PASS	0	LOW	Fix protein_go_cc_ids to GO:nnnnnnn (7 digits)	
+O18	No namespace cross-contamination (DOP/DOF/DOT in wrong column)	473	74	PASS	0	HIGH	Remove namespace cross-contamination (e.g. DOP: term in function_tags)	e.g. a DOP: positional term placed in function_tags

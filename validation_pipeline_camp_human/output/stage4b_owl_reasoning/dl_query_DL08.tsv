@@ -1,0 +1,129 @@
+dt	dtLabel	go
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR046973	1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase epsilon-1, catalytic domain	http://purl.obolibrary.org/obo/GO_0004435
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR002073	3'5'-cyclic nucleotide phosphodiesterase, catalytic domain	http://purl.obolibrary.org/obo/GO_0004114
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR002073	3'5'-cyclic nucleotide phosphodiesterase, catalytic domain	http://purl.obolibrary.org/obo/GO_0007165
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR011527	ABC transporter type 1, transmembrane domain	http://purl.obolibrary.org/obo/GO_0005524
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR011527	ABC transporter type 1, transmembrane domain	http://purl.obolibrary.org/obo/GO_0016020
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR011527	ABC transporter type 1, transmembrane domain	http://purl.obolibrary.org/obo/GO_0055085
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR011527	ABC transporter type 1, transmembrane domain	http://purl.obolibrary.org/obo/GO_0140359
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR003439	ABC transporter-like, ATP-binding domain	http://purl.obolibrary.org/obo/GO_0005524
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR003439	ABC transporter-like, ATP-binding domain	http://purl.obolibrary.org/obo/GO_0016887
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR000961	AGC-kinase, C-terminal	http://purl.obolibrary.org/obo/GO_0004674
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR000961	AGC-kinase, C-terminal	http://purl.obolibrary.org/obo/GO_0005524
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR000961	AGC-kinase, C-terminal	http://purl.obolibrary.org/obo/GO_0006468
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR030240	ATP-binding cassette sub-family C member 4, six-transmembrane helical domain 1	http://purl.obolibrary.org/obo/GO_0005524
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR030240	ATP-binding cassette sub-family C member 4, six-transmembrane helical domain 1	http://purl.obolibrary.org/obo/GO_0016020
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR030240	ATP-binding cassette sub-family C member 4, six-transmembrane helical domain 1	http://purl.obolibrary.org/obo/GO_0042626
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR030240	ATP-binding cassette sub-family C member 4, six-transmembrane helical domain 1	http://purl.obolibrary.org/obo/GO_0055085
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR009398	Adenylate cyclase, conserved domain	http://purl.obolibrary.org/obo/GO_0004016
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR009398	Adenylate cyclase, conserved domain	http://purl.obolibrary.org/obo/GO_0005886
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR009398	Adenylate cyclase, conserved domain	http://purl.obolibrary.org/obo/GO_0006171
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR001054	Adenylyl cyclase class-3/4/guanylyl cyclase	http://purl.obolibrary.org/obo/GO_0009190
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR001054	Adenylyl cyclase class-3/4/guanylyl cyclase	http://purl.obolibrary.org/obo/GO_0035556
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR004827	Basic-leucine zipper domain	http://purl.obolibrary.org/obo/GO_0003700
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR004827	Basic-leucine zipper domain	http://purl.obolibrary.org/obo/GO_0006355
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR001487	Bromodomain	http://purl.obolibrary.org/obo/GO_0005515
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR031162	CBP/p300-type histone acetyltransferase domain	http://purl.obolibrary.org/obo/GO_0004402
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR004843	Calcineurin-like, phosphoesterase domain	http://purl.obolibrary.org/obo/GO_0016787
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR001715	Calponin homology domain	http://purl.obolibrary.org/obo/GO_0005515
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR012943	Centrosomin, N-terminal motif 1	http://purl.obolibrary.org/obo/GO_0005815
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR034663	Classical Protein Kinase C alpha, catalytic domain	http://purl.obolibrary.org/obo/GO_0004697
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR034663	Classical Protein Kinase C alpha, catalytic domain	http://purl.obolibrary.org/obo/GO_0006468
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR003101	Coactivator CBP, KIX domain	http://purl.obolibrary.org/obo/GO_0003712
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR003101	Coactivator CBP, KIX domain	http://purl.obolibrary.org/obo/GO_0006355
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR000187	Corticotropin-releasing factor	http://purl.obolibrary.org/obo/GO_0005179
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR000187	Corticotropin-releasing factor	http://purl.obolibrary.org/obo/GO_0005576
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR003102	Cyclic AMP-responsive element-binding protein 1-like, pKID	http://purl.obolibrary.org/obo/GO_0005515
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR003102	Cyclic AMP-responsive element-binding protein 1-like, pKID	http://purl.obolibrary.org/obo/GO_0006355
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR000591	DEP domain	http://purl.obolibrary.org/obo/GO_0035556
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR000219	Dbl homology domain	http://purl.obolibrary.org/obo/GO_0005085
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR002048	EF-hand domain	http://purl.obolibrary.org/obo/GO_0005509
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR001928	Endothelin-like toxin	http://purl.obolibrary.org/obo/GO_0005576
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR001928	Endothelin-like toxin	http://purl.obolibrary.org/obo/GO_0019229
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR003018	GAF domain	http://purl.obolibrary.org/obo/GO_0005515
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR017978	GPCR family 3, C-terminal	http://purl.obolibrary.org/obo/GO_0004930
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR017978	GPCR family 3, C-terminal	http://purl.obolibrary.org/obo/GO_0007186
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR017978	GPCR family 3, C-terminal	http://purl.obolibrary.org/obo/GO_0016020
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR001879	GPCR, family 2, extracellular hormone receptor domain	http://purl.obolibrary.org/obo/GO_0004930
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR001879	GPCR, family 2, extracellular hormone receptor domain	http://purl.obolibrary.org/obo/GO_0016020
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR017981	GPCR, family 2-like, 7TM	http://purl.obolibrary.org/obo/GO_0004888
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR017981	GPCR, family 2-like, 7TM	http://purl.obolibrary.org/obo/GO_0007166
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR017981	GPCR, family 2-like, 7TM	http://purl.obolibrary.org/obo/GO_0016020
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR017452	GPCR, rhodopsin-like, 7TM	http://purl.obolibrary.org/obo/GO_0016020
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR000532	Glucagon/GIP/secretin/VIP	http://purl.obolibrary.org/obo/GO_0005179
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR000532	Glucagon/GIP/secretin/VIP	http://purl.obolibrary.org/obo/GO_0005576
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR011072	HR1 rho-binding domain	http://purl.obolibrary.org/obo/GO_0007165
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR005821	Ion transport domain	http://purl.obolibrary.org/obo/GO_0005216
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR005821	Ion transport domain	http://purl.obolibrary.org/obo/GO_0006811
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR005821	Ion transport domain	http://purl.obolibrary.org/obo/GO_0016020
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR005821	Ion transport domain	http://purl.obolibrary.org/obo/GO_0055085
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR011598	Myc-type, basic helix-loop-helix (bHLH) domain	http://purl.obolibrary.org/obo/GO_0046983
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR002072	Nerve growth factor-related	http://purl.obolibrary.org/obo/GO_0005102
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR014744	Nuclear receptor coactivator, CREB-bp-like, interlocking	http://purl.obolibrary.org/obo/GO_0000123
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR014744	Nuclear receptor coactivator, CREB-bp-like, interlocking	http://purl.obolibrary.org/obo/GO_0003713
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR014744	Nuclear receptor coactivator, CREB-bp-like, interlocking	http://purl.obolibrary.org/obo/GO_0004402
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR014744	Nuclear receptor coactivator, CREB-bp-like, interlocking	http://purl.obolibrary.org/obo/GO_0005634
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR014744	Nuclear receptor coactivator, CREB-bp-like, interlocking	http://purl.obolibrary.org/obo/GO_0006355
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR010011	Nuclear receptor coactivator, DUF1518	http://purl.obolibrary.org/obo/GO_0005634
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR014920	Nuclear receptor coactivator, Ncoa-type, interlocking	http://purl.obolibrary.org/obo/GO_0003713
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR014920	Nuclear receptor coactivator, Ncoa-type, interlocking	http://purl.obolibrary.org/obo/GO_0005634
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR014920	Nuclear receptor coactivator, Ncoa-type, interlocking	http://purl.obolibrary.org/obo/GO_0006355
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR014920	Nuclear receptor coactivator, Ncoa-type, interlocking	http://purl.obolibrary.org/obo/GO_0016922
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR013767	PAS fold	http://purl.obolibrary.org/obo/GO_0006355
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR037704	Phosphatidylinositol 3-kinase alpha, catalytic domain	http://purl.obolibrary.org/obo/GO_0016303
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR037704	Phosphatidylinositol 3-kinase alpha, catalytic domain	http://purl.obolibrary.org/obo/GO_0043491
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR037702	Phosphatidylinositol 3-kinase beta, catalytic domain	http://purl.obolibrary.org/obo/GO_0016303
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR037702	Phosphatidylinositol 3-kinase beta, catalytic domain	http://purl.obolibrary.org/obo/GO_0043491
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR037703	Phosphatidylinositol 3-kinase delta, catalytic domain	http://purl.obolibrary.org/obo/GO_0016303
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR037703	Phosphatidylinositol 3-kinase delta, catalytic domain	http://purl.obolibrary.org/obo/GO_0043491
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR001711	Phospholipase C, phosphatidylinositol-specific, Y domain	http://purl.obolibrary.org/obo/GO_0004435
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR001711	Phospholipase C, phosphatidylinositol-specific, Y domain	http://purl.obolibrary.org/obo/GO_0006629
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR001711	Phospholipase C, phosphatidylinositol-specific, Y domain	http://purl.obolibrary.org/obo/GO_0007165
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR001711	Phospholipase C, phosphatidylinositol-specific, Y domain	http://purl.obolibrary.org/obo/GO_0035556
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR001736	Phospholipase D/Transphosphatidylase	http://purl.obolibrary.org/obo/GO_0003824
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR001683	Phox homology	http://purl.obolibrary.org/obo/GO_0035091
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR022141	Plasma membrane calcium transporting P-type ATPase, C-terminal	http://purl.obolibrary.org/obo/GO_0005388
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR034675	Protein kinase B gamma, catalytic domain	http://purl.obolibrary.org/obo/GO_0004674
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR034675	Protein kinase B gamma, catalytic domain	http://purl.obolibrary.org/obo/GO_0006468
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR000719	Protein kinase domain	http://purl.obolibrary.org/obo/GO_0004672
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR000719	Protein kinase domain	http://purl.obolibrary.org/obo/GO_0005524
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR000719	Protein kinase domain	http://purl.obolibrary.org/obo/GO_0006468
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR017892	Protein kinase, C-terminal	http://purl.obolibrary.org/obo/GO_0004674
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR017892	Protein kinase, C-terminal	http://purl.obolibrary.org/obo/GO_0005524
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR017892	Protein kinase, C-terminal	http://purl.obolibrary.org/obo/GO_0006468
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR000699	RIH domain	http://purl.obolibrary.org/obo/GO_0005262
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR000699	RIH domain	http://purl.obolibrary.org/obo/GO_0016020
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR000699	RIH domain	http://purl.obolibrary.org/obo/GO_0070588
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR015008	ROCK, Rho binding domain	http://purl.obolibrary.org/obo/GO_0031267
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR003116	Raf-like Ras-binding	http://purl.obolibrary.org/obo/GO_0007165
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR001895	Ras guanine-nucleotide exchange factors catalytic domain	http://purl.obolibrary.org/obo/GO_0005085
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR001895	Ras guanine-nucleotide exchange factors catalytic domain	http://purl.obolibrary.org/obo/GO_0007264
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR000159	Ras-associating domain	http://purl.obolibrary.org/obo/GO_0007165
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR000198	Rho GTPase-activating protein domain	http://purl.obolibrary.org/obo/GO_0007165
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR037310	Rho-associated protein kinase 1, HR1	http://purl.obolibrary.org/obo/GO_0004674
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR037310	Rho-associated protein kinase 1, HR1	http://purl.obolibrary.org/obo/GO_0007266
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR037310	Rho-associated protein kinase 1, HR1	http://purl.obolibrary.org/obo/GO_0031267
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR037311	Rho-associated protein kinase 2, HR1 domain	http://purl.obolibrary.org/obo/GO_0004674
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR037311	Rho-associated protein kinase 2, HR1 domain	http://purl.obolibrary.org/obo/GO_0006939
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR037311	Rho-associated protein kinase 2, HR1 domain	http://purl.obolibrary.org/obo/GO_0007266
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR037311	Rho-associated protein kinase 2, HR1 domain	http://purl.obolibrary.org/obo/GO_0010825
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR037311	Rho-associated protein kinase 2, HR1 domain	http://purl.obolibrary.org/obo/GO_0032956
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR029878	Rho-associated protein kinase 2, catalytic domain	http://purl.obolibrary.org/obo/GO_0004674
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR009460	Ryanodine Receptor TM 4-6	http://purl.obolibrary.org/obo/GO_0005219
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR009460	Ryanodine Receptor TM 4-6	http://purl.obolibrary.org/obo/GO_0006874
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR009460	Ryanodine Receptor TM 4-6	http://purl.obolibrary.org/obo/GO_0016020
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR001452	SH3 domain	http://purl.obolibrary.org/obo/GO_0005515
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR003877	SPRY domain	http://purl.obolibrary.org/obo/GO_0005515
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR001245	Serine-threonine/tyrosine-protein kinase, catalytic domain	http://purl.obolibrary.org/obo/GO_0004672
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR001245	Serine-threonine/tyrosine-protein kinase, catalytic domain	http://purl.obolibrary.org/obo/GO_0006468
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR037313	Serine/threonine-protein kinase N, first HR1 domain	http://purl.obolibrary.org/obo/GO_0004674
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR037313	Serine/threonine-protein kinase N, first HR1 domain	http://purl.obolibrary.org/obo/GO_0006468
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR037313	Serine/threonine-protein kinase N, first HR1 domain	http://purl.obolibrary.org/obo/GO_0031267
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR037317	Serine/threonine-protein kinase N1, second HR1 domain	http://purl.obolibrary.org/obo/GO_0004674
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR037317	Serine/threonine-protein kinase N1, second HR1 domain	http://purl.obolibrary.org/obo/GO_0031267
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR006186	Serine/threonine-specific protein phosphatase/bis(5-nucleosyl)-tetraphosphatase	http://purl.obolibrary.org/obo/GO_0016787
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR005225	Small GTP-binding domain	http://purl.obolibrary.org/obo/GO_0005525
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR006925	Vps16, C-terminal	http://purl.obolibrary.org/obo/GO_0005737
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR006925	Vps16, C-terminal	http://purl.obolibrary.org/obo/GO_0006886
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR000433	Zinc finger, ZZ-type	http://purl.obolibrary.org/obo/GO_0008270
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR033923	p21 activated kinase binding domain	http://purl.obolibrary.org/obo/GO_0004674

@@ -1,0 +1,20 @@
+dt	dtLabel	funcLabel
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR000187	Corticotropin-releasing factor	receptor-binding
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#Occ_O43314_INTERPRO_IPR040557_44..133_1	DomainOccurrence O43314|INTERPRO:IPR040557|44..133|1	receptor-binding
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#Occ_P01282_INTERPRO_IPR000532_124..152_2	DomainOccurrence P01282|INTERPRO:IPR000532|124..152|2	receptor-binding
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#Occ_P01282_INTERPRO_IPR000532_80..108_1	DomainOccurrence P01282|INTERPRO:IPR000532|80..108|1	receptor-binding
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#Occ_P05305_INTERPRO_IPR001928_108..129_2	DomainOccurrence P05305|INTERPRO:IPR001928|108..129|2	receptor-binding
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#Occ_P05305_INTERPRO_IPR001928_49..77_1	DomainOccurrence P05305|INTERPRO:IPR001928|49..77|1	receptor-binding
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#Occ_P06850_INTERPRO_IPR000187_155..194_1	DomainOccurrence P06850|INTERPRO:IPR000187|155..194|1	receptor-binding
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#Occ_P14138_INTERPRO_IPR001928_158..179_2	DomainOccurrence P14138|INTERPRO:IPR001928|158..179|2	receptor-binding
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#Occ_P14138_INTERPRO_IPR001928_93..121_1	DomainOccurrence P14138|INTERPRO:IPR001928|93..121|1	receptor-binding
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#Occ_P18509_INTERPRO_IPR000532_131..158_2	DomainOccurrence P18509|INTERPRO:IPR000532|131..158|2	receptor-binding
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#Occ_P18509_INTERPRO_IPR000532_83..110_1	DomainOccurrence P18509|INTERPRO:IPR000532|83..110|1	receptor-binding
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#Occ_P20800_INTERPRO_IPR001928_45..73_1	DomainOccurrence P20800|INTERPRO:IPR001928|45..73|1	receptor-binding
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#Occ_P20800_INTERPRO_IPR001928_95..116_2	DomainOccurrence P20800|INTERPRO:IPR001928|95..116|2	receptor-binding
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#Occ_P23560_INTERPRO_IPR002072_133..246_1	DomainOccurrence P23560|INTERPRO:IPR002072|133..246|1	receptor-binding
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#Occ_Q6PFW1_INTERPRO_IPR040557_55..144_1	DomainOccurrence Q6PFW1|INTERPRO:IPR040557|55..144|1	receptor-binding
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR001928	Endothelin-like toxin	receptor-binding
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR000532	Glucagon/GIP/secretin/VIP	receptor-binding
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR002072	Nerve growth factor-related	receptor-binding
+http://www.semanticweb.org/32045/ontologies/2026/0/camp_population#DomainType_INTERPRO_IPR040557	VIP1, N-terminal	receptor-binding

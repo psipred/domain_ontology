@@ -1,0 +1,11 @@
+query_id	label	description	n_results	status
+DL01	Domain types with catalytic function	Protege: DomainType and hasFunctionalRole some {catalytic}	0	OK
+DL02	Domain types with receptor function	Protege: DomainType and hasFunctionalRole some {receptor}	0	OK
+DL03	Transmembrane domain occurrences	Protege: DomainOccurrence and hasCharacterisation some TopologyContext[transmembrane]	0	OK
+DL04	Proteins with catalytic transmembrane domain	Protege: Protein and inverse(occursInProtein) some (DomainOccurrence and hasDomainType some (DomainType and hasFunctionalRole some {catalytic}) and hasCharacterisation some {transmembrane})	0	OK
+DL05	Co-occurring domain pairs	Protege: DomainType and cooccursWith some DomainType	2582	OK
+DL06	Proteins with multiple domain types	Proteins that have more than one distinct domain type	79	OK
+DL07	Consistency check — unsatisfiable individuals	Any individual inferred to be rdf:type owl:Nothing indicates an inconsistency	0	OK
+DL08	Domain types with GO annotations	Protege: DomainType and hasGOAnnotation some GOTerm	128	OK
+DL09	Domain order chains	Domain types that have a documented sequential neighbour	621	OK
+DL10	Binding target coverage	Occurrences that have ChEBI-linked binding targets	962	OK

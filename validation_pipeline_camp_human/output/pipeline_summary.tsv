@@ -1,0 +1,18 @@
+stage	name	status	elapsed_s
+1	Table Validation	OK	0.6
+2	Rule-Based Conformance	OK	0.3
+3	SHACL Validation	OK	7.6
+4	OWL Population Builder (Python)	OK	0.6
+5	Ontology Summary Metrics	OK	1.6
+6	Competency Questions (SPARQL)	OK	3.0
+7	Domain Enrichment Analysis	OK	8.9
+8	Domain-Function Heatmaps	OK	5.4
+9	Ontology-Derived Network	OK	2.4
+10	Robustness Testing	OK	27.9
+11	Jena SPARQL Runner (Java — disabled)	DISABLED	0.0
+12	Known-Biology Benchmark	OK	1.2
+13	Protein Module Separation	ERROR: setting an array element with a sequence. The requested array has an inhomogeneous shape after 1 dimensions. The detected shape was (12,) + inhomogeneous part.	11.2
+14	External Database Agreement	OK	0.5
+15	Negative-Control Validation	OK	24.8
+16	Sequence-Ontology Congruence	OK	32.1
+4b	OWL Reasoning — Python/owlrl	ERROR: [Errno 13] Permission denied: 'output\\stage4b_owl_reasoning\\dl_query_summary.tsv'	32.8

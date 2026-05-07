@@ -1,0 +1,1094 @@
+relationship_type	domain_type	value	status
+binding_target	INTERPRO:IPR000008	Ca2+	UNEXPECTED
+binding_target	INTERPRO:IPR000008	PI(3,4,5)P3	UNEXPECTED
+binding_target	INTERPRO:IPR000008	PIP2	UNEXPECTED
+binding_target	INTERPRO:IPR000008	phosphatidylserine	UNEXPECTED
+binding_target	INTERPRO:IPR000014	PAS-domain ligands	UNEXPECTED
+binding_target	INTERPRO:IPR000014	transcription factor complex partners	UNEXPECTED
+binding_target	INTERPRO:IPR000095	Cdc42	UNEXPECTED
+binding_target	INTERPRO:IPR000095	Rac1	UNEXPECTED
+binding_target	INTERPRO:IPR000159	Ras-related small GTPase	UNEXPECTED
+binding_target	INTERPRO:IPR000187	CRHR1	UNEXPECTED
+binding_target	INTERPRO:IPR000187	CRHR2	UNEXPECTED
+binding_target	INTERPRO:IPR000197	Zn2+	UNEXPECTED
+binding_target	INTERPRO:IPR000198	RHOA (GTP-bound)	UNEXPECTED
+binding_target	INTERPRO:IPR000198	Rac1-GTP	UNEXPECTED
+binding_target	INTERPRO:IPR000219	Rho-related small GTPase	UNEXPECTED
+binding_target	INTERPRO:IPR000341	Ras-related small GTPase	UNEXPECTED
+binding_target	INTERPRO:IPR000403	ATP	UNEXPECTED
+binding_target	INTERPRO:IPR000403	Mg2+	UNEXPECTED
+binding_target	INTERPRO:IPR000403	protein substrate	UNEXPECTED
+binding_target	INTERPRO:IPR000433	acetyl-CoA	UNEXPECTED
+binding_target	INTERPRO:IPR000433	histone/non-histone lysine substrate	UNEXPECTED
+binding_target	INTERPRO:IPR000532	GIPR	UNEXPECTED
+binding_target	INTERPRO:IPR000532	PAC1R/ADCYAP1R1 (lower affinity)	UNEXPECTED
+binding_target	INTERPRO:IPR000532	VPAC1/VIPR1	UNEXPECTED
+binding_target	INTERPRO:IPR000532	VPAC2/VIPR2	UNEXPECTED
+binding_target	INTERPRO:IPR000591	G¦Â¦Ã subunits	UNEXPECTED
+binding_target	INTERPRO:IPR000591	cAMP	UNEXPECTED
+binding_target	INTERPRO:IPR000591	cGMP	UNEXPECTED
+binding_target	INTERPRO:IPR000591	plasma membrane	UNEXPECTED
+binding_target	INTERPRO:IPR000595	G¦Â¦Ã subunits	UNEXPECTED
+binding_target	INTERPRO:IPR000595	cAMP	UNEXPECTED
+binding_target	INTERPRO:IPR000595	cGMP	UNEXPECTED
+binding_target	INTERPRO:IPR000595	plasma membrane	UNEXPECTED
+binding_target	INTERPRO:IPR000651	Ras-related small GTPase	UNEXPECTED
+binding_target	INTERPRO:IPR000699	Ca2+	UNEXPECTED
+binding_target	INTERPRO:IPR000699	Channel Regulatory Proteins	UNEXPECTED
+binding_target	INTERPRO:IPR000699	protein regulators of RyR/IP3R	UNEXPECTED
+binding_target	INTERPRO:IPR000719	ATP	UNEXPECTED
+binding_target	INTERPRO:IPR000719	Mg2+	UNEXPECTED
+binding_target	INTERPRO:IPR000719	protein substrate	UNEXPECTED
+binding_target	INTERPRO:IPR000909	Ca2+	UNEXPECTED
+binding_target	INTERPRO:IPR000909	Mg2+	UNEXPECTED
+binding_target	INTERPRO:IPR000909	PIP2	UNEXPECTED
+binding_target	INTERPRO:IPR000961	ATP	UNEXPECTED
+binding_target	INTERPRO:IPR000961	Mg2+	UNEXPECTED
+binding_target	INTERPRO:IPR000961	protein substrate	UNEXPECTED
+binding_target	INTERPRO:IPR000980	GAB1/GAB2 adaptors	UNEXPECTED
+binding_target	INTERPRO:IPR000980	IRS-1/IRS-2 pTyr motifs	UNEXPECTED
+binding_target	INTERPRO:IPR000980	RTK tails (EGFR/PDGFR/IR)	UNEXPECTED
+binding_target	INTERPRO:IPR000980	phosphotyrosine-containing proteins	UNEXPECTED
+binding_target	INTERPRO:IPR001054	ATP	UNEXPECTED
+binding_target	INTERPRO:IPR001054	Mg2+	UNEXPECTED
+binding_target	INTERPRO:IPR001054	Mn2+	UNEXPECTED
+binding_target	INTERPRO:IPR001245	ATP	UNEXPECTED
+binding_target	INTERPRO:IPR001245	Mg2+	UNEXPECTED
+binding_target	INTERPRO:IPR001245	protein substrate	UNEXPECTED
+binding_target	INTERPRO:IPR001263	mTOR complex	UNEXPECTED
+binding_target	INTERPRO:IPR001263	p85-alpha/p85-beta regulatory subunit	UNEXPECTED
+binding_target	INTERPRO:IPR001452	SH3-binding PxxP proteins	UNEXPECTED
+binding_target	INTERPRO:IPR001452	phosphotyrosine-containing proteins	UNEXPECTED
+binding_target	INTERPRO:IPR001487	phosphorylated CREB pKID	UNEXPECTED
+binding_target	INTERPRO:IPR001683	PI(3,4,5)P3	UNEXPECTED
+binding_target	INTERPRO:IPR001683	PI(4,5)P2	UNEXPECTED
+binding_target	INTERPRO:IPR001711	Ca2+	UNEXPECTED
+binding_target	INTERPRO:IPR001711	Mg2+	UNEXPECTED
+binding_target	INTERPRO:IPR001711	PIP2	UNEXPECTED
+binding_target	INTERPRO:IPR001715	actin	UNEXPECTED
+binding_target	INTERPRO:IPR001736	PA	UNEXPECTED
+binding_target	INTERPRO:IPR001736	Phosphatidylcholine	UNEXPECTED
+binding_target	INTERPRO:IPR001736	water	UNEXPECTED
+binding_target	INTERPRO:IPR001828	small-molecule or amino-acid ligand	UNEXPECTED
+binding_target	INTERPRO:IPR001849	PI(3,4,5)P3	UNEXPECTED
+binding_target	INTERPRO:IPR001849	PI(4,5)P2	UNEXPECTED
+binding_target	INTERPRO:IPR001870	Ca2+	UNEXPECTED
+binding_target	INTERPRO:IPR001870	Channel Regulatory Proteins	UNEXPECTED
+binding_target	INTERPRO:IPR001870	protein regulators of RyR/IP3R	UNEXPECTED
+binding_target	INTERPRO:IPR001879	peptide hormone ligand	UNEXPECTED
+binding_target	INTERPRO:IPR001895	Ras-related small GTPase	UNEXPECTED
+binding_target	INTERPRO:IPR001895	Rho-related small GTPase	UNEXPECTED
+binding_target	INTERPRO:IPR001928	EDNRA	UNEXPECTED
+binding_target	INTERPRO:IPR001928	EDNRB	UNEXPECTED
+binding_target	INTERPRO:IPR002048	Ca2+	UNEXPECTED
+binding_target	INTERPRO:IPR002048	Calmodulin	UNEXPECTED
+binding_target	INTERPRO:IPR002048	myosin IQ motif / MLCK substrate	UNEXPECTED
+binding_target	INTERPRO:IPR002072	cognate Trk receptor (TrkB/NTRK2)	UNEXPECTED
+binding_target	INTERPRO:IPR002073	Mg2+	UNEXPECTED
+binding_target	INTERPRO:IPR002073	Zn2+	UNEXPECTED
+binding_target	INTERPRO:IPR002073	cAMP	UNEXPECTED
+binding_target	INTERPRO:IPR002073	cGMP	UNEXPECTED
+binding_target	INTERPRO:IPR002219	Dbl homology domain (intramolecular)	UNEXPECTED
+binding_target	INTERPRO:IPR002219	Diacylglycerol	UNEXPECTED
+binding_target	INTERPRO:IPR002219	Zn2+	UNEXPECTED
+binding_target	INTERPRO:IPR002219	membrane phospholipid	UNEXPECTED
+binding_target	INTERPRO:IPR002219	phorbol ester	UNEXPECTED
+binding_target	INTERPRO:IPR002420	membrane phospholipid	UNEXPECTED
+binding_target	INTERPRO:IPR003018	cAMP	UNEXPECTED
+binding_target	INTERPRO:IPR003018	cGMP	UNEXPECTED
+binding_target	INTERPRO:IPR003032	Ca2+	UNEXPECTED
+binding_target	INTERPRO:IPR003032	Channel Regulatory Proteins	UNEXPECTED
+binding_target	INTERPRO:IPR003032	protein regulators of RyR/IP3R	UNEXPECTED
+binding_target	INTERPRO:IPR003101	Zn2+	UNEXPECTED
+binding_target	INTERPRO:IPR003102	CBP/p300 KIX domain	UNEXPECTED
+binding_target	INTERPRO:IPR003113	p85-alpha/p85-beta regulatory subunit	UNEXPECTED
+binding_target	INTERPRO:IPR003116	Ras-related small GTPase	UNEXPECTED
+binding_target	INTERPRO:IPR003439	ATP	UNEXPECTED
+binding_target	INTERPRO:IPR003439	Cl?/HCO??	UNEXPECTED
+binding_target	INTERPRO:IPR003439	Mg2+	UNEXPECTED
+binding_target	INTERPRO:IPR003439	cAMP	UNEXPECTED
+binding_target	INTERPRO:IPR003439	cGMP	UNEXPECTED
+binding_target	INTERPRO:IPR003439	membrane bilayer	UNEXPECTED
+binding_target	INTERPRO:IPR003593	ATP	UNEXPECTED
+binding_target	INTERPRO:IPR003593	Mg2+	UNEXPECTED
+binding_target	INTERPRO:IPR003593	cAMP	UNEXPECTED
+binding_target	INTERPRO:IPR003593	cGMP	UNEXPECTED
+binding_target	INTERPRO:IPR003593	channel regulatory partners	UNEXPECTED
+binding_target	INTERPRO:IPR003593	membrane bilayer	UNEXPECTED
+binding_target	INTERPRO:IPR003593	protein kinase A	UNEXPECTED
+binding_target	INTERPRO:IPR003607	Mg2+	UNEXPECTED
+binding_target	INTERPRO:IPR003607	Zn2+	UNEXPECTED
+binding_target	INTERPRO:IPR003607	cAMP	UNEXPECTED
+binding_target	INTERPRO:IPR003607	cGMP	UNEXPECTED
+binding_target	INTERPRO:IPR003877	Ca2+	UNEXPECTED
+binding_target	INTERPRO:IPR003877	Channel Regulatory Proteins	UNEXPECTED
+binding_target	INTERPRO:IPR003877	protein regulators of RyR/IP3R	UNEXPECTED
+binding_target	INTERPRO:IPR004014	Ca2+	UNEXPECTED
+binding_target	INTERPRO:IPR004014	membrane bilayer	UNEXPECTED
+binding_target	INTERPRO:IPR004827	DNA response element (CRE/E-box)	UNEXPECTED
+binding_target	INTERPRO:IPR004827	homodimer/heterodimer partner	UNEXPECTED
+binding_target	INTERPRO:IPR004843	metal ions	UNEXPECTED
+binding_target	INTERPRO:IPR004843	phosphoprotein substrate	UNEXPECTED
+binding_target	INTERPRO:IPR005225	GAP	UNEXPECTED
+binding_target	INTERPRO:IPR005225	GDP	UNEXPECTED
+binding_target	INTERPRO:IPR005225	GEF	UNEXPECTED
+binding_target	INTERPRO:IPR005225	GTP	UNEXPECTED
+binding_target	INTERPRO:IPR005225	effector proteins	UNEXPECTED
+binding_target	INTERPRO:IPR005821	Ca2+	UNEXPECTED
+binding_target	INTERPRO:IPR005821	K+	UNEXPECTED
+binding_target	INTERPRO:IPR005821	Na+	UNEXPECTED
+binding_target	INTERPRO:IPR006020	APP	UNEXPECTED
+binding_target	INTERPRO:IPR006020	NPxY/NxxY peptide motifs	UNEXPECTED
+binding_target	INTERPRO:IPR006020	Shc adaptors	UNEXPECTED
+binding_target	INTERPRO:IPR006020	insulin receptor -beta-chain	UNEXPECTED
+binding_target	INTERPRO:IPR006068	ATP	UNEXPECTED
+binding_target	INTERPRO:IPR006068	Ca2+	UNEXPECTED
+binding_target	INTERPRO:IPR006186	metal ions	UNEXPECTED
+binding_target	INTERPRO:IPR006186	phosphoprotein substrate	UNEXPECTED
+binding_target	INTERPRO:IPR006925	HOPS/CORVET complex partner proteins	UNEXPECTED
+binding_target	INTERPRO:IPR009398	ATP	UNEXPECTED
+binding_target	INTERPRO:IPR009398	Mg2+	UNEXPECTED
+binding_target	INTERPRO:IPR009398	Mn2+	UNEXPECTED
+binding_target	INTERPRO:IPR009460	Ca2+	UNEXPECTED
+binding_target	INTERPRO:IPR009460	K+	UNEXPECTED
+binding_target	INTERPRO:IPR009460	Na+	UNEXPECTED
+binding_target	INTERPRO:IPR010011	coactivator core proteins	UNEXPECTED
+binding_target	INTERPRO:IPR010303	acetylated histone tails	UNEXPECTED
+binding_target	INTERPRO:IPR010630	protein partner	UNEXPECTED
+binding_target	INTERPRO:IPR011072	ATP	UNEXPECTED
+binding_target	INTERPRO:IPR011072	Mg2+	UNEXPECTED
+binding_target	INTERPRO:IPR011072	RhoA/RhoB/RhoC (GTP-bound)	UNEXPECTED
+binding_target	INTERPRO:IPR011072	protein substrate	UNEXPECTED
+binding_target	INTERPRO:IPR011527	ATP	UNEXPECTED
+binding_target	INTERPRO:IPR011527	Cl?/HCO??	UNEXPECTED
+binding_target	INTERPRO:IPR011527	Mg2+	UNEXPECTED
+binding_target	INTERPRO:IPR011527	cAMP	UNEXPECTED
+binding_target	INTERPRO:IPR011527	cGMP	UNEXPECTED
+binding_target	INTERPRO:IPR011527	membrane bilayer	UNEXPECTED
+binding_target	INTERPRO:IPR011598	DNA response element (CRE/E-box)	UNEXPECTED
+binding_target	INTERPRO:IPR011598	homodimer/heterodimer partner	UNEXPECTED
+binding_target	INTERPRO:IPR012943	protein partner	UNEXPECTED
+binding_target	INTERPRO:IPR013087	Zn2+	UNEXPECTED
+binding_target	INTERPRO:IPR013621	Ca2+	UNEXPECTED
+binding_target	INTERPRO:IPR013621	K+	UNEXPECTED
+binding_target	INTERPRO:IPR013621	Na+	UNEXPECTED
+binding_target	INTERPRO:IPR013662	Ca2+	UNEXPECTED
+binding_target	INTERPRO:IPR013662	Channel Regulatory Proteins	UNEXPECTED
+binding_target	INTERPRO:IPR013767	PAS-domain ligands	UNEXPECTED
+binding_target	INTERPRO:IPR013767	transcription factor complex partners	UNEXPECTED
+binding_target	INTERPRO:IPR014744	coactivator core proteins	UNEXPECTED
+binding_target	INTERPRO:IPR014821	Ca2+	UNEXPECTED
+binding_target	INTERPRO:IPR014821	Channel Regulatory Proteins	UNEXPECTED
+binding_target	INTERPRO:IPR014873	AKAP15	UNEXPECTED
+binding_target	INTERPRO:IPR014873	CaV-beta subunit	UNEXPECTED
+binding_target	INTERPRO:IPR014873	Calmodulin	UNEXPECTED
+binding_target	INTERPRO:IPR014873	protein partner	UNEXPECTED
+binding_target	INTERPRO:IPR014920	coactivator core proteins	UNEXPECTED
+binding_target	INTERPRO:IPR014935	NCOA3 LXXLL motif	UNEXPECTED
+binding_target	INTERPRO:IPR014935	nuclear receptor LBD AF-2 helix	UNEXPECTED
+binding_target	INTERPRO:IPR015008	RhoA/RhoB/RhoC (GTP-bound)	UNEXPECTED
+binding_target	INTERPRO:IPR015359	Ca2+	UNEXPECTED
+binding_target	INTERPRO:IPR016093	Ca2+	UNEXPECTED
+binding_target	INTERPRO:IPR016093	Channel Regulatory Proteins	UNEXPECTED
+binding_target	INTERPRO:IPR016137	G alpha subunit	UNEXPECTED
+binding_target	INTERPRO:IPR017452	endothelin (ET-1/ET-2/ET-3)	UNEXPECTED
+binding_target	INTERPRO:IPR017452	extracellular ligand	UNEXPECTED
+binding_target	INTERPRO:IPR017452	heterotrimeric G protein	UNEXPECTED
+binding_target	INTERPRO:IPR017892	ATP	UNEXPECTED
+binding_target	INTERPRO:IPR017892	Mg2+	UNEXPECTED
+binding_target	INTERPRO:IPR017892	protein substrate	UNEXPECTED
+binding_target	INTERPRO:IPR017978	extracellular ligand	UNEXPECTED
+binding_target	INTERPRO:IPR017978	heterotrimeric G protein	UNEXPECTED
+binding_target	INTERPRO:IPR017981	extracellular ligand	UNEXPECTED
+binding_target	INTERPRO:IPR017981	heterotrimeric G protein	UNEXPECTED
+binding_target	INTERPRO:IPR020454	Diacylglycerol	UNEXPECTED
+binding_target	INTERPRO:IPR020454	membrane phospholipid	UNEXPECTED
+binding_target	INTERPRO:IPR020454	phorbol ester	UNEXPECTED
+binding_target	INTERPRO:IPR022141	Ca2+	UNEXPECTED
+binding_target	INTERPRO:IPR022141	Calmodulin	UNEXPECTED
+binding_target	INTERPRO:IPR022613	protein partner	UNEXPECTED
+binding_target	INTERPRO:IPR025202	PA	UNEXPECTED
+binding_target	INTERPRO:IPR025202	Phosphatidylcholine	UNEXPECTED
+binding_target	INTERPRO:IPR025202	water	UNEXPECTED
+binding_target	INTERPRO:IPR025837	ATP	UNEXPECTED
+binding_target	INTERPRO:IPR025837	Mg2+	UNEXPECTED
+binding_target	INTERPRO:IPR028398	Ras-related small GTPase	UNEXPECTED
+binding_target	INTERPRO:IPR029878	RhoA/RhoB/RhoC (GTP-bound)	UNEXPECTED
+binding_target	INTERPRO:IPR030240	cAMP	UNEXPECTED
+binding_target	INTERPRO:IPR030240	cGMP	UNEXPECTED
+binding_target	INTERPRO:IPR030240	membrane bilayer	UNEXPECTED
+binding_target	INTERPRO:IPR031162	H3K4me3	UNEXPECTED
+binding_target	INTERPRO:IPR031162	methylated histone H3 tail	UNEXPECTED
+binding_target	INTERPRO:IPR031649	AKAP15	UNEXPECTED
+binding_target	INTERPRO:IPR031649	CaV-beta subunit	UNEXPECTED
+binding_target	INTERPRO:IPR031649	Calmodulin	UNEXPECTED
+binding_target	INTERPRO:IPR031649	protein partner	UNEXPECTED
+binding_target	INTERPRO:IPR031675	regulatory subunits	UNEXPECTED
+binding_target	INTERPRO:IPR031688	protein partner	UNEXPECTED
+binding_target	INTERPRO:IPR032406	protein partner	UNEXPECTED
+binding_target	INTERPRO:IPR032486	protein partner	UNEXPECTED
+binding_target	INTERPRO:IPR032498	GAB1/GAB2 adaptors	UNEXPECTED
+binding_target	INTERPRO:IPR032498	IRS-1/IRS-2 pTyr motifs	UNEXPECTED
+binding_target	INTERPRO:IPR032498	RTK tails (EGFR/PDGFR/IR)	UNEXPECTED
+binding_target	INTERPRO:IPR032565	coactivator core proteins	UNEXPECTED
+binding_target	INTERPRO:IPR032628	membrane environment	UNEXPECTED
+binding_target	INTERPRO:IPR033923	Cdc42	UNEXPECTED
+binding_target	INTERPRO:IPR033923	Rac1	UNEXPECTED
+binding_target	INTERPRO:IPR034663	ATP	UNEXPECTED
+binding_target	INTERPRO:IPR034663	Mg2+	UNEXPECTED
+binding_target	INTERPRO:IPR034663	protein substrate	UNEXPECTED
+binding_target	INTERPRO:IPR034675	ATP	UNEXPECTED
+binding_target	INTERPRO:IPR034675	Mg2+	UNEXPECTED
+binding_target	INTERPRO:IPR034675	protein substrate	UNEXPECTED
+binding_target	INTERPRO:IPR034743	protein partner	UNEXPECTED
+binding_target	INTERPRO:IPR034744	protein partner	UNEXPECTED
+binding_target	INTERPRO:IPR035020	GAB1/GAB2 adaptors	UNEXPECTED
+binding_target	INTERPRO:IPR035020	IRS-1/IRS-2 pTyr motifs	UNEXPECTED
+binding_target	INTERPRO:IPR035020	PI3K p110 catalytic subunit	UNEXPECTED
+binding_target	INTERPRO:IPR035020	RTK tails (EGFR/PDGFR/IR)	UNEXPECTED
+binding_target	INTERPRO:IPR035022	GAB1/GAB2 adaptors	UNEXPECTED
+binding_target	INTERPRO:IPR035022	IRS-1/IRS-2 pTyr motifs	UNEXPECTED
+binding_target	INTERPRO:IPR035022	RTK tails (EGFR/PDGFR/IR)	UNEXPECTED
+binding_target	INTERPRO:IPR035586	SH3-binding PxxP proteins	UNEXPECTED
+binding_target	INTERPRO:IPR035591	SH3-binding PxxP proteins	UNEXPECTED
+binding_target	INTERPRO:IPR035637	SH3-binding PxxP proteins	UNEXPECTED
+binding_target	INTERPRO:IPR035638	SH3-binding PxxP proteins	UNEXPECTED
+binding_target	INTERPRO:IPR035729	SH3-binding PxxP proteins	UNEXPECTED
+binding_target	INTERPRO:IPR035730	SH3-binding PxxP proteins	UNEXPECTED
+binding_target	INTERPRO:IPR035732	SH3-binding PxxP proteins	UNEXPECTED
+binding_target	INTERPRO:IPR035733	SH3-binding PxxP proteins	UNEXPECTED
+binding_target	INTERPRO:IPR035734	SH3-binding PxxP proteins	UNEXPECTED
+binding_target	INTERPRO:IPR035761	protein regulators of RyR/IP3R	UNEXPECTED
+binding_target	INTERPRO:IPR035762	Ca2+	UNEXPECTED
+binding_target	INTERPRO:IPR035762	Channel Regulatory Proteins	UNEXPECTED
+binding_target	INTERPRO:IPR035764	protein regulators of RyR/IP3R	UNEXPECTED
+binding_target	INTERPRO:IPR035879	SH3-binding PxxP proteins	UNEXPECTED
+binding_target	INTERPRO:IPR035880	SH3-binding PxxP proteins	UNEXPECTED
+binding_target	INTERPRO:IPR035881	SH3-binding PxxP proteins	UNEXPECTED
+binding_target	INTERPRO:IPR037310	RhoA/RhoB/RhoC (GTP-bound)	UNEXPECTED
+binding_target	INTERPRO:IPR037311	ATP	UNEXPECTED
+binding_target	INTERPRO:IPR037311	Mg2+	UNEXPECTED
+binding_target	INTERPRO:IPR037311	protein substrate	UNEXPECTED
+binding_target	INTERPRO:IPR037313	RhoA/RhoB/RhoC (GTP-bound)	UNEXPECTED
+binding_target	INTERPRO:IPR037317	ATP	UNEXPECTED
+binding_target	INTERPRO:IPR037317	Mg2+	UNEXPECTED
+binding_target	INTERPRO:IPR037317	protein substrate	UNEXPECTED
+binding_target	INTERPRO:IPR037702	ATP	UNEXPECTED
+binding_target	INTERPRO:IPR037702	Mg2+	UNEXPECTED
+binding_target	INTERPRO:IPR037702	protein substrate	UNEXPECTED
+binding_target	INTERPRO:IPR037703	ATP	UNEXPECTED
+binding_target	INTERPRO:IPR037703	Mg2+	UNEXPECTED
+binding_target	INTERPRO:IPR037703	protein substrate	UNEXPECTED
+binding_target	INTERPRO:IPR037704	ATP	UNEXPECTED
+binding_target	INTERPRO:IPR037704	Mg2+	UNEXPECTED
+binding_target	INTERPRO:IPR037704	protein substrate	UNEXPECTED
+binding_target	INTERPRO:IPR037784	Ca2+	UNEXPECTED
+binding_target	INTERPRO:IPR037784	PI(3,4,5)P3	UNEXPECTED
+binding_target	INTERPRO:IPR037784	PIP2	UNEXPECTED
+binding_target	INTERPRO:IPR037784	phosphatidylserine	UNEXPECTED
+binding_target	INTERPRO:IPR037832	PI(3,4,5)P3	UNEXPECTED
+binding_target	INTERPRO:IPR039026	PI(3,4,5)P3	UNEXPECTED
+binding_target	INTERPRO:IPR040557	VPAC1/VIPR1	UNEXPECTED
+binding_target	INTERPRO:IPR040557	VPAC2/VIPR2	UNEXPECTED
+binding_target	INTERPRO:IPR040844	intramolecular PDE regulatory contacts	UNEXPECTED
+binding_target	INTERPRO:IPR041689	partner receptor subunit	UNEXPECTED
+binding_target	INTERPRO:IPR041689	receptor cytoplasmic tail	UNEXPECTED
+binding_target	INTERPRO:IPR044124	PI3K p110 catalytic subunit	UNEXPECTED
+binding_target	INTERPRO:IPR044492	ATP	UNEXPECTED
+binding_target	INTERPRO:IPR044492	Mg2+	UNEXPECTED
+binding_target	INTERPRO:IPR046973	Ca2+	UNEXPECTED
+binding_target	INTERPRO:IPR046973	Mg2+	UNEXPECTED
+binding_target	INTERPRO:IPR046973	PIP2	UNEXPECTED
+binding_target	INTERPRO:IPR046974	Ca2+	UNEXPECTED
+binding_target	INTERPRO:IPR047015	SH3-binding PxxP proteins	UNEXPECTED
+binding_target	INTERPRO:IPR047035	extracellular ligand	UNEXPECTED
+binding_target	INTERPRO:IPR047035	heterotrimeric G protein	UNEXPECTED
+binding_target	INTERPRO:IPR047082	Cl?/HCO??	UNEXPECTED
+binding_target	INTERPRO:IPR047082	membrane bilayer	UNEXPECTED
+binding_target	INTERPRO:IPR047083	ATP	UNEXPECTED
+binding_target	INTERPRO:IPR047083	Mg2+	UNEXPECTED
+binding_target	INTERPRO:IPR048581	Ca2+	UNEXPECTED
+binding_target	INTERPRO:IPR048581	Channel Regulatory Proteins	UNEXPECTED
+binding_target	INTERPRO:IPR055251	Phosphoinositides	UNEXPECTED
+binding_target	INTERPRO:IPR055272	cAMP	UNEXPECTED
+binding_target	INTERPRO:IPR056177	CRH/CRF peptide	UNEXPECTED
+binding_target	INTERPRO:IPR056178	CRH/CRF peptide	UNEXPECTED
+binding_target	INTERPRO:IPR056193	DNA response element (CRE/E-box)	UNEXPECTED
+binding_target	INTERPRO:IPR056193	homodimer/heterodimer partner	UNEXPECTED
+binding_target	INTERPRO:IPR056194	DNA response element (CRE/E-box)	UNEXPECTED
+binding_target	INTERPRO:IPR056194	homodimer/heterodimer partner	UNEXPECTED
+binding_target	INTERPRO:IPR056273	protein partner	UNEXPECTED
+binding_target	INTERPRO:IPR056484	Zn2+	UNEXPECTED
+binding_target	INTERPRO:IPR056484	protein partner	UNEXPECTED
+binding_target	INTERPRO:IPR056484	protein partners (generic)	UNEXPECTED
+binding_target	INTERPRO:IPR057529	PI(3,4,5)P3	UNEXPECTED
+binding_target	INTERPRO:IPR059000	phosphoprotein substrate	UNEXPECTED
+binding_target	INTERPRO:IPR060527	protein partner	UNEXPECTED
+function_tag	INTERPRO:IPR000008	Binding	UNEXPECTED
+function_tag	INTERPRO:IPR000008	membrane-targeting	UNEXPECTED
+function_tag	INTERPRO:IPR000008	regulator	UNEXPECTED
+function_tag	INTERPRO:IPR000014	scaffold	UNEXPECTED
+function_tag	INTERPRO:IPR000014	sensor	UNEXPECTED
+function_tag	INTERPRO:IPR000095	Binding	UNEXPECTED
+function_tag	INTERPRO:IPR000095	regulator	UNEXPECTED
+function_tag	INTERPRO:IPR000159	Binding	UNEXPECTED
+function_tag	INTERPRO:IPR000159	regulator	UNEXPECTED
+function_tag	INTERPRO:IPR000187	ligand	UNEXPECTED
+function_tag	INTERPRO:IPR000187	receptor-binding	UNEXPECTED
+function_tag	INTERPRO:IPR000197	Binding	UNEXPECTED
+function_tag	INTERPRO:IPR000197	metal-binding	UNEXPECTED
+function_tag	INTERPRO:IPR000197	structural	UNEXPECTED
+function_tag	INTERPRO:IPR000198	GAP	UNEXPECTED
+function_tag	INTERPRO:IPR000198	regulator	UNEXPECTED
+function_tag	INTERPRO:IPR000219	GEF	UNEXPECTED
+function_tag	INTERPRO:IPR000219	regulator	UNEXPECTED
+function_tag	INTERPRO:IPR000341	Binding	UNEXPECTED
+function_tag	INTERPRO:IPR000341	regulator	UNEXPECTED
+function_tag	INTERPRO:IPR000403	Binding	UNEXPECTED
+function_tag	INTERPRO:IPR000403	catalytic	UNEXPECTED
+function_tag	INTERPRO:IPR000433	catalytic	UNEXPECTED
+function_tag	INTERPRO:IPR000532	ligand	UNEXPECTED
+function_tag	INTERPRO:IPR000532	receptor-binding	UNEXPECTED
+function_tag	INTERPRO:IPR000591	cyclic-nucleotide-sensor	UNEXPECTED
+function_tag	INTERPRO:IPR000591	membrane-targeting	UNEXPECTED
+function_tag	INTERPRO:IPR000591	regulator	UNEXPECTED
+function_tag	INTERPRO:IPR000591	scaffold	UNEXPECTED
+function_tag	INTERPRO:IPR000595	cyclic-nucleotide-sensor	UNEXPECTED
+function_tag	INTERPRO:IPR000595	membrane-targeting	UNEXPECTED
+function_tag	INTERPRO:IPR000595	regulator	UNEXPECTED
+function_tag	INTERPRO:IPR000595	scaffold	UNEXPECTED
+function_tag	INTERPRO:IPR000651	GEF	UNEXPECTED
+function_tag	INTERPRO:IPR000651	regulator	UNEXPECTED
+function_tag	INTERPRO:IPR000699	PPI	UNEXPECTED
+function_tag	INTERPRO:IPR000699	channel	UNEXPECTED
+function_tag	INTERPRO:IPR000699	regulator	UNEXPECTED
+function_tag	INTERPRO:IPR000699	scaffold	UNEXPECTED
+function_tag	INTERPRO:IPR000719	Binding	UNEXPECTED
+function_tag	INTERPRO:IPR000719	catalytic	UNEXPECTED
+function_tag	INTERPRO:IPR000909	catalytic	UNEXPECTED
+function_tag	INTERPRO:IPR000961	Binding	UNEXPECTED
+function_tag	INTERPRO:IPR000961	catalytic	UNEXPECTED
+function_tag	INTERPRO:IPR000980	PPI	UNEXPECTED
+function_tag	INTERPRO:IPR000980	adaptor	UNEXPECTED
+function_tag	INTERPRO:IPR001054	catalytic	UNEXPECTED
+function_tag	INTERPRO:IPR001245	Binding	UNEXPECTED
+function_tag	INTERPRO:IPR001245	catalytic	UNEXPECTED
+function_tag	INTERPRO:IPR001263	regulator	UNEXPECTED
+function_tag	INTERPRO:IPR001452	PPI	UNEXPECTED
+function_tag	INTERPRO:IPR001452	adaptor	UNEXPECTED
+function_tag	INTERPRO:IPR001487	PPI	UNEXPECTED
+function_tag	INTERPRO:IPR001487	coactivator	UNEXPECTED
+function_tag	INTERPRO:IPR001683	Binding	UNEXPECTED
+function_tag	INTERPRO:IPR001683	membrane-targeting	UNEXPECTED
+function_tag	INTERPRO:IPR001711	catalytic	UNEXPECTED
+function_tag	INTERPRO:IPR001715	Binding	UNEXPECTED
+function_tag	INTERPRO:IPR001715	scaffold	UNEXPECTED
+function_tag	INTERPRO:IPR001736	catalytic	UNEXPECTED
+function_tag	INTERPRO:IPR001828	ligand-binding	UNEXPECTED
+function_tag	INTERPRO:IPR001828	receptor	UNEXPECTED
+function_tag	INTERPRO:IPR001849	Binding	UNEXPECTED
+function_tag	INTERPRO:IPR001849	adaptor	UNEXPECTED
+function_tag	INTERPRO:IPR001849	membrane-targeting	UNEXPECTED
+function_tag	INTERPRO:IPR001870	PPI	UNEXPECTED
+function_tag	INTERPRO:IPR001870	channel	UNEXPECTED
+function_tag	INTERPRO:IPR001870	regulator	UNEXPECTED
+function_tag	INTERPRO:IPR001870	scaffold	UNEXPECTED
+function_tag	INTERPRO:IPR001879	ligand-binding	UNEXPECTED
+function_tag	INTERPRO:IPR001879	receptor	UNEXPECTED
+function_tag	INTERPRO:IPR001895	GEF	UNEXPECTED
+function_tag	INTERPRO:IPR001895	regulator	UNEXPECTED
+function_tag	INTERPRO:IPR001928	ligand	UNEXPECTED
+function_tag	INTERPRO:IPR001928	receptor-binding	UNEXPECTED
+function_tag	INTERPRO:IPR002048	Binding	UNEXPECTED
+function_tag	INTERPRO:IPR002048	regulator	UNEXPECTED
+function_tag	INTERPRO:IPR002072	ligand	UNEXPECTED
+function_tag	INTERPRO:IPR002072	receptor-binding	UNEXPECTED
+function_tag	INTERPRO:IPR002073	catalytic	UNEXPECTED
+function_tag	INTERPRO:IPR002219	Binding	UNEXPECTED
+function_tag	INTERPRO:IPR002219	membrane-targeting	UNEXPECTED
+function_tag	INTERPRO:IPR002219	regulator	UNEXPECTED
+function_tag	INTERPRO:IPR002219	structural	UNEXPECTED
+function_tag	INTERPRO:IPR002420	Binding	UNEXPECTED
+function_tag	INTERPRO:IPR002420	membrane-targeting	UNEXPECTED
+function_tag	INTERPRO:IPR003018	cyclic-nucleotide-sensor	UNEXPECTED
+function_tag	INTERPRO:IPR003018	regulator	UNEXPECTED
+function_tag	INTERPRO:IPR003032	PPI	UNEXPECTED
+function_tag	INTERPRO:IPR003032	channel	UNEXPECTED
+function_tag	INTERPRO:IPR003032	regulator	UNEXPECTED
+function_tag	INTERPRO:IPR003032	scaffold	UNEXPECTED
+function_tag	INTERPRO:IPR003101	Binding	UNEXPECTED
+function_tag	INTERPRO:IPR003101	metal-binding	UNEXPECTED
+function_tag	INTERPRO:IPR003101	structural	UNEXPECTED
+function_tag	INTERPRO:IPR003102	PPI	UNEXPECTED
+function_tag	INTERPRO:IPR003102	transcription-regulator	UNEXPECTED
+function_tag	INTERPRO:IPR003113	regulator	UNEXPECTED
+function_tag	INTERPRO:IPR003113	scaffold	UNEXPECTED
+function_tag	INTERPRO:IPR003116	Binding	UNEXPECTED
+function_tag	INTERPRO:IPR003116	regulator	UNEXPECTED
+function_tag	INTERPRO:IPR003439	ATPase	UNEXPECTED
+function_tag	INTERPRO:IPR003439	channel	UNEXPECTED
+function_tag	INTERPRO:IPR003439	membrane-anchor	UNEXPECTED
+function_tag	INTERPRO:IPR003439	transporter	UNEXPECTED
+function_tag	INTERPRO:IPR003593	ATPase	UNEXPECTED
+function_tag	INTERPRO:IPR003593	membrane-anchor	UNEXPECTED
+function_tag	INTERPRO:IPR003593	regulator	UNEXPECTED
+function_tag	INTERPRO:IPR003593	transporter	UNEXPECTED
+function_tag	INTERPRO:IPR003607	catalytic	UNEXPECTED
+function_tag	INTERPRO:IPR003877	PPI	UNEXPECTED
+function_tag	INTERPRO:IPR003877	channel	UNEXPECTED
+function_tag	INTERPRO:IPR003877	regulator	UNEXPECTED
+function_tag	INTERPRO:IPR003877	scaffold	UNEXPECTED
+function_tag	INTERPRO:IPR004014	membrane-anchor	UNEXPECTED
+function_tag	INTERPRO:IPR004014	transporter	UNEXPECTED
+function_tag	INTERPRO:IPR004827	DNA-binding	UNEXPECTED
+function_tag	INTERPRO:IPR004827	dimerization	UNEXPECTED
+function_tag	INTERPRO:IPR004843	catalytic	UNEXPECTED
+function_tag	INTERPRO:IPR005225	Binding	UNEXPECTED
+function_tag	INTERPRO:IPR005225	molecular-switch	UNEXPECTED
+function_tag	INTERPRO:IPR005821	channel	UNEXPECTED
+function_tag	INTERPRO:IPR006020	PPI	UNEXPECTED
+function_tag	INTERPRO:IPR006020	adaptor	UNEXPECTED
+function_tag	INTERPRO:IPR006068	ATPase	UNEXPECTED
+function_tag	INTERPRO:IPR006068	transporter	UNEXPECTED
+function_tag	INTERPRO:IPR006186	catalytic	UNEXPECTED
+function_tag	INTERPRO:IPR006925	scaffold	UNEXPECTED
+function_tag	INTERPRO:IPR006925	trafficking	UNEXPECTED
+function_tag	INTERPRO:IPR009398	catalytic	UNEXPECTED
+function_tag	INTERPRO:IPR009460	channel	UNEXPECTED
+function_tag	INTERPRO:IPR010011	coactivator	UNEXPECTED
+function_tag	INTERPRO:IPR010011	scaffold	UNEXPECTED
+function_tag	INTERPRO:IPR010303	chromatin-binding	UNEXPECTED
+function_tag	INTERPRO:IPR010303	reader	UNEXPECTED
+function_tag	INTERPRO:IPR010630	scaffold	UNEXPECTED
+function_tag	INTERPRO:IPR011072	Binding	UNEXPECTED
+function_tag	INTERPRO:IPR011072	catalytic	UNEXPECTED
+function_tag	INTERPRO:IPR011072	regulator	UNEXPECTED
+function_tag	INTERPRO:IPR011527	ATPase	UNEXPECTED
+function_tag	INTERPRO:IPR011527	channel	UNEXPECTED
+function_tag	INTERPRO:IPR011527	membrane-anchor	UNEXPECTED
+function_tag	INTERPRO:IPR011527	transporter	UNEXPECTED
+function_tag	INTERPRO:IPR011598	PPI	UNEXPECTED
+function_tag	INTERPRO:IPR011598	dimerization	UNEXPECTED
+function_tag	INTERPRO:IPR012943	scaffold	UNEXPECTED
+function_tag	INTERPRO:IPR013087	Binding	UNEXPECTED
+function_tag	INTERPRO:IPR013087	metal-binding	UNEXPECTED
+function_tag	INTERPRO:IPR013087	structural	UNEXPECTED
+function_tag	INTERPRO:IPR013621	channel	UNEXPECTED
+function_tag	INTERPRO:IPR013621	transporter	UNEXPECTED
+function_tag	INTERPRO:IPR013662	channel	UNEXPECTED
+function_tag	INTERPRO:IPR013662	regulator	UNEXPECTED
+function_tag	INTERPRO:IPR013662	scaffold	UNEXPECTED
+function_tag	INTERPRO:IPR013767	scaffold	UNEXPECTED
+function_tag	INTERPRO:IPR013767	sensor	UNEXPECTED
+function_tag	INTERPRO:IPR014744	coactivator	UNEXPECTED
+function_tag	INTERPRO:IPR014744	scaffold	UNEXPECTED
+function_tag	INTERPRO:IPR014821	channel	UNEXPECTED
+function_tag	INTERPRO:IPR014821	regulator	UNEXPECTED
+function_tag	INTERPRO:IPR014821	scaffold	UNEXPECTED
+function_tag	INTERPRO:IPR014873	regulator	UNEXPECTED
+function_tag	INTERPRO:IPR014920	coactivator	UNEXPECTED
+function_tag	INTERPRO:IPR014920	scaffold	UNEXPECTED
+function_tag	INTERPRO:IPR014935	PPI	UNEXPECTED
+function_tag	INTERPRO:IPR014935	coactivator	UNEXPECTED
+function_tag	INTERPRO:IPR015008	Binding	UNEXPECTED
+function_tag	INTERPRO:IPR015008	regulator	UNEXPECTED
+function_tag	INTERPRO:IPR015359	metal-binding	UNEXPECTED
+function_tag	INTERPRO:IPR015359	sensor	UNEXPECTED
+function_tag	INTERPRO:IPR016093	channel	UNEXPECTED
+function_tag	INTERPRO:IPR016093	regulator	UNEXPECTED
+function_tag	INTERPRO:IPR016093	scaffold	UNEXPECTED
+function_tag	INTERPRO:IPR016137	GAP	UNEXPECTED
+function_tag	INTERPRO:IPR016137	regulator	UNEXPECTED
+function_tag	INTERPRO:IPR017452	membrane-anchor	UNEXPECTED
+function_tag	INTERPRO:IPR017452	receptor	UNEXPECTED
+function_tag	INTERPRO:IPR017452	signal-transducer	UNEXPECTED
+function_tag	INTERPRO:IPR017892	Binding	UNEXPECTED
+function_tag	INTERPRO:IPR017892	catalytic	UNEXPECTED
+function_tag	INTERPRO:IPR017978	membrane-anchor	UNEXPECTED
+function_tag	INTERPRO:IPR017978	receptor	UNEXPECTED
+function_tag	INTERPRO:IPR017978	signal-transducer	UNEXPECTED
+function_tag	INTERPRO:IPR017981	membrane-anchor	UNEXPECTED
+function_tag	INTERPRO:IPR017981	receptor	UNEXPECTED
+function_tag	INTERPRO:IPR017981	signal-transducer	UNEXPECTED
+function_tag	INTERPRO:IPR020454	Binding	UNEXPECTED
+function_tag	INTERPRO:IPR020454	membrane-targeting	UNEXPECTED
+function_tag	INTERPRO:IPR020454	regulator	UNEXPECTED
+function_tag	INTERPRO:IPR022141	regulator	UNEXPECTED
+function_tag	INTERPRO:IPR022141	transporter	UNEXPECTED
+function_tag	INTERPRO:IPR022613	regulator	UNEXPECTED
+function_tag	INTERPRO:IPR025202	catalytic	UNEXPECTED
+function_tag	INTERPRO:IPR025837	ATPase	UNEXPECTED
+function_tag	INTERPRO:IPR025837	transporter	UNEXPECTED
+function_tag	INTERPRO:IPR028398	Binding	UNEXPECTED
+function_tag	INTERPRO:IPR028398	regulator	UNEXPECTED
+function_tag	INTERPRO:IPR029878	Binding	UNEXPECTED
+function_tag	INTERPRO:IPR029878	regulator	UNEXPECTED
+function_tag	INTERPRO:IPR030240	membrane-anchor	UNEXPECTED
+function_tag	INTERPRO:IPR030240	transporter	UNEXPECTED
+function_tag	INTERPRO:IPR031162	chromatin-binding	UNEXPECTED
+function_tag	INTERPRO:IPR031162	reader	UNEXPECTED
+function_tag	INTERPRO:IPR031649	regulator	UNEXPECTED
+function_tag	INTERPRO:IPR031675	catalytic-support	UNEXPECTED
+function_tag	INTERPRO:IPR031675	scaffold	UNEXPECTED
+function_tag	INTERPRO:IPR031688	regulator	UNEXPECTED
+function_tag	INTERPRO:IPR032406	regulator	UNEXPECTED
+function_tag	INTERPRO:IPR032486	regulator	UNEXPECTED
+function_tag	INTERPRO:IPR032498	PPI	UNEXPECTED
+function_tag	INTERPRO:IPR032498	adaptor	UNEXPECTED
+function_tag	INTERPRO:IPR032565	coactivator	UNEXPECTED
+function_tag	INTERPRO:IPR032565	scaffold	UNEXPECTED
+function_tag	INTERPRO:IPR032628	membrane-anchor	UNEXPECTED
+function_tag	INTERPRO:IPR033923	Binding	UNEXPECTED
+function_tag	INTERPRO:IPR033923	regulator	UNEXPECTED
+function_tag	INTERPRO:IPR034663	Binding	UNEXPECTED
+function_tag	INTERPRO:IPR034663	catalytic	UNEXPECTED
+function_tag	INTERPRO:IPR034675	Binding	UNEXPECTED
+function_tag	INTERPRO:IPR034675	catalytic	UNEXPECTED
+function_tag	INTERPRO:IPR034743	regulator	UNEXPECTED
+function_tag	INTERPRO:IPR034744	regulator	UNEXPECTED
+function_tag	INTERPRO:IPR035020	PPI	UNEXPECTED
+function_tag	INTERPRO:IPR035020	adaptor	UNEXPECTED
+function_tag	INTERPRO:IPR035022	PPI	UNEXPECTED
+function_tag	INTERPRO:IPR035022	adaptor	UNEXPECTED
+function_tag	INTERPRO:IPR035586	PPI	UNEXPECTED
+function_tag	INTERPRO:IPR035586	adaptor	UNEXPECTED
+function_tag	INTERPRO:IPR035591	PPI	UNEXPECTED
+function_tag	INTERPRO:IPR035591	adaptor	UNEXPECTED
+function_tag	INTERPRO:IPR035637	PPI	UNEXPECTED
+function_tag	INTERPRO:IPR035637	adaptor	UNEXPECTED
+function_tag	INTERPRO:IPR035638	PPI	UNEXPECTED
+function_tag	INTERPRO:IPR035638	adaptor	UNEXPECTED
+function_tag	INTERPRO:IPR035729	PPI	UNEXPECTED
+function_tag	INTERPRO:IPR035729	adaptor	UNEXPECTED
+function_tag	INTERPRO:IPR035730	PPI	UNEXPECTED
+function_tag	INTERPRO:IPR035730	adaptor	UNEXPECTED
+function_tag	INTERPRO:IPR035732	PPI	UNEXPECTED
+function_tag	INTERPRO:IPR035732	adaptor	UNEXPECTED
+function_tag	INTERPRO:IPR035733	PPI	UNEXPECTED
+function_tag	INTERPRO:IPR035733	adaptor	UNEXPECTED
+function_tag	INTERPRO:IPR035734	PPI	UNEXPECTED
+function_tag	INTERPRO:IPR035734	adaptor	UNEXPECTED
+function_tag	INTERPRO:IPR035761	PPI	UNEXPECTED
+function_tag	INTERPRO:IPR035761	scaffold	UNEXPECTED
+function_tag	INTERPRO:IPR035762	channel	UNEXPECTED
+function_tag	INTERPRO:IPR035762	regulator	UNEXPECTED
+function_tag	INTERPRO:IPR035762	scaffold	UNEXPECTED
+function_tag	INTERPRO:IPR035764	PPI	UNEXPECTED
+function_tag	INTERPRO:IPR035764	scaffold	UNEXPECTED
+function_tag	INTERPRO:IPR035879	PPI	UNEXPECTED
+function_tag	INTERPRO:IPR035879	adaptor	UNEXPECTED
+function_tag	INTERPRO:IPR035880	PPI	UNEXPECTED
+function_tag	INTERPRO:IPR035880	adaptor	UNEXPECTED
+function_tag	INTERPRO:IPR035881	PPI	UNEXPECTED
+function_tag	INTERPRO:IPR035881	adaptor	UNEXPECTED
+function_tag	INTERPRO:IPR037310	Binding	UNEXPECTED
+function_tag	INTERPRO:IPR037310	regulator	UNEXPECTED
+function_tag	INTERPRO:IPR037311	Binding	UNEXPECTED
+function_tag	INTERPRO:IPR037311	catalytic	UNEXPECTED
+function_tag	INTERPRO:IPR037313	Binding	UNEXPECTED
+function_tag	INTERPRO:IPR037313	regulator	UNEXPECTED
+function_tag	INTERPRO:IPR037317	Binding	UNEXPECTED
+function_tag	INTERPRO:IPR037317	catalytic	UNEXPECTED
+function_tag	INTERPRO:IPR037702	Binding	UNEXPECTED
+function_tag	INTERPRO:IPR037702	catalytic	UNEXPECTED
+function_tag	INTERPRO:IPR037703	Binding	UNEXPECTED
+function_tag	INTERPRO:IPR037703	catalytic	UNEXPECTED
+function_tag	INTERPRO:IPR037704	Binding	UNEXPECTED
+function_tag	INTERPRO:IPR037704	catalytic	UNEXPECTED
+function_tag	INTERPRO:IPR037784	Binding	UNEXPECTED
+function_tag	INTERPRO:IPR037784	membrane-targeting	UNEXPECTED
+function_tag	INTERPRO:IPR037784	regulator	UNEXPECTED
+function_tag	INTERPRO:IPR037832	Binding	UNEXPECTED
+function_tag	INTERPRO:IPR037832	adaptor	UNEXPECTED
+function_tag	INTERPRO:IPR037832	membrane-targeting	UNEXPECTED
+function_tag	INTERPRO:IPR039026	Binding	UNEXPECTED
+function_tag	INTERPRO:IPR039026	adaptor	UNEXPECTED
+function_tag	INTERPRO:IPR039026	membrane-targeting	UNEXPECTED
+function_tag	INTERPRO:IPR040557	ligand	UNEXPECTED
+function_tag	INTERPRO:IPR040557	receptor-binding	UNEXPECTED
+function_tag	INTERPRO:IPR040844	regulator	UNEXPECTED
+function_tag	INTERPRO:IPR041689	dimerization	UNEXPECTED
+function_tag	INTERPRO:IPR041689	scaffold	UNEXPECTED
+function_tag	INTERPRO:IPR044124	PPI	UNEXPECTED
+function_tag	INTERPRO:IPR044124	adaptor	UNEXPECTED
+function_tag	INTERPRO:IPR044492	ATPase	UNEXPECTED
+function_tag	INTERPRO:IPR044492	catalytic	UNEXPECTED
+function_tag	INTERPRO:IPR046973	catalytic	UNEXPECTED
+function_tag	INTERPRO:IPR046974	sensor	UNEXPECTED
+function_tag	INTERPRO:IPR047015	PPI	UNEXPECTED
+function_tag	INTERPRO:IPR047015	adaptor	UNEXPECTED
+function_tag	INTERPRO:IPR047035	membrane-anchor	UNEXPECTED
+function_tag	INTERPRO:IPR047035	receptor	UNEXPECTED
+function_tag	INTERPRO:IPR047035	signal-transducer	UNEXPECTED
+function_tag	INTERPRO:IPR047082	membrane-anchor	UNEXPECTED
+function_tag	INTERPRO:IPR047082	transporter	UNEXPECTED
+function_tag	INTERPRO:IPR047083	ATPase	UNEXPECTED
+function_tag	INTERPRO:IPR047083	transporter	UNEXPECTED
+function_tag	INTERPRO:IPR048581	channel	UNEXPECTED
+function_tag	INTERPRO:IPR048581	regulator	UNEXPECTED
+function_tag	INTERPRO:IPR048581	scaffold	UNEXPECTED
+function_tag	INTERPRO:IPR055251	Binding	UNEXPECTED
+function_tag	INTERPRO:IPR055251	adaptor	UNEXPECTED
+function_tag	INTERPRO:IPR055251	membrane-targeting	UNEXPECTED
+function_tag	INTERPRO:IPR055272	cyclic-nucleotide-sensor	UNEXPECTED
+function_tag	INTERPRO:IPR055272	regulator	UNEXPECTED
+function_tag	INTERPRO:IPR056177	Binding	UNEXPECTED
+function_tag	INTERPRO:IPR056177	regulator	UNEXPECTED
+function_tag	INTERPRO:IPR056178	Binding	UNEXPECTED
+function_tag	INTERPRO:IPR056178	regulator	UNEXPECTED
+function_tag	INTERPRO:IPR056193	PPI	UNEXPECTED
+function_tag	INTERPRO:IPR056193	coactivator	UNEXPECTED
+function_tag	INTERPRO:IPR056193	scaffold	UNEXPECTED
+function_tag	INTERPRO:IPR056194	PPI	UNEXPECTED
+function_tag	INTERPRO:IPR056194	coactivator	UNEXPECTED
+function_tag	INTERPRO:IPR056194	scaffold	UNEXPECTED
+function_tag	INTERPRO:IPR056273	oligomerization	UNEXPECTED
+function_tag	INTERPRO:IPR056273	scaffold	UNEXPECTED
+function_tag	INTERPRO:IPR056484	PPI	UNEXPECTED
+function_tag	INTERPRO:IPR056484	scaffold	UNEXPECTED
+function_tag	INTERPRO:IPR057529	Binding	UNEXPECTED
+function_tag	INTERPRO:IPR057529	adaptor	UNEXPECTED
+function_tag	INTERPRO:IPR057529	membrane-targeting	UNEXPECTED
+function_tag	INTERPRO:IPR059000	ATPase	UNEXPECTED
+function_tag	INTERPRO:IPR059000	catalytic	UNEXPECTED
+function_tag	INTERPRO:IPR060527	scaffold	UNEXPECTED
+positional_category	INTERPRO:IPR000008	Cterminal	UNEXPECTED
+positional_category	INTERPRO:IPR000008	Internal	UNEXPECTED
+positional_category	INTERPRO:IPR000014	Nterminal	UNEXPECTED
+positional_category	INTERPRO:IPR000095	Nterminal	UNEXPECTED
+positional_category	INTERPRO:IPR000159	Cterminal	UNEXPECTED
+positional_category	INTERPRO:IPR000187	Cterminal	UNEXPECTED
+positional_category	INTERPRO:IPR000197	Internal	UNEXPECTED
+positional_category	INTERPRO:IPR000197	Nterminal	UNEXPECTED
+positional_category	INTERPRO:IPR000198	Nterminal	UNEXPECTED
+positional_category	INTERPRO:IPR000219	Internal	UNEXPECTED
+positional_category	INTERPRO:IPR000341	Nterminal	UNEXPECTED
+positional_category	INTERPRO:IPR000403	Cterminal	UNEXPECTED
+positional_category	INTERPRO:IPR000433	Internal	UNEXPECTED
+positional_category	INTERPRO:IPR000532	Cterminal	UNEXPECTED
+positional_category	INTERPRO:IPR000532	Internal	UNEXPECTED
+positional_category	INTERPRO:IPR000591	Internal	UNEXPECTED
+positional_category	INTERPRO:IPR000591	Nterminal	UNEXPECTED
+positional_category	INTERPRO:IPR000595	Cterminal	UNEXPECTED
+positional_category	INTERPRO:IPR000595	Internal	UNEXPECTED
+positional_category	INTERPRO:IPR000595	Nterminal	UNEXPECTED
+positional_category	INTERPRO:IPR000651	Internal	UNEXPECTED
+positional_category	INTERPRO:IPR000699	Internal	UNEXPECTED
+positional_category	INTERPRO:IPR000699	Nterminal	UNEXPECTED
+positional_category	INTERPRO:IPR000719	Cterminal	UNEXPECTED
+positional_category	INTERPRO:IPR000719	Nterminal	UNEXPECTED
+positional_category	INTERPRO:IPR000909	Internal	UNEXPECTED
+positional_category	INTERPRO:IPR000961	Cterminal	UNEXPECTED
+positional_category	INTERPRO:IPR000961	Internal	UNEXPECTED
+positional_category	INTERPRO:IPR000980	Cterminal	UNEXPECTED
+positional_category	INTERPRO:IPR000980	Internal	UNEXPECTED
+positional_category	INTERPRO:IPR001054	Cterminal	UNEXPECTED
+positional_category	INTERPRO:IPR001054	Internal	UNEXPECTED
+positional_category	INTERPRO:IPR001054	Nterminal	UNEXPECTED
+positional_category	INTERPRO:IPR001245	Cterminal	UNEXPECTED
+positional_category	INTERPRO:IPR001263	Internal	UNEXPECTED
+positional_category	INTERPRO:IPR001452	Cterminal	UNEXPECTED
+positional_category	INTERPRO:IPR001452	Internal	UNEXPECTED
+positional_category	INTERPRO:IPR001452	Nterminal	UNEXPECTED
+positional_category	INTERPRO:IPR001487	Internal	UNEXPECTED
+positional_category	INTERPRO:IPR001683	Nterminal	UNEXPECTED
+positional_category	INTERPRO:IPR001711	Cterminal	UNEXPECTED
+positional_category	INTERPRO:IPR001715	Nterminal	UNEXPECTED
+positional_category	INTERPRO:IPR001736	Cterminal	UNEXPECTED
+positional_category	INTERPRO:IPR001736	Internal	UNEXPECTED
+positional_category	INTERPRO:IPR001828	Nterminal	UNEXPECTED
+positional_category	INTERPRO:IPR001849	Cterminal	UNEXPECTED
+positional_category	INTERPRO:IPR001849	Internal	UNEXPECTED
+positional_category	INTERPRO:IPR001849	Nterminal	UNEXPECTED
+positional_category	INTERPRO:IPR001870	Internal	UNEXPECTED
+positional_category	INTERPRO:IPR001870	Nterminal	UNEXPECTED
+positional_category	INTERPRO:IPR001879	Nterminal	UNEXPECTED
+positional_category	INTERPRO:IPR001895	Cterminal	UNEXPECTED
+positional_category	INTERPRO:IPR001895	Internal	UNEXPECTED
+positional_category	INTERPRO:IPR001928	Internal	UNEXPECTED
+positional_category	INTERPRO:IPR002048	Cterminal	UNEXPECTED
+positional_category	INTERPRO:IPR002048	Nterminal	UNEXPECTED
+positional_category	INTERPRO:IPR002072	Cterminal	UNEXPECTED
+positional_category	INTERPRO:IPR002073	Cterminal	UNEXPECTED
+positional_category	INTERPRO:IPR002073	Internal	UNEXPECTED
+positional_category	INTERPRO:IPR002219	Cterminal	UNEXPECTED
+positional_category	INTERPRO:IPR002219	Internal	UNEXPECTED
+positional_category	INTERPRO:IPR002219	Nterminal	UNEXPECTED
+positional_category	INTERPRO:IPR002420	Internal	UNEXPECTED
+positional_category	INTERPRO:IPR003018	Internal	UNEXPECTED
+positional_category	INTERPRO:IPR003032	Internal	UNEXPECTED
+positional_category	INTERPRO:IPR003032	Nterminal	UNEXPECTED
+positional_category	INTERPRO:IPR003101	Internal	UNEXPECTED
+positional_category	INTERPRO:IPR003102	Internal	UNEXPECTED
+positional_category	INTERPRO:IPR003113	Nterminal	UNEXPECTED
+positional_category	INTERPRO:IPR003116	Nterminal	UNEXPECTED
+positional_category	INTERPRO:IPR003439	Cterminal	UNEXPECTED
+positional_category	INTERPRO:IPR003439	Internal	UNEXPECTED
+positional_category	INTERPRO:IPR003593	Cterminal	UNEXPECTED
+positional_category	INTERPRO:IPR003593	Internal	UNEXPECTED
+positional_category	INTERPRO:IPR003607	Cterminal	UNEXPECTED
+positional_category	INTERPRO:IPR003607	Internal	UNEXPECTED
+positional_category	INTERPRO:IPR003877	Internal	UNEXPECTED
+positional_category	INTERPRO:IPR003877	Nterminal	UNEXPECTED
+positional_category	INTERPRO:IPR004014	Nterminal	UNEXPECTED
+positional_category	INTERPRO:IPR004827	Cterminal	UNEXPECTED
+positional_category	INTERPRO:IPR004827	Internal	UNEXPECTED
+positional_category	INTERPRO:IPR004843	Nterminal	UNEXPECTED
+positional_category	INTERPRO:IPR005225	Nterminal	UNEXPECTED
+positional_category	INTERPRO:IPR005821	Cterminal	UNEXPECTED
+positional_category	INTERPRO:IPR005821	Internal	UNEXPECTED
+positional_category	INTERPRO:IPR005821	Nterminal	UNEXPECTED
+positional_category	INTERPRO:IPR006020	Cterminal	UNEXPECTED
+positional_category	INTERPRO:IPR006068	Cterminal	UNEXPECTED
+positional_category	INTERPRO:IPR006186	Nterminal	UNEXPECTED
+positional_category	INTERPRO:IPR006925	Internal	UNEXPECTED
+positional_category	INTERPRO:IPR009398	Internal	UNEXPECTED
+positional_category	INTERPRO:IPR009460	Cterminal	UNEXPECTED
+positional_category	INTERPRO:IPR010011	Cterminal	UNEXPECTED
+positional_category	INTERPRO:IPR010303	Internal	UNEXPECTED
+positional_category	INTERPRO:IPR010630	Internal	UNEXPECTED
+positional_category	INTERPRO:IPR011072	Internal	UNEXPECTED
+positional_category	INTERPRO:IPR011072	Nterminal	UNEXPECTED
+positional_category	INTERPRO:IPR011527	Internal	UNEXPECTED
+positional_category	INTERPRO:IPR011527	Nterminal	UNEXPECTED
+positional_category	INTERPRO:IPR011598	Nterminal	UNEXPECTED
+positional_category	INTERPRO:IPR012943	Nterminal	UNEXPECTED
+positional_category	INTERPRO:IPR013087	Nterminal	UNEXPECTED
+positional_category	INTERPRO:IPR013621	Nterminal	UNEXPECTED
+positional_category	INTERPRO:IPR013662	Internal	UNEXPECTED
+positional_category	INTERPRO:IPR013767	Nterminal	UNEXPECTED
+positional_category	INTERPRO:IPR014744	Cterminal	UNEXPECTED
+positional_category	INTERPRO:IPR014821	Nterminal	UNEXPECTED
+positional_category	INTERPRO:IPR014873	Cterminal	UNEXPECTED
+positional_category	INTERPRO:IPR014873	Internal	UNEXPECTED
+positional_category	INTERPRO:IPR014920	Internal	UNEXPECTED
+positional_category	INTERPRO:IPR014935	Internal	UNEXPECTED
+positional_category	INTERPRO:IPR015008	Internal	UNEXPECTED
+positional_category	INTERPRO:IPR015359	Internal	UNEXPECTED
+positional_category	INTERPRO:IPR016093	Nterminal	UNEXPECTED
+positional_category	INTERPRO:IPR016137	Cterminal	UNEXPECTED
+positional_category	INTERPRO:IPR017452	Cterminal	UNEXPECTED
+positional_category	INTERPRO:IPR017452	Nterminal	UNEXPECTED
+positional_category	INTERPRO:IPR017892	Cterminal	UNEXPECTED
+positional_category	INTERPRO:IPR017978	Cterminal	UNEXPECTED
+positional_category	INTERPRO:IPR017981	Cterminal	UNEXPECTED
+positional_category	INTERPRO:IPR020454	Internal	UNEXPECTED
+positional_category	INTERPRO:IPR020454	Nterminal	UNEXPECTED
+positional_category	INTERPRO:IPR022141	Cterminal	UNEXPECTED
+positional_category	INTERPRO:IPR022613	Nterminal	UNEXPECTED
+positional_category	INTERPRO:IPR025202	Cterminal	UNEXPECTED
+positional_category	INTERPRO:IPR025837	Internal	UNEXPECTED
+positional_category	INTERPRO:IPR028398	Cterminal	UNEXPECTED
+positional_category	INTERPRO:IPR029878	Nterminal	UNEXPECTED
+positional_category	INTERPRO:IPR030240	Nterminal	UNEXPECTED
+positional_category	INTERPRO:IPR031162	Internal	UNEXPECTED
+positional_category	INTERPRO:IPR031649	Internal	UNEXPECTED
+positional_category	INTERPRO:IPR031675	Nterminal	UNEXPECTED
+positional_category	INTERPRO:IPR031688	Cterminal	UNEXPECTED
+positional_category	INTERPRO:IPR032406	Cterminal	UNEXPECTED
+positional_category	INTERPRO:IPR032486	Internal	UNEXPECTED
+positional_category	INTERPRO:IPR032498	Cterminal	UNEXPECTED
+positional_category	INTERPRO:IPR032565	Internal	UNEXPECTED
+positional_category	INTERPRO:IPR032628	Nterminal	UNEXPECTED
+positional_category	INTERPRO:IPR033923	Nterminal	UNEXPECTED
+positional_category	INTERPRO:IPR034663	Cterminal	UNEXPECTED
+positional_category	INTERPRO:IPR034675	Cterminal	UNEXPECTED
+positional_category	INTERPRO:IPR034743	Nterminal	UNEXPECTED
+positional_category	INTERPRO:IPR034744	Internal	UNEXPECTED
+positional_category	INTERPRO:IPR035020	Cterminal	UNEXPECTED
+positional_category	INTERPRO:IPR035022	Internal	UNEXPECTED
+positional_category	INTERPRO:IPR035586	Nterminal	UNEXPECTED
+positional_category	INTERPRO:IPR035591	Nterminal	UNEXPECTED
+positional_category	INTERPRO:IPR035637	Cterminal	UNEXPECTED
+positional_category	INTERPRO:IPR035638	Internal	UNEXPECTED
+positional_category	INTERPRO:IPR035729	Cterminal	UNEXPECTED
+positional_category	INTERPRO:IPR035730	Internal	UNEXPECTED
+positional_category	INTERPRO:IPR035732	Cterminal	UNEXPECTED
+positional_category	INTERPRO:IPR035733	Internal	UNEXPECTED
+positional_category	INTERPRO:IPR035734	Cterminal	UNEXPECTED
+positional_category	INTERPRO:IPR035761	Nterminal	UNEXPECTED
+positional_category	INTERPRO:IPR035762	Internal	UNEXPECTED
+positional_category	INTERPRO:IPR035764	Internal	UNEXPECTED
+positional_category	INTERPRO:IPR035879	Cterminal	UNEXPECTED
+positional_category	INTERPRO:IPR035880	Cterminal	UNEXPECTED
+positional_category	INTERPRO:IPR035881	Cterminal	UNEXPECTED
+positional_category	INTERPRO:IPR037310	Internal	UNEXPECTED
+positional_category	INTERPRO:IPR037311	Internal	UNEXPECTED
+positional_category	INTERPRO:IPR037313	Nterminal	UNEXPECTED
+positional_category	INTERPRO:IPR037317	Nterminal	UNEXPECTED
+positional_category	INTERPRO:IPR037702	Cterminal	UNEXPECTED
+positional_category	INTERPRO:IPR037703	Cterminal	UNEXPECTED
+positional_category	INTERPRO:IPR037704	Cterminal	UNEXPECTED
+positional_category	INTERPRO:IPR037784	Internal	UNEXPECTED
+positional_category	INTERPRO:IPR037832	Internal	UNEXPECTED
+positional_category	INTERPRO:IPR039026	Nterminal	UNEXPECTED
+positional_category	INTERPRO:IPR040557	Nterminal	UNEXPECTED
+positional_category	INTERPRO:IPR040844	Internal	UNEXPECTED
+positional_category	INTERPRO:IPR041689	Cterminal	UNEXPECTED
+positional_category	INTERPRO:IPR044124	Cterminal	UNEXPECTED
+positional_category	INTERPRO:IPR044492	Internal	UNEXPECTED
+positional_category	INTERPRO:IPR046973	Internal	UNEXPECTED
+positional_category	INTERPRO:IPR046974	Internal	UNEXPECTED
+positional_category	INTERPRO:IPR047015	Internal	UNEXPECTED
+positional_category	INTERPRO:IPR047035	Cterminal	UNEXPECTED
+positional_category	INTERPRO:IPR047082	Internal	UNEXPECTED
+positional_category	INTERPRO:IPR047083	Internal	UNEXPECTED
+positional_category	INTERPRO:IPR048581	Internal	UNEXPECTED
+positional_category	INTERPRO:IPR055251	Internal	UNEXPECTED
+positional_category	INTERPRO:IPR055272	Nterminal	UNEXPECTED
+positional_category	INTERPRO:IPR056177	Nterminal	UNEXPECTED
+positional_category	INTERPRO:IPR056178	Cterminal	UNEXPECTED
+positional_category	INTERPRO:IPR056193	Nterminal	UNEXPECTED
+positional_category	INTERPRO:IPR056194	Nterminal	UNEXPECTED
+positional_category	INTERPRO:IPR056273	Internal	UNEXPECTED
+positional_category	INTERPRO:IPR056484	Internal	UNEXPECTED
+positional_category	INTERPRO:IPR057529	Cterminal	UNEXPECTED
+positional_category	INTERPRO:IPR059000	Nterminal	UNEXPECTED
+positional_category	INTERPRO:IPR060527	Cterminal	UNEXPECTED
+proximity_categories	INTERPRO:IPR000008	NearActiveSiteRegion	UNEXPECTED
+proximity_categories	INTERPRO:IPR000197	NearActiveSiteRegion	UNEXPECTED
+proximity_categories	INTERPRO:IPR000433	NearActiveSiteRegion	UNEXPECTED
+proximity_categories	INTERPRO:IPR000595	NearActiveSiteRegion	UNEXPECTED
+proximity_categories	INTERPRO:IPR000719	NearActiveSiteRegion	UNEXPECTED
+proximity_categories	INTERPRO:IPR000909	NearActiveSiteRegion	UNEXPECTED
+proximity_categories	INTERPRO:IPR001054	NearActiveSiteRegion	UNEXPECTED
+proximity_categories	INTERPRO:IPR001054	NearTransmembraneHelix	UNEXPECTED
+proximity_categories	INTERPRO:IPR001245	NearActiveSiteRegion	UNEXPECTED
+proximity_categories	INTERPRO:IPR001879	NearSignalPeptideCleavage	UNEXPECTED
+proximity_categories	INTERPRO:IPR001879	NearTransmembraneHelix	UNEXPECTED
+proximity_categories	INTERPRO:IPR002048	NearActiveSiteRegion	UNEXPECTED
+proximity_categories	INTERPRO:IPR002073	NearActiveSiteRegion	UNEXPECTED
+proximity_categories	INTERPRO:IPR002219	NearActiveSiteRegion	UNEXPECTED
+proximity_categories	INTERPRO:IPR003018	NearActiveSiteRegion	UNEXPECTED
+proximity_categories	INTERPRO:IPR003116	NearActiveSiteRegion	UNEXPECTED
+proximity_categories	INTERPRO:IPR003439	NearActiveSiteRegion	UNEXPECTED
+proximity_categories	INTERPRO:IPR003439	NearTransmembraneHelix	UNEXPECTED
+proximity_categories	INTERPRO:IPR003593	NearActiveSiteRegion	UNEXPECTED
+proximity_categories	INTERPRO:IPR003607	NearActiveSiteRegion	UNEXPECTED
+proximity_categories	INTERPRO:IPR004014	NearTransmembraneHelix	UNEXPECTED
+proximity_categories	INTERPRO:IPR004827	NearTransmembraneHelix	UNEXPECTED
+proximity_categories	INTERPRO:IPR004843	NearActiveSiteRegion	UNEXPECTED
+proximity_categories	INTERPRO:IPR005225	NearActiveSiteRegion	UNEXPECTED
+proximity_categories	INTERPRO:IPR005821	NearActiveSiteRegion	UNEXPECTED
+proximity_categories	INTERPRO:IPR005821	NearTransmembraneHelix	UNEXPECTED
+proximity_categories	INTERPRO:IPR006068	NearActiveSiteRegion	UNEXPECTED
+proximity_categories	INTERPRO:IPR006068	NearTransmembraneHelix	UNEXPECTED
+proximity_categories	INTERPRO:IPR006186	NearActiveSiteRegion	UNEXPECTED
+proximity_categories	INTERPRO:IPR009398	NearTransmembraneHelix	UNEXPECTED
+proximity_categories	INTERPRO:IPR009460	NearTransmembraneHelix	UNEXPECTED
+proximity_categories	INTERPRO:IPR011527	NearActiveSiteRegion	UNEXPECTED
+proximity_categories	INTERPRO:IPR011527	NearTransmembraneHelix	UNEXPECTED
+proximity_categories	INTERPRO:IPR013621	NearTransmembraneHelix	UNEXPECTED
+proximity_categories	INTERPRO:IPR017452	NearActiveSiteRegion	UNEXPECTED
+proximity_categories	INTERPRO:IPR017452	NearTransmembraneHelix	UNEXPECTED
+proximity_categories	INTERPRO:IPR017978	NearTransmembraneHelix	UNEXPECTED
+proximity_categories	INTERPRO:IPR017981	NearTransmembraneHelix	UNEXPECTED
+proximity_categories	INTERPRO:IPR020454	NearActiveSiteRegion	UNEXPECTED
+proximity_categories	INTERPRO:IPR025837	NearTransmembraneHelix	UNEXPECTED
+proximity_categories	INTERPRO:IPR029878	NearActiveSiteRegion	UNEXPECTED
+proximity_categories	INTERPRO:IPR030240	NearActiveSiteRegion	UNEXPECTED
+proximity_categories	INTERPRO:IPR030240	NearTransmembraneHelix	UNEXPECTED
+proximity_categories	INTERPRO:IPR031162	NearActiveSiteRegion	UNEXPECTED
+proximity_categories	INTERPRO:IPR031649	NearTransmembraneHelix	UNEXPECTED
+proximity_categories	INTERPRO:IPR031675	NearActiveSiteRegion	UNEXPECTED
+proximity_categories	INTERPRO:IPR032406	NearActiveSiteRegion	UNEXPECTED
+proximity_categories	INTERPRO:IPR032628	NearTransmembraneHelix	UNEXPECTED
+proximity_categories	INTERPRO:IPR034663	NearActiveSiteRegion	UNEXPECTED
+proximity_categories	INTERPRO:IPR034675	NearActiveSiteRegion	UNEXPECTED
+proximity_categories	INTERPRO:IPR040557	NearActiveSiteRegion	UNEXPECTED
+proximity_categories	INTERPRO:IPR044492	NearActiveSiteRegion	UNEXPECTED
+proximity_categories	INTERPRO:IPR044492	NearTransmembraneHelix	UNEXPECTED
+proximity_categories	INTERPRO:IPR046973	NearActiveSiteRegion	UNEXPECTED
+proximity_categories	INTERPRO:IPR047035	NearTransmembraneHelix	UNEXPECTED
+proximity_categories	INTERPRO:IPR047082	NearActiveSiteRegion	UNEXPECTED
+proximity_categories	INTERPRO:IPR047083	NearActiveSiteRegion	UNEXPECTED
+proximity_categories	INTERPRO:IPR047083	NearTransmembraneHelix	UNEXPECTED
+proximity_categories	INTERPRO:IPR055272	NearTransmembraneHelix	UNEXPECTED
+proximity_categories	INTERPRO:IPR059000	NearTransmembraneHelix	UNEXPECTED
+topology_context	INTERPRO:IPR000008	unknown	UNEXPECTED
+topology_context	INTERPRO:IPR000014	unknown	UNEXPECTED
+topology_context	INTERPRO:IPR000095	unknown	UNEXPECTED
+topology_context	INTERPRO:IPR000159	unknown	UNEXPECTED
+topology_context	INTERPRO:IPR000187	unknown	UNEXPECTED
+topology_context	INTERPRO:IPR000197	unknown	UNEXPECTED
+topology_context	INTERPRO:IPR000198	unknown	UNEXPECTED
+topology_context	INTERPRO:IPR000219	unknown	UNEXPECTED
+topology_context	INTERPRO:IPR000341	unknown	UNEXPECTED
+topology_context	INTERPRO:IPR000403	unknown	UNEXPECTED
+topology_context	INTERPRO:IPR000433	unknown	UNEXPECTED
+topology_context	INTERPRO:IPR000532	unknown	UNEXPECTED
+topology_context	INTERPRO:IPR000591	unknown	UNEXPECTED
+topology_context	INTERPRO:IPR000595	cytoplasmic	UNEXPECTED
+topology_context	INTERPRO:IPR000595	unknown	UNEXPECTED
+topology_context	INTERPRO:IPR000651	unknown	UNEXPECTED
+topology_context	INTERPRO:IPR000699	cytoplasmic	UNEXPECTED
+topology_context	INTERPRO:IPR000719	unknown	UNEXPECTED
+topology_context	INTERPRO:IPR000909	unknown	UNEXPECTED
+topology_context	INTERPRO:IPR000961	unknown	UNEXPECTED
+topology_context	INTERPRO:IPR000980	unknown	UNEXPECTED
+topology_context	INTERPRO:IPR001054	cytoplasmic	UNEXPECTED
+topology_context	INTERPRO:IPR001054	transmembrane	UNEXPECTED
+topology_context	INTERPRO:IPR001054	unknown	UNEXPECTED
+topology_context	INTERPRO:IPR001245	unknown	UNEXPECTED
+topology_context	INTERPRO:IPR001263	unknown	UNEXPECTED
+topology_context	INTERPRO:IPR001452	unknown	UNEXPECTED
+topology_context	INTERPRO:IPR001487	unknown	UNEXPECTED
+topology_context	INTERPRO:IPR001683	unknown	UNEXPECTED
+topology_context	INTERPRO:IPR001711	unknown	UNEXPECTED
+topology_context	INTERPRO:IPR001715	unknown	UNEXPECTED
+topology_context	INTERPRO:IPR001736	unknown	UNEXPECTED
+topology_context	INTERPRO:IPR001828	extracellular	UNEXPECTED
+topology_context	INTERPRO:IPR001849	unknown	UNEXPECTED
+topology_context	INTERPRO:IPR001870	cytoplasmic	UNEXPECTED
+topology_context	INTERPRO:IPR001879	extracellular	UNEXPECTED
+topology_context	INTERPRO:IPR001895	unknown	UNEXPECTED
+topology_context	INTERPRO:IPR001928	unknown	UNEXPECTED
+topology_context	INTERPRO:IPR002048	cytoplasmic	UNEXPECTED
+topology_context	INTERPRO:IPR002048	unknown	UNEXPECTED
+topology_context	INTERPRO:IPR002072	unknown	UNEXPECTED
+topology_context	INTERPRO:IPR002073	unknown	UNEXPECTED
+topology_context	INTERPRO:IPR002219	unknown	UNEXPECTED
+topology_context	INTERPRO:IPR002420	unknown	UNEXPECTED
+topology_context	INTERPRO:IPR003018	unknown	UNEXPECTED
+topology_context	INTERPRO:IPR003032	cytoplasmic	UNEXPECTED
+topology_context	INTERPRO:IPR003101	unknown	UNEXPECTED
+topology_context	INTERPRO:IPR003102	unknown	UNEXPECTED
+topology_context	INTERPRO:IPR003113	unknown	UNEXPECTED
+topology_context	INTERPRO:IPR003116	unknown	UNEXPECTED
+topology_context	INTERPRO:IPR003439	cytoplasmic	UNEXPECTED
+topology_context	INTERPRO:IPR003593	cytoplasmic	UNEXPECTED
+topology_context	INTERPRO:IPR003607	unknown	UNEXPECTED
+topology_context	INTERPRO:IPR003877	cytoplasmic	UNEXPECTED
+topology_context	INTERPRO:IPR004014	cytoplasmic	UNEXPECTED
+topology_context	INTERPRO:IPR004014	extracellular	UNEXPECTED
+topology_context	INTERPRO:IPR004014	luminal	UNEXPECTED
+topology_context	INTERPRO:IPR004014	transmembrane	UNEXPECTED
+topology_context	INTERPRO:IPR004827	cytoplasmic	UNEXPECTED
+topology_context	INTERPRO:IPR004827	unknown	UNEXPECTED
+topology_context	INTERPRO:IPR004843	unknown	UNEXPECTED
+topology_context	INTERPRO:IPR005225	unknown	UNEXPECTED
+topology_context	INTERPRO:IPR005821	cytoplasmic	UNEXPECTED
+topology_context	INTERPRO:IPR005821	extracellular	UNEXPECTED
+topology_context	INTERPRO:IPR005821	transmembrane	UNEXPECTED
+topology_context	INTERPRO:IPR006020	unknown	UNEXPECTED
+topology_context	INTERPRO:IPR006068	cytoplasmic	UNEXPECTED
+topology_context	INTERPRO:IPR006068	extracellular	UNEXPECTED
+topology_context	INTERPRO:IPR006068	luminal	UNEXPECTED
+topology_context	INTERPRO:IPR006068	transmembrane	UNEXPECTED
+topology_context	INTERPRO:IPR006186	unknown	UNEXPECTED
+topology_context	INTERPRO:IPR006925	unknown	UNEXPECTED
+topology_context	INTERPRO:IPR009398	cytoplasmic	UNEXPECTED
+topology_context	INTERPRO:IPR009460	transmembrane	UNEXPECTED
+topology_context	INTERPRO:IPR010011	unknown	UNEXPECTED
+topology_context	INTERPRO:IPR010303	unknown	UNEXPECTED
+topology_context	INTERPRO:IPR010630	unknown	UNEXPECTED
+topology_context	INTERPRO:IPR011072	unknown	UNEXPECTED
+topology_context	INTERPRO:IPR011527	cytoplasmic	UNEXPECTED
+topology_context	INTERPRO:IPR011527	extracellular	UNEXPECTED
+topology_context	INTERPRO:IPR011527	transmembrane	UNEXPECTED
+topology_context	INTERPRO:IPR011598	unknown	UNEXPECTED
+topology_context	INTERPRO:IPR012943	unknown	UNEXPECTED
+topology_context	INTERPRO:IPR013087	unknown	UNEXPECTED
+topology_context	INTERPRO:IPR013621	cytoplasmic	UNEXPECTED
+topology_context	INTERPRO:IPR013662	cytoplasmic	UNEXPECTED
+topology_context	INTERPRO:IPR013767	unknown	UNEXPECTED
+topology_context	INTERPRO:IPR014744	unknown	UNEXPECTED
+topology_context	INTERPRO:IPR014821	cytoplasmic	UNEXPECTED
+topology_context	INTERPRO:IPR014873	cytoplasmic	UNEXPECTED
+topology_context	INTERPRO:IPR014920	unknown	UNEXPECTED
+topology_context	INTERPRO:IPR014935	unknown	UNEXPECTED
+topology_context	INTERPRO:IPR015008	unknown	UNEXPECTED
+topology_context	INTERPRO:IPR015359	unknown	UNEXPECTED
+topology_context	INTERPRO:IPR016093	cytoplasmic	UNEXPECTED
+topology_context	INTERPRO:IPR016137	unknown	UNEXPECTED
+topology_context	INTERPRO:IPR017452	cytoplasmic	UNEXPECTED
+topology_context	INTERPRO:IPR017452	extracellular	UNEXPECTED
+topology_context	INTERPRO:IPR017452	transmembrane	UNEXPECTED
+topology_context	INTERPRO:IPR017892	unknown	UNEXPECTED
+topology_context	INTERPRO:IPR017978	cytoplasmic	UNEXPECTED
+topology_context	INTERPRO:IPR017978	extracellular	UNEXPECTED
+topology_context	INTERPRO:IPR017978	transmembrane	UNEXPECTED
+topology_context	INTERPRO:IPR017981	cytoplasmic	UNEXPECTED
+topology_context	INTERPRO:IPR017981	extracellular	UNEXPECTED
+topology_context	INTERPRO:IPR017981	transmembrane	UNEXPECTED
+topology_context	INTERPRO:IPR020454	unknown	UNEXPECTED
+topology_context	INTERPRO:IPR022141	cytoplasmic	UNEXPECTED
+topology_context	INTERPRO:IPR022613	unknown	UNEXPECTED
+topology_context	INTERPRO:IPR025202	unknown	UNEXPECTED
+topology_context	INTERPRO:IPR025837	cytoplasmic	UNEXPECTED
+topology_context	INTERPRO:IPR028398	unknown	UNEXPECTED
+topology_context	INTERPRO:IPR029878	unknown	UNEXPECTED
+topology_context	INTERPRO:IPR030240	cytoplasmic	UNEXPECTED
+topology_context	INTERPRO:IPR030240	extracellular	UNEXPECTED
+topology_context	INTERPRO:IPR030240	transmembrane	UNEXPECTED
+topology_context	INTERPRO:IPR031162	unknown	UNEXPECTED
+topology_context	INTERPRO:IPR031649	cytoplasmic	UNEXPECTED
+topology_context	INTERPRO:IPR031675	unknown	UNEXPECTED
+topology_context	INTERPRO:IPR031688	cytoplasmic	UNEXPECTED
+topology_context	INTERPRO:IPR032406	cytoplasmic	UNEXPECTED
+topology_context	INTERPRO:IPR032486	unknown	UNEXPECTED
+topology_context	INTERPRO:IPR032498	unknown	UNEXPECTED
+topology_context	INTERPRO:IPR032565	unknown	UNEXPECTED
+topology_context	INTERPRO:IPR032628	cytoplasmic	UNEXPECTED
+topology_context	INTERPRO:IPR032628	transmembrane	UNEXPECTED
+topology_context	INTERPRO:IPR033923	unknown	UNEXPECTED
+topology_context	INTERPRO:IPR034663	unknown	UNEXPECTED
+topology_context	INTERPRO:IPR034675	unknown	UNEXPECTED
+topology_context	INTERPRO:IPR034743	unknown	UNEXPECTED
+topology_context	INTERPRO:IPR034744	unknown	UNEXPECTED
+topology_context	INTERPRO:IPR035020	unknown	UNEXPECTED
+topology_context	INTERPRO:IPR035022	unknown	UNEXPECTED
+topology_context	INTERPRO:IPR035586	unknown	UNEXPECTED
+topology_context	INTERPRO:IPR035591	unknown	UNEXPECTED
+topology_context	INTERPRO:IPR035637	unknown	UNEXPECTED
+topology_context	INTERPRO:IPR035638	unknown	UNEXPECTED
+topology_context	INTERPRO:IPR035729	unknown	UNEXPECTED
+topology_context	INTERPRO:IPR035730	unknown	UNEXPECTED
+topology_context	INTERPRO:IPR035732	unknown	UNEXPECTED
+topology_context	INTERPRO:IPR035733	unknown	UNEXPECTED
+topology_context	INTERPRO:IPR035734	unknown	UNEXPECTED
+topology_context	INTERPRO:IPR035761	cytoplasmic	UNEXPECTED
+topology_context	INTERPRO:IPR035762	cytoplasmic	UNEXPECTED
+topology_context	INTERPRO:IPR035764	cytoplasmic	UNEXPECTED
+topology_context	INTERPRO:IPR035879	unknown	UNEXPECTED
+topology_context	INTERPRO:IPR035880	unknown	UNEXPECTED
+topology_context	INTERPRO:IPR035881	unknown	UNEXPECTED
+topology_context	INTERPRO:IPR037310	unknown	UNEXPECTED
+topology_context	INTERPRO:IPR037311	unknown	UNEXPECTED
+topology_context	INTERPRO:IPR037313	unknown	UNEXPECTED
+topology_context	INTERPRO:IPR037317	unknown	UNEXPECTED
+topology_context	INTERPRO:IPR037702	unknown	UNEXPECTED
+topology_context	INTERPRO:IPR037703	unknown	UNEXPECTED
+topology_context	INTERPRO:IPR037704	unknown	UNEXPECTED
+topology_context	INTERPRO:IPR037784	unknown	UNEXPECTED
+topology_context	INTERPRO:IPR037832	unknown	UNEXPECTED
+topology_context	INTERPRO:IPR039026	unknown	UNEXPECTED
+topology_context	INTERPRO:IPR040557	unknown	UNEXPECTED
+topology_context	INTERPRO:IPR040844	unknown	UNEXPECTED
+topology_context	INTERPRO:IPR041689	cytoplasmic	UNEXPECTED
+topology_context	INTERPRO:IPR044124	unknown	UNEXPECTED
+topology_context	INTERPRO:IPR044492	cytoplasmic	UNEXPECTED
+topology_context	INTERPRO:IPR046973	unknown	UNEXPECTED
+topology_context	INTERPRO:IPR046974	unknown	UNEXPECTED
+topology_context	INTERPRO:IPR047015	unknown	UNEXPECTED
+topology_context	INTERPRO:IPR047035	cytoplasmic	UNEXPECTED
+topology_context	INTERPRO:IPR047035	extracellular	UNEXPECTED
+topology_context	INTERPRO:IPR047035	transmembrane	UNEXPECTED
+topology_context	INTERPRO:IPR047082	cytoplasmic	UNEXPECTED
+topology_context	INTERPRO:IPR047083	cytoplasmic	UNEXPECTED
+topology_context	INTERPRO:IPR047083	extracellular	UNEXPECTED
+topology_context	INTERPRO:IPR047083	transmembrane	UNEXPECTED
+topology_context	INTERPRO:IPR048581	cytoplasmic	UNEXPECTED
+topology_context	INTERPRO:IPR055251	unknown	UNEXPECTED
+topology_context	INTERPRO:IPR055272	cytoplasmic	UNEXPECTED
+topology_context	INTERPRO:IPR055272	extracellular	UNEXPECTED
+topology_context	INTERPRO:IPR055272	transmembrane	UNEXPECTED
+topology_context	INTERPRO:IPR056177	unknown	UNEXPECTED
+topology_context	INTERPRO:IPR056178	unknown	UNEXPECTED
+topology_context	INTERPRO:IPR056193	unknown	UNEXPECTED
+topology_context	INTERPRO:IPR056194	unknown	UNEXPECTED
+topology_context	INTERPRO:IPR056273	unknown	UNEXPECTED
+topology_context	INTERPRO:IPR056484	unknown	UNEXPECTED
+topology_context	INTERPRO:IPR057529	unknown	UNEXPECTED
+topology_context	INTERPRO:IPR059000	cytoplasmic	UNEXPECTED
+topology_context	INTERPRO:IPR060527	unknown	UNEXPECTED

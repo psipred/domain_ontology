@@ -1,0 +1,16 @@
+rule_id	name	description	status	n_violations
+R001	positional_category_DOP	positional_category values must use DOP namespace or be a valid positional_or_topology_term	PASS	0
+R002	function_tag_DOF	function_tags values must use DOF namespace or be a valid functional_term	PASS	0
+R003	binding_target_DOT	binding_parnter values must use DOT namespace or be a valid binding_target_term	PASS	0
+R004	topology_not_in_function	topology terms must not appear in function_tags	PASS	0
+R005	function_not_in_topology	function tags must not appear in topology_context	PASS	0
+R006	binding_not_in_function	binding-target terms must not appear in function_tags	PASS	0
+R007	one_protein_one_domain	each occurrence must have exactly one protein_accession and one domain_type_id	PASS	0
+R008	start_less_than_end	start position must be strictly less than end position	PASS	0
+R009	start_end_positive_integers	start and end must be positive integers (> 0)	PASS	0
+R010	blank_primary_keys	primary key columns must not be blank	PASS	0
+R011	duplicate_ids	primary key IDs must be unique within each table	PASS	0
+R012	invalid_namespace_prefixes	all IDs must use recognised namespace prefixes	PASS	0
+R013	copy_number_cv	copy_number_property must be in CopyNumberCategory (plain name, DOP:NNNNNN, or DOP:NNNNNN Name)	PASS	0
+R014	topology_context_cv	topology_context must be in positional_or_topology_term (plain name, DOP:NNNNNN, or DOP:NNNNNN Name)	PASS	0
+R015	proximity_categories_cv	proximity_categories must be in positional_or_topology_term (plain name, DOP:NNNNNN, or DOP:NNNNNN Name)	PASS	0
